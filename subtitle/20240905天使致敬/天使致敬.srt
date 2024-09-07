@@ -1,684 +1,600 @@
 1
-00:00:04,919 --> 00:00:05,082
-¡Voy!
-
-2
-00:00:06,795 --> 00:00:12,052
+00:00:06,795 --> 00:00:13,195
 Hoy estamos aquí para homenajear, para acompañar a este gran jugador.
 
-3
+2
 00:00:13,195 --> 00:00:17,682
 no en un adiós, no en un retiro, para acompañarlo a ese sitio.
 
-4
+3
 00:00:18,303 --> 00:00:24,180
 de privilegio que tienen pocos, de ídolo de la Selección Nacional Argentina.
 
-5
-00:00:25,372 --> 00:00:26,516
+4
+00:00:25,172 --> 00:00:26,516
 ¡Ángel Di María!
 
-6
-00:00:27,119 --> 00:00:27,560
+5
+00:00:27,119 --> 00:00:28,162
 ¡Ángel!
 
-7
+6
 00:00:28,162 --> 00:00:28,885
 ¡O simplemente...!
 
-8
+7
 00:00:30,030 --> 00:00:30,675
 ¡Fileo!
 
-9
+8
 00:00:30,978 --> 00:00:31,743
 ¡Eh, te balas!
 
-10
-00:00:51,368 --> 00:00:54,184
+9
+00:00:51,368 --> 00:00:55,509
 Querido papá, sé que nunca quisieron que llegues de día.
 
-11
+10
 00:00:56,047 --> 00:00:57,109
 Pero hoy llegó.
 
-12
-00:00:57,169 --> 00:00:59,414
+11
+00:00:57,744 --> 00:01:01,739
 Una carrera que duró más de 16 años ha llegado a su fin.
 
-13
+12
 00:01:02,280 --> 00:01:05,993
 Fueron muchas las críticas, pero siempre seguiste dándote la cabeza contra la pared
 
-14
-00:01:06,555 --> 00:01:07,902
+13
+00:01:06,555 --> 00:01:08,877
 Y después de tanto esfuerzo, se rompió.
 
-15
-00:01:07,922 --> 00:01:09,048
-¿A dónde ha sido romper la pared?
+14
+00:01:09,499 --> 00:01:10,625
+Algun dia se iba a romper la pared.
 
-16
+15
 00:01:10,877 --> 00:01:11,758
 Se rompió la pared.
 
+16
+00:01:11,778 --> 00:01:12,500
+Nombre y apellido?
+
 17
-00:01:11,778 --> 00:01:12,158
-No me le apellido.
+00:01:13,624 --> 00:01:15,300
+Hicha de qué cuadro ángel?
 
 18
-00:01:12,198 --> 00:01:12,679
-Ah, se fue el duro.
-
-19
-00:01:12,699 --> 00:01:13,400
-Piche, qué cuadro, ángel.
-
-20
 00:01:18,792 --> 00:01:23,806
 Pasaste por seis clubes y fueron muchos los años que sufriste por distintas razones.
 
-21
+19
 00:01:24,971 --> 00:01:27,648
 Pero el fútbol siempre da recompensa.
 
-22
+20
 00:01:31,169 --> 00:01:34,935
-Obtuviste tu mayor meta, la Copa del Mundo y muchos títulos más.
+Obtuviste tu mayor meta, la Copa del Mundo. y muchos títulos más.
 
-23
-00:01:36,518 --> 00:01:37,080
+21
+00:01:36,518 --> 00:01:38,680
 35 títulos.
 
-24
-00:01:37,180 --> 00:01:40,069
+22
+00:01:38,680 --> 00:01:42,344
 Sin duda hiciste un paso enorme en la selección.
 
+23
+00:01:42,858 --> 00:01:45,775
+como también en otros clubes y países. 
+
+24
+00:01:45,775 --> 00:01:47,847
+Y lugares que quedarán marcados por siempre
+
 25
-00:01:42,858 --> 00:01:47,847
-como también en otros clubes y países y lugar el que quedarán marcados por siempre
+00:01:48,687 --> 00:01:50,745
+Pero con tu magia, obvio.
 
 26
-00:01:48,687 --> 00:01:49,820
-Pero con tu magia, ojo vivo.
+00:01:51,325 --> 00:01:57,115
+Tengo miles de trofeos, pero como este no. como este no hay. 
 
 27
-00:01:52,483 --> 00:01:55,451
-Miles de trofeos, pero... ¿Cómo éste no?
-
-28
-00:01:56,232 --> 00:01:57,115
-¿Cómo éste no hay?
-
-29
-00:01:57,135 --> 00:01:59,200
+00:01:57,135 --> 00:01:59,550
 Creo que éste era lo único que quería.
 
-30
+28
 00:02:00,505 --> 00:02:04,922
 Entre lágrimas y dolor te despedimos con un amor y un cariño enorme.
 
-31
+29
 00:02:05,464 --> 00:02:08,497
 ¿Qué más se puede decir de un hombre que dio su vida por una camiseta?
 
-32
-00:02:09,019 --> 00:02:12,864
+30
+00:02:09,019 --> 00:02:13,264
 Sí que para muchos no fuiste el héroe o mucho menos un dios en la selección.
 
-33
-00:02:13,546 --> 00:02:18,255
+31
+00:02:13,546 --> 00:02:18,505
 Pero en mi corazón siempre vas a ser el mejor padre y jugador del mundo.
 
-34
+32
 00:02:20,477 --> 00:02:25,339
 Me alegro muchísimo que hayas podido disfrutar tu carrera como lo merecés y siempre quisiste.
 
-35
+33
 00:02:25,800 --> 00:02:30,647
 Me acuerdo esas noches que venías a entrenar y con ansias me contabas todo lo que te había pasado.
 
-36
-00:02:31,227 --> 00:02:36,015
+34
+00:02:31,227 --> 00:02:36,365
 Estoy segura que tu carrera va a marcar algo muy importante en el futuro.
 
+35
+00:02:37,967 --> 00:02:46,450
+Muchos te van a recordar por tu trabajo, pero yo te voy a recordar como ese nene que jugaba en la calle a la playa. con una roca, 
+
+36
+00:02:46,450 --> 00:02:51,496
+ al cual años después ganaba la Copa del Mundo con sus compañeros.
+
 37
-00:02:37,967 --> 00:02:44,784
-Muchos te van a recordar por tu trabajo, pero yo te voy a recordar como ese nene que jugaba en la calle a la playa.
-
-38
-00:02:45,165 --> 00:02:51,496
-con una roca, al cual años después ganaba la Copa del Mundo con sus compañeros.
-
-39
-00:02:51,878 --> 00:02:55,156
+00:02:51,878 --> 00:02:55,806
 siendo uno de los mejores jugadores de la historia argentina.
 
-40
+38
 00:02:59,696 --> 00:03:02,830
 Gracias por ser el mejor padre y compañero del mundo para mí.
 
-41
+39
 00:03:03,875 --> 00:03:07,669
 Te prometo que te voy a acompañar siempre a todos lados por alentar por estos colores.
 
-42
+40
 00:03:08,231 --> 00:03:12,680
 Te escribía mucho más pero no me alcanzan las palabras para describir lo orgullosa que tiene vos.
 
-43
-00:03:13,622 --> 00:03:14,183
+41
+00:03:13,622 --> 00:03:14,858
 Te amo pa.
 
-44
-00:03:45,109 --> 00:03:48,573
+42
+00:03:44,709 --> 00:03:49,173
 por no poder estar en esa noche tan especial.
 
-45
+43
 00:03:49,956 --> 00:03:52,944
 para vos y bueno, sabes que estoy acá intentando de...
 
-46
+44
 00:03:53,946 --> 00:03:56,489
 de ponerme bien para ya volver.
 
-47
+45
 00:03:57,230 --> 00:03:59,412
 Quería estar presente aunque sea de...
 
-48
+46
 00:04:00,834 --> 00:04:04,041
 con este vídeo, de esta manera, desearte que
 
-49
+47
 00:04:04,823 --> 00:04:09,113
 de que disfrute mucho de esa noche, como ha ido haciendo durante todo este tiempo.
 
-50
+48
 00:04:09,855 --> 00:04:16,289
 en la selección, que disfrutaste ya tan especial junto a tu familia, a tus seres queridos, a toda la gente de...
 
-51
+49
 00:04:17,031 --> 00:04:20,756
 de Argentina que está haciendo este homenaje, este homenaje más que...
 
-52
+50
 00:04:21,618 --> 00:04:26,195
 Merecido que tenés por todo lo que nos diste, lo que hiciste.
 
-53
+51
 00:04:28,183 --> 00:04:33,512
 a nivel personal, ya no dijimos todo lo que teníamos para decirnos, tuvimos la suerte de...
 
-54
+52
 00:04:35,555 --> 00:04:40,382
 de compartir un año, estar todos los días juntos.
 
-55
+53
 00:04:41,083 --> 00:04:46,536
-de tomar mucho mate, mucha charla y bueno, ¿no?
+de tomar mucho mate, mucha charla 
 
-56
+54
 00:04:46,556 --> 00:04:47,338
-¿Quién no iba a decir que...
+Quién no iba a decir que...
 
-57
-00:04:48,401 --> 00:04:53,833
+55
+00:04:48,401 --> 00:04:54,508
 que iba a terminar todo de esta manera después de todo lo que lo que pasamos en la en la selección de todo
 
-58
+56
 00:04:55,337 --> 00:04:59,072
 todo lo vivido, más allá de que siempre
 
-59
+57
 00:05:00,136 --> 00:05:02,564
 siempre disfrutábamos estar en la selección y siempre
 
-60
+58
 00:05:04,190 --> 00:05:06,681
 que queríamos estar en el mismo momento.
 
-61
+59
 00:05:07,302 --> 00:05:12,149
 muy duro y quien no iba a decir que íbamos a terminar de esta manera ganando todo lo que
 
-62
+60
 00:05:12,729 --> 00:05:16,717
 lo que ganamos en los campeones del mundo, de América y de todo.
 
-63
-00:05:18,780 --> 00:05:21,705
-nada, disfrútalo porque te lo mereces y te amo.
+61
+00:05:18,780 --> 00:05:22,980
+ disfrútalo porque te lo mereces y te amo.
 
-64
+62
 00:05:25,470 --> 00:05:31,539
 Te vamos a extrañar mucho, sabes que te quiero mucho y te deseo siempre lo mejor, así que nada.
 
-65
+63
 00:05:31,980 --> 00:05:35,233
 Te mando un beso grande y un saludo a toda Argentina.
 
-66
-00:05:35,514 --> 00:05:36,457
+64
+00:05:35,514 --> 00:05:36,757
 Nos vemos pronto.
 
-67
-00:05:36,478 --> 00:05:36,638
-Chao.
-
-68
-00:05:43,286 --> 00:05:43,928
-¡Sigue!
-
-69
-00:05:44,930 --> 00:05:46,214
-¡Sigue las sorpresas!
-
-70
+65
 00:05:47,594 --> 00:05:54,250
 Ya está el presidente de la Asociación del Fútbol Argentino, Claudio Tapia, de Conmebol, Alejandro Domínguez, y además...
 
-71
+66
 00:05:55,493 --> 00:05:59,701
 El protagonista que viene entrando, fuerte el aplauso para recibir ahora sí.
 
-72
+67
 00:06:00,663 --> 00:06:05,653
 Ángel Di María y a su familia con la presencia de haber pintos aquí.
 
-73
+68
 00:06:10,619 --> 00:06:11,789
 ¡Fuerte ese aplauso!
 
-74
+69
 00:06:19,687 --> 00:06:22,750
 Que se sientan, que se sientan sus gritos.
 
-75
+70
 00:06:22,770 --> 00:06:23,711
 ¡Vamos, vamos!
 
-76
-00:07:08,541 --> 00:07:09,170
-¡Esta es la idea!
-
-77
+71
 00:07:13,679 --> 00:07:16,634
 pedacito y con mucho amor, gracias por todo, te amamos.
 
-78
-00:07:19,071 --> 00:07:21,380
-No voy a arrepentirme de...
-
-79
-00:07:24,278 --> 00:07:24,880
-mi vida entera
-
-80
-00:07:29,447 --> 00:07:30,049
-de verdad.
-
-81
-00:07:37,360 --> 00:07:39,126
-y no me olvides
-
-82
-00:07:43,683 --> 00:07:44,649
-en regresar.
-
-83
-00:07:50,037 --> 00:07:55,290
-Si cada despedida es una roca sobre el mar.
-
-84
-00:07:56,232 --> 00:07:56,933
-No me olvides
-
-85
-00:08:01,758 --> 00:08:07,653
-Yo vivo en la distancia, te lo pido por piedad nena.
-
-86
-00:08:08,255 --> 00:08:08,507
-¡Vamos, vamos!
-
-87
-00:08:13,075 --> 00:08:16,081
-Que el tiempo de alejarme Me lastima una vez más
-
-88
-00:08:19,645 --> 00:08:22,550
-Abrazame un rato Que amamos Fideo
-
-89
-00:08:33,605 --> 00:08:38,712
+72
+00:08:34,505 --> 00:08:38,712
 y empezamos con los regalos hermosa plaqueta
 
-90
+73
 00:08:40,235 --> 00:08:42,607
 En manos del presidente, Claudio Tapia.
 
-91
+74
 00:08:45,472 --> 00:08:50,666
 y Alejandro Domínguez con una réplica de la Copa América.
 
-92
-00:09:01,917 --> 00:09:02,858
+75
+00:09:01,917 --> 00:09:06,708
 sería 36 títulos con ese fideos
 
-93
-00:09:10,353 --> 00:09:10,954
-¡Vamos chicos!
+76
+00:09:15,100 --> 00:09:22,975
+Y todos los compañeros, todos los campeones del mundo, todos los campeones de América, bicampeones de América. de América,  
 
-94
-00:09:14,037 --> 00:09:14,759
-Ahí está.
+77
+00:09:22,975 --> 00:09:24,679
+ahí para acompañar
 
-95
-00:09:15,100 --> 00:09:20,211
-Y todos los compañeros, todos los campeones del mundo, todos los campeones de América, bicampeones de América.
+78
+00:09:25,859 --> 00:09:29,014
+A fideo, te tengo que dar el micrófono.
 
-96
-00:09:20,813 --> 00:09:24,679
-de América, ahí para acompañar
-
-97
-00:09:25,859 --> 00:09:28,464
-Afideo, te tengo que dar el micrófono.
-
-98
-00:09:30,187 --> 00:09:31,089
+79
+00:09:30,187 --> 00:09:31,464
 Sabés que esto es así.
 
-99
-00:09:56,827 --> 00:09:57,231
-a todos
+80
+00:09:56,827 --> 00:09:58,981
+Hola todos
 
-100
+81
 00:10:00,165 --> 00:10:06,615
 La verdad que es un momento difícil de poder hablar, tengo muchos sentimientos por dentro.
 
-101
-00:10:08,305 --> 00:10:10,537
+82
+00:10:08,305 --> 00:10:11,904
 primero que nada quiero agradecer a...
 
-102
+83
 00:10:11,904 --> 00:10:15,481
 a toda la gente que trabaja en la AFA, en el predio.
 
-103
+84
 00:10:16,425 --> 00:10:21,754
 Fueron 16 años que estuve con ellos, toda mi carrera estando al lado de ellos.
 
-104
+85
 00:10:23,480 --> 00:10:25,933
 Viví cosas difíciles con ellos.
 
-105
+86
 00:10:26,716 --> 00:10:32,500
 y al final terminé teniendo tantas alegrías también con ellos, son los que siempre estuvieron al lado.
 
-106
+87
 00:10:32,680 --> 00:10:38,005
 los que nos bancaron, los que estuvieron siempre apoyándonos con buena cara después de cada derrota.
 
-107
+88
 00:10:38,886 --> 00:10:41,573
 Así que para ellos es este primer...
 
-108
+89
 00:10:42,515 --> 00:10:48,622
 cariño y agradecimiento por todo lo que hicieron por mí y por, por obvio, todos los chicos que pasaron.
 
-109
+90
 00:10:57,884 --> 00:11:00,234
 Después también no quiero olvidarme de...
 
-110
+91
 00:11:01,397 --> 00:11:06,913
 de todos los entrenadores, de todos los compañeros que pasaron por acá porque...
 
-111
+92
 00:11:07,836 --> 00:11:14,099
 Tuve la posibilidad de jugar con varias generaciones, de tener la posibilidad de tener grandes jugadores al lado.
 
-112
+93
 00:11:14,600 --> 00:11:19,290
 donde tuvimos la mala suerte de no poder lograr nada en esos años.
 
-113
+94
 00:11:21,367 --> 00:11:24,183
 y la posibilidad de ganar todo con...
 
-114
+95
 00:11:25,233 --> 00:11:28,279
 con los chicos que están hoy acá compartiendo este momento conmigo.
 
-115
-00:11:29,994 --> 00:11:35,322
-Por eso no quiero olvidarme de todos esos que también pasaron y agradecerles porque me enseñaron a seguir.
+96
+00:11:29,994 --> 00:11:37,925
+Por eso no quiero olvidarme de todos esos que también pasaron y agradecerles porque me enseñaron a seguir. peleándola,  
 
-116
-00:11:36,383 --> 00:11:41,147
-peleándola, haciendo muchas cosas para poder seguir estando acá.
+97
+00:11:37,925 --> 00:11:41,972
+haciendo muchas cosas para poder seguir estando acá.
 
-117
+98
 00:11:42,529 --> 00:11:46,889
 Así que gracias a ellos también por todo lo que me fueron enseñando durante mi carrera.
 
-118
-00:11:54,781 --> 00:11:57,817
+99
+00:11:54,781 --> 00:11:58,467
 ¿Cómo puedo olvidarme de todos mis compañeros acá?
 
-119
-00:11:59,178 --> 00:12:03,723
+100
+00:11:59,178 --> 00:12:04,473
 De los más chicos, algunos ya un poquito más viejos, que ya son los jóvenes todavía.
 
-120
+101
 00:12:06,495 --> 00:12:08,582
 que me dieron la posibilidad de poder ganar todo.
 
-121
-00:12:09,304 --> 00:12:11,775
+102
+00:12:09,304 --> 00:12:12,275
 todo lo que gané este último tiempo acá y gracias a ellos.
 
-122
+103
 00:12:12,819 --> 00:12:18,672
 Siempre se lo dije y lo vuelvo a repetir, es gracias a ello que hoy me estoy yendo de esta manera.
 
-123
-00:12:19,454 --> 00:12:22,293
+104
+00:12:19,454 --> 00:12:22,743
 con este homenaje y con todo este cariño.
 
-124
+105
 00:12:23,159 --> 00:12:28,917
 Así que nada, agradecerles eternamente, voy a estar eternamente agradecido.
 
-125
+106
 00:12:29,799 --> 00:12:34,690
 a todos, al cuerpo técnico, al cuerpo médico, a todo el staff, a todos los que...
 
-126
+107
 00:12:35,191 --> 00:12:37,234
 compartido estos últimos años conmigo.
 
-127
+108
 00:12:37,715 --> 00:12:39,056
 Gracias eternamente.
 
-128
+109
 00:12:39,617 --> 00:12:46,212
 Voy a estar agradecido desde por vida y ahora soy un hincha más, ahora voy a estar ahí arriba con mi familia.
 
-129
-00:12:46,894 --> 00:12:49,638
+110
+00:12:46,894 --> 00:12:50,660
 Voy a seguir estando en las Copas América Mundiales apoyándolos.
 
-130
+111
 00:12:50,660 --> 00:12:56,089
 y seguramente vamos a seguir por este camino porque tiene mucho huevo para seguir así.
 
-131
-00:13:01,826 --> 00:13:06,719
+112
+00:13:01,826 --> 00:13:08,269
 Y ahora por último y terminar porque quiero ver el partido ya, para eso vine también.
 
-132
-00:13:08,786 --> 00:13:11,453
+113
+00:13:08,786 --> 00:13:12,728
 Quiero agradecerle a mi familia que está por ahí arriba.
 
-133
-00:13:13,168 --> 00:13:17,357
+114
+00:13:13,168 --> 00:13:19,007
 por el cariño que me dieron todos estos años cuando las cosas no salían.
 
-134
-00:13:19,261 --> 00:13:25,077
+115
+00:13:19,261 --> 00:13:25,427
 Me bancaron a full mis viejos, mis hermanas, toda la familia, familia de mi mujer.
 
-135
-00:13:26,184 --> 00:13:32,058
+116
+00:13:26,184 --> 00:13:32,758
 Agradecido a ellos también por apoyarme siempre en todo, por bancarse todo lo que se bancaron durante estos años.
 
-136
-00:13:33,381 --> 00:13:37,631
+117
+00:13:33,381 --> 00:13:38,106
 hasta tener toda esta alegría que terminé teniendo en estos años.
 
-137
+118
 00:13:38,973 --> 00:13:42,459
 Y último, a la persona más importante de mi vida.
 
-138
-00:13:43,737 --> 00:13:48,990
+119
+00:13:43,737 --> 00:13:49,390
 y a mis dos preciosuras, que son las que me bancaron siempre, las que estuvieron al lado mío.
 
-139
-00:13:49,992 --> 00:13:52,781
+120
+00:13:49,992 --> 00:13:53,056
 La que lucharon por mí, las que no dejaron nada.
 
-140
+121
 00:13:54,278 --> 00:13:56,584
 Nada de nada para que me lastime.
 
-141
+122
 00:13:57,306 --> 00:13:58,970
 Agradecerles eternamente.
 
-142
-00:13:59,571 --> 00:14:00,614
+123
+00:13:59,571 --> 00:14:01,364
 Gracias por acompañarme.
 
-143
-00:14:01,976 --> 00:14:07,040
+124
+00:14:01,976 --> 00:14:07,565
 y esta es la última copa que terminamos ganando juntos con esta camiseta.
 
-144
-00:14:08,228 --> 00:14:11,721
+125
+00:14:08,228 --> 00:14:12,246
 Así que nada, muchísimas gracias a todos, les agradezco en el alma.
 
-145
+126
 00:14:12,642 --> 00:14:17,835
 Y nada, seguiré estando del lado de ustedes ahora apoyando a todos ellos.
 
-146
-00:14:18,336 --> 00:14:19,579
+127
+00:14:18,336 --> 00:14:20,029
 Así que nada, muchas gracias.
 
-147
-00:14:19,619 --> 00:14:19,963
-Gracias, gracias.
-
-148
+128
 00:14:23,369 --> 00:14:25,380
 ¡Fuerte, fuerte, fuerte el aplauso!
 
-149
+129
 00:14:25,400 --> 00:14:26,808
 ¡Tiene que quedar grabado!
 
-150
+130
 00:14:27,611 --> 00:14:30,341
 En el corazón de Ángel se tiene que llevar ese grito.
 
-151
+131
 00:14:31,696 --> 00:14:34,784
 de esta cancha bien fuerte, bien argentino.
 
-152
+132
 00:14:35,466 --> 00:14:36,388
 El último regalo.
 
-153
+133
 00:14:40,491 --> 00:14:42,948
 Y vamos a descubrir este último regalo para Fideo.
 
-154
-00:14:48,885 --> 00:14:49,814
+134
+00:14:48,885 --> 00:14:50,130
 ¿Qué tiene que ver?
 
-155
+135
 00:14:53,157 --> 00:14:56,142
 con el máximo trofeo que puede soñar un futbolista.
 
-156
-00:14:56,162 --> 00:14:58,826
+136
+00:14:57,812 --> 00:15:00,476
 La Copa del Mundo.
 
-157
-00:15:02,250 --> 00:15:04,123
+137
+00:15:02,250 --> 00:15:04,848
 y la Copa América que ya está en sus manos.
 
-158
-00:15:10,267 --> 00:15:13,807
+138
+00:15:10,267 --> 00:15:14,207
 rodeado de todos sus compañeros.
 
-159
-00:15:23,642 --> 00:15:26,277
+139
+00:15:23,642 --> 00:15:27,302
 Le vamos a pedir, yo sé que no le gusta...
 
-160
+140
 00:15:28,066 --> 00:15:33,453
-Leonel para la foto, el cuerpo técnico, Walter, Pablo Ratón.
+Lionel para la foto, el cuerpo técnico, Walter, Pablo, Ratón.
 
-161
-00:15:36,161 --> 00:15:40,036
+141
+00:15:36,161 --> 00:15:40,761
 vamos a acercarnos para la foto a todo el cuerpo técnico
 
-162
-00:15:45,687 --> 00:15:46,824
+142
+00:15:45,687 --> 00:15:46,999
 Y todos juntos.
 
-163
-00:15:49,628 --> 00:15:54,682
+143
+00:15:49,628 --> 00:15:55,357
 Ahí está, nos preparamos para la foto final, dos puntitos, como se han sacado tantas.
 
-164
-00:15:55,685 --> 00:15:58,975
+144
+00:15:55,685 --> 00:15:59,450
 en este último tiempo, con una copa de por medio.
 
-165
-00:16:02,559 --> 00:16:03,903
+145
+00:16:02,559 --> 00:16:04,678
 ¡Ahí está la compañera Euskara!
 
-166
+146
 00:16:06,168 --> 00:16:11,135
 Ahí se acerca Alejandro Domínguez, presidente, las hijas de Fideo, vamos la esposa ahí también.
 
-167
+147
 00:16:13,348 --> 00:16:18,390
 Sonreímos y empezamos a cerrar, y lo quiero cerrar con el grito de todos ustedes.
 
-168
+148
 00:16:18,892 --> 00:16:22,430
 Que se vaya Fideo, que se retiren de este CEPET.
 
-169
+149
 00:16:23,133 --> 00:16:28,947
 con el grito de guerra de todos los argentinos, que se lo lleve bien metido en su corazón.
 
-170
+150
 00:16:28,967 --> 00:16:29,468
 ¡Vamos!
-
-171
-00:16:29,989 --> 00:16:30,250
-¡Fidel!
 
