@@ -1,138 +1,80 @@
 1
 00:00:02,559 --> 00:00:04,965
-狮子座，祝贺胜利，祝贺进球。
-Leo, congratulations on the victory, congratulations on the goals.
-Leo, felicidades por la victoria, felicidades por los goles.
+Leo，恭喜你们获胜，恭喜你进球
 
 2
 00:00:05,105 --> 00:00:06,769
-两个月没有踢球了。
-Two months without playing football.
-Dos meses sin jugar al fútbol.
+两个月没有比赛了
 
 3
-00:00:07,170 --> 00:00:07,832
-你感觉如何？
-How did you feel?
-¿Cómo te sentiste?
+00:00:07,170 --> 00:00:08,413
+你感觉如何？你是怎么做到的
 
 4
-00:00:07,852 --> 00:00:08,413
-你是怎么做到的？
-How did you do it?
-¿Cómo lo hiciste?
+00:00:09,196 --> 00:00:11,287
+嗯，说实话有点累
 
 5
-00:00:09,196 --> 00:00:11,287
-好吧，事实是有点累。
-Well, the truth is that a little tired.
-Bueno, la verdad que un poco cansado.
+00:00:12,955 --> 00:00:16,013
+迈阿密的湿度和热度对我们帮助不大
 
 6
-00:00:11,769 --> 00:00:12,272
-该部分...
-The part...
-La parte...
+00:00:16,796 --> 00:00:21,503
+但是，我非常想回来，离开球场很长时间了
 
 7
-00:00:12,955 --> 00:00:16,013
-迈阿密的潮湿和炎热对我们也没有多大帮助。
-The humidity and heat of Miami doesn't help us much either.
-la humedad y el calor de Miami nos ayuda mucho tampoco.
+00:00:22,465 --> 00:00:26,477
+我慢慢地和团队一起训练，感觉越来越好
 
 8
-00:00:16,796 --> 00:00:21,503
-但是，嘿，我真的很想离开这个领域很长一段时间。
-But hey, I really wanted to get back out of the field for a long time.
-Pero bueno, tenía muchas ganas de volver mucho tiempo fuera de la cancha.
+00:00:27,179 --> 00:00:32,807
+所以我们决定让我首发出场，我很开心，很高兴
 
 9
-00:00:22,465 --> 00:00:26,477
-但好吧，过了一段时间我开始和球队一起训练，我感觉很好并且......
-but well, after a while I started training with the group, I felt good and...
-pero bueno, de poquito me fui entrenando con el grupo, me fui encontrando bien y...
+00:00:33,428 --> 00:00:39,944
+赛季进展得很顺利，你们已经接近冠军了，尽管还有一段距离...你们在更衣室里经常谈论这些吗
 
 10
-00:00:27,179 --> 00:00:32,807
-这就是为什么我们决定开始，我们非常高兴，非常高兴。
-and that's why we decided that it was going to start and we were very happy, very happy.
-y por eso decidimos que iba de arranque y muy contento, muy feliz.
+00:00:40,626 --> 00:00:44,600
+就像我们一开始说的，我们知道我们的计划
 
 11
-00:00:33,428 --> 00:00:39,944
-这个赛季进展顺利，他们已经接近冠军了，尽管还有很长的路要走……他们在更衣室里谈论了多少这些？
-The season is going very well, they are close to the title, although there is still a long way to go... how much do they talk about all that in the locker room?
-La temporada va muy bien, están cerca ya del título, aunque todavía falta... ¿de qué tanto hablan de todo eso en el vestuario?
+00:00:45,683 --> 00:00:47,466
+这是一个目标，对吧
 
 12
-00:00:40,626 --> 00:00:44,600
-不，正如我们一开始所说的，我们知道我们的计划并且......
-No, as we said at the beginning, we knew the plan we had and...
-No, como dijimos al principio, sabíamos el plan que teníamos y...
+00:00:48,026 --> 00:00:49,428
+我们很现实，我们不会...
 
 13
-00:00:45,683 --> 00:00:47,466
-这是一个目标，对吧？
-And it's a goal, right?
-Y es un objetivo, ¿no?
+00:00:50,069 --> 00:00:50,831
+我们会负责任
 
 14
-00:00:48,026 --> 00:00:49,428
-我们是现实的，我们不...
-We are realistic and we do not...
-Somos realistas y no hacemos...
+00:00:51,353 --> 00:00:54,881
+事实上，在这一年里我们在伤病方面非常不幸
 
 15
-00:00:50,069 --> 00:00:50,831
-我们负责。
-We take charge.
-Nos hacemos cargo.
+00:00:55,082 --> 00:01:00,157
+因为这样或那样的原因，我们总是缺少
 
 16
-00:00:51,353 --> 00:00:54,881
-事实是，这一年我们运气不好，受伤了。
-The truth is that during the year we had a lot of bad luck with injuries.
-La verdad es que durante el año tuvimos mucha mala suerte con las lesiones.
+00:01:01,582 --> 00:01:03,390
+球员，但团队一直
 
 17
-00:00:55,082 --> 00:00:55,703
-我们从来都...
-We were never...
-Nunca estuvimos...
+00:01:04,093 --> 00:01:07,287
+坚持前进，今天我们排在第一
 
 18
-00:00:56,224 --> 00:01:00,157
-一切总是因为这样或那样的原因而丢失。
-Everything was always missing for one reason or another.
-Todo al completo por una cosa u otra siempre nos faltaron.
+00:01:07,769 --> 00:01:14,663
+有一个很大的优势，这是当之无愧的，希望我们能以最高位置结束
 
 19
-00:01:00,699 --> 00:01:03,390
-球员和球队始终。
-players and the group always.
-jugadores y el grupo siempre.
+00:01:15,714 --> 00:01:18,139
+因为我们知道这意味着什么，也因为之后会发生的事情
 
 20
-00:01:04,093 --> 00:01:07,287
-继续吧，今天我们首先要...
-went ahead, today we are first with a...
-salió adelante, hoy estamos primero con una...
-
-21
-00:01:07,769 --> 00:01:11,522
-一个很大的差异，当之无愧，我希望我们可以
-a big difference and deservedly so and well I hope we can
-una gran diferencia y merecidamente y bueno ojalá podamos
-
-22
-00:01:12,125 --> 00:01:14,663
-完成顶部...
-finish on top for...
-terminar en lo más alto para...
-
-23
-00:01:15,714 --> 00:01:18,139
-了解它的含义以及之后发生的事情。
-for what it means and for what comes after as well.
-por lo que significa y por lo que se viene después también.
+00:01:18,687 --> 00:01:19,583
+谢谢Leo，恭喜你
 
