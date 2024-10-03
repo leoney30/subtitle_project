@@ -1,6 +1,6 @@
 1
 00:00:00,411 --> 00:00:03,364
-felicitaciones partido de locos
+felicitaciones ,partido de locos
 
 2
 00:00:04,511 --> 00:00:10,044
@@ -11,7 +11,7 @@ Un título más, contame tus sentimientos de este extraordinario grupo que en po
 Bueno, contento, contento por este grupo, la verdad que lo dijimos, creo que te lo dije a vos al principio de año.
 
 4
-00:00:15,723 --> 00:00:20,992
+00:00:15,723 --> 00:00:21,834
 que sabíamos que era un grupo para pelear esto y nos hicimos cargo desde el principio.
 
 5
@@ -79,7 +79,7 @@ casi nunca, en muy poco tiempo estuvimos todo el grupo juntos, por una cosa u ot
 y el grupo fue sacando partidos muy duros.
 
 21
-00:01:43,762 --> 00:01:44,704
+00:01:43,762 --> 00:01:45,254
 Tuvimos la Copa América.
 
 22
@@ -91,7 +91,7 @@ Creo que fueron cinco partidos fuera y jugamos contra rivales muy duros que esta
 y los resultados fueron muy positivos y bueno eso demuestra lo que es este equipo.
 
 24
-00:01:56,321 --> 00:01:56,602
+00:01:56,321 --> 00:01:57,152
 Última.
 
 25
@@ -111,7 +111,7 @@ Creo que el récord es secundario, si bien tenemos una linda oportunidad para qu
 creo que lo de menos el primer objetivo está cumplido y ahora pensar en lo que lo que se viene no el primero es
 
 29
-00:02:19,339 --> 00:02:22,073
+00:02:19,339 --> 00:02:22,848
 es a tres, pero después a un partido que puede pasar.
 
 30
@@ -123,12 +123,12 @@ cualquier cosa pero tenemos una gran ventaja que jugamos todos los partidos de l
 Lo que buscábamos, creo que nosotros de local somos muy...
 
 32
-00:02:31,327 --> 00:02:34,759
+00:02:31,327 --> 00:02:35,501
 muy fuerte y cuando salía a jugar a cualquier estadio.
 
 33
 00:02:35,501 --> 00:02:41,376
-El AMLS no es fácil y nosotros creo que siendo locales tenemos...
+El MLS no es fácil y nosotros creo que siendo locales tenemos...
 
 34
 00:02:41,937 --> 00:02:43,940
@@ -136,7 +136,7 @@ una gran ventaja y después hay que demostrarlo.
 
 35
 00:02:44,061 --> 00:02:44,501
-Gracias, León.
+Gracias, Leo
 
 36
 00:02:44,581 --> 00:02:45,383
