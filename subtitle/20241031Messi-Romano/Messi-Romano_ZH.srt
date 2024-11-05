@@ -1,888 +1,688 @@
 1
-00:00:08,895 --> 00:00:10,508
-利奥，我们有一些问题要问你。
-Leo, we have some questions for you.
-Leo, tenemos unas preguntas para ti.
+00:00:08,680 --> 00:00:10,560
+Leo,我们有几个问题要问你
 
 2
-00:00:21,328 --> 00:00:22,454
-Leo，你会参加 2026 年世界杯吗？
-Leo, are you going to play in the 2026 World Cup?
-Leo, ¿vas a jugar en el Mundial 2026?
+00:00:21,328 --> 00:00:24,880
+Leo,你会参加2026年世界杯吗?
 
 3
-00:00:36,607 --> 00:00:36,788
-不。
-No.
-No.
+00:00:34,520 --> 00:00:36,360
+你们之前见过面吗
 
 4
-00:00:36,928 --> 00:00:37,469
-第一次。
-First time.
-Primera vez.
+00:00:36,360 --> 00:00:37,469
+没有,这是第一次
 
 5
-00:00:37,749 --> 00:00:39,353
-感谢您的时间和机会。
-Thank you for your time and the opportunity.
-Gracias por tu tiempo y la oportunidad.
+00:00:37,560 --> 00:00:39,320
+感谢您抽出时间和给予这次机会
 
 6
-00:00:39,573 --> 00:00:39,934
-谢谢。
-Gracias.
-Gracias.
+00:00:39,320 --> 00:00:39,353
+谢谢
 
 7
-00:00:41,724 --> 00:00:42,712
-你准备好了吗，弗雷迪？
-Are you ready, Freddy?
-¿Estás listo, Freddy?
+00:00:39,353 --> 00:00:39,934
+谢谢
 
 8
-00:00:42,752 --> 00:00:43,397
-开始了。
-Here we go.
-Aquí vamos.
+00:00:41,480 --> 00:00:42,480
+那么,准备好了吗
 
 9
-00:00:47,463 --> 00:00:52,862
-我们从头开始，从欧洲赛场开始，直到来到美国职业足球大联盟。
-We start from the beginning, from the European fields until we get here to the MLS.
-Empezamos del principio, de los campos europeos hasta llegar aquí a la MLS.
+00:00:42,480 --> 00:00:43,397
+开始吧
 
 10
-00:00:53,283 --> 00:00:56,950
-是什么吸引你来到迈阿密国际队和美国踢球？
-What attracted you to playing here for Inter Miami and in the United States?
-¿Qué te atrajo de jugar aquí en el Inter Miami y en Estados Unidos?
+00:00:48,800 --> 00:00:53,120
+从欧洲赛场到来到MLS
 
 11
-00:00:57,350 --> 00:01:03,401
-事实是，俱乐部刚刚成立的那一刻，以及……
-The truth is that the moment the club was just starting and the moment it was...
-La verdad es que el momento que estaba el club recién iniciando y el momento que estaba...
+00:00:53,120 --> 00:00:57,320
+是什么吸引你来到美国Inter Miami踢球?
 
 12
-00:01:04,269 --> 00:01:08,787
-我也在那里，我认为他们取得了很多成就来实现这一目标，现在它发生了。
-I was there too, I think they achieved a lot of things to make it happen and now it happens.
-Estaba yo también, creo que consiguieron muchísimas cosas para que se dé y ya dé.
+00:00:57,350 --> 00:00:57,960
+实际上
 
 13
-00:01:09,470 --> 00:01:12,744
-帮助这种成长吸引了我。
-helping that growth seduced me.
-de ayudar a ese crecimiento me sedujo.
+00:00:58,080 --> 00:01:02,520
+当时俱乐部刚刚起步
 
 14
-00:01:13,587 --> 00:01:19,732
-好吧，我很高兴 MLS 与其他比赛相比有何不同？
-And well, I'm happy. How is MLS different compared to other competitions?
-Y bueno, estoy feliz ¿En qué se diferencia la MLS comparada con otras competiciones?
+00:01:02,520 --> 00:01:04,920
+而且考虑到我当时的处境
 
 15
-00:01:20,695 --> 00:01:25,416
-有很多热情，我有点没有意识到，因为我知道这种热情......
-There is a lot of passion, something that I was a little unaware of because I knew about the passion for...
-Hay mucha pasión, cosa que por ahí desconocía un poco porque sabía de la pasión por...
+00:01:04,920 --> 00:01:06,560
+我认为
 
 16
-00:01:26,058 --> 00:01:31,749
-篮球、棒球、美式足球、橄榄球那里少了一些，但让我很惊讶。
-basketball, baseball, American football, football was a little less there, but it surprised me a lot.
-basque, béisbol, fútbol americano, por ahí el fútbol era un poco menos, pero me sorprendió muchísimo.
+00:01:06,560 --> 00:01:08,520
+有很多原因促成这件事
 
 17
-00:01:31,749 --> 00:01:38,511
-这是一个竞争非常激烈的联赛，离开对整个球队来说都很困难，因为球队变得更强了。
-It is a very competitive league where going away is difficult for the entire team because the team becomes stronger.
-Es una liga muy competitiva donde ir de visitante a todo el equipo le cuesta porque el equipo se hace fuerte.
+00:01:08,520 --> 00:01:09,280
+还有就是
 
 18
-00:01:38,992 --> 00:01:42,816
-去美国任何地方，都能看到满座的体育场。
-Going anywhere in the United States and seeing full stadiums.
-El ir a cualquier parte de Estados Unidos y ver los estadios llenos.
+00:01:09,280 --> 00:01:11,040
+帮助球队成长的想法
 
 19
-00:01:44,578 --> 00:01:48,230
-非常喜欢他的球队。
-very fan of his teams.
-muy fanático de sus equipos.
+00:01:11,040 --> 00:01:13,480
+这让我很感兴趣
 
 20
-00:01:48,551 --> 00:01:50,237
-我很惊讶，因为我不知道。
-I was surprised because I didn't know.
-Me sorprendió porque no conocía.
+00:01:13,587 --> 00:01:15,600
+好吧 现在我很开心
 
 21
-00:01:51,400 --> 00:01:53,824
-我喜欢它，我喜欢我所经历的。
-I enjoy it and I like what I experienced.
-Lo disfruto y me gusta lo que viví.
+00:01:15,600 --> 00:01:20,320
+MLS与其他联赛有什么不同
 
 22
-00:01:53,844 --> 00:01:54,345
-和？
-And?
-¿Y qué?
+00:01:20,320 --> 00:01:21,800
+这里充满激情
 
 23
-00:01:55,608 --> 00:01:57,994
-你有没有想过美国职业足球大联盟的天才球员们？
-Do you think a little about the talents that are also here in MLS?
-¿Opinas un poco de los talentos que también hay aquí en MLS?
+00:01:21,800 --> 00:01:23,960
+说实话这是我之前不知道的
 
 24
-00:01:58,054 --> 00:02:00,261
-他们为未来的人才投入了大量资金。
-They are putting a lot into talents for the future.
-Están metiendo mucho en los talentos para el futuro.
+00:01:23,960 --> 00:01:27,720
+我知道这里对篮球、棒球、橄榄球的热情
 
 25
-00:02:00,541 --> 00:02:06,510
-事实上，这对于年轻人来说是一个很好的机会，对于联盟来说也是一个很好的机会和时刻。
-The truth is that it is a nice opportunity for young people, it is also a nice opportunity and a moment for the League to be next.
-La verdad es que es una linda oportunidad para la gente joven, también es una linda oportunidad y un momento para que la Liga sea el siguiente.
+00:01:27,720 --> 00:01:30,720
+足球可能相对少一些
 
 26
-00:02:06,650 --> 00:02:09,858
-可以帮助MLS和孩子们的成长。
-and can help the growth of the MLS and the kids.
-y puede ayudar al crecimiento de la MLS y de los chifos.
+00:01:30,720 --> 00:01:32,480
+但这让我很惊讶
 
 27
-00:02:09,918 --> 00:02:13,487
-我认为所有这些都有帮助，让他们可以继续更多地出去。
-And I think all this helps so they can continue going out even more.
-Y creo que todo esto ayuda para que puedan seguir saliendo mucho más todavía.
+00:01:32,480 --> 00:01:34,280
+这是一个非常有竞争力的联赛
 
 28
-00:02:13,529 --> 00:02:13,662
-快点！
-Come on!
-¡Vamos!
+00:01:34,280 --> 00:01:36,920
+客场作战对每支球队来说都很困难
 
 29
-00:02:17,130 --> 00:02:22,531
-当你到达美国职业足球大联盟时，你的风格稍微改变了，带球少了一些，传球多了，对吗？
-You changed your style a little when you arrived in the MLS, a little less dribbling and more passing, right?
-¿Vos cambiaste un poco de estilo con el llegar al MLS, un poco menos de driblar y más de pasar, no?
+00:01:36,920 --> 00:01:39,720
+因为主场球迷的支持很强大
 
 30
-00:02:23,072 --> 00:02:25,858
-我也按计划暂时改变了自己的风格。
-I was also changing my style a little for the moment, by plan.
-Fui cambiando un poco de estilo también por el momento, por plan.
+00:01:39,760 --> 00:01:41,280
+无论你去美国的哪个地方
 
 31
-00:02:26,579 --> 00:02:32,959
-我这个年纪，我正在适应一切，我正在重塑自己并适应联赛，这对我来说是
-my age, I was adapting a little to everything, I was reinventing myself and adapting to the League as well, which for me was
-mi edad, fui adaptando un poco a todo, me fui reinventando yo y adaptándome a la Liga también, que para mí era
+00:01:41,280 --> 00:01:42,880
+都能看到座无虚席的球场
 
 32
-00:02:33,361 --> 00:02:36,751
-它是新的，从一开始我就感觉很舒服。
-It was new and I felt very comfortable from the beginning.
-Era nuevo y me sentí muy cómodo desde el principio.
+00:01:42,960 --> 00:01:48,230
+球迷们都支持自己的球队
 
 33
-00:02:36,892 --> 00:02:38,617
-我想问你一些关于平衡的问题，对吗？
-I wanted to ask you a little about balance, right?
-Quería preguntarte un poco de balance, ¿no?
+00:01:48,360 --> 00:01:51,080
+这让我很惊讶,因为我之前并不了解
 
 34
-00:02:38,637 --> 00:02:39,239
-从这第一...
-From this first...
-De esta primera...
+00:01:51,080 --> 00:01:54,640
+我很享受这里的经历
 
 35
-00:02:40,061 --> 00:02:41,724
-这是MLS的经验。
-It's experience in MLS.
-Es experiencia en MLS.
+00:01:54,760 --> 00:01:57,994
+你对MLS这里的天才球员有什么看法
 
 36
-00:02:41,805 --> 00:02:44,831
-你来到这里是第一个完整的赛季，然后你参加了美洲杯。
-You arrived the first full year, then you went through the Copa América.
-Tú has llegado el primer año completo, luego pasaste por la Copa América.
+00:01:58,054 --> 00:02:00,520
+他们为未来人才投资很多
 
 37
-00:02:45,211 --> 00:02:50,159
-我们立刻就明白了，一些挑战，一些胜利，现在季后赛即将到来，这是一个重要的时刻。
-and it was immediately clear, some challenges, winning, now the playoffs are coming, it is an important moment.
-y ya inmediatamente claro, algunos desafíos, ganando, ahora llegan los playoffs, es un momento importante.
+00:02:00,640 --> 00:02:03,200
+确实这对年轻人来说是个很好的机会
 
 38
-00:02:50,359 --> 00:02:53,362
-您对 NM​​DS 迄今为止的历程有何看法？
-What do you think of the journey so far at NMDS?
-¿Qué opinas del camino hasta ahora en NMDS?
+00:02:03,440 --> 00:02:06,840
+也是联赛发展的好时机
 
 39
-00:02:53,622 --> 00:02:55,464
-这一切都有点壮观，不是吗？
-It was all a bit spectacular, wasn't it?
-Fue todo un poco espectacular, ¿no?
+00:02:06,840 --> 00:02:09,858
+这可以帮助MLS和年轻球员的成长
 
 40
-00:02:55,984 --> 00:02:59,909
-因为我们到达并始终成为我们需要获胜的格拉诺俱乐部。
-because we arrived and always to be the Grano Club we needed to win.
-porque nosotros llegábamos y siempre para ser el Grano Club necesitábamos ganar.
+00:02:09,918 --> 00:02:13,240
+我相信这一切都有助于培养出更多的年轻球员
 
 41
-00:03:00,510 --> 00:03:03,699
-冠军头衔竞争激烈，俱乐部在美国职业足球大联盟(MLS)中经历了糟糕的一年。
-The title was competitive, the club was coming off a bad year in the MLS.
-El título se competitivo, el club venía de un año malo en el MLS.
+00:02:16,920 --> 00:02:20,280
+来到MLS后你的风格有所改变
 
 42
-00:03:04,381 --> 00:03:10,321
-我到达后不久，我们就赢得了联赛杯，这是俱乐部的第一个冠军，这是一件非同寻常的事情。
-and shortly after I arrived we won the League Cup, the first title for the club, which was something extraordinary.
-y al poco tiempo de poder llegar yo conseguimos la League Cup, el primer título para el club, que fue algo extraordinario.
+00:02:20,280 --> 00:02:23,000
+减少了盘带增加了传球,是吗
 
 43
-00:03:10,401 --> 00:03:13,164
-对于每个人来说，现在都怀着极大的愿望和许多愿望......
-for everyone and now with great desire and many wishes to...
-para todos y ahora con muchas ganas y muchas deseamos de...
+00:02:23,072 --> 00:02:27,080
+我确实改变了一些风格,这是因为我的年龄
 
 44
-00:03:13,806 --> 00:03:18,167
-能够面对这些季后赛，赢得美国职业足球大联盟并举起另一个冠军。
-to be able to face these playoffs, win the MLS and lift another title.
-de poder afrontar estos playoffs, ganar la MLS y levantar otro título.
+00:02:27,080 --> 00:02:30,840
+我在适应一切,重塑自己
 
 45
-00:03:18,910 --> 00:03:23,748
-在个人层面上，尤​​其是在俱乐部方面，他们为实现这一目标付出了巨大的努力。
-on a personal level and above all to the club that did so much to make that happen.
-a nivel personal y sobre todo al club que tanto hizo para que eso pase.
+00:02:30,840 --> 00:02:34,880
+也在适应这个对我来说全新的联赛
 
 46
-00:03:26,502 --> 00:03:33,279
-这支球队能走向何方？作为一名国际迈阿密球员，你希望在这支球队中实现什么目标？
-Where can this team go and what goal would you like to achieve as an Inter Miami player with this team?
-¿Dónde puede llegar este equipo y cuál objetivo te gustaría alcanzar como jugador del Inter Miami con este equipo?
+00:02:34,880 --> 00:02:36,751
+从一开始我就感觉很舒服
 
 47
-00:03:33,620 --> 00:03:34,926
-克卢日没有设定限制...
-Cluj does not set a limit for...
-El Cluj no se pone límite por...
+00:02:36,751 --> 00:02:41,640
+我想请你回顾一下第一次MLS的经历 
 
 48
-00:03:37,700 --> 00:03:40,618
-因为那是他们的哲学，永远想要……
-because that is their philosophy, to always want...
-porque esa es la filosofía de ellos, de querer siempre...
+00:02:41,640 --> 00:02:45,680
+你完成了第一个完整赛季,然后参加了美洲杯
 
 49
-00:03:41,195 --> 00:03:44,857
-总是想要更多，他们所做的一切都证明了这一点，直到……
-of always wanting more and it was demonstrated by everything they did until...
-de querer siempre más y quedó demostrado por todo lo que hicieron hasta...
+00:02:45,680 --> 00:02:50,159
+紧接着就面临一些挑战,取得胜利 现在到了季后赛的重要时刻
 
 50
-00:03:45,500 --> 00:03:51,792
-到目前为止，能够在美国职业足球大联盟（MLS）中继续成长并取得伟大成就，为什么不在……
-so far and to be able to continue growing and to be great within the MLS and why not within...
-hasta el momento y poder seguir creciendo y poder ser grande dentro de la MLS y por qué no dentro de...
+00:02:50,159 --> 00:02:53,362
+你如何看待到目前为止在MLS的经历
 
 51
-00:03:52,497 --> 00:03:53,021
-在哪里？
-Where?
-¿Dónde?
+00:02:53,362 --> 00:02:57,080
+一切都很精彩 因为我们做到了
 
 52
-00:03:53,182 --> 00:03:53,344
-在哪里？
-Where?
-¿Dónde?
+00:02:57,080 --> 00:03:00,760
+要建立一个俱乐部，你必须赢得冠军
 
 53
-00:04:09,312 --> 00:04:11,837
-现在我想问你一些关于即将发生的令人兴奋的事情。
-Now I wanted to ask you a little about the excitement of what is coming.
-Ahora quería preguntarte un poco por la emoción de lo que llega.
+00:03:00,760 --> 00:03:04,200
+俱乐部之前在MLS经历了糟糕的一年
 
 54
-00:04:11,857 --> 00:04:15,123
-MLS季后赛是一个非常重要的时刻。
-The MLS playoffs are a very important moment.
-Los playoff de la MLS es un momento muy importante.
+00:03:04,200 --> 00:03:07,640
+在我到来后不久我们就赢得了League Cup
 
 55
-00:04:15,545 --> 00:04:20,441
-但第一个也是打破了赛季积分纪录。
-but the first was also breaking the record for points in the season.
-pero el primero ha sido romper también el récord de puntos en la temporada.
+00:03:07,680 --> 00:03:10,880
+这是俱乐部的第一个冠军,对所有人来说这很不寻常
 
 56
-00:04:20,902 --> 00:04:23,106
-这对你来说非常特别。
-This has been very special for you.
-Esto ha sido muy especial para vosotros.
+00:03:10,880 --> 00:03:14,120
+现在我们都很期待能够
 
 57
-00:04:23,467 --> 00:04:25,270
-之后球队如何庆祝？
-How did the team celebrate after that?
-¿Cómo celebró el equipo después de eso?
+00:03:14,120 --> 00:03:18,720
+参加季后赛,赢得MLS杯冠军,捧起另一座奖杯
 
 58
-00:04:25,871 --> 00:04:31,110
-我们很高兴并庆祝了这一成就，因为这是......
-We were happy and celebrated the achievement, because it was something...
-Nos pusimos felices y festejamos por el logro, porque era algo...
+00:03:18,840 --> 00:03:23,748
+无论是个人层面 还是俱乐部 我们为此付出了很多
 
 59
-00:04:31,872 --> 00:04:37,118
-一些困难而重要的事情，但我们知道我们真正想要的标题是
-something difficult and important, but we are aware that the real title we want is the
-algo difícil e importante, pero somos conscientes de que el verdadero título que queremos es la
+00:03:26,440 --> 00:03:28,800
+你认为这支球队能达到什么高度
 
 60
-00:04:37,378 --> 00:04:43,563
-美国职业足球大联盟，我们将为之奋斗并专注于附加赛。
-the MLS and that we are going to fight for it and be focused on the play-offs.
-la MLS y que vamos a pelear por ello y estar mentalizados en los play-offs.
+00:03:29,000 --> 00:03:31,480
+作为Inter Miami的球员
 
 61
-00:04:43,843 --> 00:04:47,817
-做出历史性成就的关键因素是什么？
-What are going to be the key factors to do something historic?
-¿Cuáles van a ser los factores clave para hacer algo histórico?
+00:03:31,480 --> 00:03:34,120
+你希望和球队达成什么目标
 
 62
-00:04:47,857 --> 00:04:49,904
-这一年里我们有很多...
-During the year we had many...
-Durante el año tuvimos muchos...
+00:03:34,120 --> 00:03:37,560
+俱乐部不给自己设限
 
 63
-00:04:50,465 --> 00:04:54,890
-...许多我们可以避免的错误，因为很多时候它们是...
-...many mistakes which we can avoid because many times they were...
-...muchos errores los cuales podemos evitar porque muchas veces fueron...
+00:03:37,700 --> 00:03:41,040
+因为这就是俱乐部的理念
 
 64
-00:04:57,196 --> 00:04:59,688
-至少可以说，非常愚蠢的错误......
-Very stupid mistake, to say the least...
-Error muy tonto, por decirlo de...
+00:03:41,040 --> 00:03:46,720
+永远追求更多,这从他们至今所做的一切就可以看出
 
 65
-00:05:00,189 --> 00:05:05,878
-在某种程度上，在这些附加赛中他们无法超越我们，因为这可能会让你付出代价
-in some way and that in these play-offs they cannot pass us because it could cost you
-de alguna forma y que en estos play-offs no nos pueden pasar porque te puede costar la
+00:03:46,720 --> 00:03:50,480
+继续成长,在MLS中成为伟大的球队
 
 66
-00:05:06,539 --> 00:05:11,945
-......淘汰，然后我们必须变得更加强大......并利用我们获得的优势。”
-...elimination and then we have to be even stronger... ...and take advantage of that advantage we got."
-...de eliminación y después tenemos que ser aún más fuertes... ...y aprovechar esa ventaja que conseguimos".
+00:03:50,480 --> 00:03:53,600
+为什么不能在世界上也是如此呢
 
 67
-00:05:12,226 --> 00:05:15,234
-您如何看待迈阿密国际赢得 MSS 杯的机会？
-How do you see Inter Miami's chances of winning the MSS Cup?
-¿Cómo ves las chances del Inter Miami de ganar la MSS Cup?
+00:04:09,160 --> 00:04:11,837
+现在我想问问你对即将到来的赛事的感受
 
 68
-00:05:15,836 --> 00:05:22,014
-我认为我们是最受欢迎的球队之一，但我认为也会有一些强队
-I think we are one of the favorites, but I think there are also tough teams that are going to be
-Creo que somos uno de los favoritos, pero creo que también hay equipos duros que van a ser
+00:04:11,857 --> 00:04:14,000
+MLS的季后赛
 
 69
-00:05:22,415 --> 00:05:29,252
-非常难对付的对手，他们不会向我们透露任何信息，但我认为其他球队也尊重我们，就像他们尊重我们一样。
-very difficult rivals and they are not going to reveal anything to us, but I think the other teams also respect us as they respect us.
-rivales muy difíciles y que no nos van a revelar nada, pero creo que los demás equipos también nos respetan a nosotros como a nosotros ellos.
+00:04:14,000 --> 00:04:15,520
+这是一个非常重要的时刻
 
 70
-00:05:29,313 --> 00:05:29,735
-再见，朋友们！
-Goodbye, friends!
-¡Adiós, amigos!
+00:04:15,545 --> 00:04:17,000
+但首先是
 
 71
-00:05:37,574 --> 00:05:40,341
-我们风格的一些快速 4-3-3 问题。
-Some quick 4-3-3 questions in our style.
-Unas preguntas rápidas de 4-3-3 en nuestro estilo.
+00:04:17,000 --> 00:04:20,880
+你们已经打破了常规赛积分记录
 
 72
-00:05:40,842 --> 00:05:42,666
-你什么时候在家带孩子？
-When are you at home with your children?
-¿Cuándo estás en casa con tus hijos?
+00:04:20,902 --> 00:04:23,440
+这对你们来说非常特别
 
 73
-00:05:43,048 --> 00:05:44,554
-他玩的是什么游戏啊！
-What a game he plays!
-¡Qué juego juega!
+00:04:23,467 --> 00:04:25,760
+之后球队是如何庆祝的
 
 74
-00:05:44,594 --> 00:05:45,076
-球！
-The ball!
-¡La pelota!
+00:04:25,871 --> 00:04:31,680
+我们很开心并为这个成就庆祝,因为这是
 
 75
-00:05:46,562 --> 00:05:50,447
-所有足球总是涉及一些小比赛、一些触球、一些传球。
-All football always involves a little game, some touches, some passes.
-Todo el fútbol siempre pasa por algún partidito, algunos toques, algunos pases.
+00:04:31,872 --> 00:04:33,520
+很困难也很重要的事情
 
 76
-00:05:52,510 --> 00:05:55,243
-我有时会玩，但通常...
-I play it sometimes, but usually...
-La play a veces, pero generalmente...
+00:04:33,680 --> 00:04:38,040
+但我们知道我们真正想要的冠军是 MLS杯冠军
 
 77
-00:05:56,628 --> 00:05:59,712
-当你再次打球时你给他建议，你说什么？
-And you give him advice when you play with the ball again, what do you say?
-Y le das consejos cuando vuelves a jugar con la pelota, ¿qué le decís?
+00:04:38,040 --> 00:04:43,720
+我们会为此而战 也要做好心理准备 专注于季后赛
 
 78
-00:05:59,872 --> 00:06:01,414
-这取决于时刻，取决于...
-It depends on the moment, it depends...
-Depende del momento, depende...
+00:04:43,843 --> 00:04:47,817
+创造历史的关键因素是什么
 
 79
-00:06:02,435 --> 00:06:05,581
-三者中的哪一个也是如此，因为其中一个比另一个更热。
-to which of the three too, because one is hotter than the other.
-a cual de los tres también, porque alguno es más calentón que otro.
+00:04:47,857 --> 00:04:50,400
+在这一年里我们有很多
 
 80
-00:06:06,863 --> 00:06:09,051
-是的，但我和他一起打球，这也给了我......
-Yes, but I play with him and that also gives me...
-Sí, pero juego con él y también eso me da...
+00:04:50,465 --> 00:04:55,040
+很多错误是可以避免的,因为很多时候都是
 
 81
-00:06:11,520 --> 00:06:15,547
-他们给我建议，当他们分享时也批评我。
-They give me advice, they criticize me too when they come to share.
-Me dan consejos, me critican a mí también cuando ven a compartir.
+00:04:57,196 --> 00:05:01,440
+可以说是很愚蠢的错误
 
 82
-00:06:15,988 --> 00:06:18,916
-除了足球之外，您还喜欢练习哪些运动？
-What other sports do you like to practice outside of football?
-¿Qué otros deportes te gusta practicar afuera del fútbol?
+00:05:01,440 --> 00:05:04,960
+在季后赛中这些错误不能发生
 
 83
-00:06:19,338 --> 00:06:21,223
-我喜欢板网球，我喜欢...
-I like paddle tennis, I like it...
-Me gusta el padel, me gusta...
+00:05:04,960 --> 00:05:07,600
+ 因为可能会让你付出被淘汰的代价
 
 84
-00:06:21,865 --> 00:06:25,625
-篮球、网球，但我很喜欢练习。
-Basketball, tennis, but I really like practicing.
-El basque, tenis, pero practicar me gusta mucho.
+00:05:07,600 --> 00:05:12,200
+之后我们必须变得更强大,利用好我们获得的优势
 
 85
-00:06:26,007 --> 00:06:28,960
-你在球场上经历了很多标志性时刻。
-You've had so many iconic moments on the court.
-Has tenido muchísimos momentos icónicos en la cancha.
+00:05:12,226 --> 00:05:15,760
+你如何看待Inter Miami赢得MLS杯的机会
 
 86
-00:06:29,542 --> 00:06:32,965
-除此之外还有一些我们不知道的有趣的事情。
-outside of it something fun that we don't know.
-afuera de ella algo divertido que no conocemos.
+00:05:15,836 --> 00:05:22,014
+我认为我们是夺冠热门之一,但也有一些强队会是
 
 87
-00:06:33,125 --> 00:06:35,807
-与人相处的事情很多，人们做了很多...
-So many things with people, people do so much...
-Tantas cosas con la gente, la gente hace tanta...
+00:05:22,200 --> 00:05:26,000
+非常难对付的对手,他们不会对我们手下留情
 
 88
-00:06:36,568 --> 00:06:40,157
-有时如此疯狂，以至于你无法相信。
-So much madness sometimes that you can't believe it.
-Tanta locura a veces que no se puede creer.
+00:05:26,080 --> 00:05:29,332
+我相信 其他球队会像我们尊重他们一样尊重我们
 
 89
-00:06:40,397 --> 00:06:43,043
-我来自阿根廷，那里的人非常...
-I am from Argentina, the people are very...
-Yo soy de Argentina, que la gente es muy...
+00:05:37,360 --> 00:05:40,720
+按我们4-3-3的风格快速提几个问题
 
 90
-00:06:45,553 --> 00:06:48,325
-热情、外向、有能力
-passionate, demonstrative and capable of
-apasionada, demostrativa y que es capaz de
+00:05:40,720 --> 00:05:43,040
+当你在家和孩子们在一起时
 
 91
-00:06:49,087 --> 00:06:54,393
-做任何事情，问候你，拍照，靠近。
-to do anything, to greet you, for a photo, to be close.
-de hacer cualquier cosa, por saludarte, por una foto, por estar cerca.
+00:05:43,048 --> 00:05:44,160
+玩什么游戏
 
 92
-00:06:55,957 --> 00:06:58,285
-意大利也一样，一切都相似
-well in Italy too, everything similar
-bueno en Italia también, todo parecido
+00:05:44,160 --> 00:05:46,040
+足球
 
 93
-00:07:00,514 --> 00:07:04,806
-所以我不记得了，但事实是我经历了很多疯狂。
-So I don't remember, but the truth is that I went through a lot of madness.
-Así que no me acuerdo, pero la verdad es que pasé por mucha locura.
+00:05:46,562 --> 00:05:51,360
+总是踢一些小比赛,做一些触球和传球
 
 94
-00:07:05,006 --> 00:07:08,916
-比赛前你有什么特别的放松习惯吗？
-Do you have a special routine to relax before a game?
-¿Tienes alguna rutina especial para relajarte antes de un partido?
+00:05:52,510 --> 00:05:56,920
+有时候玩PS游戏机,但通常我们都是踢足球
 
 95
-00:07:12,537 --> 00:07:16,867
-喝点伙计，这取决于比赛的时间，但没什么，我想。
-drink mate, it depends on the time of the game, but nothing, I thought.
-tomar mate, depende de la hora del partido, pero nada, pesé.
+00:05:56,920 --> 00:05:59,712
+当你和他们玩球时,你会给他们什么建议
 
 96
-00:07:17,329 --> 00:07:20,040
-当谈到食物时，你会感到内疚。
-Your guilty pleasure when it comes to food.
-Tu placer culposo cuando se trata de comida.
+00:05:59,872 --> 00:06:02,435
+这取决于当时的情况
 
 97
-00:07:20,381 --> 00:07:21,044
-冰淇淋。
-The ice cream.
-El helado.
+00:06:02,435 --> 00:06:02,440
+也取决于是哪个孩子
 
 98
-00:07:21,506 --> 00:07:22,028
-事实是……
-The truth is that...
-La verdad que...
+00:06:02,440 --> 00:06:03,600
+也取决于是哪个孩子
 
 99
-00:07:23,132 --> 00:07:26,904
-我不太喜欢食物，但我很喜欢甜点。
-I'm not so much into food, but I am into desserts.
-No soy tanto de comida, pero sí de los postres.
+00:06:03,600 --> 00:06:05,581
+因为有一个比其他的更容易激动
 
 100
-00:07:27,245 --> 00:07:29,509
-我们知道您是动作玩偶的粉丝，对吧？
-We know you're a fan of action figures, right?
-Sabemos que sos fan de los muñecos de acción, ¿no?
+00:06:05,581 --> 00:06:10,101
+所以是的，但我主要是和他们一起玩
 
 101
-00:07:30,170 --> 00:07:30,891
-属于超级英雄。
-Of superheroes.
-De superhéroes.
+00:06:10,101 --> 00:06:15,920
+他们也给我建议,当一起看比赛时也会批评我!
 
 102
-00:07:31,332 --> 00:07:33,675
-如果有梅西这样的人，他会拥有怎样的超能力。
-If there was one of Leo Messi, what superpower he would have.
-Si hubiera uno de Leo Messi, qué superpoder tendría.
+00:06:15,988 --> 00:06:19,280
+除了足球你还喜欢什么运动
 
 103
-00:07:34,376 --> 00:07:37,259
-一个博物馆。
-A museum.
-Un museo.
+00:06:19,280 --> 00:06:22,760
+我喜欢打板网球、篮球、网球
 
 104
-00:07:38,019 --> 00:07:38,500
-狮子博物馆。
-A lion museum.
-Un museo león.
+00:06:22,760 --> 00:06:25,920
+但最喜欢的还是打板网球
 
 105
-00:07:40,562 --> 00:07:42,277
-或者飞翔，但没有音乐。
-Or fly, but there is no music.
-O volar, pero no hay music.
+00:06:26,007 --> 00:06:30,440
+你在球场上有很多标志性时刻
 
 106
-00:07:55,169 --> 00:07:59,074
-我们来谈谈国家队、世界杯等等。
-Let's talk a little about the national team, the World Cup, about all that.
-Vamos a hablar un poco de la selección, del Mundial, de todo eso.
+00:06:30,440 --> 00:06:32,965
+有什么有趣的事情是我们不知道的吗？
 
 107
-00:08:03,265 --> 00:08:03,677
-你准备好了吗？
-Are you ready?
-¿Estás listo?
+00:06:33,080 --> 00:06:34,800
+和球迷在一起的趣事太多了
 
 108
-00:08:06,892 --> 00:08:09,542
-Leo，你会参加 2026 年美国世界杯吗？
-Leo, are you going to play in the 2026 World Cup in the United States?
-Leo, ¿vas a jugar al Mundial 2026 de Estados Unidos?
+00:06:34,800 --> 00:06:37,600
+有时候球迷会变得特别疯狂
 
 109
-00:08:09,723 --> 00:08:12,834
-我知道，事实是他们问过我很多次，尤其是......
-I know, the truth is that they asked me a lot of times, especially...
-Yo lo sé, la verdad es que me lo preguntaron un montón de veces, sobre todo...
+00:06:37,600 --> 00:06:40,320
+让人难以置信
 
 110
-00:08:13,116 --> 00:08:16,512
-在阿根廷，我希望今年能够取得好成绩，我希望能够开始。
-in Argentina and I hope to finish well this year, I hope to start.
-en Argentina y espero terminar bien este año, espero empezar.
+00:06:40,397 --> 00:06:44,520
+我来自阿根廷,那里的人非常
 
 111
-00:08:17,456 --> 00:08:22,849
-这一年是非常好的季前赛，去年我没有参加过所有的旅行……
-A year being a very good preseason, which I didn't have last year with all the trips that...
-Un año siendo una muy buena pretemporada, la cual no la tuve el año pasado con todos los viajes que...
+00:06:45,480 --> 00:06:48,480
+热情,善于表达,而且
 
 112
-00:08:23,470 --> 00:08:28,809
-我们拥有却一无所有，从那里开始，看看我的感觉如何，很好。
-that we had and nothing, from there, seeing how I feel and good.
-que tuvimos y nada, a partir de ahí, viendo cómo me siento y bien.
+00:06:49,040 --> 00:06:51,760
+为了见到我可以做任何事
 
 113
-00:08:30,072 --> 00:08:32,696
-我知道我们同时很接近。
-I know we are close at the same time.
-Sé que estamos cerquita al mismo tiempo.
+00:06:51,760 --> 00:06:53,520
+只是为了打个招呼，合个影
 
 114
-00:08:33,237 --> 00:08:36,986
-已经过去很长一段时间了，足球界发生了很多事情，所以......
-It's a long time and a lot of things happen in football so...
-es mucho tiempo y en el fútbol pasan muchísimas cosas así que...
+00:06:53,520 --> 00:06:55,957
+只是为了靠近我 可以做任何事
 
 115
-00:08:37,648 --> 00:08:40,392
-我不认为，只是生活...
-that I don't think, just live the...
-que no pienso, simplemente vivir el...
+00:06:55,957 --> 00:06:58,285
+意大利也一样，一切都相似 - 是的！
 
 116
-00:08:42,074 --> 00:08:43,519
-日复一日，不去思考其他事情。
-The day to day without thinking beyond.
-El día a día sin pensar más allá.
+00:06:58,285 --> 00:07:00,485
+或者类似的事情
 
 117
-00:08:43,940 --> 00:08:45,926
-您职业生涯的下一步是什么？
-What is the next step in your career?
-¿Cuál es el próximo paso de tu carrera?
+00:07:00,514 --> 00:07:04,806
+所以我记不清了,但确实经历了很多疯狂的事
 
 118
-00:08:46,066 --> 00:08:47,831
-成为一名教练还是其他什么？
-Be a coach or something different?
-¿Ser entrenador o algo diferente?
+00:07:04,806 --> 00:07:08,916
+比赛前你有什么特别的放松习惯吗
 
 119
-00:08:48,559 --> 00:08:49,903
-我不知道，我真的不知道。
-I don't know, I really don't know.
-No lo sé, la verdad que no lo sé.
+00:07:09,120 --> 00:07:11,160
+在更衣室听音乐
 
 120
-00:08:51,467 --> 00:08:54,335
-我知道我不喜欢哪位教练。
-I know which coach I think I wouldn't like.
-Sé que entrenador creo que no me gustaría.
+00:07:11,160 --> 00:07:13,200
+喝马黛茶
 
 121
-00:08:55,157 --> 00:08:59,974
-我不想成为这样的人，但我真的不确定自己能成为什么。
-I wouldn't like to be, but I'm not sure what I can be, really.
-No me gustaría ser, pero tampoco tengo claro qué es lo que puedo llegar a ser, la verdad.
+00:07:13,200 --> 00:07:15,400
+这要看比赛的时间
 
 122
-00:08:59,994 --> 00:09:01,700
-我更看重一切。
-I value everything that is much more.
-Valoro muchísimo más todo lo que es.
+00:07:15,400 --> 00:07:17,120
+但也没什么特别的
 
 123
-00:09:02,141 --> 00:09:07,991
-我每天的生活都是我以前做过的，所以我只想着玩耍……
-What I live on a day-to-day basis, that I did before, so I only think about playing and...
-Lo que vivo en el día a día, que antes por ahí, así que pienso solo en jugar y en...
+00:07:17,320 --> 00:07:19,000
+说说你在美食方面
 
 124
-00:09:08,672 --> 00:09:09,717
-训练并度过一生。
-Train and get through life.
-Entrenar y pasar la vida.
+00:07:19,000 --> 00:07:20,240
+最大的享受是什么
 
 125
-00:09:10,038 --> 00:09:12,348
-Leo，最后一个问题是我想给你看一些东西。
-Leo, the last question is I want to show you something.
-Leo, la última pregunta es quiero mostrarte algo.
+00:07:20,240 --> 00:07:21,440
+冰淇淋
 
 126
-00:09:12,850 --> 00:09:15,697
-您希望我们如何记住您？
-How do you want us to remember you?
-¿Cómo quieres que te vamos a recordar?
+00:07:21,440 --> 00:07:25,160
+实际上我对食物没那么执着
 
 127
-00:09:16,158 --> 00:09:17,822
-喜欢家里的孩子吗？
-Like the kid of the family?
-¿Cómo el pibe de la familia?
+00:07:25,160 --> 00:07:26,766
+但很喜欢甜点 
 
 128
-00:09:18,043 --> 00:09:19,667
-当然，永远和家人在一起。
-Of course, always with your family.
-Claro, con tu familia siempre.
+00:07:27,245 --> 00:07:31,280
+我们知道你超级英雄的粉丝
 
 129
-00:09:20,568 --> 00:09:26,172
-就像饥饿的梅西一样，他赢得了一切，但总是渴望赢得更多。
-like the hungry Leo Messi who won everything but is always hungry to win more.
-como el Leo Messi con hambre que ganó todo pero sigue siempre con hambre de ganar más.
+00:07:31,560 --> 00:07:35,480
+如果有Leo Messi的超级英雄,会有什么超能力
 
 130
-00:09:27,093 --> 00:09:30,364
-或者是征服世界的 Eumessi、Pibre del Rosario。
-or the Eumessi, the Pibre del Rosario who conquered the world.
-o el Eumessi, el Pibre del Rosario que conquistó el mundo.
+00:07:38,019 --> 00:07:42,677
+隐形或者飞翔,还是隐形吧
 
 131
-00:09:30,545 --> 00:09:31,729
-这三者你更喜欢哪一个？
-Which of the three do you prefer?
-¿Cuál de las tres prefieres?
+00:07:55,169 --> 00:07:59,560
+我们来谈谈国家队、世界杯和所有这些
 
 132
-00:09:33,647 --> 00:09:37,721
-事实是，人们随心所欲地记住我。
-The truth is that people remember me however they want.
-La verdad es que la gente me recuerde como quiera.
+00:08:03,015 --> 00:08:04,002
+准备好了吗
 
 133
-00:09:37,741 --> 00:09:38,864
-我很感激。
-I am grateful.
-Yo soy un agradecido.
+00:08:06,760 --> 00:08:09,760
+Leo,你会参加2026年在美国的世界杯吗
 
 134
-00:09:40,891 --> 00:09:43,218
-他的职业生涯以及所取得的成就。
-of the career he had and of having been able to achieve.
-de la carrera que tuvo y de haber podido conseguir.
+00:08:09,760 --> 00:08:12,160
+我不知道,实际上很多人问过我这个问题
 
 135
-00:09:44,702 --> 00:09:49,366
-我在那里取得的一切成就让我很幸运能够实现最伟大的梦想。
-Everything I achieved there I was lucky to achieve the greatest dream that was.
-Todo lo que conseguí hacia allá tuve la suerte de conseguir el mayor sueño que era.
+00:08:12,160 --> 00:08:15,920
+特别是在阿根廷,我希望今年能好好结束
 
 136
-00:09:50,347 --> 00:09:55,156
-赢得世界杯，我付出了如此多的努力，付出了如此多的代价，我很幸运......
-win the World Cup, which I struggled so much and cost so much, I was lucky enough to...
-ganar el Mundial, que tanto me lié y tanto costó, tuve la suerte de...
+00:08:15,920 --> 00:08:19,880
+明年有希望一个很好的季前准备
 
 137
-00:09:55,456 --> 00:10:01,455
-与巴塞罗那一起赢得一切，与国家队一起，拥有美好的生活和美好的家庭。
-to win everything with Barcelona, ​​with the national team, have a life and a beautiful family.
-de ganar todo con el Barcelona, con la selección, tener una vida y una familia hermosa.
+00:08:19,880 --> 00:08:24,880
+这是我去年因为频繁的旅行而没有的
 
 138
-00:10:02,298 --> 00:10:08,471
-我感谢上帝让我感动的一切，人们记得我……
-that I am grateful to God for everything that has touched me and that people remember me as...
-que soy un agradecido a Dios por todo lo que me tocó y que la gente me recuerde como...
+00:08:24,880 --> 00:08:28,280
+然后看看我感觉如何
 
 139
-00:10:09,710 --> 00:10:10,631
-你有最喜欢的吗？
-Do you have a favorite?
-¿Tienes una favorita?
+00:08:28,280 --> 00:08:33,160
+我知道时间很近了,但同时
 
 140
-00:10:10,731 --> 00:10:12,032
-您最喜欢的图形？
-A graphic that you like the most?
-¿Una gráfica que te gusta más?
+00:08:33,237 --> 00:08:37,640
+时间也很长,足球中会发生很多事情
 
 141
-00:10:12,172 --> 00:10:13,573
-是的，家人，永远是家人。
-Yes, the family, always the family.
-Sí, la familia, siempre la familia.
+00:08:37,648 --> 00:08:43,519
+所以我不去想,只是活在当下,不想太远 
 
 142
-00:10:13,593 --> 00:10:14,714
-来吧，我们签一下这个。
-Come on, let's sign this one.
-Vamos, firmamos esta.
+00:08:43,519 --> 00:08:45,926
+你对职业生涯的下一步有什么规划
 
 143
-00:10:14,734 --> 00:10:15,855
-我们就是这样。
-We do like this.
-Hacemos así.
+00:08:45,926 --> 00:08:48,480
+成为教练还是做些其他的事
 
 144
-00:10:16,758 --> 00:10:17,729
-如果你不能签字...
-If you can't sign it...
-Si no se la puede firmar...
+00:08:48,559 --> 00:08:51,360
+我不知道,说实话我不知道
 
 145
-00:10:21,849 --> 00:10:22,812
-不，谢谢。
-No, thanks.
-No, gracias.
+00:08:51,467 --> 00:08:56,240
+我觉得我不会喜欢当教练
 
 146
-00:10:24,316 --> 00:10:25,559
-谢谢 Neu 接受采访。
-Thanks, Neu, for the interview.
-Gracias, Neu, por la entrevista.
+00:08:56,607 --> 00:08:59,974
+我不想当教练,但我也不清楚我可能会成为什么
 
 147
-00:10:25,700 --> 00:10:26,622
-这是一种乐趣。
-It has been a pleasure.
-Ha sido un placer.
+00:08:59,994 --> 00:09:01,700
+我现在更珍惜的是
 
 148
-00:10:26,743 --> 00:10:27,064
-谢谢。
-Gracias.
-Gracias.
+00:09:02,141 --> 00:09:07,991
+每天的生活,比以前更加珍惜,所以我只想着踢球和
+
+149
+00:09:07,991 --> 00:09:09,717
+训练 以及享受生活
+
+150
+00:09:10,038 --> 00:09:12,850
+Leo,最后一个问题,我想给你看点东西
+
+151
+00:09:12,850 --> 00:09:15,697
+你希望人们如何记住你
+
+152
+00:09:16,158 --> 00:09:17,822
+是一个顾家的
+
+153
+00:09:18,043 --> 00:09:19,667
+总是和家人在一起的梅西
+
+154
+00:09:20,568 --> 00:09:26,960
+还是那个赢得一切但仍然渴望赢得更多的梅西
+
+155
+00:09:27,093 --> 00:09:30,520
+或者是那个征服世界的罗萨里奥小孩
+
+156
+00:09:30,545 --> 00:09:31,729
+这三个你更喜欢哪一个
+
+157
+00:09:33,647 --> 00:09:37,721
+说实话,人们想怎么记住我都可以
+
+158
+00:09:37,741 --> 00:09:42,375
+我很感激我能够拥有这样的职业生涯
+
+159
+00:09:42,375 --> 00:09:44,702
+实现了所有的成就
+
+160
+00:09:44,702 --> 00:09:51,225
+感谢上帝 我有幸实现了最大的梦想 赢得世界杯
+
+161
+00:09:51,225 --> 00:09:54,450
+我为之奋斗了那么久,付出了那么多
+
+162
+00:09:54,450 --> 00:09:58,941
+我很幸运在巴塞罗那赢得了一切,在国家队也是 
+
+163
+00:09:58,941 --> 00:10:01,455
+拥有美好的生活和家庭
+
+164
+00:10:01,455 --> 00:10:08,471
+感谢上帝给予我的一切 人们可以以他们想要的方式记住我
+
+165
+00:10:09,710 --> 00:10:10,631
+你有最喜欢的吗
+
+166
+00:10:10,731 --> 00:10:12,200
+有一个图片你最喜欢吗
+
+167
+00:10:12,200 --> 00:10:13,601
+是的,家庭那张,永远是家庭
+
+168
+00:10:13,601 --> 00:10:14,722
+好,我们签这张
+
+169
+00:10:14,840 --> 00:10:17,880
+就这样，请你给我们签个名
+
+170
+00:10:24,316 --> 00:10:25,559
+Leo，谢谢你接受采访
+
+171
+00:10:25,700 --> 00:10:26,622
+很荣幸
+
+172
+00:10:26,743 --> 00:10:27,339
+谢谢
 
