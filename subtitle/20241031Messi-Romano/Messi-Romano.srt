@@ -1,592 +1,1548 @@
 1
-00:00:08,895 --> 00:00:10,508
+00:00:08,680 --> 00:00:10,560
 Leo, tenemos unas preguntas para ti.
 
 2
-00:00:21,328 --> 00:00:22,454
+00:00:21,328 --> 00:00:24,880
 Leo, ¿vas a jugar en el Mundial 2026?
 
 3
-00:00:36,607 --> 00:00:36,788
-No.
+00:00:34,520 --> 00:00:36,360
+Have you met before?
 
 4
-00:00:36,928 --> 00:00:37,469
-Primera vez.
+00:00:36,360 --> 00:00:37,469
+No,First time.
 
 5
-00:00:37,749 --> 00:00:39,353
+00:00:37,560 --> 00:00:39,320
 Gracias por tu tiempo y la oportunidad.
 
 6
-00:00:39,573 --> 00:00:39,934
+00:00:39,320 --> 00:00:39,353
 Gracias.
 
 7
-00:00:41,724 --> 00:00:42,712
-¿Estás listo, Freddy?
+00:00:39,353 --> 00:00:39,934
+Gracias.
 
 8
+00:00:41,480 --> 00:00:42,480
+So, are you ready?
+
+9
 00:00:42,752 --> 00:00:43,397
 Aquí vamos.
 
-9
-00:00:47,463 --> 00:00:52,862
+10
+00:00:47,463 --> 00:00:48,800
+And we start
+
+11
+00:00:48,800 --> 00:00:52,862
 Empezamos del principio, de los campos europeos hasta llegar aquí a la MLS.
 
-10
+12
 00:00:53,283 --> 00:00:56,950
 ¿Qué te atrajo de jugar aquí en el Inter Miami y en Estados Unidos?
 
-11
+13
 00:00:57,350 --> 00:01:03,401
 La verdad es que el momento que estaba el club recién iniciando y el momento que estaba...
 
-12
+14
 00:01:04,269 --> 00:01:08,787
 Estaba yo también, creo que consiguieron muchísimas cosas para que se dé y ya dé.
 
-13
+15
 00:01:09,470 --> 00:01:12,744
 de ayudar a ese crecimiento me sedujo.
 
-14
+16
 00:01:13,587 --> 00:01:19,732
 Y bueno, estoy feliz ¿En qué se diferencia la MLS comparada con otras competiciones?
 
-15
+17
 00:01:20,695 --> 00:01:25,416
 Hay mucha pasión, cosa que por ahí desconocía un poco porque sabía de la pasión por...
 
-16
+18
 00:01:26,058 --> 00:01:31,749
 basque, béisbol, fútbol americano, por ahí el fútbol era un poco menos, pero me sorprendió muchísimo.
 
-17
+19
 00:01:31,749 --> 00:01:38,511
 Es una liga muy competitiva donde ir de visitante a todo el equipo le cuesta porque el equipo se hace fuerte.
 
-18
+20
 00:01:38,992 --> 00:01:42,816
 El ir a cualquier parte de Estados Unidos y ver los estadios llenos.
 
-19
+21
 00:01:44,578 --> 00:01:48,230
 muy fanático de sus equipos.
 
-20
+22
 00:01:48,551 --> 00:01:50,237
 Me sorprendió porque no conocía.
 
-21
+23
 00:01:51,400 --> 00:01:53,824
 Lo disfruto y me gusta lo que viví.
 
-22
+24
 00:01:53,844 --> 00:01:54,345
 ¿Y qué?
 
-23
+25
 00:01:55,608 --> 00:01:57,994
 ¿Opinas un poco de los talentos que también hay aquí en MLS?
 
-24
+26
 00:01:58,054 --> 00:02:00,261
 Están metiendo mucho en los talentos para el futuro.
 
-25
+27
 00:02:00,541 --> 00:02:06,510
 La verdad es que es una linda oportunidad para la gente joven, también es una linda oportunidad y un momento para que la Liga sea el siguiente.
 
-26
+28
 00:02:06,650 --> 00:02:09,858
 y puede ayudar al crecimiento de la MLS y de los chifos.
 
-27
+29
 00:02:09,918 --> 00:02:13,487
 Y creo que todo esto ayuda para que puedan seguir saliendo mucho más todavía.
 
-28
+30
 00:02:13,529 --> 00:02:13,662
 ¡Vamos!
 
-29
+31
 00:02:17,130 --> 00:02:22,531
 ¿Vos cambiaste un poco de estilo con el llegar al MLS, un poco menos de driblar y más de pasar, no?
 
-30
+32
 00:02:23,072 --> 00:02:25,858
 Fui cambiando un poco de estilo también por el momento, por plan.
 
-31
+33
 00:02:26,579 --> 00:02:32,959
 mi edad, fui adaptando un poco a todo, me fui reinventando yo y adaptándome a la Liga también, que para mí era
 
-32
+34
 00:02:33,361 --> 00:02:36,751
 Era nuevo y me sentí muy cómodo desde el principio.
 
-33
+35
 00:02:36,892 --> 00:02:38,617
 Quería preguntarte un poco de balance, ¿no?
 
-34
+36
 00:02:38,637 --> 00:02:39,239
 De esta primera...
 
-35
+37
 00:02:40,061 --> 00:02:41,724
 Es experiencia en MLS.
 
-36
+38
 00:02:41,805 --> 00:02:44,831
 Tú has llegado el primer año completo, luego pasaste por la Copa América.
 
-37
+39
 00:02:45,211 --> 00:02:50,159
 y ya inmediatamente claro, algunos desafíos, ganando, ahora llegan los playoffs, es un momento importante.
 
-38
+40
 00:02:50,359 --> 00:02:53,362
 ¿Qué opinas del camino hasta ahora en NMDS?
 
-39
+41
 00:02:53,622 --> 00:02:55,464
 Fue todo un poco espectacular, ¿no?
 
-40
+42
 00:02:55,984 --> 00:02:59,909
 porque nosotros llegábamos y siempre para ser el Grano Club necesitábamos ganar.
 
-41
+43
 00:03:00,510 --> 00:03:03,699
 El título se competitivo, el club venía de un año malo en el MLS.
 
-42
+44
 00:03:04,381 --> 00:03:10,321
 y al poco tiempo de poder llegar yo conseguimos la League Cup, el primer título para el club, que fue algo extraordinario.
 
-43
+45
 00:03:10,401 --> 00:03:13,164
 para todos y ahora con muchas ganas y muchas deseamos de...
 
-44
+46
 00:03:13,806 --> 00:03:18,167
 de poder afrontar estos playoffs, ganar la MLS y levantar otro título.
 
-45
+47
 00:03:18,910 --> 00:03:23,748
 a nivel personal y sobre todo al club que tanto hizo para que eso pase.
 
-46
+48
 00:03:26,502 --> 00:03:33,279
 ¿Dónde puede llegar este equipo y cuál objetivo te gustaría alcanzar como jugador del Inter Miami con este equipo?
 
-47
+49
 00:03:33,620 --> 00:03:34,926
 El Cluj no se pone límite por...
 
-48
+50
 00:03:37,700 --> 00:03:40,618
 porque esa es la filosofía de ellos, de querer siempre...
 
-49
+51
 00:03:41,195 --> 00:03:44,857
 de querer siempre más y quedó demostrado por todo lo que hicieron hasta...
 
-50
+52
 00:03:45,500 --> 00:03:51,792
 hasta el momento y poder seguir creciendo y poder ser grande dentro de la MLS y por qué no dentro de...
 
-51
+53
 00:03:52,497 --> 00:03:53,021
 ¿Dónde?
 
-52
+54
 00:03:53,182 --> 00:03:53,344
 ¿Dónde?
 
-53
+55
 00:04:09,312 --> 00:04:11,837
 Ahora quería preguntarte un poco por la emoción de lo que llega.
 
-54
+56
 00:04:11,857 --> 00:04:15,123
 Los playoff de la MLS es un momento muy importante.
 
-55
+57
 00:04:15,545 --> 00:04:20,441
 pero el primero ha sido romper también el récord de puntos en la temporada.
 
-56
+58
 00:04:20,902 --> 00:04:23,106
 Esto ha sido muy especial para vosotros.
 
-57
+59
 00:04:23,467 --> 00:04:25,270
 ¿Cómo celebró el equipo después de eso?
 
-58
+60
 00:04:25,871 --> 00:04:31,110
 Nos pusimos felices y festejamos por el logro, porque era algo...
 
-59
+61
 00:04:31,872 --> 00:04:37,118
 algo difícil e importante, pero somos conscientes de que el verdadero título que queremos es la
 
-60
+62
 00:04:37,378 --> 00:04:43,563
 la MLS y que vamos a pelear por ello y estar mentalizados en los play-offs.
 
-61
+63
 00:04:43,843 --> 00:04:47,817
 ¿Cuáles van a ser los factores clave para hacer algo histórico?
 
-62
+64
 00:04:47,857 --> 00:04:49,904
 Durante el año tuvimos muchos...
 
-63
+65
 00:04:50,465 --> 00:04:54,890
 ...muchos errores los cuales podemos evitar porque muchas veces fueron...
 
-64
+66
 00:04:57,196 --> 00:04:59,688
 Error muy tonto, por decirlo de...
 
-65
+67
 00:05:00,189 --> 00:05:05,878
 de alguna forma y que en estos play-offs no nos pueden pasar porque te puede costar la
 
-66
+68
 00:05:06,539 --> 00:05:11,945
 ...de eliminación y después tenemos que ser aún más fuertes... ...y aprovechar esa ventaja que conseguimos".
 
-67
+69
 00:05:12,226 --> 00:05:15,234
 ¿Cómo ves las chances del Inter Miami de ganar la MSS Cup?
 
-68
+70
 00:05:15,836 --> 00:05:22,014
 Creo que somos uno de los favoritos, pero creo que también hay equipos duros que van a ser
 
-69
+71
 00:05:22,415 --> 00:05:29,252
 rivales muy difíciles y que no nos van a revelar nada, pero creo que los demás equipos también nos respetan a nosotros como a nosotros ellos.
 
-70
+72
 00:05:29,313 --> 00:05:29,735
 ¡Adiós, amigos!
 
-71
+73
 00:05:37,574 --> 00:05:40,341
 Unas preguntas rápidas de 4-3-3 en nuestro estilo.
 
-72
+74
 00:05:40,842 --> 00:05:42,666
 ¿Cuándo estás en casa con tus hijos?
 
-73
+75
 00:05:43,048 --> 00:05:44,554
 ¡Qué juego juega!
 
-74
+76
 00:05:44,594 --> 00:05:45,076
 ¡La pelota!
 
-75
+77
 00:05:46,562 --> 00:05:50,447
 Todo el fútbol siempre pasa por algún partidito, algunos toques, algunos pases.
 
-76
+78
 00:05:52,510 --> 00:05:55,243
 La play a veces, pero generalmente...
 
-77
+79
 00:05:56,628 --> 00:05:59,712
 Y le das consejos cuando vuelves a jugar con la pelota, ¿qué le decís?
 
-78
+80
 00:05:59,872 --> 00:06:01,414
 Depende del momento, depende...
 
-79
+81
 00:06:02,435 --> 00:06:05,581
 a cual de los tres también, porque alguno es más calentón que otro.
 
-80
+82
 00:06:06,863 --> 00:06:09,051
 Sí, pero juego con él y también eso me da...
 
-81
+83
 00:06:11,520 --> 00:06:15,547
 Me dan consejos, me critican a mí también cuando ven a compartir.
 
-82
+84
 00:06:15,988 --> 00:06:18,916
 ¿Qué otros deportes te gusta practicar afuera del fútbol?
 
-83
+85
 00:06:19,338 --> 00:06:21,223
 Me gusta el padel, me gusta...
 
-84
+86
 00:06:21,865 --> 00:06:25,625
 El basque, tenis, pero practicar me gusta mucho.
 
-85
+87
 00:06:26,007 --> 00:06:28,960
 Has tenido muchísimos momentos icónicos en la cancha.
 
-86
+88
 00:06:29,542 --> 00:06:32,965
 afuera de ella algo divertido que no conocemos.
 
-87
+89
 00:06:33,125 --> 00:06:35,807
 Tantas cosas con la gente, la gente hace tanta...
 
-88
+90
 00:06:36,568 --> 00:06:40,157
 Tanta locura a veces que no se puede creer.
 
-89
+91
 00:06:40,397 --> 00:06:43,043
 Yo soy de Argentina, que la gente es muy...
 
-90
+92
 00:06:45,553 --> 00:06:48,325
 apasionada, demostrativa y que es capaz de
 
-91
+93
 00:06:49,087 --> 00:06:54,393
 de hacer cualquier cosa, por saludarte, por una foto, por estar cerca.
 
-92
+94
 00:06:55,957 --> 00:06:58,285
 bueno en Italia también, todo parecido
 
-93
+95
 00:07:00,514 --> 00:07:04,806
 Así que no me acuerdo, pero la verdad es que pasé por mucha locura.
 
-94
+96
 00:07:05,006 --> 00:07:08,916
 ¿Tienes alguna rutina especial para relajarte antes de un partido?
 
-95
+97
 00:07:12,537 --> 00:07:16,867
 tomar mate, depende de la hora del partido, pero nada, pesé.
 
-96
+98
 00:07:17,329 --> 00:07:20,040
 Tu placer culposo cuando se trata de comida.
 
-97
+99
 00:07:20,381 --> 00:07:21,044
 El helado.
 
-98
+100
 00:07:21,506 --> 00:07:22,028
 La verdad que...
 
-99
+101
 00:07:23,132 --> 00:07:26,904
 No soy tanto de comida, pero sí de los postres.
 
-100
+102
 00:07:27,245 --> 00:07:29,509
 Sabemos que sos fan de los muñecos de acción, ¿no?
 
-101
+103
 00:07:30,170 --> 00:07:30,891
 De superhéroes.
 
-102
+104
 00:07:31,332 --> 00:07:33,675
 Si hubiera uno de Leo Messi, qué superpoder tendría.
 
-103
+105
 00:07:34,376 --> 00:07:37,259
 Un museo.
 
-104
+106
 00:07:38,019 --> 00:07:38,500
 Un museo león.
 
-105
+107
 00:07:40,562 --> 00:07:42,277
 O volar, pero no hay music.
 
-106
+108
 00:07:55,169 --> 00:07:59,074
 Vamos a hablar un poco de la selección, del Mundial, de todo eso.
 
-107
+109
 00:08:03,265 --> 00:08:03,677
 ¿Estás listo?
 
-108
+110
 00:08:06,892 --> 00:08:09,542
 Leo, ¿vas a jugar al Mundial 2026 de Estados Unidos?
 
-109
+111
 00:08:09,723 --> 00:08:12,834
 Yo lo sé, la verdad es que me lo preguntaron un montón de veces, sobre todo...
 
-110
+112
 00:08:13,116 --> 00:08:16,512
 en Argentina y espero terminar bien este año, espero empezar.
 
-111
+113
 00:08:17,456 --> 00:08:22,849
 Un año siendo una muy buena pretemporada, la cual no la tuve el año pasado con todos los viajes que...
 
-112
+114
 00:08:23,470 --> 00:08:28,809
 que tuvimos y nada, a partir de ahí, viendo cómo me siento y bien.
 
-113
+115
 00:08:30,072 --> 00:08:32,696
 Sé que estamos cerquita al mismo tiempo.
 
-114
+116
 00:08:33,237 --> 00:08:36,986
 es mucho tiempo y en el fútbol pasan muchísimas cosas así que...
 
-115
+117
 00:08:37,648 --> 00:08:40,392
 que no pienso, simplemente vivir el...
 
-116
+118
 00:08:42,074 --> 00:08:43,519
 El día a día sin pensar más allá.
 
-117
+119
 00:08:43,940 --> 00:08:45,926
 ¿Cuál es el próximo paso de tu carrera?
 
-118
+120
 00:08:46,066 --> 00:08:47,831
 ¿Ser entrenador o algo diferente?
 
-119
+121
 00:08:48,559 --> 00:08:49,903
 No lo sé, la verdad que no lo sé.
 
-120
+122
 00:08:51,467 --> 00:08:54,335
 Sé que entrenador creo que no me gustaría.
 
-121
+123
 00:08:55,157 --> 00:08:59,974
 No me gustaría ser, pero tampoco tengo claro qué es lo que puedo llegar a ser, la verdad.
 
-122
+124
 00:08:59,994 --> 00:09:01,700
 Valoro muchísimo más todo lo que es.
 
-123
+125
 00:09:02,141 --> 00:09:07,991
 Lo que vivo en el día a día, que antes por ahí, así que pienso solo en jugar y en...
 
-124
+126
 00:09:08,672 --> 00:09:09,717
 Entrenar y pasar la vida.
 
-125
+127
 00:09:10,038 --> 00:09:12,348
 Leo, la última pregunta es quiero mostrarte algo.
 
-126
+128
 00:09:12,850 --> 00:09:15,697
 ¿Cómo quieres que te vamos a recordar?
 
-127
+129
 00:09:16,158 --> 00:09:17,822
 ¿Cómo el pibe de la familia?
 
-128
+130
 00:09:18,043 --> 00:09:19,667
 Claro, con tu familia siempre.
 
-129
+131
 00:09:20,568 --> 00:09:26,172
 como el Leo Messi con hambre que ganó todo pero sigue siempre con hambre de ganar más.
 
-130
+132
 00:09:27,093 --> 00:09:30,364
 o el Eumessi, el Pibre del Rosario que conquistó el mundo.
 
-131
+133
 00:09:30,545 --> 00:09:31,729
 ¿Cuál de las tres prefieres?
 
-132
+134
 00:09:33,647 --> 00:09:37,721
 La verdad es que la gente me recuerde como quiera.
 
-133
+135
 00:09:37,741 --> 00:09:38,864
 Yo soy un agradecido.
 
-134
+136
 00:09:40,891 --> 00:09:43,218
 de la carrera que tuvo y de haber podido conseguir.
 
-135
+137
 00:09:44,702 --> 00:09:49,366
 Todo lo que conseguí hacia allá tuve la suerte de conseguir el mayor sueño que era.
 
-136
+138
 00:09:50,347 --> 00:09:55,156
 ganar el Mundial, que tanto me lié y tanto costó, tuve la suerte de...
 
-137
+139
 00:09:55,456 --> 00:10:01,455
 de ganar todo con el Barcelona, con la selección, tener una vida y una familia hermosa.
 
-138
+140
 00:10:02,298 --> 00:10:08,471
 que soy un agradecido a Dios por todo lo que me tocó y que la gente me recuerde como...
 
-139
+141
 00:10:09,710 --> 00:10:10,631
 ¿Tienes una favorita?
 
-140
+142
 00:10:10,731 --> 00:10:12,032
 ¿Una gráfica que te gusta más?
 
-141
+143
 00:10:12,172 --> 00:10:13,573
 Sí, la familia, siempre la familia.
 
-142
+144
 00:10:13,593 --> 00:10:14,714
 Vamos, firmamos esta.
 
-143
+145
 00:10:14,734 --> 00:10:15,855
 Hacemos así.
 
-144
+146
 00:10:16,758 --> 00:10:17,729
 Si no se la puede firmar...
 
-145
+147
 00:10:21,849 --> 00:10:22,812
 No, gracias.
 
-146
+148
 00:10:24,316 --> 00:10:25,559
 Gracias, Neu, por la entrevista.
 
-147
+149
 00:10:25,700 --> 00:10:26,622
 Ha sido un placer.
 
-148
+150
 00:10:26,743 --> 00:10:27,064
 Gracias.
+
+1
+00:00:08,680 --> 00:00:10,560
+Leo, we have some questions for you.
+
+2
+00:00:21,280 --> 00:00:24,880
+Leo, are you going to play at the 2026 World Cup?
+
+3
+00:00:34,520 --> 00:00:36,360
+Have you met before?
+
+4
+00:00:36,360 --> 00:00:37,560
+No, first time.
+
+5
+00:00:37,560 --> 00:00:39,320
+Thank you for your time and the opportunity.
+
+6
+00:00:39,360 --> 00:00:39,960
+Thank you.
+
+7
+00:00:41,480 --> 00:00:42,480
+So, are you ready?
+
+8
+00:00:42,480 --> 00:00:43,320
+We are ready.
+
+9
+00:00:43,320 --> 00:00:44,720
+Good. Here we go.
+
+10
+00:00:48,800 --> 00:00:49,920
+Beginning with the European pitches,
+
+11
+00:00:49,920 --> 00:00:53,120
+until now in MLS.
+
+12
+00:00:53,120 --> 00:00:56,200
+What attracted you to play here at Inter Miami,
+
+13
+00:00:56,200 --> 00:00:57,320
+in the United States?
+
+14
+00:00:57,320 --> 00:00:57,960
+Well, the truth is...
+
+15
+00:00:58,080 --> 00:01:00,840
+...the club at the time...
+
+16
+00:01:00,840 --> 00:01:02,520
+was just starting out.
+
+17
+00:01:02,520 --> 00:01:04,920
+And the moment that Iwas going through,
+
+18
+00:01:04,920 --> 00:01:06,560
+I think that...
+
+19
+00:01:06,560 --> 00:01:08,520
+a lot of reasons to make it happen.
+
+20
+00:01:08,520 --> 00:01:09,280
+And the idea of...
+
+21
+00:01:09,280 --> 00:01:11,040
+...of helping it [Inter Miami] grow,
+
+22
+00:01:11,040 --> 00:01:13,480
+it intrigued me, and...
+
+23
+00:01:13,480 --> 00:01:15,600
+And well, I'm happy.
+
+24
+00:01:15,600 --> 00:01:17,720
+How does MLS differ...
+
+25
+00:01:17,720 --> 00:01:20,320
+compared to other competitions?
+
+26
+00:01:20,320 --> 00:01:21,800
+There's a lot of passion [in MLS].
+
+27
+00:01:21,800 --> 00:01:23,960
+That's something thatd honestly wasn't aware of.
+
+28
+00:01:23,960 --> 00:01:26,960
+I was aware of the passion for basketball, baseball,
+
+29
+00:01:26,960 --> 00:01:27,720
+American football,
+
+30
+00:01:27,720 --> 00:01:30,720
+and maybe, to a lesser degree, football.
+
+31
+00:01:30,720 --> 00:01:32,480
+It really surprised me.
+
+32
+00:01:32,480 --> 00:01:34,280
+It is a very competitive league.
+
+33
+00:01:34,280 --> 00:01:36,920
+It is hard for teams to be the visitors,
+
+34
+00:01:36,920 --> 00:01:39,720
+because there's strong local support.
+
+35
+00:01:39,760 --> 00:01:41,280
+Wherever you go, anywhere in the United States,
+
+36
+00:01:41,280 --> 00:01:42,880
+you see packed stadiums,
+
+37
+00:01:42,960 --> 00:01:45,480
+HEIPIONSa lot of people that are devoted
+
+38
+00:01:45,480 --> 00:01:48,240
+a lot of support for their local team.
+
+39
+00:01:48,360 --> 00:01:51,080
+All of that really surprised me, because I didn't know.
+
+40
+00:01:51,080 --> 00:01:54,640
+I enjoy it. I really like it.
+
+41
+00:01:54,760 --> 00:01:55,800
+And what do you think about…..
+
+42
+00:01:55,800 --> 00:01:56,800
+a couple of the talents...
+
+43
+00:01:56,840 --> 00:01:57,760
+who are here in MLS as well?
+
+44
+00:01:58,080 --> 00:01:58,800
+They're investing a lot...
+
+45
+00:01:58,960 --> 00:02:00,520
+in the talents for the future.
+
+46
+00:02:00,640 --> 00:02:03,200
+To be honest, I think it's a great opportunity for young players.
+
+47
+00:02:03,440 --> 00:02:05,400
+It is also a great opportunity, and
+
+48
+00:02:05,440 --> 00:02:05,920
+a result,
+
+49
+00:02:05,920 --> 00:02:06,840
+for the league to take a leap, and as
+
+50
+00:02:09,720 --> 00:02:10,880
+And I think all of this also helps
+
+51
+00:02:10,880 --> 00:02:13,240
+with the discovery of [young talent]
+
+52
+00:02:16,920 --> 00:02:19,000
+Did you change your playing style a little bit...
+
+53
+00:02:19,040 --> 00:02:20,280
+after the change to MLS,
+
+54
+00:02:20,320 --> 00:02:21,240
+a little less dribbling…..
+
+55
+00:02:21,280 --> 00:02:23,000
+and more passing, right?
+
+56
+00:02:23,040 --> 00:02:23,960
+I was changing my style of play a
+
+57
+00:02:23,960 --> 00:02:27,080
+also because of my situation, because of my age,
+
+58
+00:02:27,120 --> 00:02:28,440
+I was adapting a little bit to everything.
+
+59
+00:02:28,440 --> 00:02:29,200
+I started...
+
+60
+00:02:29,200 --> 00:02:30,840
+reinventing myself, and adapting...
+
+61
+00:02:30,840 --> 00:02:33,840
+to the league as well, so for me it was….
+
+62
+00:02:34,880 --> 00:02:36,080
+I felt very comfortable...
+
+63
+00:02:36,080 --> 00:02:36,760
+right from the start.
+
+64
+00:02:36,760 --> 00:02:38,440
+I wanted to ask you for a little bit of a review…..
+
+65
+00:02:38,440 --> 00:02:41,640
+of this first MLS experience.
+
+66
+00:02:41,640 --> 00:02:43,320
+You've completed a first full year,
+
+67
+00:02:43,320 --> 00:02:44,360
+then you went to the Copa América,
+
+68
+00:02:44,360 --> 00:02:45,680
+and now immediately,
+
+69
+00:02:45,680 --> 00:02:47,520
+of course, overcoming some challenges.
+
+70
+00:02:47,520 --> 00:02:49,040
+heacg
+
+71
+00:02:49,040 --> 00:02:50,080
+It's an important moment.
+
+72
+00:02:50,080 --> 00:02:51,640
+What do you think of your journey...
+
+73
+00:02:51,640 --> 00:02:53,440
+so far in MLS?
+
+74
+00:02:53,440 --> 00:02:57,080
+It was spectacular because we made it.
+
+75
+00:02:57,080 --> 00:03:00,760
+To build up a club, you have to win titles….
+
+76
+00:03:00,760 --> 00:03:01,560
+and be competitive.
+
+77
+00:03:01,600 --> 00:03:04,200
+The club was coming off of a bad year in MLS.
+
+78
+00:03:04,200 --> 00:03:06,640
+A little after my arrival，
+
+79
+00:03:06,640 --> 00:03:07,640
+we won the Leagues Cup，
+
+80
+00:03:07,680 --> 00:03:08,920
+the first title for the club
+
+81
+00:03:09,000 --> 00:03:10,880
+It was something extraordinary for all of us.
+
+82
+00:03:10,920 --> 00:03:12,360
+And now we are eager and.
+
+83
+00:03:12,560 --> 00:03:14,120
+enthusiastic to be able to…..
+
+84
+00:03:14,120 --> 00:03:16,200
+confront these playoffs and hopefully be able to...
+
+85
+00:03:16,200 --> 00:03:18,720
+...win the MLS Cup and to get to raise another title.
+
+86
+00:03:18,840 --> 00:03:19,760
+On a personal level, but...
+
+87
+00:03:19,760 --> 00:03:22,040
+above all for the club that has done…
+
+88
+00:03:22,040 --> 00:03:23,840
+so much to make this happen.
+
+89
+00:03:23,840 --> 00:03:24,640
+F
+
+90
+00:03:26,440 --> 00:03:28,800
+Where do you think this team can go,
+
+91
+00:03:29,000 --> 00:03:31,480
+and what target would you like to
+
+92
+00:03:31,520 --> 00:03:32,720
+as an Inter Miami player…..
+
+93
+00:03:32,720 --> 00:03:34,120
+with this team in the long term?
+
+94
+00:03:34,120 --> 00:03:37,560
+The club doesn't limit itself...
+
+95
+00:03:37,600 --> 00:03:41,040
+...because it's their phillosophy...
+
+96
+00:03:41,040 --> 00:03:42,240
+of wanting more and more,
+
+97
+00:03:42,240 --> 00:03:46,720
+and it is demonstrated in what they've done so far,
+
+98
+00:03:46,720 --> 00:03:48,200
+and they continue to grow and...
+
+99
+00:03:48,200 --> 00:03:50,480
+to be great in MLS.
+
+100
+00:03:50,480 --> 00:03:53,600
+And why not： in the world.
+
+101
+00:03:54,600 --> 00:03:55,160
+1815
+
+102
+00:04:03,520 --> 00:04:03,960
+PLUS
+
+103
+00:04:09,160 --> 00:04:09,840
+And now, I wanted to...
+
+104
+00:04:09,880 --> 00:04:10,640
+ask you a little question...
+
+105
+00:04:10,640 --> 00:04:11,880
+about the excitement of what is coming up in the near future:
+
+106
+00:04:11,880 --> 00:04:14,000
+the MLS playoffs.
+
+107
+00:04:14,000 --> 00:04:15,520
+It's a very important moment,
+
+108
+00:04:15,520 --> 00:04:17,000
+but first of all...
+
+109
+00:04:17,000 --> 00:04:18,600
+you have broken the...
+
+110
+00:04:18,600 --> 00:04:20,880
+regular season points record.
+
+111
+00:04:20,880 --> 00:04:22,440
+This was very special for...
+
+112
+00:04:22,440 --> 00:04:23,440
+...for you.
+
+113
+00:04:23,440 --> 00:04:25,760
+How did the team celebrate after that?
+
+114
+00:04:25,880 --> 00:04:28,680
+We were happy and we celebrated the...
+
+115
+00:04:28,680 --> 00:04:31,680
+...achievement，because it was something...
+
+116
+00:04:31,800 --> 00:04:33,520
+....difficult and important，
+
+117
+00:04:33,680 --> 00:04:35,240
+but we are aware of that.
+
+118
+00:04:35,240 --> 00:04:38,040
+That's the real title that we want: MLS Cup,
+
+119
+00:04:38,040 --> 00:04:40,000
+and we're going to fight for that.
+
+120
+00:04:40,160 --> 00:04:42,960
+Also be mentally prepared for...
+
+121
+00:04:42,960 --> 00:04:43,720
+...for the playoffs
+
+122
+00:04:43,720 --> 00:04:46,280
+And what are going to be the key factors…..
+
+123
+00:04:46,280 --> 00:04:47,800
+to make history?
+
+124
+00:04:47,800 --> 00:04:50,400
+Throughout the year, we made...
+
+125
+00:04:50,400 --> 00:04:51,440
+...a lot of mistakes,
+
+126
+00:04:51,440 --> 00:04:55,040
+many of which could have been avoided.
+
+127
+00:04:57,160 --> 00:04:59,040
+Many of the mistakes were silly ones,
+
+128
+00:04:59,040 --> 00:05:01,440
+to say the very least.
+
+129
+00:05:01,440 --> 00:05:04,960
+That can't happen during the playoffs,
+
+130
+00:05:04,960 --> 00:05:07,600
+because a mistake can cost you dearly and get you eliminated.
+
+131
+00:05:07,600 --> 00:05:09,880
+We have to be stronger than ever and...
+
+132
+00:05:09,880 --> 00:05:12,200
+seize the advantage we've got.
+
+133
+00:05:12,200 --> 00:05:14,160
+How do you see Inter Miami'ss chances...
+
+134
+00:05:14,160 --> 00:05:15,760
+to win the MLS Cup?
+
+135
+00:05:15,760 --> 00:05:17,360
+I think we're one of the favourites.
+
+136
+00:05:17,360 --> 00:05:19,240
+But I also think..
+
+137
+00:05:19,240 --> 00:05:22,120
+...there are tough teams, which will be..
+
+138
+00:05:22,200 --> 00:05:22,680
+V
+
+139
+00:05:22,680 --> 00:05:24,480
+very difficult opponents，and they re not going to...
+
+140
+00:05:24,480 --> 00:05:26,000
+that...r us， but I think that...
+
+141
+00:05:26,080 --> 00:05:29,240
+the other teams respect us like we respect them.
+
+142
+00:05:37,360 --> 00:05:39,640
+And some quick questions from 433,
+
+143
+00:05:39,640 --> 00:05:40,720
+in our style.
+
+144
+00:05:40,720 --> 00:05:43,040
+When you're at home with your kids,
+
+145
+00:05:43,040 --> 00:05:44,160
+what game do they play?
+
+146
+00:05:44,160 --> 00:05:46,040
+[We play] with the football.
+
+147
+00:05:46,520 --> 00:05:49,000
+Everything revolves around the football.
+
+148
+00:05:49,000 --> 00:05:51,360
+A few touches, a few passes...
+
+149
+00:05:52,440 --> 00:05:56,200
+Sometimes we play with the PlayStation, but generally...
+
+150
+00:05:56,200 --> 00:05:56,920
+we play with the football.
+
+151
+00:05:56,920 --> 00:05:59,200
+And do you give them advice when you see them playing with the ball?
+
+152
+00:05:59,200 --> 00:05:59,800
+What do you say to them?
+
+153
+00:05:59,800 --> 00:06:00,840
+It depends on the moment.
+
+154
+00:06:00,840 --> 00:06:02,440
+It depends…
+
+155
+00:06:02,440 --> 00:06:03,600
+...on which of the three as well,
+
+156
+00:06:03,600 --> 00:06:05,600
+because one is more hot-headed than the other.
+
+157
+00:06:05,600 --> 00:06:10,120
+So: yes, but I play with them.
+
+158
+00:06:10,120 --> 00:06:12,800
+And well， they also give me advice.
+
+159
+00:06:12,800 --> 00:06:15,920
+They criticise me too when they watch a game!
+
+160
+00:06:15,920 --> 00:06:17,000
+What other sports...
+
+161
+00:06:17,000 --> 00:06:19,280
+do you like to play outside of football?
+
+162
+00:06:19,280 --> 00:06:22,760
+I like padel， basketball，tennis，
+
+163
+00:06:22,760 --> 00:06:25,920
+but for the most part Ilike to play padel.
+
+164
+00:06:25,960 --> 00:06:28,280
+You've had many iconic moments...
+
+165
+00:06:28,280 --> 00:06:30,440
+on the pitch.
+
+166
+00:06:30,440 --> 00:06:33,080
+is there something funny that we don't know about?
+
+167
+00:06:33,080 --> 00:06:34,800
+There are so many with people.
+
+168
+00:06:34,800 --> 00:06:37,600
+People go completely crazy sometimes，
+
+169
+00:06:37,600 --> 00:06:40,320
+which you can't believe.
+
+170
+00:06:40,400 --> 00:06:44,520
+I'm from Argentina， people are very...
+
+171
+00:06:45,480 --> 00:06:48,480
+...passionate，demonstrative and capable of...
+
+172
+00:06:49,040 --> 00:06:51,760
+...doing anything to...
+
+173
+00:06:51,760 --> 00:06:53,520
+...say hello, for a photo,
+
+174
+00:06:53,520 --> 00:06:57,160
+just to be close.
+
+175
+00:06:57,160 --> 00:06:58,240
+Yes!
+
+176
+00:06:58,240 --> 00:07:00,440
+Or something like that.
+
+177
+00:07:00,440 --> 00:07:02,080
+So...
+
+178
+00:07:02,080 --> 00:07:04,040
+but the truth is that I went through...
+
+179
+00:07:04,040 --> 00:07:04,840
+a lot of craziness.
+
+180
+00:07:04,840 --> 00:07:07,320
+Do you have a special routine...
+
+181
+00:07:07,320 --> 00:07:09,040
+to relax before a game?
+
+182
+00:07:09,120 --> 00:07:11,160
+Listen to music in the locker room,
+
+183
+00:07:11,160 --> 00:07:13,200
+drink maté.
+
+184
+00:07:13,200 --> 00:07:15,400
+It depends on the time of the game,
+
+185
+00:07:15,400 --> 00:07:17,120
+but not at all. Nothing special.
+
+186
+00:07:17,320 --> 00:07:19,000
+Your guilty pleasure...
+
+187
+00:07:19,000 --> 00:07:20,240
+when it comes to food?
+
+188
+00:07:20,240 --> 00:07:21,440
+I really like ice cream.
+
+189
+00:07:21,440 --> 00:07:25,160
+I'm not really into food,
+
+190
+00:07:25,160 --> 00:07:26,760
+but I am into desserts.
+
+191
+00:07:27,240 --> 00:07:28,280
+We know you're a fan of...
+
+192
+00:07:28,280 --> 00:07:31,280
+superhero action figures.
+
+193
+00:07:31,560 --> 00:07:32,480
+If there was one of Leo Messi,
+
+194
+00:07:32,480 --> 00:07:35,480
+what superpower would he have?
+
+195
+00:07:55,160 --> 00:07:56,840
+Let's talk a little about the national -team. team
+
+196
+00:07:57,080 --> 00:07:59,560
+of the World Cup， of everything.
+
+197
+00:08:03,560 --> 00:08:05,360
+Are you ready?
+
+198
+00:08:06,760 --> 00:08:08,760
+Leo, are you going to play at the 2026 World Cup...
+
+199
+00:08:08,760 --> 00:08:09,760
+in the United States?
+
+200
+00:08:09,760 --> 00:08:10,360
+I don't know.
+
+201
+00:08:10,360 --> 00:08:11,400
+I've actually been asked this...
+
+202
+00:08:11,400 --> 00:08:12,160
+a lot of times,
+
+203
+00:08:12,160 --> 00:08:14,560
+especially in Argentina.
+
+204
+00:08:14,560 --> 00:08:15,920
+But I hope to finish well this year.
+
+205
+00:08:15,920 --> 00:08:17,400
+I hope to start the year...
+
+206
+00:08:17,440 --> 00:08:19,880
+having a very good pre-season,
+
+207
+00:08:19,880 --> 00:08:22,080
+which I didn't have last year...
+
+208
+00:08:22,080 --> 00:08:24,880
+with all the trips we had.
+
+209
+00:08:24,880 --> 00:08:27,520
+And from there, see how...
+
+210
+00:08:27,520 --> 00:08:28,280
+how I'm doing.
+
+211
+00:08:28,280 --> 00:08:30,760
+Although, I know that...
+
+212
+00:08:30,760 --> 00:08:32,080
+we are very close.
+
+213
+00:08:32,080 --> 00:08:33,160
+At the same time,
+
+214
+00:08:33,160 --> 00:08:33,960
+it is a long time,
+
+215
+00:08:33,960 --> 00:08:35,240
+and in football...
+
+216
+00:08:35,240 --> 00:08:37,640
+a lot of things happen, so...
+
+217
+00:08:37,640 --> 00:08:39,720
+I don't just think, I simply...
+
+218
+00:08:39,720 --> 00:08:43,560
+live day by day without thinking that far ahead.
+
+219
+00:08:43,560 --> 00:08:45,960
+And what do you see as the next step in your career?
+
+220
+00:08:45,960 --> 00:08:48,480
+I don't know, being a coach or something else.
+
+221
+00:08:48,480 --> 00:08:49,080
+I don't know.
+
+222
+00:08:49,120 --> 00:08:51,360
+I honestly don't know.
+
+223
+00:08:51,440 --> 00:08:56,240
+I know that I wouldn't like to be a coach.
+
+224
+00:09:20,560 --> 00:09:23,880
+Like Leo Messi with hunger,
+
+225
+00:09:23,880 --> 00:09:25,080
+who wins everything, but keeps going
+
+226
+00:09:25,080 --> 00:09:26,960
+Always hungry to win more.
+
+227
+00:09:26,960 --> 00:09:29,280
+Or: Leo Messi, the kid from Rosario
+
+228
+00:09:29,320 --> 00:09:30,520
+who conquered the world.
+
+229
+00:09:30,560 --> 00:09:31,440
+Which of the three do you prefer?
+
+230
+00:10:09,710 --> 00:10:10,631
+Do you have a favorite?
+
+231
+00:10:10,680 --> 00:10:12,200
+A graphic that you like the most?
+
+232
+00:10:12,200 --> 00:10:13,600
+Family, it's always family.
+
+233
+00:10:13,600 --> 00:10:14,840
+We sign this one.
+
+234
+00:10:14,840 --> 00:10:17,880
+We'll do it like this, if you can sign it for us.
+
+235
+00:10:23,160 --> 00:10:24,280
+Thank you.
+
+236
+00:10:24,320 --> 00:10:25,680
+Leo, thank you for the interview.
+
+237
+00:10:25,680 --> 00:10:26,560
+It was a huge pleasure.
 
