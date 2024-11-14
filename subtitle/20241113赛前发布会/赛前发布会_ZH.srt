@@ -1,1854 +1,592 @@
 1
-00:00:00,109 --> 00:00:01,010
-大家下午好。
-Good afternoon everyone.
-Buenas tardes a todos.
+00:00:02,285 --> 00:00:04,199
+好的很好 正在为对阵巴拉圭的比赛做准备
 
 2
-00:00:03,273 --> 00:00:06,177
-我几乎已经决定，这个团队将与
-I have almost decided, the team is going to be quite similar to the
-Lo tengo casi decidido, el equipo va a ser bastante similar al
+00:00:05,401 --> 00:00:07,000
+很高兴能再次来到这里
 
 3
-00:00:07,699 --> 00:00:10,787
-到最后一场比赛，但不是
-to the last game, but not
-al del último partido, pero no
+00:00:07,926 --> 00:00:12,454
+我们知道这不是一场容易的比赛 但我们正在做好准备
 
 4
-00:00:12,182 --> 00:00:13,732
-我没有向他们证实，我100%有东西......
-I didn't confirm it to them, I 100% have something there...
-No se los confirmé a ellos, 100% tengo ahí alguna...
+00:00:12,754 --> 00:00:15,602
+这是一个艰难的对手 去他们主场比赛也很艰难
 
 5
-00:00:15,805 --> 00:00:19,919
-有些疑问，但我认为与玻利维亚的比赛会类似
-some doubt but I think the match with Bolivia will be similar
-alguna duda pero creo que va a ser similar el partido con Bolivia
+00:00:15,742 --> 00:00:17,847
+你觉得这支巴拉圭队会采取什么策略
 
 6
-00:00:23,170 --> 00:00:24,434
-比赛将如何发展？
-How is the match going to develop?
-¿Cómo se va a desarrollar el partido?
+00:00:19,115 --> 00:00:22,411
+Gustavo执教的球队对我们来说一直都很难对付
 
 7
-00:00:24,475 --> 00:00:26,201
-这是一场非常艰难的比赛。
-It is a very difficult match.
-Es un partido dificilísimo.
+00:00:22,954 --> 00:00:26,551
+他有明确的想法 传达信息也很到位
 
 8
-00:00:26,663 --> 00:00:28,837
-与一个很好的对手，谁是......
-with a rival who is fine, who is...
-con un rival que está bien, que está...
+00:00:28,053 --> 00:00:32,136
+我觉得巴拉圭正处在一个很好的状态 他们战胜了巴西
 
 9
-00:00:30,325 --> 00:00:37,102
-他们正处于良好的时刻，通常中场的比赛总是很重要，任何足球比赛都是如此
-They are in a good moment and normally the games in the middle of the field are always important, any football game is where it is
-Están en un buen momento y normalmente los partidos en la mitad de la cancha siempre son importantes, cualquier partido de fútbol es donde se es
+00:00:33,200 --> 00:00:36,173
+所以这将是一场非常艰难的比赛
 
 10
-00:00:37,142 --> 00:00:39,407
-开发你想要的东西。
-develop what you want.
-desarrollar lo que uno pretende.
+00:00:37,699 --> 00:00:40,426
+我们会尽最大努力争取三分
 
 11
-00:00:41,050 --> 00:00:44,380
-与你的团队和中场一起努力总是很重要的。
-doing with your team and the middle of the field is always essential.
-hacer con su equipo y la mitad del campo siempre es fundamental.
+00:00:40,446 --> 00:00:42,511
+Rodrigo 巴拉圭一直是个难缠的对手
 
 12
-00:00:44,882 --> 00:00:46,968
-我不认为这与其他游戏有什么不同。
-I don't think it's different from other games.
-No creo que sea diferente a otros partidos.
+00:00:42,611 --> 00:00:48,700
+可能是因为巴拉圭的打法 而且随着主教练的到来 他们的防守变得更加稳固
 
 13
-00:00:49,172 --> 00:00:51,597
-但对手就是对手确实如此
-but it is true that the rival is a rival
-pero sí es verdad que el rival es un rival
+00:00:49,893 --> 00:00:52,908
+总的来说 我们每场比赛都要付出巨大努力
 
 14
-00:00:52,719 --> 00:00:54,345
-很困难，但他正处于一个很好的时刻。
-difficult and he is in a good moment.
-difícil y que está en un buen momento.
+00:00:54,152 --> 00:00:57,398
+事实上事情进展得很顺利 但是
 
 15
-00:00:57,096 --> 00:00:59,439
-莱昂内尔，我们来这里是为了塔兹体育。
-Lionel, we are here for Taze Sports.
-Lionel, acá estamos servido para Taze Sports.
+00:00:58,140 --> 00:01:01,069
+每场比赛都需要我们付出努力
 
 16
-00:00:59,739 --> 00:01:01,521
-我想具体问你关于莱安德罗的事
-I want to ask you specifically about Leandro
-Te quiero preguntar puntualmente por Leandro
+00:01:03,818 --> 00:01:06,851
+就像我说的 Gustavo的球队都很难对付 
 
 17
-00:01:02,143 --> 00:01:07,320
-除了他明天是否上场的问题之外，还有他在罗马经历的个人问题，
-beyond the question of whether he will play or not tomorrow, for the personal issue that he was experiencing in Rome,
-más allá de la cuestión de si va a jugar o no mañana, por la cuestión personal que él estaba viviendo en Roma,
+00:01:07,814 --> 00:01:09,639
+我认为每支国家队都有自己的特点
 
 18
-00:01:08,324 --> 00:01:11,720
-几乎没有连续性，而且很快就会更换教练。
-with little continuity, with a change of coach that will come shortly.
-con poca continuidad, con un cambio de entrenador que se le vendrá en breve.
+00:01:09,699 --> 00:01:13,848
+巴拉圭历来就是一支非常顽强的队伍
 
 19
-00:01:12,784 --> 00:01:18,141
-如果你和他交谈，如果你在住宿期间花一些时间和他谈论......
-If you talk to him, if you took some time during this stay to talk to him about...
-si hablás con él, si tomaste algún ratito de este estadía para hablar con él acerca de...
+00:01:15,412 --> 00:01:20,925
+比赛都很激烈 如果遇到这样的比赛 我认为我们已经做好准备了 如果
 
 20
-00:01:18,703 --> 00:01:21,717
-关于那里是什么样子，关于它的未来会是什么样子。
-about what it looks like there, about what its future is going to be like.
-de cómo se ve el allá, de qué va a ser de su futuro.
+00:01:21,387 --> 00:01:23,615
+我们能够展现出自己的比赛
 
 21
-00:01:22,660 --> 00:01:26,886
-特别是因为你自然会认为他是你计划中非常重要的参与者。
-Especially since you will naturally consider him a very important player for your scheme.
-Sobre todo porque naturalmente lo considerarás un jugador muy importante para tu esquema.
+00:01:24,839 --> 00:01:25,801
+那就再好不过了
 
 22
-00:01:28,510 --> 00:01:33,608
-好吧，我们不是在谈论他的礼物，事实是这是一次约会......
-Well, we're not talking about his present, the truth is that this was a date...
-Bueno, no hablamos de su presente, la verdad que esta fue una fecha...
+00:01:26,504 --> 00:01:30,625
+Dibu的回归 显然还有一些新队员加入 同时
 
 23
-00:01:35,000 --> 00:01:39,650
-我们昨天才开始训练，今天是我们最重要的训练。
-We just started training something yesterday and today was the most important training we had.
-Empezamos recién a entrenar algo ayer y hoy fue el entrenamiento más importante que tuvimos.
+00:01:30,625 --> 00:01:34,249
+在这些预选赛中也遇到了一些不幸的伤病和缺阵
 
 24
-00:01:40,252 --> 00:01:45,882
-而且我们更专注于准备比赛，但无论如何
-and we are more focused on preparing for the game, but in any case
-y estamos más enfocados a preparar el partido, pero en cualquier caso
+00:01:35,034 --> 00:01:37,304
+球队氛围一如既往地好
 
 25
-00:01:46,744 --> 00:01:52,371
-正如我们一贯回应的那样，我们从不参与每个球员转会或留下的足球决定。
-As we always respond, we never get involved in the football decisions of each player to change clubs, to stay.
-Como siempre respondemos, nunca nos metemos en las decisiones futbolísticas de cada jugador de cambiar de club, de quedarse.
+00:01:37,705 --> 00:01:40,311
+能在这里我们感到很开心
 
 26
-00:01:53,192 --> 00:01:56,337
-我们珍惜现在。
-We value the present.
-Nosotros valoramos el presente.
+00:01:41,666 --> 00:01:43,034
+我们确实像一个家庭
 
 27
-00:01:58,283 --> 00:02:02,012
-他没有享受他想要的几分钟。
-He is not enjoying the minutes that he would like.
-Él no está gozando de los minutos que él quisiera.
+00:01:43,617 --> 00:01:46,913
+大多数人已经在一起很多年了 新加入的球员
 
 28
-00:02:03,255 --> 00:02:06,932
-确实，他们已经非常接近季后赛了。
-and it is also true that they have been very close to the playoffs.
-y también es verdad que han sido partidos muy seguidos de eliminatorias.
+00:01:47,575 --> 00:01:50,780
+融入得都很好
 
 29
-00:02:07,876 --> 00:02:11,804
-我们选择让他来，和我们在一起，并能够为我们做出贡献
-and we choose for him to come, to be with us and to be able to contribute to us
-y optamos para que venga, para que esté con nosotros y que pueda aportarnos
+00:01:51,741 --> 00:01:56,171
+他们都是出色的球员 是的 我们在这期间确实遇到了几次伤病
 
 30
-00:02:12,725 --> 00:02:18,453
-从逻辑上讲，他知道，所有人都知道，从现在开始，到下一个日期，保持连续性很重要。
-Logically, he knows and everyone knows that from now on, from now until the next date, it is important to have continuity.
-Lógicamente él sabe y todos saben que a partir de ahora, de aquí a la siguiente fecha es importante tener continuidad.
+00:01:57,494 --> 00:02:00,282
+但这是足球运动的常态
 
 31
-00:02:19,594 --> 00:02:21,639
-无论他在哪里踢球，每个人都知道这一点。
-Regardless of where he plays, everyone knows that.
-más allá de donde juegue, eso lo saben todos.
+00:02:00,904 --> 00:02:07,398
+比赛场次很多 赛程安排紧凑 俱乐部之间的比赛间隔也很短
 
 32
-00:02:22,341 --> 00:02:25,910
-在这种情况下，连续进行六场比赛，我们选择
-In this case there were six games in a row and we opted for
-En este caso fueron seis partidos seguidos y optamos para que
+00:02:09,102 --> 00:02:14,791
+比赛之间的休息时间很短 最终身体有时会
 
 33
-00:02:26,932 --> 00:02:32,018
-球队的主体或实际上的基础是相同的，但很明显
-The bulk or practically the base of the squad is the same, but it is evident that
-El grueso o prácticamente la base del plantel sea la misma, pero es evidente que
+00:02:15,171 --> 00:02:18,209
+付出代价 但轮到谁上场谁都会做好充分准备
 
 34
-00:02:32,458 --> 00:02:34,127
-我们需要每个人都有连续性。
-that we need everyone to have continuity.
-que necesitamos que todos tengan continuidad.
+00:02:18,740 --> 00:02:25,422
+Rodrigo 昨天发生了一件特殊的事 不知道你是否看到了 Riestra那个在甲级联赛踢球的小伙子的事
 
 35
-00:02:35,905 --> 00:02:36,886
-莱昂内尔，你好吗？
-Lionel, how are you doing?
-Lionel, ¿cómo te va?
+00:02:25,663 --> 00:02:26,786
+这件事给你什么感觉
 
 36
-00:02:37,387 --> 00:02:37,907
-中午好。
-Good noon.
-Buen mediodía.
+00:02:28,330 --> 00:02:31,203
+对我来说
 
 37
-00:02:37,987 --> 00:02:39,629
-在这里，在中间，我们在这里。
-Here, in the middle, here we are.
-Aquí, en el medio, aquí estamos.
+00:02:31,457 --> 00:02:33,325
+我认为最重要的是传递的信息
 
 38
-00:02:39,669 --> 00:02:40,010
-怎么样了？
-How's it going?
-¿Cómo te va?
+00:02:34,952 --> 00:02:39,150
+我们这一方需要传达的信息 而那不是正确的信息
 
 39
-00:02:41,431 --> 00:02:44,060
-我们正在直播 IES Pidenzo 和 Leandro Alves 的 AF90。
-We are live for AF90 by IES Pidenzo and Leandro Alves.
-Estamos en vivo para AF90 por IES Pidenzo y Leandro Alves.
+00:02:41,316 --> 00:02:45,648
+我觉得虽然足球在营销方面
 
 40
-00:02:44,421 --> 00:02:47,512
-问问自己本周是否有非常特殊的情况。
-Ask yourself if there is a very particular situation this week.
-Preguntarte si hay una situación muy particular esta semana.
+00:02:46,411 --> 00:02:49,424
+因为世界在发展变化
 
 41
-00:02:48,377 --> 00:02:49,644
-在里斯·特拉维莱斯的比赛中。
-in the Ries Traiveles match.
-en el partido de Ries Traiveles.
+00:02:51,432 --> 00:02:55,366
+但这不应该掩盖我们需要传达的信息
 
 42
-00:02:50,454 --> 00:02:53,821
-和这个玩了一分钟的主播。
-with this streamer guy who played for a minute.
-con este chico streamer que jugó un minuto.
+00:02:57,555 --> 00:03:00,347
+我可以讲述因为我也曾是一个付出了很多努力的孩子
 
 43
-00:02:54,522 --> 00:02:55,945
-这值得你反思什么？
-What reflection does that deserve for you?
-¿Qué reflexión te merece eso?
+00:03:01,190 --> 00:03:05,559
+才能在顶级联赛踢球 那不是正确的方式 必须要努力
 
 44
-00:02:59,740 --> 00:03:01,644
-嗯，我们还得做更多...
-Well, we have to do more...
-Bueno, hay que hacerlo más...
+00:03:07,130 --> 00:03:10,310
+要拼搏 要在跌倒后重新站起来
 
 45
-00:03:03,268 --> 00:03:08,901
-尽可能真诚，我想每个人都和我想的一样。
-sincere as possible and I imagine that everyone has thought what I think.
-sincero posible y imagino que todo el mundo habrá pensado lo que yo pienso.
+00:03:11,232 --> 00:03:14,836
+这是成为职业球员必经的过程
 
 46
-00:03:10,103 --> 00:03:15,719
-首先，我已经把自己在甲级联赛的首秀保留了下来……
-First of all, I have saved my debut in the first division as something...
-Primero que yo tengo guardado mi debut en primera división como algo...
+00:03:15,577 --> 00:03:19,282
+这是我们都应该努力传达的信息
 
 47
-00:03:16,906 --> 00:03:19,353
-可能是我一生中最美好的时刻之一。
-possibly one of the best moments of my life.
-posiblemente de los mejores momentos de mi vida.
+00:03:20,664 --> 00:03:22,428
+我不同意所发生的事
 
 48
-00:03:22,345 --> 00:03:25,716
-每个人都说同样的话，到达那里是多么困难。
-Everyone has said the same thing, how hard it is to get there.
-Todo el mundo ha dicho lo mismo, lo que cuesta llegar ahí.
+00:03:23,831 --> 00:03:28,462
+但更重要的是 作为阿根廷国家队 我认为
 
 49
-00:03:27,000 --> 00:03:31,548
-话虽这么说，我认为道德委员会将会……
-That being said, I think the Ethics Committee is going...
-Dicho esto, creo que el Comité de Ética va...
+00:03:29,186 --> 00:03:31,882
+在这个时刻我们传达的信息
 
 50
-00:03:32,529 --> 00:03:38,844
-我们将致力于解决这个问题，我想这将成为典范，并且不会再发生。
-is going to work on this, I imagine it will be exemplary and that it will not happen again.
-va a trabajar sobre esto, imagino que va a ser ejemplar y que no vuelva a suceder.
+00:03:32,546 --> 00:03:36,758
+将非常重要 因为我们与球迷很亲近 因为人们与我们有很强的认同感
 
 51
-00:03:39,986 --> 00:03:44,818
-请不要让这种事再次发生，因为我相信，为了足球的利益，我们这些热爱这项运动的人
-Please don't let it happen again because I believe that for the good of football, those of us who love this sport
-por favor que no vuelva a suceder porque creo que por el bien del fútbol los que amamos este deporte
+00:03:37,400 --> 00:03:43,814
+我们这边所有人为了能穿上国家队球衣都付出了巨大努力，没有人给我们任何馈赠
 
 52
-00:03:46,673 --> 00:03:49,909
-无意冒犯任何人，我认为这样的事情不会再发生了。
-Without disrespect to anyone, I think this doesn't have to happen again.
-Sin faltar el respeto a nadie, creo que esto no tiene que volver a suceder.
+00:03:44,778 --> 00:03:47,271
+这是我知道的唯一道路，我也相信这是正确的
 
 53
-00:03:50,672 --> 00:03:52,576
-它是必须留在那里的东西。
-It's something that has to stay there.
-Es algo que tiene que quedar ahí.
+00:03:52,911 --> 00:03:58,374
+让我继续这个话题，因为Frieden的这篇文章引起了很大反响
 
 54
-00:03:54,580 --> 00:03:58,556
-那些发话的人都说这种事不会再发生了，而且……
-Those who have spoken have said that it will not happen again and that...
-Los que han hablado han dicho que no va a volver a pasar y eso...
+00:03:58,855 --> 00:04:04,192
+就是在昨天Deportivo Riestra的比赛中，对此也形成了一个观点
 
 55
-00:03:59,670 --> 00:04:01,763
-从我的立场来看，我希望如此。
-From where I stand, I hope so.
-Desde el lugar que me ocupa espero que así sea.
+00:04:04,795 --> 00:04:10,791
+我们的想法，至少是我和队友们的想法，都差不多是
 
 56
-00:04:03,462 --> 00:04:04,484
-莱昂内尔，你好吗？
-Leonel, how are you?
-Leonel, ¿qué tal?
+00:04:11,253 --> 00:04:17,918
+一样的，这不是一个好榜样，这不是我们想要传达给年轻人的信息
 
 57
-00:04:04,564 --> 00:04:06,468
-我是 TNT Sports 的 Maxi Grillo。
-This is Maxi Grillo for TNT Sports.
-Aquí Maxi Grillo para TNT Sports.
+00:04:18,209 --> 00:04:24,725
+根据我的经历，我看到的队友们，无论是成功的还是没有成功的，都做出了巨大的牺牲
 
 58
-00:04:06,789 --> 00:04:08,191
-我为你开启另一场辩论。
-I open another debate for you.
-Te abro otro debate.
+00:04:25,628 --> 00:04:29,059
+为了能在顶级联赛踢一场比赛，而发生这种事情确实
 
 59
-00:04:08,652 --> 00:04:14,810
-与日历有什么关系，比赛越来越多，每场比赛的球队也越来越多
-What has to do with the calendars, there are more and more tournaments, there are more and more teams in each of the tournaments
-que tiene que ver con los calendarios cada vez hay más torneos cada vez hay más equipos en cada uno de los torneos
+00:04:29,941 --> 00:04:33,908
+让人感到不舒服，因为像我之前说的，传达这种信息并不好
 
 60
-00:04:15,352 --> 00:04:19,241
-我不知道这是否与此有关，但是昨天的电话造成了很多人员伤亡。
-and I don't know if it has anything to do with it or not, but you had a lot of casualties in yesterday's calls.
-y no sé si tiene que ver o no, pero has tenido muchas bajas en las convocatorias ayer.
+00:04:34,540 --> 00:04:42,343
+我也理解，就像今天你上场时那样，所有跟随你们的小孩都会模仿你们做的事，我觉得问题可能就在这里
 
 61
-00:04:19,502 --> 00:04:23,639
-罗德里戈·德·波利还提到了日程变得越来越紧张。
-Rodrigo de Poli also made reference to the calendars that are becoming increasingly tight.
-Rodrigo de Poli hizo referencia también a los calendarios que cada vez son más apretados.
+00:04:42,799 --> 00:04:43,982
+是的，显然如此
 
 62
-00:04:25,526 --> 00:04:26,068
-你是这样看的吗？
-Do you see it like that?
-¿Vos lo ves así?
+00:04:44,002 --> 00:04:49,096
+就像我重复说的，对我们来说，足球的榜样就是付出和尊重
 
 63
-00:04:26,109 --> 00:04:27,615
-您有什么形成的意见吗？
-Do you have any formed opinion?
-¿Tenés alguna opinión formada?
+00:04:50,078 --> 00:04:53,982
+显然我对那个小伙子没有任何意见，但发生的事
 
 64
-00:04:27,695 --> 00:04:29,463
-这些电话对你影响大吗？
-Do the calls affect you a lot?
-¿Te afectan mucho las convocatorias?
+00:04:54,445 --> 00:04:58,996
+不让人喜欢，因为我们显然从小就付出了巨大的努力，很多人都是这样
 
 65
-00:04:31,532 --> 00:04:37,718
-显然，这起事件的错不是选举，而是选举本身。
-It is evident that the fault is not the elections in this case, the elections are the
-Es evidente que la culpa no es de las elecciones en este caso, las elecciones son los
+00:04:59,758 --> 00:05:05,273
+足球历史上无数球员为了能在顶级联赛踢一场比赛都做出了巨大牺牲
 
 66
-00:04:38,418 --> 00:04:43,723
-有时他们会付出后果，俱乐部也是如此，但有很多国家队比赛。
-Sometimes they pay the consequences, the clubs too, but there are many national team matches.
-A veces pagan las consecuencias, los clubes también, pero no son pocos partidos de selección.
+00:05:05,621 --> 00:05:07,092
+这种事情一点都不好
 
 67
-00:04:45,623 --> 00:04:50,061
-国家队一年，如果没有美洲杯世界杯，他们就踢很少的比赛。
-the national team a year, taking out if there is no Copa America World Cup, they play little game.
-la selección al año, sacando si no hay Copa América Mundial, juegan poco partido.
+00:05:07,559 --> 00:05:10,149
+罗马换帅之后你现在情况如何
 
 68
-00:04:51,311 --> 00:04:54,748
-但他们确实...那些参加比赛的球员...现在...
-but they do... the players who play in... and now...
-pero ellos sí que... los jugadores que juegan en... y ya...
+00:05:10,169 --> 00:05:13,201
+也许你没有获得想要的出场时间
 
 69
-00:04:55,970 --> 00:05:01,958
-通过欧罗巴联赛、西甲联赛、欧冠联赛，他们都在增加比赛。
-With the Europa League, with the Conference, with the Champions League, they are adding competitions.
-Con la Europa League, con la Conference, con la Champions, van sumando competiciones.
+00:05:13,722 --> 00:05:17,847
+你现在怎么样，感觉如何，尽管你一直都是国家队的一员
 
 70
-00:05:02,358 --> 00:05:05,682
-几乎所有俱乐部每三天就有一场比赛。
-Almost all clubs have games every three days.
-prácticamente casi todos los clubes tienen partidos cada tres días.
+00:05:18,409 --> 00:05:19,292
+不，我很好
 
 71
-00:05:06,444 --> 00:05:10,143
-与最优秀的球队进行激烈的比赛
-Against the best, the teams that play big competition
-Ante a lo mejor, los equipos que juegan competición grande
+00:05:19,312 --> 00:05:21,060
+我继续以最好的方式训练，我知道
 
 72
-00:05:11,027 --> 00:05:13,199
-其他人则没有，而且来的人数也较少。
-and the others didn't have any and came with less party.
-y los demás no tenían y venían con menos partido.
+00:05:21,783 --> 00:05:26,016
+由于教练的特点，我的出场机会会少很多
 
 73
-00:05:13,219 --> 00:05:14,888
-今天几乎所有玩家都...
-Today almost all players have...
-Hoy casi todos los jugadores tienen...
+00:05:27,058 --> 00:05:31,804
+我把这段时间用来训练，为了能以最好的状态来到国家队，因为这对我来说是当时最重要的
 
 74
-00:05:15,410 --> 00:05:18,638
-每三天比赛一次，这就会产生影响，这是合乎逻辑的。
-every three match days and that has an influence, logical.
-cada tres días partido y eso influye, lógico.
+00:05:32,806 --> 00:05:37,704
+我知道我的出场时间会减少，而国家队比赛临近，但现在
 
 75
-00:05:20,182 --> 00:05:23,594
-但好吧，不……没关系。
-But well no... It's okay.
-Pero bueno no... Está bien.
+00:05:39,249 --> 00:05:43,009
+我在想着国家队，当然回到俱乐部后我们会有新教练，看看会发生什么
 
 76
-00:05:26,465 --> 00:05:28,313
-我们作为国家队教练，
-We, as national team coaches,
-Nosotros, como entrenadores de selección,
+00:05:44,153 --> 00:05:50,230
+场地变更，离开纪念碑球场，显然要去一个对你来说很有认同感的球场，你怎么看
 
 77
-00:05:29,055 --> 00:05:34,531
-我们能做的不多，很明显，我们必须在某个时候坐下​​来，因为每个人都这么说。
-We can't do much, it's obvious that we will have to sit down at some point because everyone says so.
-No podemos hacer mucho, es evidente que habrá que sentarse en algún momento porque todo el mundo lo dice.
+00:05:50,631 --> 00:05:56,042
+很好，我非常享受，享受为国家队比赛，穿着这件球衣训练，当然
 
 78
-00:05:35,373 --> 00:05:39,417
-你必须坐下来看看给出了什么解决方案，尤其是这个
-and you have to sit down and see what solutions are given, particularly this one
-y hay que sentarse y ver qué soluciones se le da, particularmente esta
+00:05:56,523 --> 00:06:00,991
+在纪念碑球场比赛是个加分项，但就像我总说的那样
 
 79
-00:05:39,497 --> 00:05:44,505
-日期，正如我之前谈到的，你回答的，九月、十月和十一月，球队经常比赛。
-The date, as I talked about before and you answered, September, October and November, the team plays very often.
-La fecha, como antes hablaba y respondiste, septiembre, octubre y noviembre, la selección juega muy seguido.
+00:06:01,712 --> 00:06:06,519
+无论是在糖果盒、纪念碑球场还是在其他地方比赛，我都一样享受
 
 80
-00:05:45,686 --> 00:05:48,431
-我们来自美洲杯，他们还没有休息过。
-We come from a Copa América, they haven't had a break.
-Venimos de una Copa América, no han tenido descanso.
+00:06:09,711 --> 00:06:12,336
+在巴拉圭不允许穿着Leo的球衣入场
 
 81
-00:05:51,597 --> 00:05:54,932
-他们到处旅行，发生这些事情很正常。
-They have traveled everywhere and these things that are happening are normal.
-han viajado por todos lados y es normal estas cosas que están sucediendo.
+00:06:13,033 --> 00:06:13,595
+你知道吗
 
 82
-00:05:55,394 --> 00:05:58,268
-这六个月的水平非常沉重......
-These six months were very heavy at the level...
-Estos seis meses fueron muy pesados a nivel...
+00:06:13,615 --> 00:06:16,847
+有一项规定，任何人都不能穿Leo的球衣入场
 
 83
-00:05:59,031 --> 00:06:02,528
-在物理层面上，我认为如果必须进行修正......
-On a physical level, then I think that if there had to be a correction...
-a nivel físico, entonces creo que si hubiera que haber una corrección...
+00:06:16,867 --> 00:06:17,750
+你对此有什么想法
 
 84
-00:06:03,171 --> 00:06:09,280
-我认为这六个月的比赛与日历必须被审视。
-I think that these six months of competition with the calendar had to be looked at.
-Yo creo que estos seis meses de competición con el calendario había que mirarlo.
+00:06:18,030 --> 00:06:20,135
+我不知道，刚刚从你这里听说
 
 85
-00:06:10,202 --> 00:06:15,774
-我不知道怎么回事，但是选拔赛并不那么频繁，尤其是对于那些去南美洲旅行的人来说。
-I don't know how, but the selection matches are not so frequent, especially for those who travel to South America.
-No sé cómo, pero que no sean tan seguidos los partidos de selección, sobre todo para los que viajan a Sudamérica.
+00:06:20,275 --> 00:06:24,949
+但是，每个人都有自己的规定
 
 86
-00:06:17,165 --> 00:06:17,910
-莱昂内尔，你好吗？
-Leonel, how are you?
-Leonel, ¿cómo estás?
+00:06:25,587 --> 00:06:29,951
+在场外有自己的游戏规则，我们只关注我们自己
 
 87
-00:06:18,010 --> 00:06:20,465
-我是 Fabio Vallejo，我们是 La Red 广播电台的现场直播。
-I'm Fabio Vallejo, we are live for Radio La Red.
-Soy Fabio Vallejo, estamos en vivo para Radio La Red.
+00:06:30,392 --> 00:06:34,310
+博卡球迷对罗马教练的变动一定不那么兴奋。
 
 88
-00:06:21,711 --> 00:06:28,026
-你和你的团队经历了很多事情，赢得了很多冠军，最终两届美洲杯冠军、世界杯。
-You and your team have experienced a lot of things and have won many titles, the final, two-time champions of America, the World Cup.
-Han vivido un montón de cosas vos con tu plantel y han ganado muchos títulos, la finalísima, bicampeones de América, Copa del Mundo.
+00:06:35,453 --> 00:06:39,178
+不知道，我一直都是这么说，我过着我的生活和职业生涯
 
 89
-00:06:28,767 --> 00:06:33,174
-如果你必须用一句话来定义你的团队，我会问你，例如，
-If you had to define your team in one sentence, I would ask you, for example,
-Si tuvieras que definir en una frase a tu equipo, yo te pregunto por ejemplo,
+00:06:40,160 --> 00:06:43,888
+一天一天来，当然因为我没有出场时间的问题被谈论很多，但是
 
 90
-00:06:33,715 --> 00:06:34,336
-你选择哪一个？
-Which one do you choose?
-¿Cuál elegís?
+00:06:45,632 --> 00:06:48,219
+对我来说最重要的始终是关注每一天，关注我的俱乐部
 
 91
-00:06:34,657 --> 00:06:39,926
-他们都是狮子，他们永远不会让你落后，他们再次成为胜利者，为什么？
-That they are all lions, that they never leave you behind, that they are once again winners, and why?
-Que son todos leones, que no te dejan nunca pata, que son recontra ganadores, ¿y por qué?
+00:06:48,940 --> 00:06:51,425
+说实话，在Daniel在的时候，我非常开心
 
 92
-00:06:42,624 --> 00:06:46,136
-我不知道是否可以用一句话形容，但我们每时每刻都在竞争。
-I don't know if in a sentence, but we compete at every moment.
-No sé si en una frase, pero que competimos en cada momento.
+00:06:52,829 --> 00:06:56,304
+我在一个令人难以置信的城市，一个出色的俱乐部，球迷很喜欢我
 
 93
-00:06:48,442 --> 00:06:53,689
-在任何情况下，您必须参加的每场比赛中的赛季
-of the season in every game that has to be played you compete and in any circumstance
-de la temporada en cada partido que haya que jugar se compite y en cualquier circunstancia
+00:06:57,989 --> 00:07:01,458
+我很开心，后来换了教练，现在我们又换了教练，看看会发生什么
 
 94
-00:06:55,029 --> 00:06:58,619
-炎热、寒冷、下雨，无论什么，从另一方面来说，都是如此。
-with heat, with cold, with rain, with whatever, as it has to be on the other hand.
-con calor, con frío, con lluvia, con lo que sea, como tiene que ser por otra parte.
+00:07:01,698 --> 00:07:04,861
+Boca也换了教练 Fernando，你们有联系吗 
 
 95
-00:06:58,940 --> 00:06:59,763
-足球就是这样。
-Football is this.
-El fútbol es esto.
+00:07:04,901 --> 00:07:06,182
+不，我没和Fer说过话
 
 96
-00:07:00,385 --> 00:07:04,438
-你并不总是按照自己想要的方式打球，但当比赛变得艰难时
-You don't always play the way you want, but when the game gets tough
-no siempre se juega como uno quiere pero sí que cuando el partido se pone
+00:07:06,442 --> 00:07:07,803
+让我们看看他会不会联系我
 
 97
-00:07:05,581 --> 00:07:10,952
-尼斯踢得很好，当它变得勇敢时，它就变得勇敢，最后就是竞争、竞争和
-Nice is played nice and when it gets brave, it is played brave and in the end that is competing, competing and
-Lindo se juega lindo y cuando se pone bravo se juega bravo y al final eso es competir, competir y
+00:07:08,914 --> 00:07:10,026
+谢谢
 
 98
-00:07:11,914 --> 00:07:16,726
-知道这是一支阿根廷队，也不为输掉任何东西而付出任何代价
-and not give anything for lost knowing that it is an Argentine team
-y no dar nada por perdido sabiendo que es una selección argentina
+00:07:13,672 --> 00:07:17,350
+接下来是Balerdi的采访
 
 99
-00:07:18,189 --> 00:07:19,311
-美国永远是100%。
-America will always be 100%.
-América siempre estará al 100%.
+00:07:18,812 --> 00:07:20,196
+几分钟后
 
 100
-00:07:25,624 --> 00:07:30,101
-里奥、梅西，在无法参加季后赛之后……
-Leo, Messi, now after not being able to play in the playoffs...
-Leo, Messi, ahora luego de no poder jugar los playoffs...
+00:07:29,963 --> 00:07:30,926
+我在那里射门
 
 101
-00:07:30,764 --> 00:07:33,535
-如果不继续下去，迈阿密国际将迎来一次重要的突破。
-If it does not continue, Inter Miami will have an important break.
-de no continuar el Inter de Miami va a tener un receso importante.
+00:07:31,147 --> 00:07:32,190
+是运气，纯属运气
 
 102
-00:07:34,138 --> 00:07:40,707
-你希望我们的队长在这几个月里做什么？如果你能与科拉平托交谈，多一种颜色。
-What would you like our capintal to do in those months and if you were able to talk to Colapinto, one more color.
-qué te gustaría que haga nuestro capintal en esos meses y si pudiste hablar con Colapinto, una más de color.
+00:07:32,431 --> 00:07:34,718
+球进了，这是最好的，我们赢了，这很重要
 
 103
-00:07:44,043 --> 00:07:48,991
-我不知道如果他们达到最后距离，美国职业足球大联盟什么时候结束，但是......
-I don't know exactly when the MLS would have ended if they reached final distances, but...
-No sé exactamente cuándo hubiera terminado la MLS si llegaban a distancias finales, pero...
+00:07:34,978 --> 00:07:36,262
+训练就这样结束了
 
 104
-00:07:49,552 --> 00:07:54,756
-我们谈论的是两周，也许差别并不大
-We are talking about two weeks, maybe a difference that is not
-Hablamos de dos semanas a lo mejor de diferencia que no
+00:07:36,282 --> 00:07:39,368
+是的，那是个好球，球就在那里，我就射门了
 
 105
-00:07:55,777 --> 00:08:02,514
-这并没有多大意义，也不会影响国家队，因为最终我们会踢到三月份。
-It doesn't mean that much and it doesn't affect the national team because in the end we play now until March.
-no significa tanto y a la selección no le afecta porque al final jugamos ahora y hasta marzo
+00:07:39,672 --> 00:07:42,543
+你和Messi一起踢球，是不是感染了Leo的技巧
 
 106
-00:08:04,058 --> 00:08:04,599
-我们不玩。
-We don't play.
-No jugamos.
+00:07:42,583 --> 00:07:44,470
+是的，也许是这样，我不太清楚
 
 107
-00:08:06,243 --> 00:08:10,755
-我认为它比这更深，这是一种感觉...
-I think it goes deeper than that, it's the feeling that...
-Creo que va más allá que eso, es la sensación de que...
+00:07:45,053 --> 00:07:48,442
+从小就在练习，球正好在那里就射了
 
 108
-00:08:11,498 --> 00:08:13,928
-他们本可以参加或进入决赛并且
-that they could have played or reached the finals and
-de que podían haber jugado o llegado a las finales y
+00:07:48,884 --> 00:07:49,786
+他们说什么了吗
 
 109
-00:08:14,892 --> 00:08:20,426
-但对于我的休息问题或主题来说，它根本不会改变任何东西。
-but for a rest issue or a theme for me it doesn't change anything at all.
-pero por un tema de descanso o un tema para mí no le cambia absolutamente nada.
+00:07:50,127 --> 00:07:51,532
+比如说Messi跟你说什么了吗
 
 110
-00:08:21,067 --> 00:08:26,941
-我没有和科拉平托说话，他上周在马略卡岛，我也在这里，所以
-and I didn't speak to Colapinto, he was in Mallorca last week and I was here, so
-y no hablé con Colapinto, ha estado en Mallorca la semana pasada y yo estaba acá, así que
+00:07:52,017 --> 00:07:54,842
+是的，我们一起庆祝进球，他没说什么
 
 111
-00:08:27,783 --> 00:08:30,572
-我本来会喜欢的，他的经理写信给我并且......
-I would have liked it, his manager wrote to me and...
-Me hubiera gustado, me escribió su manager y...
+00:07:54,842 --> 00:07:55,685
+我也不想多说
 
 112
-00:08:33,101 --> 00:08:37,962
-我们的交集正好相反，但也不乏相互了解的机会。
-We cross paths the other way around, but there is no shortage of opportunities to get to know each other.
-Nos cruzamos al revés, pero no falta la oportunidad de conocernos.
+00:07:56,308 --> 00:07:57,212
+纯属运气
 
 113
-00:08:39,096 --> 00:08:41,181
-我想问你有关当地比赛的情况。
-I want to ask you about the local tournament.
-Te quiero preguntar por el torneo local.
+00:07:59,019 --> 00:08:03,015
+能有机会和这些天才球员一起在球场上
 
 114
-00:08:45,011 --> 00:08:50,028
-因为这最终会以某种方式影响阿根廷队，不管他们都是外援。
-because it ends up affecting the Argentine team in one way or another, regardless of the fact that they are all foreign players.
-porque termina afectando al seleccionado argentino de una u otra manera, más allá de que sean todos jugadores de afuera.
+00:08:03,015 --> 00:08:07,362
+和这些世界冠军、两次美洲杯冠军在一起，对于刚开始进入国家队的你来说
 
 115
-00:08:50,549 --> 00:08:54,637
-作为欧洲球员，你有很长的职业生涯，你几乎踢过所有的联赛。
-You have a long career as a player in Europe, you played almost all the leagues.
-Vos tenés un amplio recorrido como jugador en Europa, jugaste casi todas las ligas.
+00:08:07,763 --> 00:08:10,203
+这一定是一种荣幸
 
 116
-00:08:56,641 --> 00:08:59,789
-我想问一下阿根廷联赛有多少支球队。
-And I want to ask you about the number of teams there are in the Argentine league.
-y te quiero preguntar por la cantidad de equipos que hay en la liga argentina.
+00:08:10,492 --> 00:08:11,996
+是的，这对我来说是一个梦想
 
 117
-00:09:00,450 --> 00:09:04,368
-如果这对阿根廷足球有利，如果这对阿根廷队有利，
-If this is good for Argentine football, if it is good for the Argentine team,
-si esto le hace bien al fútbol argentino, si le hace bien a la selección argentina,
+00:08:12,538 --> 00:08:14,704
+这是我第一次连续两次入选
 
 118
-00:09:05,051 --> 00:09:10,231
-思考并观察足球世界中发生的一切，显然，包括所有联赛和最好的球队。
-contemplating and watching everything that happens in the football world, obviously, with all the leagues and the best.
-contemplando y mirando todo lo que sucede en el mundo futbolístico, obviamente, con todas las ligas y las mejores.
+00:08:14,944 --> 00:08:18,771
+这对我个人在信心方面也有很大帮助
 
 119
-00:09:12,167 --> 00:09:14,856
-事实上，我不知道我是否有资格说它是好还是坏。
-The truth is that I don't know if I'm qualified to say if it's good or bad.
-La verdad es que yo no sé si soy indicado para decir si le hace bien o mal.
+00:08:19,554 --> 00:08:21,405
+也帮助我融入团队
 
 120
-00:09:17,186 --> 00:09:20,963
-也许我不太擅长讨论这些问题。
-And maybe I wouldn't do well to get into these issues.
-Y a lo mejor no haría bien metiéndome en estos temas.
+00:08:23,215 --> 00:08:27,261
+要融入这个水平如此之高的团队，我必须达到应有的水准
 
 121
-00:09:22,566 --> 00:09:26,990
-这不会对阿根廷队产生好坏影响。
-It doesn't affect the Argentine team either for better or worse.
-A la selección argentina ni le afecta ni para bien ni para mal.
+00:08:28,703 --> 00:08:31,977
+要不断进步才能继续留在这里
 
 122
-00:09:28,253 --> 00:09:29,816
-设备的数量。
-the amount of equipment there is.
-la cantidad de equipo que haya.
+00:08:32,238 --> 00:08:33,744
+这支队伍有什么特别之处
 
 123
-00:09:32,222 --> 00:09:37,252
-除此之外，正如我所说，有球员，大多数来自外部，嗯，权力情况不存在。
-Beyond the fact that, as I said, there are players, the majority are from outside, well, the power situation does not exist.
-más allá de que, como bien decía, hay jugadores, la mayoría son de afuera, bueno, no se da la situación de poder
+00:08:35,441 --> 00:08:41,869
+我认为是心态，就是那种心态，想要继续争取更多的意愿，无论已经赢得了什么
 
 124
-00:09:38,214 --> 00:09:43,507
-打电话给当地足球运动员是为了我的决定，而不是为了那些有球队的球队
-call local soccer players for a matter of my decision but not for a matter of teams that have
-convocar jugadores del fútbol local por una cuestión de una decisión mía pero no por una cuestión de equipos que haya
+00:08:42,236 --> 00:08:45,907
+每次上场都会全力以赴，在训练中就能看出来
 
 125
-00:09:45,591 --> 00:09:51,097
-我不是发言的人，否则我就会进入一个不属于我的领域。
-and I am not the one to speak, otherwise I would be getting into territory that is honestly not mine.
-y yo no soy el indicado para hablar, sino me estaría metiendo en un terreno que sinceramente no es el mío.
+00:08:46,589 --> 00:08:50,360
+这里的水平非常高，有时甚至比俱乐部还要高
 
 126
-00:09:52,780 --> 00:09:53,834
-我不做。
-I don't do it.
-Yo no le hago.
+00:08:50,880 --> 00:08:56,174
+来到这里总是要更加严格，无论是质量还是其他方面
 
 127
-00:09:55,236 --> 00:09:57,301
-下午好。
-Good afternoon.
-Buenas tardes.
+00:08:56,570 --> 00:09:02,552
+你和委内瑞拉的比赛表现不错，这些机会都要把握住，因为这是你第一次
 
 128
-00:09:58,062 --> 00:10:00,347
-UNIFE 频道上的 Pasión Deportiva 莱安德罗·帕斯 (Leandro Paz)。
-Leandro Paz, Pasión Deportiva, on the UNIFE channel.
-Leandro Paz, Pasión Deportiva, por el canal UNIFE.
+00:09:02,994 --> 00:09:08,637
+连续两次入选，虽然球队基本阵容一直保持不变，但这样的机会必须要把握
 
 129
-00:10:00,948 --> 00:10:02,912
-我想问你关于两名球员的问题。
-I wanted to ask you about two players.
-Quería preguntarte por dos jugadores.
+00:09:08,777 --> 00:09:14,021
+是的，基本阵容保持稳定是很正常的，因为他们取得了那么多成就
 
 130
-00:10:03,072 --> 00:10:05,978
-其中之一是迪乌·马丁内斯 (Divu Martínez)，他在上次双人约会中落败。
-One of them is Divu Martínez, who had been lost in the last double date.
-Uno de ellos es Divu Martínez, que se había perdido en la última doble fecha.
+00:09:14,201 --> 00:09:16,613
+每次得到机会我都必须要好好把握
 
 131
-00:10:06,198 --> 00:10:10,016
-你好吗，没有和阿根廷队在一起的那段时间你是怎么度过的？
-How are you, how did you live that period without being with the Argentine team.
-cómo está, cómo vivió ese lapso sin estar con la selección argentina.
+00:09:17,980 --> 00:09:19,679
+做好准备达到要求
 
 132
-00:10:10,778 --> 00:10:16,464
-另一个是关于利查，他带着腰部疼痛来到这里，他是否可以留在英格兰，或者他只是为了留在那里。
-And the other is about Licha, who arrived with a pain in his waist, whether he could have stayed in England or if he came just to be there.
-Y el otro es por licha, que llegó con un dolor en la cintura, si él se podría haber quedado en Inglaterra o si llegó solamente para estar.
+00:09:20,529 --> 00:09:22,496
+与委内瑞拉那场比赛的好事我没想到
 
 133
-00:10:17,225 --> 00:10:22,313
-让他们评估他，然后去休息、恢复，因为不幸的是，他不得不离开国家队。
-Let them evaluate him and then go to rest, to recover, as he, unfortunately, had to leave the national team.
-que lo evalúen y después ir a descansar, a recuperarse, como a la vista de él, lamentablemente, que se tuvo que ir de la selección.
+00:09:23,058 --> 00:09:26,328
+Leo叫我，我必须快速上场，都没时间热身
 
 134
-00:10:23,561 --> 00:10:27,733
-嗯，埃米利亚诺很好，他回到了我们身边，我们很高兴......
-Well, Emiliano is fine, he is back with us, we are happy to...
-Bueno, Emiliano está bien, vuelve a estar con nosotros, estamos contentos de...
+00:09:26,909 --> 00:09:32,181
+但好在结果不错，希望这次也能有出场时间，并且表现出色
 
 135
-00:10:28,936 --> 00:10:34,316
-阻止他，他总是带着他带来的正能量
-stop him and well he always comes with that positive energy that he brings
-detenerlo y bueno viene siempre con esa energía positiva que él trae
+00:09:32,842 --> 00:09:39,698
+你是如何融入球队的，是等他们主动接近还是你自己主动
 
 136
-00:10:35,359 --> 00:10:41,185
-利桑德罗的情况，好吧，我们没想到，我们确实生活在游戏中，他背部受到打击，但是......
-The case of Lisandro, well, we did not expect it, it is true that we lived in the game, he suffered a blow to the back, but...
-El caso de Lisandro, bueno, no lo esperábamos, sí es verdad que vivimos en el partido, sufrió un golpe en la espalda, pero...
+00:09:40,901 --> 00:09:45,392
+我试着给他们空间，然后慢慢适应
 
 137
-00:10:41,927 --> 00:10:45,801
-如果他显然没有问题的话……
-If apparently he had no problem...
-Si aparentemente no tenía ningún problema...
+00:09:46,094 --> 00:09:49,951
+如果他们跟我说话就回应，如果没有就慢慢融入
 
 138
-00:10:46,684 --> 00:10:52,679
-只有疼痛，当他到达这里时，疼痛增加了一点，他们做了一项研究，
-only the pain and when he got here the pain increased a little and they did a study and
-solo el dolor y al llegar acá el dolor se incrementó un poco y le hicieron un estudio y
+00:09:50,237 --> 00:09:54,191
+保持尊重，他们也帮了很多忙
 
 139
-00:10:53,660 --> 00:10:58,264
-而且他不适合，我无法从医学上准确地告诉你他患有什么。
-and he is not fit to be, I wouldn't be able to tell you exactly medically what he has.
-y no está en condiciones de estar, no sabría decirte exactamente médicamente qué es lo que tiene.
+00:09:56,494 --> 00:10:01,686
+有些是前队友，我在U20时就和一些人一起踢球，关系不错，这也有帮助
 
 140
-00:10:59,387 --> 00:11:03,121
-但很明显，这些政党不存在这种情况，这就是为什么我们呼吁
-but it is evident that it is not there for these parties and that is why we call
-pero es evidente que para estos partidos no está y por eso llamamos a
+00:10:01,857 --> 00:10:03,359
+我们现在来谈谈身边的Barrenechea
 
 141
-00:11:03,784 --> 00:11:07,618
-致法昆多·梅迪纳 (Facundo Medina) 并愿意强调他...
-to Facundo Medina and willing to emphasize that he...
-a Facundo Medina y de disposición recalcar que él...
+00:10:03,379 --> 00:10:04,200
+你能告诉我们些什么
 
 142
-00:11:08,661 --> 00:11:12,749
-法昆多只是出于他的愿望才得到了这张票，所以看，这些就是
-Facundo got the ticket just out of the desire he had, so look, those are the
-Facundo se sacó el pasaje solo de las ganas que tenía así que mira esas son las
+00:10:04,220 --> 00:10:06,183
+我当然看到了他的成长历程
 
 143
-00:11:13,470 --> 00:11:14,432
-是的，他们笑了，但那是……
-Yes, they laugh, but it's something...
-Sí, se ríen, pero es algo...
+00:10:07,304 --> 00:10:08,147
+我觉得他做得不错
 
 144
-00:11:17,118 --> 00:11:20,494
-在我们到来的这些时刻，这是有价值的。
-It is something valuable in these moments that we came.
-Es algo valorable en estos momentos que vinimos.
+00:10:08,770 --> 00:10:10,657
+我在去 Cúdia之前和他一起踢球
 
 145
-00:11:22,335 --> 00:11:23,598
-我们生活过，而不是我们来过。
-that we lived, not that we came.
-que vivimos, no que vinimos.
+00:10:11,199 --> 00:10:12,444
+可惜他没能入选
 
 146
-00:11:23,678 --> 00:11:29,132
-我们活着，对我们来说这是一件伟大的事情，因为它不是列表的一部分，甚至不是预列表的一部分。
-We live, for us it is something great because it was not part of the list, not even the pre-list.
-Vivimos, para nosotros es algo genial porque no formaba parte de la lista, ni siquiera de la prelista.
+00:10:13,049 --> 00:10:17,632
+但是我看过他踢球，我们有同一个经纪人，所以我一直关注着Enzo
 
 147
-00:11:30,461 --> 00:11:35,708
-他自己做了所有事情，他去和他的教练交谈，他拿到了票，今天早上到达了。
-And he did everything himself, he went to talk to his coach, he got his ticket and he arrived this morning.
-Y hizo todo él, fue a hablar con el entrenador suyo, le sacó el pasaje y llegó esta mañana.
+00:10:18,595 --> 00:10:21,624
+我知道他的实力，他的踢球方式，我很喜欢
 
 148
-00:11:35,868 --> 00:11:36,248
-这是一个东西...
-It's something...
-Es algo...
-
-149
-00:11:37,662 --> 00:11:41,050
-重视，最重要的是向他的同事传递信息。
-to value and above all a message for his colleagues.
-a valorar y sobre todo un mensaje para sus compañeros.
-
-150
-00:11:42,714 --> 00:11:43,416
-莱昂内尔，你好吗？
-Leonel, how are you?
-Leonel, ¿qué tal?
-
-151
-00:11:43,637 --> 00:11:44,299
-下午好。
-Good afternoon.
-Buenas tardes.
-
-152
-00:11:45,182 --> 00:11:47,609
-我想让你为来自萨尔塔的第 10 队制作一个微型瓦雷拉。
-I wanted to make you a micro varela for team 10 from Salta.
-Te quería hacer micro varela para equipo 10 de Salta.
-
-153
-00:11:50,295 --> 00:11:53,679
-请参考古斯塔沃·阿尔法罗不久前所说的话。
-consult about what Gustavo Alfaro said a little while ago.
-consultar acerca de lo que dijo hace un ratito Gustavo Alfaro.
-
-154
-00:11:54,239 --> 00:11:59,769
-他说，党可以经历不同的风风雨雨，经历不同的阶段
-He said that the party could go through different ups and downs, through different stages
-dijo que el partido podía pasar por distintos vaivenes, por distintas etapas
-
-155
-00:12:00,169 --> 00:12:04,500
-根据球员的个人实力和能力。
-according to the individual strengths and capabilities of the players.
-de acuerdo a las fortalezas y capacidades individuales de los jugadores.
-
-156
-00:12:04,981 --> 00:12:05,904
-你同意吗？
-Do you agree with that?
-¿Coincidís con eso?
-
-157
-00:12:05,924 --> 00:12:09,713
-这是阿尔法罗只考虑巴拉圭是什么的看法。
-It is a perception of Alfaro only thinking about what Paraguay is.
-Es una percepción de Alfaro solamente pensando en lo que es Paraguay.
-
-158
-00:12:12,509 --> 00:12:15,161
-嗯，我在新闻发布会上没有看到，但是……
-Well, I didn't see it at the press conference, but yes...
-Bueno, no la vi en la rueda de prensa, pero sí...
-
-159
-00:12:16,485 --> 00:12:21,798
-他有经验，他会分析阿根廷并且非常了解他的球队是如何踢球的。
-He has experience, he will have analyzed Argentina and knows very well how his team plays.
-Él tiene experiencia, habrá analizado Argentina y sabe muy bien cómo juega su equipo.
-
-160
-00:12:23,242 --> 00:12:26,658
-好吧，我们每个人都有自己的意见
-and well, we each have our opinion
-y bueno, cada uno tenemos nuestro parecer
-
-161
-00:12:27,039 --> 00:12:31,517
-如果他以自己的经验这么说，那肯定是有道理的。
-and if he says it with the experience he has, surely there could be something to that.
-y si él lo dice con la experiencia que tiene seguramente pueda haber algo de eso.
-
-162
-00:12:32,279 --> 00:12:35,752
-显而易见的是，就像所有比赛一样，这是一场非常困难的比赛，而且
-What is clear is, like all the games, it was a very difficult game and
-lo que está claro es como todos los partidos era un partido muy difícil y
-
-163
-00:12:37,188 --> 00:12:42,308
-最重要的是，他们很好，他们很有信心，这将是一场值得观看的比赛。
-Above all, they are fine, they are confident and it is going to be a nice game to watch.
-Sobre todo que ellos están bien, están con confianza y va a ser un partido lindo de ver.
-
-164
-00:12:44,673 --> 00:12:46,475
-这是乔内尔·瑙 (Jonel Nau) 为娇韵诗 (Clarín) 的 Lloro 表演的擂台。
-Here is Jonel Nau in the ring for Clarín's Lloro.
-Acá Jonel Nau en la ancillota para el Lloro de Clarín.
-
-165
-00:12:46,875 --> 00:12:51,319
-法罗说的另一件事，如果你没有看到的话，我会告诉你，他将阿根廷队比作湿度。
-Another thing that El Faro said, I'll tell you in case you didn't see it, is that he compared the Argentine team to humidity.
-Otra cosa que dijo el Faro, te cuento por si no lo viste, es que comparó la selección argentina con la humedad.
-
-166
-00:12:51,932 --> 00:12:55,534
-他说湿气会进入你的裂缝，并渗透进去。
-He said that moisture gets into your cracks, it seeps through.
-dijo que la humedad se te mete en las rajaduras, se te filtra.
-
-167
-00:12:56,036 --> 00:13:00,086
-阿根廷队也玩这个游戏，它检测到墙上有裂缝，然后漏水了。
-and that the Argentine team plays that game too, it detects a crack in the wall and it leaks out.
-y que la selección argentina hace ese juego también, te detecta una rajadura en la pared y se te filtra.
-
-168
-00:13:00,628 --> 00:13:06,802
-他们，巴拉圭，应该成为防止阿根廷泄密的屏障。
-and that they, Paraguay, should be a barrier to prevent Argentina from leaking.
-y que ellos, Paraguay, deberían ser un imperviabilizante para evitar que la Argentina se filtre.
-
-169
-00:13:07,162 --> 00:13:11,676
-我想知道这是否与阿尔法罗的评价和比喻相符。
-I wanted to know if it coincides with this assessment and this metaphor of Alfaro.
-Quería saber si coincide con esta apreciación y esta metáfora de Alfaro.
-
-170
-00:13:12,097 --> 00:13:18,290
-继续比喻，如果你敢说巴拉圭对你来说是阿根廷队的，这总是让事情变得复杂。
-And continuing with the metaphors, if you dare to say that it is Paraguay for you, for the Argentine team, which always complicates it.
-y siguiendo con las metáforas, si te animás a decir que es Paraguay para vos, para la selección argentina, que siempre la complica.
-
-171
-00:13:21,072 --> 00:13:27,468
-好吧，我没有在新闻发布会上看到她，我再说一遍，因为我们正在训练，我们正在吃饭，好吧......
-Well, I didn't see her at the press conference, I repeat, because we were training and we were eating and well...
-Bueno, no la vi en la rueda de prensa, repito, porque estábamos entrenando y estábamos comiendo y bueno...
-
-172
-00:13:28,170 --> 00:13:28,391
-和...
-and...
-si...
-
-173
-00:13:30,782 --> 00:13:32,689
-除了比喻之外，我还明白...
-Beyond the metaphors, I understand that...
-Más allá de las metáforas, entiendo que...
-
-174
-00:13:36,843 --> 00:13:42,427
-这意味着阿根廷可以在比赛的任何时间
-which means that Argentina can at any time of the match
-que quiere decir que Argentina puede en cualquier momento del partido
-
-175
-00:13:43,429 --> 00:13:45,796
-总结一下伤害你一点
-hurt you a little in summary
-hacerte daño un poco resumiendo
-
-176
-00:13:48,446 --> 00:13:49,310
-他的意思是什么。
-what he meant.
-lo que quiso decir.
-
-177
-00:13:51,178 --> 00:13:57,016
-我对巴拉圭有何看法，除了是一支历史上一直是
-And what do I think about Paraguay, in addition to being a team that has always historically been
-Y que pienso de Paraguay que además de ser una selección que siempre históricamente ha sido
-
-178
-00:13:57,577 --> 00:14:02,087
-我们在巴拉圭踢球很困难，他们也有优秀的球员，因为他们有优秀的球员
-difficult for us playing in Paraguay and they also have good players because they have good players
-difícil para nosotros jugando en Paraguay además tiene buenos jugadores porque tiene buenos jugadores
-
-179
-00:14:03,430 --> 00:14:06,079
-必须强调的是，这不是选择
-That must be emphasized, it is not a selection
-que eso hay que recalcarlo, no es una selección
-
-180
-00:14:07,463 --> 00:14:08,889
-有玩家的
-that has players
-que tenga jugadores
-
-181
-00:14:11,138 --> 00:14:16,672
-未知，大多数人在外面踢球，他们为重要的球队效力，这是最重要的。
-unknown, the majority play outside, they play for important teams and that is the main thing.
-desconocidos, la mayoría juega afuera, juega en equipos importantes y eso es lo principal.
-
-182
-00:14:18,737 --> 00:14:24,112
-我们已经知道古斯塔沃的球队是如何组织的，他们非常了解自己的比赛方式，这使得比赛变得非常困难。
-We already know how Gustavo's teams are, organized, they do know very well what they play and that makes it very difficult.
-Los equipos de Gustavo ya sabemos cómo son, organizados, sí que saben muy bien a qué juegan y eso lo hace muy difícil.
-
-183
-00:14:25,066 --> 00:14:25,950
-莱昂内尔，下午好。
-Leonel, good afternoon.
-Leonel, buenas tardes.
-
-184
-00:14:25,970 --> 00:14:26,773
-埃尔南·桑特西罗。
-Hernán Santerciero.
-Hernán Santerciero.
-
-185
-00:14:27,175 --> 00:14:28,179
-先咨询一下你...
-First consult you...
-Primero consultarte...
-
-186
-00:14:29,002 --> 00:14:34,156
-您听到豪尔赫·桑保利说过，最好的足球运动员出生在法国和巴西。
-You heard Jorge Sampaoli's statement that the best footballers are born in France and Brazil.
-Escuchaste la declaración de Jorge Sampaoli que los mejores futbolistas nacen en Francia y en Brasil.
-
-187
-00:14:34,778 --> 00:14:40,151
-阿根廷队世界冠军和他的加盟引起了强烈关注
-draws powerful attention having the Argentine team world champion and him having been
-llama poderosamente la atención teniendo a la selección argentina campeona del mundo y él habiendo sido
-
-188
-00:14:40,673 --> 00:14:45,470
-国家队的教练，以及西班牙队的教练
-coach precisely of the national team and then in parallel how Spain is
-entrenador justamente de la selección y después paralelamente como está España
-
-189
-00:14:46,393 --> 00:14:52,548
-在这个灾难性的时刻，由于一年中大部分时间都会遭受洪水。
-at this catastrophic moment due to the floods that you experience for much of the year now.
-en este momento tan catastrófico por las inundaciones que vivís gran parte del año ya.
-
-190
-00:14:53,856 --> 00:14:56,141
-我没有听到这些说法。
-I didn't hear the statements.
-No escuché las declaraciones.
-
-191
-00:14:56,482 --> 00:15:00,111
-它基于意见，每个人都有自己的意见。
-It is based on opinions and everyone has their opinion.
-Es que va por opiniones y cada uno tiene su opinión.
-
-192
-00:15:02,817 --> 00:15:06,444
-好吧，是的，既然我这么说了，我就利用了西班牙
-And well, yes, since I said it, I take advantage of Spain
-Y bueno, sí, ya que lo decía, aprovecho España
-
-193
-00:15:07,186 --> 00:15:09,600
-尤其是瓦伦西亚地区，甚至州...
-especially the Valencia area, even state...
-sobre todo la zona de Valencia, hasta estado...
-
-194
-00:15:11,417 --> 00:15:14,885
-正在经历一段非常困难的时期，并向他提供所有支持。
-going through a very difficult time and send him all the support.
-atravesando un momento muy difícil y mandarle todo el apoyo.
-
-195
-00:15:14,925 --> 00:15:17,792
-我知道这些天另一个达纳也回来了。
-I know now these days another Dana is also coming back.
-Sé que ahora en estos días también está volviendo otra Dana.
-
-196
-00:15:18,834 --> 00:15:22,762
-今天和明天对他们所有人来说都将是艰难的日子。
-Today and tomorrow will be difficult days for all of them.
-Hoy y mañana serán días complicados para todos ellos.
-
-197
-00:15:24,306 --> 00:15:27,460
-我们不能让任何事情发生，因为他们会看到这样的结果
-We have to not let nothing happen because they are going to see like this
-tenemos que que no que no pase nada porque van a ver así
-
-198
-00:15:27,500 --> 00:15:31,504
-这是一场悲剧，整个国家，我想说的是整个世界都发生了变化。
-It has been a tragedy and the entire country has turned, I would say the world.
-Ha sido una tragedia y todo el país se ha volcado, diría el mundo.
-
-199
-00:15:32,686 --> 00:15:36,787
-我唯一能说的就是希望他们能够尽快离开。
-and let's hope they can get out as soon as possible, is the only thing I can say.
-y esperemos que puedan salir cuanto antes, es lo único que puedo decir.
-
-200
-00:15:38,533 --> 00:15:41,226
-下午好，第 12 页的 Adrián de Benedictis。
-Good afternoon, Adrián de Benedictis, for Page 12.
-Buenas tardes, Adrián de Benedictis, para Página 12.
-
-201
-00:15:42,329 --> 00:15:46,853
-在你们的周期中，有49名球员首次亮相，并且有49名球员首次为国家队效力。
-In your cycle, 49 players have debuted and you have had 49 players play for the national team for the first time.
-En tu ciclo han debutado y hiciste jugar por primera vez en la selección a 49 jugadores.
-
-202
-00:15:48,494 --> 00:15:51,500
-如果巴雷内切加在这个日期比赛，那将是第 50 日。
-and if Barrenechega plays on this date it would be the 50th.
-y si Barrenechega llega a jugar en esta fecha sería el 50.
-
-203
-00:15:52,501 --> 00:15:58,296
-为最年轻的人提供机会并培训他们是否让您感到特别满意？
-Does giving the youngest people the opportunity and training them as well give you any special satisfaction?
-¿Te genera alguna satisfacción especial eso de darle la posibilidad a los más jóvenes y de formarlos también?
-
-204
-00:16:00,083 --> 00:16:04,795
-嗯，尼科在车上告诉我，我们没有足够的球员。
-Well, Nico told me in the car, we didn't have the number of players.
-Bueno, me lo dijo Nico en el auto, la cantidad de jugadores, no la teníamos.
-
-205
-00:16:06,291 --> 00:16:11,430
-但我认为，如果有这么多孩子来，因为有潜力，那就是……
-but I think that if so many kids have come, because there is potential, that is the...
-pero creo que si han venido tantos chicos, porque hay potencial, esa es la...
-
-206
-00:16:12,794 --> 00:16:15,761
-我想说最终的答案永远都会有。
-I would say the final answer and there always will be.
-La respuesta final diría yo y siempre va a haber.
-
-207
-00:16:15,901 --> 00:16:18,848
-阿根廷是球员的温床。
-Argentina is a hotbed of players.
-Argentina es un semillero de jugadores.
-
-208
-00:16:19,690 --> 00:16:24,937
-你必须有愿望，或者在这种情况下，我们教练组，
-You have to have either the desire or, in this case, we, the coaching staff,
-hay que tener o las ganas o, en este caso, nosotros, el cuerpo técnico,
-
-209
-00:16:26,158 --> 00:16:30,304
-给他那种快乐，以及为成年队效力的责任。
-to give him that joy, that responsibility of being able to play for the senior team.
-de darle esa alegría, esa responsabilidad de poder jugar en la selección mayor.
-
-210
-00:16:30,545 --> 00:16:31,626
-然后他们就按照自己的方式...
-They then their way...
-Ellos después su camino...
-
-211
-00:16:32,328 --> 00:16:36,509
-我们总是告诉他们什么取决于他们，穿上衬衫就不会再脱下来。
-What we always tell them depends on them, putting on the shirt and not taking it off again.
-Lo que siempre les decimos depende de ellos, ponerse la camiseta y no sacársela más.
-
-212
-00:16:38,437 --> 00:16:41,691
-只要我们还在这里，这种趋势就会持续下去。
-As long as we are here, that trend will continue.
-Mientras estemos nosotros acá, seguirá esa tónica.
-
-213
-00:16:42,453 --> 00:16:45,516
-那些男孩能够上场比赛的可能性仍然存在。
-The possibility that those boys can play will still be there.
-La posibilidad de que esos chicos puedan jugar seguirá estando.
-
-214
-00:16:46,778 --> 00:16:52,432
-从逻辑上讲，这是有一个基础的，他们会根据我们认为合适的方式进入。
-Logically there is a base and they will enter based on what we believe is appropriate.
-Lógicamente hay una base y van a ir entrando en base a lo que nosotros creamos oportuno.
-
-215
-00:16:53,885 --> 00:16:55,430
-丹尼尔，你怎么在这里？
-Daniel, how are you here?
-Daniel, ¿cómo estás aquí?
-
-216
-00:16:55,590 --> 00:16:56,412
-很高兴向您致意。
-A pleasure to greet you.
-Un placer saludarte.
-
-217
-00:16:56,493 --> 00:16:58,158
-路易斯·费雷戈齐 (Luis Ferregozi) 拍摄《今日游戏》。
-Luis Ferregozi for The Game of the Day.
-Luis Ferregozi para La Juega del Día.
-
-218
-00:16:58,178 --> 00:16:59,802
-我们正在布宜诺斯艾利斯广播电台进行直播。
-We are live on Radio Buenos Aires.
-Estamos en vivo en Radio Buenos Aires.
-
-219
-00:17:00,444 --> 00:17:03,857
-同事们正在谈论阿尔法罗的言论。
-Colleagues were just talking about Alfaro's statements.
-Recién hablaban los colegas de las declaraciones de Alfaro.
-
-220
-00:17:04,479 --> 00:17:08,582
-在这些预选赛中，你们在阿根廷教练的带领下只输掉了两场比赛，对吗？
-And in these qualifying rounds you have only lost two Argentine matches with Argentine coaches, right?
-Y en estas eliminatorias ha perdido solamente dos partidos argentinos con técnicos argentinos, ¿no?
-
-221
-00:17:09,505 --> 00:17:15,214
-你觉得你的阿根廷同事面对阿根廷队的准备有什么不同吗？
-Do you feel that your Argentine colleagues prepare differently to face Argentina?
-¿Sentís que justamente tus colegas argentinos se preparan de manera distinta para enfrentar a Argentina?
-
-222
-00:17:16,175 --> 00:17:17,276
-它们是特殊的游戏。
-They are special games.
-Son partidos especiales.
-
-223
-00:17:17,457 --> 00:17:18,958
-不，还有很多，是吗？
-No, there are many too, eh?
-No, es que hay muchos también, ¿eh?
-
-224
-00:17:19,299 --> 00:17:20,420
-是的，是的，有好几个，这就是原因。
-Yes, yes, there are several, that's why.
-Sí, sí, hay varios, por eso.
-
-225
-00:17:20,881 --> 00:17:23,548
-但是，嘿，通常可能是我不喜欢结局。
-But hey, usually it could be that I don't like the ending.
-Pero bueno, normalmente puede ser que no me gusta el final.
-
-226
-00:17:23,568 --> 00:17:26,737
-从统计数据来看，我们在预选赛中将失去比阿根廷人更多的人，但是......
-Statistically we are going to lose more than an Argentine in the qualifiers, but...
-Estadísticamente vamos a perder más que un argentino en los eliminatorios, pero...
-
-227
-00:17:27,338 --> 00:17:29,827
-我的意思是，他们如何准备，也许是用陈述。
-I mean, how they prepare, perhaps with statements.
-Digo, cómo se preparan, quizás con declaraciones.
-
-228
-00:17:29,847 --> 00:17:31,512
-不，这些陈述显然很糟糕。
-No, the statements are clearly bad.
-No, son malas las declaraciones, claramente.
-
-229
-00:17:32,195 --> 00:17:36,292
-但如果你觉得阿根廷教练，在带着国家队面对CIMA时，
-But if you feel that the Argentine coach, when facing CIMA with a national team,
-Pero si sentís que el técnico argentino, cuando enfrenta a CIMA con una selección,
-
-230
-00:17:36,493 --> 00:17:42,752
-阿根廷和世界冠军可以以不同的方式展现自己，并给你带来另一种问题。
-Argentina and world champion can present themselves differently and cause another type of problem for you.
-Argentina y campeona del mundo se puede presentar distinto y a ustedes generarle otro tipo de problema.
-
-231
-00:17:44,557 --> 00:17:49,972
-每个教练，无论其国籍如何，都会准备自己的比赛。
-Each coach, regardless of his nationality, prepares his game.
-Cada entrenador, más allá de la nacionalidad que tenga, prepara su partido.
-
-232
-00:17:50,633 --> 00:17:51,594
-基于你所相信的。
-based on what you believe.
-en base a lo que crea.
-
-233
-00:17:52,556 --> 00:17:55,379
-相反，我不认为他是阿根廷人或与众不同。
-I don't think he's Argentine or different, on the contrary.
-No creo que sea argentino o sea diferente, al contrario.
-
-234
-00:17:56,701 --> 00:18:02,691
-相反，我想说的是，为比赛做准备国籍并不重要。
-On the contrary, it is the same, I would say, that to prepare for the match nationality does not matter.
-Al contrario, es lo mismo, diría yo, que para preparar el partido da igual la nacionalidad.
-
-235
-00:18:03,743 --> 00:18:05,026
-莱昂内尔，在你左边。
-Leonel, here to your left.
-Leonel, aquí a tu izquierda.
-
-236
-00:18:05,346 --> 00:18:06,970
-埃尔南·阿东 (Hernán Adón)，来自Universo Deportivo。
-Hernán Adón, from Universo Deportivo.
-Hernán Adón, el de Universo Deportivo.
-
-237
-00:18:07,350 --> 00:18:11,661
-对于那些没有看过瓦伦西亚以及没有看过他踢球的人来说，你会如何形容恩佐·巴雷内切亚？
-How would you describe Enzo Barrenechea for those who have not watched Valencia and who have not seen him play?
-¿Cómo describirías a Enzo Barrenechea para aquellos que no han visto el Valencia y que no lo han visto jugar?
-
-238
-00:18:12,222 --> 00:18:13,745
-阿根廷也没有。
-neither in Argentina.
-tampoco en la Argentina.
-
-239
-00:18:13,785 --> 00:18:15,367
-作为一名足球运动员，你会如何形容他？
-How would you describe him as a footballer?
-¿Cómo lo describirías como futbolista?
-
-240
-00:18:16,229 --> 00:18:22,426
-他是一名中场球员，可以踢中前卫，可以踢双后卫，可以踢...
-He is a midfielder who can play as a central midfielder, he can play as a double defender, he can play as...
-Es un centro campista que puede jugar de volante centrada, puede jugar de doble contención, puede jugar de...
-
-241
-00:18:22,968 --> 00:18:27,805
-8个具有重要体质的人。
-Of 8 with an important physique.
-De 8 con un físico importante.
-
-242
-00:18:28,668 --> 00:18:33,026
-对他来说和我们在一起会有好处，对他上场比赛也会有好处
-and it will be good for him to be with us, it will be good for him to play
-y que le va a ser bien que esté con nosotros, le va a ser bien jugar
-
-243
-00:18:34,605 --> 00:18:36,776
-在巴伦西亚，参加比赛。
-in Valencia, join games.
-en el Valencia, juntar partidos.
-
-244
-00:18:39,795 --> 00:18:45,409
-除了性能之外，这也是为了寻找更多的玩家
-beyond its performance it is also a bit of a search for more players
-más allá de su rendimiento es también un poco la búsqueda de jugadores más
-
-245
-00:18:45,850 --> 00:18:49,726
-他们将来可以和我们在一起。
-that they can be with us in the future.
-que puedan estar con nosotros en el futuro.
-
-246
-00:18:51,413 --> 00:18:55,931
-今天他在这里，他正在训练，我们将继续见到他。
-Today he is here, he is training and we will continue to see him.
-Hoy está acá, está entrenando y lo seguiremos viendo.
-
-247
-00:18:57,275 --> 00:19:03,506
-尽管我们认识他，但他与新队友的关系很重要，而且事实是他做得很好。
-Even though we know him, it is important that he relates to his new teammates and the truth is that he is doing well.
-Más allá de que lo conocemos, es importante que se relacione con sus nuevos compañeros y la verdad que lo está haciendo bien.
-
-248
-00:19:05,427 --> 00:19:07,171
-莱昂内尔·易卜拉欣·卡德尔 (Leonel Ibrahim Kader) 参加体育运动。
-Leonel Ibrahim Kader para Be In Sports.
-Leonel Ibrahim Kader para Be In Sports.
-
-249
-00:19:07,371 --> 00:19:11,159
-也许在这一天，阿根廷将获得参加下一届世界杯的资格。
-Maybe on this date Argentina will qualify for the next World Cup.
-Quizás en esta fecha Argentina clasifique al Mundial que viene.
-
-250
-00:19:11,966 --> 00:19:14,100
-或下一个日期，即接下来的三月。
-or the next date, the following March.
-o a la siguiente fecha, a la siguiente de marzo.
-
-251
-00:19:15,188 --> 00:19:20,739
-如果阿根廷比其他国家更早晋级，计划会如何改变？
-How can planning change if Argentina qualifies early and before others?
-¿En qué puede cambiar la planificación en caso que clasifique a Argentina temprana y antes de otras?
-
-252
-00:19:20,759 --> 00:19:22,727
-让我们等待资格，然后你就会看到。
-Let's wait to qualify and then you'll see.
-Vamos a esperar a clasificar y después ya ven.
-
-253
-00:19:26,052 --> 00:19:29,210
-因为认为你可以……是不好的。
-because it is not good to think that you can...
-porque no está bueno pensar en que se puede...
-
-254
-00:19:30,416 --> 00:19:33,986
-已经可以分类了，那放松就不好了。
-can already be classified, that relaxation would not be good.
-se puede ya clasificar, esa relajación no estaría buena.
-
-255
-00:19:36,153 --> 00:19:40,472
-如果我们晋级的话我们会等待，越早越好，然后我们就会看到......
-and we will wait if we qualify the sooner the better and then we will see that...
-y vamos a esperar si clasificamos cuanto antes sea mejor y después vemos que...
-
-256
-00:19:41,772 --> 00:19:42,333
-我们会做什么？
-What would we do?
-¿Qué haríamos?
-
-257
-00:19:42,474 --> 00:19:43,436
-我们没有计划。
-We don't have a plan.
-No tenemos un plan.
-
-258
-00:19:43,917 --> 00:19:47,085
-在我看来，他们现在想到了一个计划……
-It seems to me that they thought of a plan now to...
-Me parece que pensaron un plan ahora a...
-
-259
-00:19:49,211 --> 00:19:53,485
-将来会是错误的，特别是因为
-in the future would be wrong, especially because
-a futuro sería erróneo, sobre todo porque
-
-260
-00:19:53,786 --> 00:19:57,701
-我们很好，我们的基础很好，计划会是……
-We are fine, we are on a good basis and the plan would be something...
-Estamos bien, estamos con una base buena y el plan sería algo...
-
-261
-00:19:58,665 --> 00:20:00,712
-稍微远离现在。
-get away from the present a little.
-irse un poco del presente.
-
-262
-00:20:02,699 --> 00:20:08,296
-我们考虑一个又一个日期，如果可能的话尽快分类，然后从那里开始
-We think about date after date, classify if possible as soon as possible and from there
-Pensamos en la fecha tras fecha, clasificar si es posible cuanto antes y a partir de ahí
-
-263
-00:20:09,800 --> 00:20:12,125
-看看我们会做什么
-see what we would do knowing that there is
-ver qué haríamos sabiendo que hay
-
-264
-00:20:13,449 --> 00:20:18,217
-空缺或职位，实际上在工作人员中很少
-vacancies or positions, very few in a staff that practically
-vacantes o puestos, muy pocos en un plantel que prácticamente
-
-265
-00:20:19,160 --> 00:20:20,746
-几乎总是一样的。
-It is almost always the same.
-casi siempre es el mismo.
-
-266
-00:20:22,574 --> 00:20:24,278
-由 Vitalemos 为 Ciudad 广播电台创作。
-by Vitalemos for Radio Ciudad.
-de Vitalemos para Radio Ciudad.
-
-267
-00:20:24,398 --> 00:20:26,482
-明天的比赛中将会发生一些特别的事情。
-Something special is going to happen tomorrow in the game.
-Se va a dar una particularidad mañana en el partido.
-
-268
-00:20:27,063 --> 00:20:30,747
-问题是他们要求巴拉圭人不要穿梅西的球衣。
-The thing is that they have asked Paraguayans not to wear Messi shirts.
-es que han pedido a los paraguayos que no vayan con camisetas de Messi.
-
-269
-00:20:31,548 --> 00:20:32,330
-到体育场。
-to the stadium.
-al estadio.
-
-270
-00:20:33,232 --> 00:20:38,244
-考虑到梅西首先是这项运动的大使，这种决定会让你做什么？
-What does that type of decision make you, taking into account that Messi is first and foremost an ambassador of the sport?
-¿Qué te genera ese tipo de decisión, teniendo en cuenta que Messi primero es un embajador del deporte?
-
-271
-00:20:38,744 --> 00:20:44,370
-作为足球大使，对于巴拉圭人来说，这一定是他们最后一次在亚松森看到梅西踢球。
-an ambassador of football and also for Paraguayans it must be the last time they can see Messi in Asunción playing.
-un embajador del fútbol y además para los paraguayos debe ser la última vez que puedan verlo a Messi en Asunción jugando.
-
-272
-00:20:46,245 --> 00:20:49,050
-从逻辑上来说，...
-It is logically that...
-Es lógicamente que...
-
-273
-00:20:50,950 --> 00:20:53,152
-对于巴拉圭足球运动员，对于巴拉圭足球迷。
-for the Paraguayan soccer player, for the Paraguayan soccer fan.
-para el futbolista paraguayo, para el hincha de fútbol paraguayo.
-
-274
-00:20:57,977 --> 00:21:00,604
-他们都想搭配自己球队的球衣。
-They would all like to go with their team's shirt.
-quisieran ir todos con la camiseta de su selección.
-
-275
-00:21:01,727 --> 00:21:06,175
-但我认为里奥比这一切更强大，他会看到阿根廷队的球衣。
-But I think Leo is stronger than all that and he will see the Argentina jersey.
-Pero creo que Leo es más fuerte que todo eso y va a ver camiseta de Argentina.
-
-276
-00:21:06,656 --> 00:21:10,302
-这并不表明他们不支持巴拉圭，在我看来，这是
-and that does not indicate that they do not support Paraguay, it seems to me that it is
-y eso no indica que no hinchen para Paraguay, me parece que está
-
-277
-00:21:11,343 --> 00:21:17,731
-足球界的人们认识到他是谁，而不仅仅是因为他有一件球衣，这很好。
-It's good that football people recognize what he is and not just because he has a shirt.
-Que está bueno que la gente del fútbol reconozca lo que es él y no por tener una camiseta
-
-278
-00:21:18,592 --> 00:21:24,968
-你成为阿根廷球迷只是为了纪念，这很好，我不认为你必须把它混为一谈，尽管
-You are going to be an Argentina fan only in honor of and that is good, I don't think you have to mix it up, although
-vas a ser hincha de Argentina solamente en honor a y eso está bueno no creo que haya que mezclar aunque
-
-279
-00:21:25,349 --> 00:21:29,621
-对于巴拉圭来说，一切都以红白相配肯定更好。
-For Paraguay it is surely better that everything goes with the red and white.
-para Paraguay seguramente es mejor que vaya todo con la roja y blanca.
-
-280
-00:21:30,243 --> 00:21:30,945
-最后两个问题。
-Last two questions.
-Últimas dos preguntas.
-
-281
-00:21:32,321 --> 00:21:35,028
-amor.com.ar 寓言中有莱昂内尔·马塞洛·莫尔托 (Lionel Marcelo Morto)。
-There is Lionel Marcelo Morto in the parable amor.com.ar.
-Está Lionel Marcelo Morto a la parábola amor.com.ar.
-
-282
-00:21:35,168 --> 00:21:38,997
-你带领国家队已经6年2个月零6天了。
-You have been leading the National Team for 6 years, 2 months and 6 days.
-Llevas 6 años, 2 meses y 6 días a la frente de la Selección.
-
-283
-00:21:40,279 --> 00:21:43,562
-仅次于梅诺蒂和比拉尔多，如果你进入世界杯，你就会超越他们。
-only surpassed by Menotti and Bilardo, who you will pass if you reach the World Cup.
-sólo superado por Menotti y Bilardo, a quienes vas a pasar si llegás al Mundial.
-
-284
-00:21:43,622 --> 00:21:44,543
-这会在你身上产生什么？
-What does that generate in you?
-¿Qué te genera eso?
-
-285
-00:21:45,848 --> 00:21:49,062
-这如何激励你或者这一切会给你带来什么责任？
-How does that motivate you or what responsibility does all this generate for you?
-cómo te motiva eso o qué responsabilidad te genera todo esto.
-
-286
-00:21:50,990 --> 00:21:51,351
-谢谢。
-Gracias.
-Gracias.
-
-287
-00:21:52,614 --> 00:21:57,105
-嗯，我总是对统计数据做出回应。
-Well, I always respond to the statistics thing.
-Bueno, siempre respondo a lo de la estadística.
-
-288
-00:21:58,088 --> 00:21:59,091
-我不考虑它。
-I don't take it into account.
-no la tengo en cuenta.
-
-289
-00:21:59,172 --> 00:22:02,825
-如果我顺利到达，如果我没有到达，也一样。
-And if I arrive well and if I don't, too.
-Y si llego bien y si no llego, también.
-
-290
-00:22:05,017 --> 00:22:08,415
-我们来这里是为了为团队做出最大的贡献。
-We are here to contribute the most to the team.
-Nosotros estamos acá para aportar lo máximo a la selección.
-
-291
-00:22:09,038 --> 00:22:13,276
-并不是为了打破任何记录，相反，我们来这里是为了
-and not to beat any record, on the contrary, we are here to
-y no para batir ningún récord, al contrario, nosotros estamos para
-
-292
-00:22:14,501 --> 00:22:19,920
-努力让一切顺利，一切顺利，每个人
-to try to make everything go well, that everything flows and that everyone
-para intentar que todo vaya bien, que todo fluya y que todo el mundo
-
-293
-00:22:20,964 --> 00:22:22,449
-这就是我们所做的，所以...
-That's what we do, so...
-que es lo que hacemos nosotros, así que...
-
-294
-00:22:25,117 --> 00:22:29,664
-统计数据就是这样，我们并没有太重视它。
-Statistics are that and we don't give it much importance.
-Las estadísticas son eso y no le damos mayor importancia.
-
-295
-00:22:35,455 --> 00:22:36,642
-你好，莱昂内尔，下午好。
-Hello Lionel, good afternoon.
-Hola Lionel, buenas tardes.
-
-296
-00:22:36,843 --> 00:22:38,453
-这里是 Franco Rubio 的 Futebolero 温度计。
-Here Franco Rubio for the Futebolero Thermometer.
-Acá Franco Rubio para el Termómetro Futebolero.
-
-297
-00:22:39,136 --> 00:22:42,751
-好吧，回到恩佐·巴雷内切亚的话题，我想问你
-Well, returning a little to the topic of Enzo Barrenechea, I wanted to ask you
-Bueno, volviendo un poco al tema de Enzo Barrenechea, yo quería preguntarte
-
-298
-00:22:43,373 --> 00:22:48,534
-教练组在他的征召中看到了他的哪些特点和特点？
-What particularities and what characteristics could the coaching staff see in him for his inclusion in the call?
-¿Qué particularidades y qué características pudo ver el cuerpo técnico en él para su inclusión en la convocatoria?
-
-299
-00:22:48,996 --> 00:22:53,129
-以及他是否可以在这次双重约会或三月份的下一次约会中增加分钟数。
-and if he could add minutes on this double date or on the next one in March.
-y si podría llegar a sumar minutos en esta doble fecha o en la próxima de marzo.
-
-300
-00:22:54,059 --> 00:22:57,497
-答案大致相同，打得好，打得好，打得好。
-More or less the same answer, play well, play well, play well.
-Más o menos la misma respuesta, juega bien, juega bien, juega bien.
-
-301
-00:22:57,517 --> 00:23:03,479
-他踢球踢得很好，控球也很好，他的体格很重要，他有定位球。
-He plays football well, he plays with the ball well, he has an important physique, he has set pieces.
-Juega bien el fútbol, juega con la pelota bien, tiene un físico importante, tiene balón parado.
-
-302
-00:23:04,302 --> 00:23:08,194
-并且可以踢所有三个中场位置，既是中前卫，又是10中8中的5
-and can play in all three midfield positions, both central midfielder and 5 out of 8 out of 10
-y puede jugar en las tres posiciones de la mitad de la cancha tanto de volante central de 5 de 8 de 10
-
-303
-00:23:10,140 --> 00:23:14,664
-他具有国家队中场球员的特点。
-He has the characteristics of a midfielder for the National Team.
-tiene característica de centro campista de la Selección.
-
-304
-00:23:15,946 --> 00:23:18,674
-以及它是否会成为两方的一部分，我们拭目以待
-and whether or not it will be part of the two parties we will see
-y si formará parte o no de los dos partidos ya veremos
-
-305
-00:23:19,517 --> 00:23:25,575
-他在这里，他和我们在一起，现在他正在了解他的队友，这是积极的。
-He is here, he is with us and for now he is getting to know his teammates and that is positive.
-está acá, está con nosotros y por lo pronto está conociendo a sus compañeros y eso es positivo.
-
-306
-00:23:26,311 --> 00:23:28,653
-莱昂内尔（Leonel）代表大家玛丽·罗洛（Mari Rollo）想打个招呼。
-Leonel, on behalf of everyone, Mari Rollo, wanted to say hello.
-Leonel, ahí de parte de todos, Mari Rollo, quería saludar.
-
-307
-00:23:29,758 --> 00:23:36,394
-简直就是今天是国足技术总监的日子，好吧，我们想打个招呼。
-Simply today is the day of the national football technical director and well, we wanted to say hello.
-Simplemente hoy es el día del director técnico nacional de fútbol y bueno, queríamos saludar.
-
-308
-00:23:36,875 --> 00:23:37,997
-总而言之，快乐的一天。
-All in all, happy day.
-De todo, feliz día.
-
-309
-00:23:39,058 --> 00:23:40,280
-谢谢大家。
-Thank you all.
-Gracias a todos.
+00:10:21,644 --> 00:10:24,052
+他是一个我很欣赏的球员，希望他能在这里展现出来
 
