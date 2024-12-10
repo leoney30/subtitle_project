@@ -1,0 +1,6076 @@
+1
+00:00:00,470 --> 00:00:04,744
+El invitado esta semana no necesita ninguna presentación, ningún adelanto.
+
+2
+00:00:05,667 --> 00:00:10,344
+Esta semana en Clang vamos a charlar con el cunabuero papá.
+
+3
+00:00:21,584 --> 00:00:23,432
+¡Qué placer tenerte acá en Klan-Kun!
+
+4
+00:00:23,693 --> 00:00:24,938
+Un placer, gracias por venir.
+
+5
+00:00:25,419 --> 00:00:26,100
+No, de nada.
+
+6
+00:00:26,260 --> 00:00:28,904
+Siempre es divertido hablar con vos.
+
+7
+00:00:28,964 --> 00:00:29,425
+¿Vamos a jugar?
+
+8
+00:00:29,645 --> 00:00:35,579
+un rato vamos a jugar y clank clank se puede saber por qué claro te voy a te voy a explicar
+
+9
+00:00:37,343 --> 00:00:41,033
+es el ruido que hace la pelota cuando pegan el travesaño.
+
+10
+00:00:42,830 --> 00:00:47,099
+que en realidad viene del basket y se lo robé
+
+11
+00:00:47,961 --> 00:00:54,778
+a un compañero de Jordan que en el año 92 en un video la NBA sacaba videos oficiales de los equipos campeones.
+
+12
+00:00:54,898 --> 00:00:58,598
+Bulls salen a menos en el 92 el segundo título y Bobby Hansen que era el
+
+13
+00:00:59,281 --> 00:01:05,461
+peor jugador de los 12 que jugaban en Chicago en un entrenamiento lanza un intento de triple
+
+14
+00:01:05,902 --> 00:01:09,151
+Pega en el aro y él dice That's a bad shot.
+
+15
+00:01:09,372 --> 00:01:10,836
+Clank es un mal tiro.
+
+16
+00:01:11,016 --> 00:01:12,500
+Y de ahí se lo robé.
+
+17
+00:01:13,122 --> 00:01:14,045
+Más de 30 años, tío.
+
+18
+00:01:14,065 --> 00:01:14,968
+Con el cosito verde.
+
+19
+00:01:14,988 --> 00:01:16,875
+No, la verdad es que es muy bueno, divertido.
+
+20
+00:01:17,095 --> 00:01:18,279
+Bueno, un placer, un placer tenerte acá.
+
+21
+00:01:18,339 --> 00:01:18,861
+Felicidades.
+
+22
+00:01:19,744 --> 00:01:20,348
+Gracias.
+
+23
+00:01:21,213 --> 00:01:22,300
+¿Te imaginabas a los 35 así?
+
+24
+00:01:27,145 --> 00:01:27,365
+No.
+
+25
+00:01:28,588 --> 00:01:29,370
+¿Cómo te imaginabas?
+
+26
+00:01:30,544 --> 00:01:34,158
+y bueno yo más o menos ya los 29, 30 me está
+
+27
+00:01:36,787 --> 00:01:39,072
+imaginando que
+
+28
+00:01:41,638 --> 00:01:45,721
+para terminar en el City a los 32, 33 que por ahí se podía ver.
+
+29
+00:01:48,264 --> 00:01:53,782
+renovado, no sé, un año, dos años más y que bueno, que se hizo.
+
+30
+00:01:54,906 --> 00:01:59,321
+Y bueno, ahí era terminar, seguir en Europa.
+
+31
+00:02:00,123 --> 00:02:01,589
+por el mundial 2022 y luego después
+
+32
+00:02:03,677 --> 00:02:07,717
+después que terminara el Mundial, que justamente ese Mundial era en diciembre.
+
+33
+00:02:08,419 --> 00:02:13,705
+en Qatar y después terminaría en junio, digamos que todas las ligas europeas terminan en junio.
+
+34
+00:02:14,486 --> 00:02:19,197
+ahí ver si seguir un año más dependiendo físicamente cómo esté
+
+35
+00:02:20,258 --> 00:02:25,223
+que por ese momento sólo tenía un problema en la rodilla pero físicamente estaba bastante bien
+
+36
+00:02:26,084 --> 00:02:31,999
+Y bueno, ahí la idea era tratar de ver si volvía acá a Argentina.
+
+37
+00:02:32,179 --> 00:02:32,801
+A Independiente.
+
+38
+00:02:33,362 --> 00:02:36,631
+claramente sea independiente pero bueno no tampoco quería
+
+39
+00:02:37,995 --> 00:02:40,120
+en ese momento quería decir porque era algo que
+
+40
+00:02:42,707 --> 00:02:45,399
+que por ahí es ilusionar a la gente por ahí.
+
+41
+00:02:46,001 --> 00:02:51,229
+con algo que capaz que se me da un año más en un equipo como fue.
+
+42
+00:02:51,990 --> 00:02:57,715
+el Barcelona, que de repente apareció el Barça, es imposible decir que no y más.
+
+43
+00:02:58,316 --> 00:03:01,222
+que en ese momento estaba por jugar con Leo y venía al Mundial.
+
+44
+00:03:02,183 --> 00:03:06,468
+Obviamente era poder venir en los últimos tiempos.
+
+45
+00:03:08,631 --> 00:03:12,242
+Seis meses, un año era, por lo menos, obviamente, la gente independiente no iba.
+
+46
+00:03:12,744 --> 00:03:14,292
+a querer que me metiera tres o cuatro, ¿no?
+
+47
+00:03:16,504 --> 00:03:18,309
+Sí, dependiendo.
+
+48
+00:03:18,670 --> 00:03:20,675
+Siempre son bastante exigentes.
+
+49
+00:03:21,056 --> 00:03:22,018
+Pero bueno, eso está bien.
+
+50
+00:03:22,559 --> 00:03:24,744
+Pero bueno, la idea era poder venir acá y jugar.
+
+51
+00:03:27,469 --> 00:03:31,418
+los últimos partidos y a partir de ahí tirar los botines.
+
+52
+00:03:31,438 --> 00:03:33,462
+Pero bueno, no pasó eso.
+
+53
+00:03:34,419 --> 00:03:37,927
+el año 2021 es tremendo porque ganás la copa
+
+54
+00:03:38,047 --> 00:03:42,521
+América con los chicos en Brasil, con el gol de Angelito en el Maracaná.
+
+55
+00:03:43,484 --> 00:03:47,258
+te vas del sitio después de 10 años extraordinarios, te vas como como pro.
+
+56
+00:03:47,378 --> 00:03:49,021
+como el jugador más importante de la historia del club.
+
+57
+00:03:49,041 --> 00:03:53,008
+Ahora vamos a hablar un poco de tu vida en Manchester y te vas a Barcelona
+
+58
+00:03:53,408 --> 00:03:54,833
+Supuestamente a jugar con Leo.
+
+59
+00:03:55,434 --> 00:03:55,976
+Exacto.
+
+60
+00:03:56,437 --> 00:03:57,842
+Sí, bueno, cuando...
+
+61
+00:03:59,126 --> 00:04:02,102
+cuando ya en más o menos fines de enero
+
+62
+00:04:02,987 --> 00:04:03,188
+del 2021
+
+63
+00:04:08,528 --> 00:04:12,259
+Shell City me dice que por ahí...
+
+64
+00:04:13,241 --> 00:04:15,004
+no me iban a renovar
+
+65
+00:04:17,208 --> 00:04:22,884
+en febrero me lo terminan confirmando más o menos a mitad de febrero hagamos un punto ahí esperabas eso o esperabas que te renovaran
+
+66
+00:04:23,064 --> 00:04:29,198
+No, yo estaba esperando... en realidad yo quería por ahí un año más por...
+
+67
+00:04:30,481 --> 00:04:34,285
+Sobre todo no importa, yo estaba dispuesto a estar en el banco.
+
+68
+00:04:35,106 --> 00:04:38,932
+porque obviamente Pep ya el último año ya venía
+
+69
+00:04:41,195 --> 00:04:47,870
+jugando de vez en cuando entonces está dispuesto obviamente a ayudar de otro lado
+
+70
+00:04:48,593 --> 00:04:52,927
+porque sentía que estando un año más en la Premier
+
+71
+00:04:55,475 --> 00:04:59,728
+estando en el banco y jugando poco me iba a servir me daba digamos
+
+72
+00:05:00,670 --> 00:05:03,813
+como físico para poder jugar el mundial.
+
+73
+00:05:03,833 --> 00:05:04,073
+Claro.
+
+74
+00:05:04,273 --> 00:05:05,274
+Esa era la realidad.
+
+75
+00:05:07,560 --> 00:05:11,412
+y no, cuando me dijeron bueno nada obviamente la idea era poder seguir en Europa
+
+76
+00:05:12,717 --> 00:05:15,991
+por el mundial, todo era pensando por el mundial y
+
+77
+00:05:17,474 --> 00:05:21,378
+y bueno surge una llamada y que mi repre bueno me dice
+
+78
+00:05:22,241 --> 00:05:24,089
+El Barça preguntó si
+
+79
+00:05:25,837 --> 00:05:30,675
+si estás dispuesto a ir para allá pero bueno económicamente no pueden pagarte lo que te paga el city
+
+80
+00:05:31,497 --> 00:05:33,162
+Y yo le dije, bueno, a mí me da igual, no sé.
+
+81
+00:05:33,222 --> 00:05:35,948
+O sea, sé que lo que paga el Citi...
+
+82
+00:05:36,730 --> 00:05:43,211
+El contrato que tenía no lo iba a pagar ningún equipo grande.
+
+83
+00:05:43,973 --> 00:05:44,796
+por la edad que tenía
+
+84
+00:05:45,782 --> 00:05:50,922
+entonces le dije bueno que pongan ellos los números que quieran y trata de arreglarlo eso es lo que le dije a
+
+85
+00:05:51,585 --> 00:05:54,764
+a mi repre y nada, hacerlo en dos muy rápido porque...
+
+86
+00:05:55,387 --> 00:06:01,486
+Pues al final no es que yo dije quiero esto, ellos dijeron tenemos esto y bueno, y se mejoró un poquito más.
+
+87
+00:06:01,828 --> 00:06:05,526
+con algunas cosas por tema impositivo porque había que...
+
+88
+00:06:06,269 --> 00:06:11,115
+que pagar ayer en España, que es bastante alto, y después se arregló muy rápido
+
+89
+00:06:12,657 --> 00:06:16,468
+Y bueno, cuando ya casi tenía cerrado con Barça, le digo a Leo, ¿viste?
+
+90
+00:06:17,230 --> 00:06:22,944
+Y ahí cuando le digo a Leo estaba contento y después pasó todo lo que pasó.
+
+91
+00:06:24,610 --> 00:06:26,098
+Que nada, ¿qué voy a hacer?
+
+92
+00:06:26,118 --> 00:06:26,822
+Era algo que yo...
+
+93
+00:06:29,511 --> 00:06:32,656
+Imaginé y me ilusionaba jugar con él, pero el fútbol es así.
+
+94
+00:06:33,598 --> 00:06:37,386
+y pasan cosas que hay que aceptarlo.
+
+95
+00:06:38,027 --> 00:06:44,257
+Además salen campeones juntos de la Copa América en julio, en agosto no vemos y empezamos otra historia juntos.
+
+96
+00:06:44,798 --> 00:06:45,880
+a nivel club en Barcelona.
+
+97
+00:06:46,361 --> 00:06:47,444
+¿Cómo te enterás vos?
+
+98
+00:06:48,706 --> 00:06:51,652
+de que Leo no sigue, te lo cuenta él, te enterás por las noticias.
+
+99
+00:06:52,213 --> 00:06:58,828
+porque yo cuando llegué, bueno yo ya estaba entrenando, justo tuve una molestia en el gemelo
+
+100
+00:07:00,211 --> 00:07:00,231
+y
+
+101
+00:07:03,298 --> 00:07:06,478
+no me acuerdo si fue un jueves o miércoles o jueves
+
+102
+00:07:07,764 --> 00:07:10,075
+Creo que fue jueves cuando...
+
+103
+00:07:10,817 --> 00:07:16,791
+el Barça anuncia y el martes, el lunes llega a Barcelona.
+
+104
+00:07:17,512 --> 00:07:24,048
+ya para entrenar y me dice que todavía no iba a entrenar porque no se había arreglado
+
+105
+00:07:25,390 --> 00:07:31,037
+y el martes yo le dije que iba a haber una casa por ahí por cerca de donde vivía él
+
+106
+00:07:32,034 --> 00:07:36,602
+y me dijo bueno te acompaño y bueno fuimos juntos pero hasta ahí
+
+107
+00:07:37,764 --> 00:07:42,221
+Imagínate, me dice, te acompaño, porque yo me imaginaba que ya se iba a arreglar.
+
+108
+00:07:43,646 --> 00:07:49,095
+Y el miércoles, un día antes de que pase eso, estuvimos charlando a ver si nos veíamos.
+
+109
+00:07:49,736 --> 00:07:56,039
+o cuando entrenaba y me dijo si si ya casi seguro en estos días entreno no se si de mañana o pasado pero ya entreno
+
+110
+00:07:57,287 --> 00:08:00,995
+y bueno y al otro día a la tarde fue como 6 o 7 de la tarde de España
+
+111
+00:08:02,720 --> 00:08:06,232
+Bueno, yo estaba con Ibai, le estaba enseñando a tomar mate.
+
+112
+00:08:09,518 --> 00:08:10,659
+Y nos enteramos ahí los dos.
+
+113
+00:08:11,781 --> 00:08:14,845
+Claro, imagínate que Ibai está todo el día...
+
+114
+00:08:16,106 --> 00:08:20,591
+bromeando, yo no le creí, pensé que
+
+115
+00:08:21,252 --> 00:08:25,499
+y él también me decía yo creo que es como que fake, todos decíamos que era mentira
+
+116
+00:08:26,541 --> 00:08:30,831
+Y bueno, hasta que le pregunté a él, le puse solamente ¿es verdad?
+
+117
+00:08:30,851 --> 00:08:32,034
+Y me dijo sí.
+
+118
+00:08:34,861 --> 00:08:37,949
+No le contesté más nada porque no sabía qué decirle.
+
+119
+00:08:40,217 --> 00:08:42,669
+Y nada, pero bueno, ya después del otro día...
+
+120
+00:08:43,550 --> 00:08:47,520
+Le escribí y después el sado nos vimos.
+
+121
+00:08:48,563 --> 00:08:52,557
+y bueno ahí estaba bastante
+
+122
+00:08:53,259 --> 00:08:56,173
+bastante mal por la situación pero bueno al final
+
+123
+00:08:56,895 --> 00:09:01,643
+Yo, como soy yo, trate de, como siempre, haber visto mal a Leo en la selección.
+
+124
+00:09:02,144 --> 00:09:04,994
+Trataba de hacerle bromas, sacarle...
+
+125
+00:09:08,246 --> 00:09:10,874
+otra cosa digamos hablar de otra cosa que no sea el barça para
+
+126
+00:09:11,576 --> 00:09:15,655
+porque se le venían cosas a él en la cabeza y claro, se ponía mal.
+
+127
+00:09:16,639 --> 00:09:19,247
+y bueno estaba intentada de distraerlo por ese lado
+
+128
+00:09:19,629 --> 00:09:23,860
+si después hace una conferencia de prensa, se larga a llorar, o sea, como que también.
+
+129
+00:09:25,064 --> 00:09:29,702
+A él se le cambia el mundo, tiene que tomar la decisión de irse.
+
+130
+00:09:30,163 --> 00:09:35,896
+No había muchos lugares disponibles, más allá de ser mejores todos los tiempos, no había muchos clubes en el radar.
+
+131
+00:09:36,858 --> 00:09:41,789
+No, no, la verdad igual estaba el City, el City bueno siempre estuvo atrás de él.
+
+132
+00:09:42,611 --> 00:09:45,002
+pero bueno, él siempre...
+
+133
+00:09:46,147 --> 00:09:49,934
+Decía que era muy difícil porque para él el Barcelona era su casa.
+
+134
+00:09:51,477 --> 00:09:54,242
+Y él me decía siempre, vení vos.
+
+135
+00:09:55,003 --> 00:09:59,059
+Y yo le decía, y yo no recuerdo qué le decía, pero para mí el City también es mi casa.
+
+136
+00:10:00,123 --> 00:10:04,837
+que era muy complicado porque los dos siempre buscábamos jugar juntos.
+
+137
+00:10:05,679 --> 00:10:09,366
+Pero sí, en ese momento que él se va al Barça...
+
+138
+00:10:10,651 --> 00:10:12,945
+o era el City, el PSG, que... y...
+
+139
+00:10:14,956 --> 00:10:18,353
+quizás por ahí la juventud que suele hacer
+
+140
+00:10:19,537 --> 00:10:22,901
+bastante esas cosas de sorpresa
+
+141
+00:10:23,682 --> 00:10:27,466
+Pero bueno, se fue al París.
+
+142
+00:10:28,587 --> 00:10:30,333
+Y bueno, que estuvo un año y medio, dos años.
+
+143
+00:10:30,353 --> 00:10:31,236
+Sí, dos años, dos años.
+
+144
+00:10:31,316 --> 00:10:32,199
+Pero bueno, nada.
+
+145
+00:10:33,041 --> 00:10:35,528
+Había que aceptarlo y ya está.
+
+146
+00:10:37,534 --> 00:10:40,701
+Es ilusionado jugar con él, pero bueno.
+
+147
+00:10:42,526 --> 00:10:47,557
+Al final después jugué tres meses y medio, cuatro meses y me pasó lo del corazón.
+
+148
+00:10:51,106 --> 00:10:54,213
+Fue muy cortito lo mío en el Barça, pero la verdad que la pasé muy bien.
+
+149
+00:10:54,674 --> 00:11:00,499
+muy bien, me trataron muy bien que no es fácil que al principio de un club así grande
+
+150
+00:11:01,260 --> 00:11:04,628
+te acepte como sos y...
+
+151
+00:11:05,490 --> 00:11:09,338
+y lo rápido que la gente tomó el cariño conmigo, que fue increíble, parecía que...
+
+152
+00:11:11,522 --> 00:11:17,513
+que después Messi venía yo y en un punto quizás en ese momento cuando Leo se va
+
+153
+00:11:18,294 --> 00:11:21,664
+quedaste como una de esas estrechas así, carismáticas, más de tener...
+
+154
+00:11:22,827 --> 00:11:26,435
+Nulo vínculo previo con Barcelona y la gente también se aferró a vos.
+
+155
+00:11:27,818 --> 00:11:31,031
+No es lo mismo, pero... No, sí, aparte el mismo club...
+
+156
+00:11:31,954 --> 00:11:34,645
+cuando se va Leo me ofrece la 10.
+
+157
+00:11:34,685 --> 00:11:35,468
+La 10, claro.
+
+158
+00:11:36,150 --> 00:11:38,974
+Y yo dije, no, no, yo sigo con el que tengo.
+
+159
+00:11:40,076 --> 00:11:41,119
+Yo seguía con la 19.
+
+160
+00:11:41,159 --> 00:11:42,142
+Te ofrecen la 10.
+
+161
+00:11:42,503 --> 00:11:45,854
+Me ofrecen la 10 y yo le dije que no porque no...
+
+162
+00:11:48,702 --> 00:11:50,446
+No porque no quería usarla.
+
+163
+00:11:50,987 --> 00:11:53,814
+Yo imagínate que la usé en el Atlético, en el Barça, en el Independiente.
+
+164
+00:11:54,620 --> 00:11:55,728
+en el City, pero no...
+
+165
+00:11:57,515 --> 00:12:00,102
+No sé, o sea, es como que...
+
+166
+00:12:01,024 --> 00:12:06,798
+creía que después él iba a volver entonces como que no no dije no no que la use otro y
+
+167
+00:12:08,122 --> 00:12:11,071
+Está seguro, pero bueno, el único que acá en el Barça
+
+168
+00:12:12,816 --> 00:12:16,286
+la puedo usar, sos vos, no hay otro, por ahí...
+
+169
+00:12:16,927 --> 00:12:20,331
+tenemos que ir a Ansu Fati y bueno andaba a Ansu Fati y yo...
+
+170
+00:12:22,014 --> 00:12:24,039
+Yo no voy, le digo.
+
+171
+00:12:24,059 --> 00:12:27,386
+Yo no, déjame acá tranquilo, para mí la 10 de Leo y…
+
+172
+00:12:28,789 --> 00:12:31,758
+Y si Leo está acá, yo no la voy a usar, así que era lo mismo.
+
+173
+00:12:31,778 --> 00:12:34,184
+Y si no está él, que no se use de última.
+
+174
+00:12:35,427 --> 00:12:40,892
+30 de octubre de ese 2021, tremendo, intenso, 38 minutos, Barcelona a la vez.
+
+175
+00:12:41,752 --> 00:12:43,778
+te empieza a doler el pecho.
+
+176
+00:12:44,833 --> 00:12:45,494
+Así es la cosa.
+
+177
+00:12:45,514 --> 00:12:46,476
+Bueno, no doler.
+
+178
+00:12:47,498 --> 00:12:50,283
+Por ahí mucha gente pensaba que...
+
+179
+00:12:51,848 --> 00:12:54,356
+o piensa que es un dolor en el pecho
+
+180
+00:12:56,604 --> 00:13:02,709
+Yo sentía como una sensación de que me estaba ahogando nomás, no es que sentía dolor, sentía como que...
+
+181
+00:13:03,791 --> 00:13:07,356
+tenía mucha presión en la cabeza.
+
+182
+00:13:08,197 --> 00:13:11,342
+Entonces yo pensaba que era por el... no sé...
+
+183
+00:13:11,983 --> 00:13:17,605
+porque recién volví a jugar, era mi tercer partido que volvía después de la lesión, creo.
+
+184
+00:13:17,765 --> 00:13:19,932
+¿Habías hecho un gol en el Clásico contra Aramari?
+
+185
+00:13:19,952 --> 00:13:22,059
+Sí, y jugué antes también en un partido amistoso.
+
+186
+00:13:24,347 --> 00:13:27,200
+un partido en Champions y después juego de titular.
+
+187
+00:13:27,862 --> 00:13:28,846
+Sí, era el tercer partido.
+
+188
+00:13:31,394 --> 00:13:35,268
+Entonces yo me imaginé que era porque estaba mal físicamente.
+
+189
+00:13:37,355 --> 00:13:38,959
+La mierda, yo qué mal que estoy, decía.
+
+190
+00:13:39,520 --> 00:13:42,607
+Y porque digo, me estoy cansando, o sea, yo sentía que...
+
+191
+00:13:43,389 --> 00:13:44,814
+no podía más, que me faltaba el aire
+
+192
+00:13:46,801 --> 00:13:52,002
+Recuperaba pero es como que volví a hacer un pique y volví a ahogarme y sentía presión en la cabeza.
+
+193
+00:13:52,926 --> 00:13:54,474
+Y bueno, ya llegando al final...
+
+194
+00:13:57,819 --> 00:14:04,006
+Sentía una molestia en el autor, pero pensaba más en el por qué me estaba...
+
+195
+00:14:04,747 --> 00:14:11,343
+causando esa presión en la cabeza y bueno en una jugada que salto después salto a cabecear
+
+196
+00:14:12,905 --> 00:14:17,349
+y bueno la pelota la agarran a la vez y se va de contra y ahí es cuando yo empiezo a mirar para
+
+197
+00:14:17,990 --> 00:14:23,126
+para el arco de mi equipo y empiezo como que
+
+198
+00:14:24,028 --> 00:14:28,379
+a marearme y ahí sí empecé a marearme como que
+
+199
+00:14:29,402 --> 00:14:32,761
+Me iba a desmayar, pero yo decía, bueno, debe ser que...
+
+200
+00:14:33,364 --> 00:14:36,453
+tengo que bajar el ritmo, todo, entonces como que me quise tranquilizar y...
+
+201
+00:14:40,088 --> 00:14:44,958
+y nada, y ahí fue que quería decir algo y no me salían las palabras y justo
+
+202
+00:14:46,002 --> 00:14:48,391
+estaba en defensa del arabe, creo que era el capitán
+
+203
+00:14:49,761 --> 00:14:52,376
+y le agarró la mano, claro y le agarró la mano
+
+204
+00:14:53,581 --> 00:14:58,951
+y como diciéndole para el partido y él bueno empezó a gritar
+
+205
+00:14:59,472 --> 00:15:05,649
+porque la jugada seguía, empezó a gritar y a gritar y hasta que el árbitro me ve y justo la jugada aparece por ahí y paro.
+
+206
+00:15:06,331 --> 00:15:09,697
+y ahí cuando para es donde siento... pues yo hasta ahí no sentía nada.
+
+207
+00:15:10,699 --> 00:15:14,889
+yo lo sentía que me estaba mareando y ahí cuando me tiro al piso
+
+208
+00:15:15,471 --> 00:15:17,541
+de repente como que me baja esa presión
+
+209
+00:15:18,746 --> 00:15:22,725
+me tranquilizo y ahí no más empieza a latir el corazón más rápido.
+
+210
+00:15:23,267 --> 00:15:26,436
+que me agarra el ataque de la arritmia.
+
+211
+00:15:27,620 --> 00:15:31,976
+Y yo, bueno, justo el médico viene, me toca y me dice, uy.
+
+212
+00:15:32,799 --> 00:15:38,327
+tranquilo que se va a parar y yo dije bueno pues yo ya dije yo ya tenía algún episodio así
+
+213
+00:15:39,089 --> 00:15:42,597
+de chico y justo
+
+214
+00:15:43,139 --> 00:15:46,432
+Una semana y media antes me había pasado en el entreno, pero fueron 20 segundos.
+
+215
+00:15:48,106 --> 00:15:50,881
+y esta iba a un minuto y yo decía uy, pero él decía no
+
+216
+00:15:51,624 --> 00:15:57,042
+para y me decía tranquilo tranquilo y bueno después de un momento para y se calmó
+
+217
+00:15:57,924 --> 00:16:01,310
+Yo no sé si fue un minuto y medio o dos minutos, pero parece que eran como 20 minutos, ¿viste?
+
+218
+00:16:02,876 --> 00:16:04,986
+y nada y ahí bueno yo digo bueno ya está me paro
+
+219
+00:16:06,388 --> 00:16:12,042
+y me llevan pero yo todavía sentía como que algo me molestaba acá en la garganta, por eso yo me tocaba así.
+
+220
+00:16:13,325 --> 00:16:17,492
+pero no era que me dolía sino como que viste cuando comes algo y que se te
+
+221
+00:16:17,993 --> 00:16:23,023
+se te entraba acá bueno algo parecido y el médico me dice no no vamos
+
+222
+00:16:24,106 --> 00:16:27,459
+No, no entra y le digo, no, pero si ya termina de pedir el tiempo le digo, ¿puedo jugar el segundo?
+
+223
+00:16:27,660 --> 00:16:29,045
+Dice, no, no, que no puedes jugar el segundo.
+
+224
+00:16:29,627 --> 00:16:30,973
+Yo decía, pero si ya se me fue.
+
+225
+00:16:31,857 --> 00:16:32,640
+Y no, no, y me...
+
+226
+00:16:32,921 --> 00:16:39,152
+Me llevaron al médico y de ahí nomás al hospital y cuando me dijeron hospital yo dije, uy me parece que es grave.
+
+227
+00:16:39,853 --> 00:16:45,449
+pasa que yo hasta ahí lo tomaba todo como bueno fue una arritmia y se me va
+
+228
+00:16:46,050 --> 00:16:46,932
+a curar y ya está.
+
+229
+00:16:46,952 --> 00:16:48,617
+Después estuve 4 días internado.
+
+230
+00:16:51,825 --> 00:16:52,647
+El médico me decía, no, mañana salís.
+
+231
+00:16:52,667 --> 00:16:53,370
+Y al otro día me levantaba
+
+232
+00:16:58,064 --> 00:17:03,053
+y me decía, bueno, tenemos que hacer un control más a la tarde, por ahí...
+
+233
+00:17:03,955 --> 00:17:06,664
+Esta noche mejor que te quede.
+
+234
+00:17:07,407 --> 00:17:08,471
+Y al otro día lo mismo.
+
+235
+00:17:10,237 --> 00:17:13,423
+Entonces ya me empecé a preocupar y me empecé a poner un poco nervioso.
+
+236
+00:17:15,788 --> 00:17:18,372
+y me decía no no tranquilo que es todo más control
+
+237
+00:17:19,234 --> 00:17:24,826
+y después ahí me trasladan del hospital a una clínica y me hacen todo el tratamiento
+
+238
+00:17:25,768 --> 00:17:28,895
+de más profundo por dentro que
+
+239
+00:17:31,280 --> 00:17:36,513
+Me revisaron un poco más y ahí pudieron detectar algo, pero tenían que seguir.
+
+240
+00:17:36,975 --> 00:17:41,676
+desvaluándolo y bueno tardé unos un mes y medio dos meses hasta que me dijeron
+
+241
+00:17:42,519 --> 00:17:44,287
+que era imposible que siga jugando.
+
+242
+00:17:46,074 --> 00:17:52,128
+diagnóstico o el primer comunicado dice tres meses de baja y después vuelve.
+
+243
+00:17:52,589 --> 00:17:52,890
+Claro.
+
+244
+00:17:53,511 --> 00:17:59,325
+Y llega ese 15 de diciembre en el momento de la conferencia, pero ¿cuándo a vos te dicen, mira Sergio, vos no puedes jugar más al fútbol?
+
+245
+00:18:01,249 --> 00:18:03,474
+Y no, ya me venían diciendo
+
+246
+00:18:04,616 --> 00:18:10,092
+Cuando entré al quirófano el cuarto día,
+
+247
+00:18:10,854 --> 00:18:15,984
+después de que me pasó me dijeron que era una ritmía bastante peligrosa
+
+248
+00:18:17,007 --> 00:18:19,638
+pero tomémonos tiempo
+
+249
+00:18:20,722 --> 00:18:24,861
+a ver si en algún momento de estos dos meses y medio o tres
+
+250
+00:18:25,805 --> 00:18:30,596
+te agarra un arritme y podemos detectar si es la que nosotros creemos que viene de ahí.
+
+251
+00:18:32,180 --> 00:18:34,326
+y bueno y ahí fue entonces yo era todo
+
+252
+00:18:34,386 --> 00:18:38,200
+todo reposo, estaba tomando unos medicamentos, no podía caminar mucho ni nada.
+
+253
+00:18:38,701 --> 00:18:41,952
+querían que haga totalmente los primeros 15 días reposo
+
+254
+00:18:45,463 --> 00:18:50,737
+después a los 20 días, bueno yo me voy unos días a Andorra a conocer para distraerme
+
+255
+00:18:51,339 --> 00:18:54,733
+vuelvo y ahí me
+
+256
+00:18:56,258 --> 00:19:02,279
+me dicen bueno te ponemos un chip para ver si en estos meses se puede
+
+257
+00:19:04,005 --> 00:19:04,747
+detectar algo
+
+258
+00:19:06,212 --> 00:19:07,593
+Y yo dije, bueno, ¿cómo es?
+
+259
+00:19:07,613 --> 00:19:09,535
+Yo pensé que tenía que entrar al quirófano, me van a abrir acá.
+
+260
+00:19:11,658 --> 00:19:15,314
+Mejor no, vení mañana, te tiramos acá y no sentís nada.
+
+261
+00:19:15,354 --> 00:19:15,836
+Te abro así.
+
+262
+00:19:16,579 --> 00:19:19,685
+y dije a la mierda y bueno y ahí fui al club
+
+263
+00:19:20,667 --> 00:19:24,201
+me acosté y me pincharon ahí, me abrieron y yo...
+
+264
+00:19:25,245 --> 00:19:29,377
+Se sentía como que me picaba, digo, de la mierda y después veo un tajo así y tenía...
+
+265
+00:19:30,822 --> 00:19:33,692
+Todavía tengo el chip acá y me lo tiene que sacar ahora.
+
+266
+00:19:36,018 --> 00:19:40,924
+después al mes me hago un análisis
+
+267
+00:19:41,205 --> 00:19:43,213
+y ahí me dicen que
+
+268
+00:19:44,659 --> 00:19:50,488
+Mirándolo parece que es la que ellos creían, que es la arritmia ventricular, que era la más complicada.
+
+269
+00:19:52,347 --> 00:19:53,229
+Y me decían ya como un 90%.
+
+270
+00:19:53,330 --> 00:19:57,079
+Y yo decía, bueno, pero todavía queda un 10%.
+
+271
+00:19:59,966 --> 00:20:04,377
+Pero yo creo que ellos no me querían decir el 100, digamos.
+
+272
+00:20:06,623 --> 00:20:11,355
+y bueno yo seguí ese unos 15 días más me hago otra vez otro análisis
+
+273
+00:20:12,177 --> 00:20:18,432
+y ahí me dijeron, mira, y el médico me dijo bien, brugada, me dijo
+
+274
+00:20:18,933 --> 00:20:24,347
+Yo si fuera mi hijo le diría que no juegue más.
+
+275
+00:20:26,415 --> 00:20:29,829
+pero si vos querés seguir es tu responsabilidad que sigas
+
+276
+00:20:30,632 --> 00:20:33,499
+pero que te puede llegar a volver a pasar, te puede volver a pasar.
+
+277
+00:20:36,790 --> 00:20:37,774
+Por ahí no te pasa más, eh.
+
+278
+00:20:37,935 --> 00:20:39,342
+Capaz que... Pero...
+
+279
+00:20:40,307 --> 00:20:44,591
+te tengo que decir que puede pasar y es la más peligrosa y yo creo que...
+
+280
+00:20:45,993 --> 00:20:46,414
+no debería seguir.
+
+281
+00:20:46,434 --> 00:20:48,178
+Y yo dije, bueno, ya está.
+
+282
+00:20:51,605 --> 00:20:56,276
+33, dije bueno, dos años más, me quedaba tres años y ya estaba.
+
+283
+00:20:57,499 --> 00:21:01,519
+por ahí si era más chico lo pensaba de otra manera o hacía otros tratamientos que por ahí...
+
+284
+00:21:02,202 --> 00:21:08,167
+Hoy, como Ericksen que hizo, se puso el marcapasos, hizo otras cosas, y bueno, pero ya.
+
+285
+00:21:08,668 --> 00:21:14,762
+y dije bueno listo ya está y bueno tardé unos diez días en pensarlo
+
+286
+00:21:15,906 --> 00:21:18,877
+hasta que toda mi familia, mi hijo, todo...
+
+287
+00:21:19,559 --> 00:21:20,985
+y nadie quería que siga
+
+288
+00:21:23,654 --> 00:21:29,100
+Y bueno, pues yo por dentro decía, bueno, pero como, capaz que no me pasa, viste, es tu cabeza.
+
+289
+00:21:29,761 --> 00:21:34,120
+y no, no, que va al pedo a arriesgar y bueno, hasta que...
+
+290
+00:21:34,743 --> 00:21:38,878
+una semana antes ya dije listo ya está y hablo con el Barça y digo
+
+291
+00:21:40,043 --> 00:21:42,055
+busquen otro delantero y listo.
+
+292
+00:21:43,805 --> 00:21:48,483
+y el barzo también para ello también era un problema que si imaginate que yo diga quiero seguir
+
+293
+00:21:49,085 --> 00:21:54,399
+pero ellos también estaban todos de acuerdo, los médicos, todo, que no era lo ideal seguir.
+
+294
+00:21:54,980 --> 00:21:56,084
+¿Cómo te lo dijo Benja?
+
+295
+00:21:57,205 --> 00:22:00,997
+No, Benja me lo dijo por mensaje de voz.
+
+296
+00:22:01,017 --> 00:22:02,240
+O sea, estábamos hablando y...
+
+297
+00:22:03,283 --> 00:22:07,753
+Y me dijo, no, pa, no, no sigas, es al pedo.
+
+298
+00:22:07,773 --> 00:22:09,698
+Y yo le decía, bueno, bueno, está bien.
+
+299
+00:22:10,279 --> 00:22:15,185
+Pero bueno, yo... es como que... también...
+
+300
+00:22:16,347 --> 00:22:18,556
+No lo quería mucho preocupar a él, ¿viste?
+
+301
+00:22:20,383 --> 00:22:24,132
+No le quería decir, tipo, no, no, sí, dejo porque me puede pasar algo, no sé qué.
+
+302
+00:22:24,853 --> 00:22:29,637
+Entonces yo decía bueno, bueno, está bien, lo voy a pensar, pero...
+
+303
+00:22:30,719 --> 00:22:34,355
+No, pero con Benja hablamos bastante más como amigos
+
+304
+00:22:35,781 --> 00:22:40,219
+yo lo trato más como como un amigo y además que bueno es mi hijo pero
+
+305
+00:22:40,720 --> 00:22:44,385
+trato de tener muy buena relación en ese sentido como una amistad.
+
+306
+00:22:45,646 --> 00:22:49,551
+y llega el momento de la conferencia de prensa que me imagino tenías preparado un discurso
+
+307
+00:22:50,352 --> 00:22:51,777
+Pero se te cae en todas las fichas.
+
+308
+00:22:51,797 --> 00:22:52,259
+No, no, no.
+
+309
+00:22:52,319 --> 00:22:53,483
+No sé, no tenía ningún discurso.
+
+310
+00:22:53,544 --> 00:22:54,065
+No sé, yo fui...
+
+311
+00:22:55,751 --> 00:22:58,234
+Y bueno, se sabía lo que tenía que decir, digamos que era...
+
+312
+00:22:59,436 --> 00:23:04,627
+anunciar que iba a dejar y que iba a estar agradecido con todo lo que
+
+313
+00:23:05,670 --> 00:23:08,600
+el club, como me trataron, pero
+
+314
+00:23:09,784 --> 00:23:14,573
+Pero yo venía bien encima, venía desde que me pasó eso.
+
+315
+00:23:15,174 --> 00:23:19,274
+Venía tomándolo con tranquilidad, con bromas.
+
+316
+00:23:20,118 --> 00:23:23,289
+De vez en cuando hacía stream y para distraerme.
+
+317
+00:23:24,372 --> 00:23:29,383
+Pero ese día era como que ahí cuando, claro que tenía...
+
+318
+00:23:29,885 --> 00:23:35,541
+Lo tenía que decir públicamente, fue donde no aguanté.
+
+319
+00:23:36,483 --> 00:23:42,671
+por ahí era todo lo que venía aguantando pues no para de llorar porque porque no
+
+320
+00:23:43,172 --> 00:23:43,913
+No podía ni hablar.
+
+321
+00:23:44,033 --> 00:23:47,298
+Ya antes de salir ya me puse a llorar.
+
+322
+00:23:48,240 --> 00:23:48,660
+y no pude.
+
+323
+00:23:48,800 --> 00:23:53,545
+Si no yo soy... o sea, para llorar bastante duro soy.
+
+324
+00:23:54,467 --> 00:23:55,753
+Ese día se te cajeron todas las nalgas.
+
+325
+00:23:55,793 --> 00:23:57,884
+No, no, sí, no podía hablar y ya ni sabía ni qué decir.
+
+326
+00:23:59,368 --> 00:24:00,710
+así que... pero bueno...
+
+327
+00:24:03,896 --> 00:24:06,403
+Pero bueno, me siento igual muy...
+
+328
+00:24:07,546 --> 00:24:10,431
+muy feliz, me siento muy orgulloso de todo lo que hice.
+
+329
+00:24:11,733 --> 00:24:17,745
+siempre uno piensa y dice bueno podía dar un poquito más y bueno eso es normal
+
+330
+00:24:18,387 --> 00:24:21,417
+Pero bueno, con todo lo que hice estoy muy feliz.
+
+331
+00:24:21,437 --> 00:24:22,239
+O sea, no es fácil
+
+332
+00:24:22,781 --> 00:24:27,254
+uno ahora que ya dejé todo lo que hice, la verdad que piensa y...
+
+333
+00:24:28,979 --> 00:24:34,945
+y no es fácil y además en el medio estaba el mundial o sea no era solamente dejar de jugar a la pelota
+
+334
+00:24:35,566 --> 00:24:37,089
+sino no poder estar en el Mundial.
+
+335
+00:24:37,590 --> 00:24:41,017
+¿Esa ficha concreta, la de Qatar, en qué momento se cayó?
+
+336
+00:24:42,176 --> 00:24:45,226
+No, bueno, a ver, primero obviamente que ganar el...
+
+337
+00:24:46,609 --> 00:24:50,792
+Ir al Mundial es el sueño de todos.
+
+338
+00:24:51,834 --> 00:24:57,263
+Pero yo estaba tranquilo porque me había sacado también eso de que habíamos ganado la Copa América.
+
+339
+00:24:57,844 --> 00:25:03,849
+Entonces yo ya estaba aliviado en el sentido de que me fui con...
+
+340
+00:25:04,269 --> 00:25:10,855
+con algo por lo menos no es la de Copa del Mundo pero bueno era la Copa América que me va a quedar para
+
+341
+00:25:11,476 --> 00:25:15,002
+para toda la vida y yo creía que después en el mundial
+
+342
+00:25:17,487 --> 00:25:20,835
+me sentía parte de estar con ellos y yo lo único que quería era que
+
+343
+00:25:21,636 --> 00:25:26,483
+que obviamente le vaya bien porque porque yo pensaba que
+
+344
+00:25:27,805 --> 00:25:31,389
+Si a mí no me hubiese pasado lo del corazón...
+
+345
+00:25:33,673 --> 00:25:36,179
+y no me hubiese pasado nada físicamente.
+
+346
+00:25:37,461 --> 00:25:40,034
+capaz que iba a estar en el Mundial.
+
+347
+00:25:41,400 --> 00:25:47,694
+con los chicos, entonces yo me sentía parte de ese grupo, los conozco a todos y
+
+348
+00:25:49,758 --> 00:25:51,801
+Y sentía que si ellos ganaban, yo también ganaba.
+
+349
+00:25:51,942 --> 00:25:53,284
+Esa era mi cabeza.
+
+350
+00:25:54,126 --> 00:25:55,532
+Pero estaba muy tranquilo.
+
+351
+00:25:57,922 --> 00:26:02,643
+nervioso porque se vive el Mundial de otra manera afuera.
+
+352
+00:26:03,306 --> 00:26:06,523
+pero estaba tranquilo
+
+353
+00:26:07,186 --> 00:26:12,846
+por mi lado, que me había ido de la selección con la Copa América.
+
+354
+00:26:13,348 --> 00:26:18,312
+pero venía el mundial que yo quería que lo ganen por Leo, claramente.
+
+355
+00:26:21,784 --> 00:26:27,444
+Sé que hubo mucha gente que te llamó cuando tomaste la decisión y la comunicaste del retiro.
+
+356
+00:26:28,567 --> 00:26:31,254
+gente que no esperabas que te llamara así como
+
+357
+00:26:31,254 --> 00:26:37,990
+como vos cuando Leo estaba mal en la selección era el que hacía bromas y el que le generaba un contexto para que él se divirtiera o se distrajera
+
+358
+00:26:39,074 --> 00:26:42,166
+¿Quienes te sorprendieron cuando en ese momento te llamaron?
+
+359
+00:26:42,788 --> 00:26:45,394
+Y ya no me acuerdo, pero sí, un montón.
+
+360
+00:26:46,276 --> 00:26:46,837
+Una banda.
+
+361
+00:26:47,178 --> 00:26:48,702
+No sé, por decirte, qué sé yo.
+
+362
+00:26:49,423 --> 00:26:53,941
+de repente Totti y digo bueno juegue en contra pero
+
+363
+00:26:55,084 --> 00:26:56,727
+él no sé cómo
+
+364
+00:26:59,973 --> 00:27:06,040
+no sé, mensajes, miles de mensajes, pero ya ni más porque iba contestando.
+
+365
+00:27:06,500 --> 00:27:07,682
+Gracias, gracias, gracias.
+
+366
+00:27:07,702 --> 00:27:10,527
+Sí, pero te digo, sí, muchos entrenadores.
+
+367
+00:27:12,370 --> 00:27:17,847
+y muchos jugadores que yo ni lo había visto.
+
+368
+00:27:18,309 --> 00:27:21,903
+o sea, nunca tuve una charla, digamos, pero...
+
+369
+00:27:23,911 --> 00:27:26,446
+La realidad es que cuando...
+
+370
+00:27:27,874 --> 00:27:31,347
+casi te diría que tiré el celular, por decirte así.
+
+371
+00:27:32,050 --> 00:27:35,002
+porque sabía que iban a llegar miles de mensajes.
+
+372
+00:27:37,269 --> 00:27:42,181
+Yo quería estar tranquilo, digamos, en ese sentido, pero sí que...
+
+373
+00:27:43,102 --> 00:27:45,687
+que me escriben un montón de jugadores.
+
+374
+00:27:48,072 --> 00:27:52,503
+No voy a decir los nombres porque empiezo a decir todo lo del City, todo lo del Barça.
+
+375
+00:27:53,405 --> 00:27:57,954
+la mayoría del Atlético de Madrid que yo he jugado cuando estaba ahí, que ni me lo esperaba.
+
+376
+00:27:59,961 --> 00:28:01,983
+gente independiente, presidentes,
+
+377
+00:28:04,625 --> 00:28:06,453
+un montón, políticos, todo.
+
+378
+00:28:08,240 --> 00:28:11,066
+que yo decía, bueno, tanto, digo.
+
+379
+00:28:12,188 --> 00:28:14,652
+Pero bueno, muy contento porque todos...
+
+380
+00:28:18,379 --> 00:28:22,950
+Me conocían por todo lo que hice en el fútbol.
+
+381
+00:28:24,614 --> 00:28:29,081
+es algo muy lindo jugaste tres mundiales de mayores
+
+382
+00:28:29,682 --> 00:28:35,047
+fuiste bicampeón mundial juvenil, campeón olímpico en 2008, o sea tenés un recorrido en la selección
+
+383
+00:28:35,848 --> 00:28:39,054
+impresionante y lo terminás con la Copa América 2021.
+
+384
+00:28:41,342 --> 00:28:43,152
+Quiero que me cuentes un poco cómo fue esa
+
+385
+00:28:44,017 --> 00:28:47,737
+esa celebración de la Copa América, que significó algo contaste pero...
+
+386
+00:28:47,998 --> 00:28:54,596
+Me gustaría profundicemos para vos, para Leo, para Ota, para Di María, además de los chicos que se sumaron a ese grupo.
+
+387
+00:28:55,097 --> 00:29:00,005
+Sí, bueno nosotros teníamos, bueno estaba Gota, Fideo, yo y Leo
+
+388
+00:29:00,466 --> 00:29:05,627
+y yo y quien más estaba de lo más grande, no éramos cuatro, los cuatro
+
+389
+00:29:08,976 --> 00:29:12,765
+Para nosotros ganar esa Copa América fue un alivio.
+
+390
+00:29:13,528 --> 00:29:17,340
+y fue toda una felicidad que lo veníamos buscando.
+
+391
+00:29:18,865 --> 00:29:19,566
+hacía años.
+
+392
+00:29:20,549 --> 00:29:22,793
+Así que bueno, ganamos
+
+393
+00:29:23,957 --> 00:29:27,108
+La mayoría de todos ganamos, salvo Tamendi, creo.
+
+394
+00:29:28,292 --> 00:29:32,166
+de los grandes que ganamos el Mundial Sub-20 y los Juegos Olímpicos.
+
+395
+00:29:33,091 --> 00:29:35,306
+pero con la mayor todavía nada.
+
+396
+00:29:37,222 --> 00:29:40,538
+Esa Copa América para nosotros fue...
+
+397
+00:29:43,249 --> 00:29:46,959
+digamos, un alivio, una confianza que
+
+398
+00:29:49,186 --> 00:29:55,165
+que lo veníamos ya pensando para el Mundial, o sea que eso nos dio como diciendo, che, bueno...
+
+399
+00:29:55,646 --> 00:29:59,689
+Ahora podemos ganar el Mundial, porque es verdad que ya...
+
+400
+00:30:02,151 --> 00:30:04,578
+de Paul y todos los chicos, ¿viste?
+
+401
+00:30:04,678 --> 00:30:06,483
+Paredes, Pablo, Leo, todos.
+
+402
+00:30:07,205 --> 00:30:10,620
+teníamos pensado que si ganamos la Copa América, ¡ojo!
+
+403
+00:30:11,061 --> 00:30:14,781
+mirá que podemos ganar el Mundial, entonces ya nos veníamos mentalizando porque...
+
+404
+00:30:15,484 --> 00:30:20,379
+veníamos de perder un montón de finales y ganamos esta y encima venía el otro año el mundial
+
+405
+00:30:21,603 --> 00:30:25,076
+Era como que pensábamos nosotros que esta es nuestra.
+
+406
+00:30:26,720 --> 00:30:30,246
+y la verdad que esa Copa América además que fue en Brasil
+
+407
+00:30:33,192 --> 00:30:36,945
+Nosotros sabíamos que teníamos que llegar a la final, después contra quien nos tocaba.
+
+408
+00:30:39,369 --> 00:30:43,015
+Sabíamos que por ahí podría ser Chile o Brasil otra vez.
+
+409
+00:30:43,878 --> 00:30:48,852
+pero bueno chile otra vez digo pero brasil por ahí
+
+410
+00:30:51,077 --> 00:30:56,145
+Por ser local, a veces viste que el que juega local no suele llegar a la final.
+
+411
+00:30:57,086 --> 00:31:00,490
+estábamos más pendientes con Chile, que ya habíamos perdido dos finales.
+
+412
+00:31:03,254 --> 00:31:06,303
+pero bueno, pasó que era con Brasil, en Brasil y...
+
+413
+00:31:07,085 --> 00:31:12,898
+pero los chicos la verdad que yo lo veía pues yo estaba de otro lado y yo ahí bueno ayudando al equipo
+
+414
+00:31:14,320 --> 00:31:18,305
+a los chicos que venían hace pocos partidos que estaban ahí.
+
+415
+00:31:20,009 --> 00:31:24,761
+tratando de que agarren confianza con el grupo que fueron de a poco agarrando
+
+416
+00:31:25,382 --> 00:31:26,246
+Mucha confianza.
+
+417
+00:31:27,592 --> 00:31:29,279
+Bueno, mirad de polsha el magarrón del hombro.
+
+418
+00:31:31,365 --> 00:31:36,389
+Pero, digo, había muy buena relación y yo la final...
+
+419
+00:31:37,390 --> 00:31:41,077
+Estaba muy nervioso pero veía que ellos estaban tranquilos.
+
+420
+00:31:42,899 --> 00:31:46,123
+y cuando el primer tiempo nos vamos con 1-0
+
+421
+00:31:49,869 --> 00:31:53,315
+Leo siente una molestia en el isquio
+
+422
+00:31:54,457 --> 00:31:57,326
+y se va a la camilla y yo fui y le digo ¿estás bien?
+
+423
+00:31:57,366 --> 00:31:57,828
+y me dice sí.
+
+424
+00:31:59,252 --> 00:32:04,642
+y ahí lo escucho a Scaloni que le dice a Leo que nos falta muy poquito.
+
+425
+00:32:05,224 --> 00:32:07,151
+O sea, yo ahí pensé si...
+
+426
+00:32:08,957 --> 00:32:12,768
+Y ahí, claro, uno empieza a calcular y decir, sí, sí, faltan 45 minutos.
+
+427
+00:32:14,132 --> 00:32:20,467
+La puta madre, entonces voy al vestuario de nuevo, donde estaba León la camilla era cerca al baño y...
+
+428
+00:32:21,109 --> 00:32:24,436
+donde estábamos todos nosotros sentados, estaba ahí al lado.
+
+429
+00:32:25,498 --> 00:32:26,140
+No se escuchaba.
+
+430
+00:32:26,180 --> 00:32:29,147
+Entonces, volví y miraba todo y decía, muchachos, falta 95, ¿eh?
+
+431
+00:32:30,130 --> 00:32:34,569
+como desesperado de que aguantemos todo como podamos.
+
+432
+00:32:35,473 --> 00:32:38,386
+y ganarlo pero pero lo
+
+433
+00:32:39,330 --> 00:32:43,684
+Y eso cuando terminó todo, bueno, la verdad que fue una felicidad increíble.
+
+434
+00:32:44,265 --> 00:32:48,490
+para todos y sobre todo Leo que era lo que estaba deseando
+
+435
+00:32:51,401 --> 00:32:53,372
+que siempre dijo que quería jugar en Argentina.
+
+436
+00:32:54,877 --> 00:32:57,221
+Fue un equipo que se fue construyendo.
+
+437
+00:32:58,342 --> 00:33:03,040
+Me acuerdo de la Copa América 2019, el equipo no arranca bien, arranca con un esquema diferente.
+
+438
+00:33:03,080 --> 00:33:06,729
+gente pierde con Colombia, empata con Paraguay, Armani ataja el penal.
+
+439
+00:33:08,233 --> 00:33:10,220
+vos entras, salís, volvés a entrar,
+
+440
+00:33:11,103 --> 00:33:14,889
+en un partido juegan Messi, Bossi y Lautaro juntos que es contra Catar en
+
+441
+00:33:15,250 --> 00:33:18,702
+el tercer partido que ese día más jugan de Pol, Paredes y Los Celso juntos.
+
+442
+00:33:19,504 --> 00:33:23,451
+Y hasta el propio Scaloni contó que habló con ustedes respecto de Che.
+
+443
+00:33:24,232 --> 00:33:28,102
+¿Cuál es la mejor forma para que ustedes se sientan bien dentro de la cancha?
+
+444
+00:33:28,322 --> 00:33:31,169
+Y vos formaste parte de ese proceso, me gustaría que nos contaras un poco.
+
+445
+00:33:31,611 --> 00:33:35,450
+cómo fue el nacimiento, si querés, de lo que fue el campeón del mundo.
+
+446
+00:33:36,328 --> 00:33:39,191
+Sí, no, leo lo que tenía Scaloni, ¿no?
+
+447
+00:33:41,515 --> 00:33:47,637
+es muy cercano a nosotros y te va preguntando y si ve algo te...
+
+448
+00:33:48,419 --> 00:33:51,467
+te dice che esto te parece bien te parece mal y
+
+449
+00:33:54,193 --> 00:33:56,678
+A mí, por ejemplo, en la Copa América...
+
+450
+00:33:58,122 --> 00:34:03,603
+Me dijo Sergio, mirá que no te prometo que vas a jugar pero...
+
+451
+00:34:04,306 --> 00:34:10,580
+te voy a necesitar seguro y quiero que estés disponible o sea cuando yo te necesite
+
+452
+00:34:11,202 --> 00:34:17,121
+Y dije, sí Leo, olvídate, yo estoy acá, obviamente cuando vos me necesites, estoy.
+
+453
+00:34:17,983 --> 00:34:23,637
+Y así fue con todo, a vos te voy a necesitar, te quiero ir.
+
+454
+00:34:24,498 --> 00:34:27,662
+es como que de a uno le iba dando la confianza o
+
+455
+00:34:28,804 --> 00:34:33,661
+aclarando si no iba a jugar porque con los que no jugaba tan bien para un técnico es complicado
+
+456
+00:34:34,684 --> 00:34:39,596
+Pero bueno, yo en ese sentido dije, o sea mi consejo era
+
+457
+00:34:41,242 --> 00:34:42,969
+Leo, decir lo que sientas.
+
+458
+00:34:43,009 --> 00:34:45,399
+Si sentís eso, dale para adelante.
+
+459
+00:34:46,222 --> 00:34:51,619
+Me acuerdo que una charla tuvimos, no recuerdo si eran con todos o estaba yo, pero creo que había...
+
+460
+00:34:54,105 --> 00:34:56,349
+Éramos bastante, no todo el equipo, pero...
+
+461
+00:34:57,292 --> 00:35:02,224
+y creo que ahí fue que le dijimos en todo como hacer lo que vos sientas.
+
+462
+00:35:04,008 --> 00:35:09,181
+y si necesitas hablar con nosotros o él necesita
+
+463
+00:35:09,823 --> 00:35:13,097
+cambiar porque tiene ganas o necesita seguir de la misma manera, lo que sea.
+
+464
+00:35:13,801 --> 00:35:15,126
+es es un tema de él y
+
+465
+00:35:16,994 --> 00:35:23,524
+Y bueno, y él fue de a poco construyendo, de a poco trayendo jugadores, viendo y...
+
+466
+00:35:24,046 --> 00:35:27,846
+y él nos decía siempre a mí y a los más grandes, a Fideo
+
+467
+00:35:28,970 --> 00:35:31,256
+Vaya con los pibes, ¿viste?
+
+468
+00:35:31,276 --> 00:35:31,616
+Dale.
+
+469
+00:35:32,138 --> 00:35:34,123
+Y decía, sí, tranquilo con nosotros.
+
+470
+00:35:34,143 --> 00:35:34,443
+Él quería...
+
+471
+00:35:35,566 --> 00:35:37,070
+que armemos un grupo solido.
+
+472
+00:35:39,635 --> 00:35:40,397
+fuera de la cancha.
+
+473
+00:35:40,877 --> 00:35:42,981
+Y bueno, yo le dije, déjame que yo en eso soy experto.
+
+474
+00:35:44,564 --> 00:35:49,275
+Y además fuiste como una especie de pegamento para todos los grandes chicos.
+
+475
+00:35:51,541 --> 00:35:56,818
+De poli enseguida, los primeros partidos, la primera vez que llegó, bueno, llegaron de poli.
+
+476
+00:35:57,420 --> 00:36:00,232
+el autaro y paredes y todo.
+
+477
+00:36:00,995 --> 00:36:04,262
+eran más tímidos, como todos llegas
+
+478
+00:36:04,983 --> 00:36:09,713
+Pero paredes llegó, primera patada me da, viste, en el entrenamiento y yo le dije, ah, mirá.
+
+479
+00:36:10,851 --> 00:36:14,537
+picante este, bueno, listo segunda, tercera vez
+
+480
+00:36:14,918 --> 00:36:18,453
+patada otra vez y ya no aguanté más y le dije escúchame la próxima
+
+481
+00:36:20,477 --> 00:36:21,179
+Aguántatela, eh.
+
+482
+00:36:21,882 --> 00:36:23,649
+Me dijo, eh, no, pero perdona, no sé qué.
+
+483
+00:36:23,689 --> 00:36:23,930
+Listo.
+
+484
+00:36:24,873 --> 00:36:27,538
+Y así nos fuimos agarrando confianza.
+
+485
+00:36:27,578 --> 00:36:28,139
+¿Le pegaste?
+
+486
+00:36:28,499 --> 00:36:29,741
+No me acuerdo, pero sí, creo que sí.
+
+487
+00:36:30,342 --> 00:36:34,290
+pero está re caliente pero bueno viste
+
+488
+00:36:35,694 --> 00:36:38,325
+Ellos venían también con la ilusión de jugar.
+
+489
+00:36:39,950 --> 00:36:45,719
+pero bueno nos sorprendía bastante que la cama esta que estaba viniendo
+
+490
+00:36:46,340 --> 00:36:47,143
+Venía con todo.
+
+491
+00:36:47,323 --> 00:36:49,310
+Creo que era necesario que...
+
+492
+00:36:50,814 --> 00:36:52,136
+Exacto, viniera así.
+
+493
+00:36:52,537 --> 00:36:53,659
+Y bueno, y Leo me dijo...
+
+494
+00:36:54,440 --> 00:36:55,282
+No, pero esto es bueno.
+
+495
+00:36:55,543 --> 00:36:56,666
+Y yo decía, sí, sí, no, es bueno.
+
+496
+00:36:56,686 --> 00:36:56,986
+¿Qué leo?
+
+497
+00:36:57,026 --> 00:36:57,448
+¿Escalón?
+
+498
+00:36:57,488 --> 00:36:58,269
+No, leo, leo, Messi.
+
+499
+00:36:58,310 --> 00:36:58,590
+Messi.
+
+500
+00:36:58,751 --> 00:37:00,635
+Digo, chep, esto es bueno que vengan así y tal.
+
+501
+00:37:00,796 --> 00:37:01,116
+Y le digo, sí.
+
+502
+00:37:01,739 --> 00:37:04,932
+y bueno y ahí empezamos bueno agarrar un poco
+
+503
+00:37:06,077 --> 00:37:08,705
+de confianza entre nosotros porque
+
+504
+00:37:09,749 --> 00:37:12,621
+Antes nosotros nos sentábamos en mesas separadas.
+
+505
+00:37:13,666 --> 00:37:17,260
+de a cinco, de a seis, y Escalón hizo toda una mesa junta.
+
+506
+00:37:18,860 --> 00:37:23,015
+Obviamente igual era una mesa larga, pero bueno, no sé, por ejemplo, ¿qué se yo?
+
+507
+00:37:23,757 --> 00:37:29,392
+Lautaro estaba enfrente de nosotros, pero bueno, podías charlar.
+
+508
+00:37:30,135 --> 00:37:32,282
+en caso antes las mesas eran de 5 o 6
+
+509
+00:37:33,766 --> 00:37:38,443
+o siete y charlábamos los siete y los otros seis o siete en otro lado, entonces...
+
+510
+00:37:39,686 --> 00:37:43,874
+Pero bueno, eso Scaloni lo tenía muy presente y tenía experiencia.
+
+511
+00:37:44,577 --> 00:37:47,050
+de la selección, de que quizás eso no era
+
+512
+00:37:48,096 --> 00:37:49,964
+no sumaba
+
+513
+00:37:52,254 --> 00:37:55,884
+y ahí fuimos agarrando confianza, aparte también con los del frente que eran los más
+
+514
+00:37:56,385 --> 00:37:59,252
+Lo más tímido, porque se sentaban más lejos de nosotros.
+
+515
+00:37:59,894 --> 00:38:01,558
+Los teníamos enfrente, pero estaba...
+
+516
+00:38:03,563 --> 00:38:07,674
+Por ejemplo, del otro lado estaba Dibu, estaban los arqueros.
+
+517
+00:38:08,095 --> 00:38:13,835
+Estaba Pesela, estaba Palacio, estaban todos los chicos del Drau, Correa, Lautaro de este lado.
+
+518
+00:38:14,978 --> 00:38:18,729
+Pero, claro, entonces vos ya del frente le vas tirando, broma, ¿viste?
+
+519
+00:38:19,692 --> 00:38:24,971
+a los arqueros en un entrenamiento jodiendo y así pero digo también digo cuando empezó también a agarrar confianza
+
+520
+00:38:25,091 --> 00:38:30,725
+ya está, no lo paramos más, pero eran todos divertidos, buena onda, entonces te das cuenta que eran
+
+521
+00:38:32,088 --> 00:38:34,800
+todos muy buena gente, entonces eso...
+
+522
+00:38:35,623 --> 00:38:40,816
+era mucho más fácil también poder involucrar a todos porque no es fácil, éramos 25 que...
+
+523
+00:38:42,820 --> 00:38:49,066
+que todos digamos nos llevemos bien viste y en la copa américa la realidad es que
+
+524
+00:38:49,627 --> 00:38:51,051
+Todo no lo llevamos bien.
+
+525
+00:38:51,933 --> 00:38:53,257
+No es que... porque...
+
+526
+00:38:54,139 --> 00:38:58,872
+en todas las competiciones siempre tenés algunos que porque no juegan
+
+527
+00:39:00,495 --> 00:39:03,805
+están con mala cara, viste, entonces te empiezan a transmitir mala energía.
+
+528
+00:39:05,029 --> 00:39:08,666
+pero en esta es como que nos pasó también en el mundial 2014
+
+529
+00:39:10,313 --> 00:39:11,639
+parecido al 2021.
+
+530
+00:39:11,800 --> 00:39:12,302
+Fue casi idéntico.
+
+531
+00:39:14,873 --> 00:39:17,324
+muy buena energía, llegamos a la final
+
+532
+00:39:18,851 --> 00:39:23,510
+con el equipo que teníamos que tampoco digamos
+
+533
+00:39:24,474 --> 00:39:26,844
+Conzabela era, digamos, favoritos.
+
+534
+00:39:27,446 --> 00:39:33,336
+pero Argentina al final siempre termina tratando de que siempre gane algo.
+
+535
+00:39:34,599 --> 00:39:38,872
+pero nosotros en ese mundial, nuestro objetivo era llegar a cuartos
+
+536
+00:39:39,514 --> 00:39:41,643
+El famoso Padre Cruz del Rubicón de Alejandro.
+
+537
+00:39:45,626 --> 00:39:49,452
+Claro, veníamos de mundiales que no pasábamos cuartos.
+
+538
+00:39:50,354 --> 00:39:53,649
+Y ese era nuestro objetivo, pasar y después en semi vemos.
+
+539
+00:39:54,512 --> 00:39:59,518
+Cuando nos enfrentamos a Landa, ahí dijimos, bueno, se le puede ganar, no es fácil.
+
+540
+00:40:00,380 --> 00:40:03,070
+Y después, si pasamos, vemos qué pasa en la final.
+
+541
+00:40:03,090 --> 00:40:05,058
+Todos vemos qué pasa, pero...
+
+542
+00:40:05,439 --> 00:40:10,575
+siempre con el corazón argentino de vamos al frente.
+
+543
+00:40:11,538 --> 00:40:15,658
+Pero bueno, y esta Copa América era igual, era todo muy unido, muy...
+
+544
+00:40:16,179 --> 00:40:20,784
+si íbamos a jugar al truco, jugábamos todos juntos, si íbamos a jugar al pool, todos juntos.
+
+545
+00:40:21,626 --> 00:40:25,397
+No, la verdad que esa Copa América para mí me vino yendo mucho recuerdo del 2014.
+
+546
+00:40:27,067 --> 00:40:32,443
+Quiero que hablemos un poquito de Alejandro, Sabela, qué significó para el grupo y qué significó para vos también.
+
+547
+00:40:33,309 --> 00:40:34,181
+eh el
+
+548
+00:40:35,831 --> 00:40:42,579
+te incluye en la final, incluso lo hablé con él en una charla, vos te desgarrás contra Nigeria.
+
+549
+00:40:42,839 --> 00:40:44,724
+Sí, el tercer partido.
+
+550
+00:40:44,765 --> 00:40:46,830
+Y ahí el equipo cambia, va un 4-4-2.
+
+551
+00:40:48,836 --> 00:40:51,407
+pasa la pantalla de suiza en octavos
+
+552
+00:40:52,411 --> 00:40:56,446
+Bélgica en cuartos, vos jugás con Holanda, de hecho pateás uno de los penales en la serie.
+
+553
+00:40:57,530 --> 00:41:00,502
+y vos entras por Pocho en la final en el segundo tiempo y él
+
+554
+00:41:02,149 --> 00:41:06,046
+me explicó que ese cambio tenía que ver con que el capo de la mitad de la cancha era Svan Stiger
+
+555
+00:41:06,509 --> 00:41:10,029
+En el primer tiempo jugó solo, Argentina jugaba 4-4-2 y el recibía libre.
+
+556
+00:41:10,852 --> 00:41:17,122
+y que con Leo, Pippa y vos ya en ese triángulo, ya Fantaia no jugó tan libre
+
+557
+00:41:17,523 --> 00:41:23,458
+El juego de Alemania pasó por LAM y fue muy clara la explicación de por qué entraste y por qué salió.
+
+558
+00:41:24,079 --> 00:41:26,265
+iban más por fuera porque a mí me pone exactamente era
+
+559
+00:41:30,695 --> 00:41:34,065
+ponerle... será un...
+
+560
+00:41:35,609 --> 00:41:40,759
+433 pero yo por ahí tirándome del lado izquierdo un poquito más por dentro
+
+561
+00:41:42,143 --> 00:41:44,010
+para tapar un poco el medio y si no a veces...
+
+562
+00:41:45,494 --> 00:41:50,120
+hacíamos cuatro tres uno dos entonces
+
+563
+00:41:51,141 --> 00:41:54,245
+a mí me ponía por detrás de Leo y Pipa y que...
+
+564
+00:41:55,666 --> 00:41:58,453
+empieza a molestar en el medio.
+
+565
+00:42:02,724 --> 00:42:06,016
+pero él apostaba mucho, la idea era
+
+566
+00:42:06,679 --> 00:42:10,377
+salir rápido también de contra que bueno en algunas ocasiones
+
+567
+00:42:10,619 --> 00:42:13,678
+estuvo muy cerca de que por muy poco de
+
+568
+00:42:14,161 --> 00:42:17,858
+Me acuerdo de un pase quizás, ya quedábamos, porque Alemania...
+
+569
+00:42:19,350 --> 00:42:22,526
+jugaba muy adelantado y presionaba muy alto.
+
+570
+00:42:25,522 --> 00:42:27,693
+al recuperar la pelota sabíamos que
+
+571
+00:42:28,860 --> 00:42:31,413
+3 o 4 pases nos podían llevar a mano a mano con el arquero.
+
+572
+00:42:32,759 --> 00:42:37,711
+y no tuvimos esa suerte o la precisión.
+
+573
+00:42:38,975 --> 00:42:44,374
+de encontrar el último pase que aún así tuvimos en ese tiempo tuvimos
+
+574
+00:42:45,578 --> 00:42:50,655
+tres claras, todos tres claras tuvimos, la de palacio también
+
+575
+00:42:51,878 --> 00:42:55,303
+y no me acuerdo otra pero pero si tuvimos y
+
+576
+00:42:57,286 --> 00:42:59,565
+Y nada, para mí, digamos, Abela...
+
+577
+00:43:01,518 --> 00:43:05,793
+en Colombia, en la eliminatoria en Barranquilla
+
+578
+00:43:07,038 --> 00:43:08,964
+él venía jugando 4-4-2, por ahí metía un...
+
+579
+00:43:13,139 --> 00:43:16,690
+un 4-5-1 porque a veces hacía que Leo se ponga...
+
+580
+00:43:17,392 --> 00:43:22,970
+como volante por derecha pero tapando a la salida del trail, lo dejaba al pipas muy arriba.
+
+581
+00:43:23,872 --> 00:43:29,377
+y quizás no había mucha llegada, digamos el pipa estaba muy solo
+
+582
+00:43:30,538 --> 00:43:33,845
+Y en Barranquilla ahí, cuando termina el primer tiempo, me hice...
+
+583
+00:43:35,790 --> 00:43:39,644
+Preparate, Sergio, vas a entrar y vamos a partir ahora a un 4-3-3.
+
+584
+00:43:41,329 --> 00:43:44,238
+bueno entre calor papá y entre y ganamos
+
+585
+00:43:45,080 --> 00:43:51,436
+y eso le dio la confianza a él mía y de jugar 4-3-3 y a partir de ahí no cambió.
+
+586
+00:43:52,118 --> 00:43:57,955
+Es más, me lo contó en la playa en Cariló, que tuvo una charla.
+
+587
+00:43:58,436 --> 00:44:01,123
+con vos, Ángel, Leo y Pippa.
+
+588
+00:44:01,143 --> 00:44:05,333
+El equipo jugaba Gago de 8, Match de 5, de María en la izquierda y arriba ustedes
+
+589
+00:44:05,473 --> 00:44:07,539
+y que tuvieron la chalecín de los muchachos.
+
+590
+00:44:07,559 --> 00:44:08,402
+¿Ustedes quieren jugar así?
+
+591
+00:44:08,482 --> 00:44:08,983
+¿Les gusta?
+
+592
+00:44:09,645 --> 00:44:10,066
+Ayuden.
+
+593
+00:44:10,427 --> 00:44:15,037
+No lo dejen solo a Javier, no lo dejen solo a Javier con Zabaleta y Marco en los laterales.
+
+594
+00:44:15,618 --> 00:44:16,422
+¿Tuvieron esa charla?
+
+595
+00:44:16,543 --> 00:44:17,266
+No, sí, sí.
+
+596
+00:44:17,306 --> 00:44:19,256
+Siempre Sabelo nos decía...
+
+597
+00:44:20,461 --> 00:44:25,022
+Cuando no tenemos la pelota tratemos de...
+
+598
+00:44:25,825 --> 00:44:31,172
+de posicionarnos por ahí un 4-4-2 que yo me tire como volante por izquierda
+
+599
+00:44:31,874 --> 00:44:35,774
+pero a mí al principio me costaba porque yo
+
+600
+00:44:36,537 --> 00:44:38,140
+A veces me acordaba, me acuerdo que...
+
+601
+00:44:42,948 --> 00:44:45,861
+perdíamos la pelota y yo volvía para ir caminando
+
+602
+00:44:46,443 --> 00:44:51,944
+pero es típica delantero, viste, volvés caminando y yo me acordé, uy, mierda, que tenía que volver.
+
+603
+00:44:52,707 --> 00:44:53,831
+Por suerte igual, Masche...
+
+604
+00:44:57,664 --> 00:45:00,753
+Ahí bastante era el que...
+
+605
+00:45:01,334 --> 00:45:07,631
+Viste, ordenaba un poco en caso de que yo me vaya para cualquier lado y fideo también de ese lado
+
+606
+00:45:08,553 --> 00:45:14,347
+A mí me venía muy bien porque yo sé que Fideo pasaba bastante al ataque.
+
+607
+00:45:15,431 --> 00:45:18,002
+si me cerraba un poquito como enganche
+
+608
+00:45:18,604 --> 00:45:23,809
+Le dejaba a Leo que siempre tenga el pase para Fideo, porque Fideo pasaba.
+
+609
+00:45:25,313 --> 00:45:26,779
+Pero Fideo pasaba y volvía.
+
+610
+00:45:27,020 --> 00:45:27,884
+Eso es lo que tenía Fideo.
+
+611
+00:45:28,809 --> 00:45:31,686
+Por un lado me dejaba un poco más tranquilo, pero a veces...
+
+612
+00:45:32,611 --> 00:45:37,055
+Cuando Fideo pasaba tanto, alguien tenía que cubrir ese...
+
+613
+00:45:38,017 --> 00:45:42,368
+Y a mí me costaba bastante eso, que después lo fuimos recuperando.
+
+614
+00:45:42,749 --> 00:45:45,718
+me fui adaptando a ese esquema.
+
+615
+00:45:46,420 --> 00:45:51,870
+Viene el Mundial y jugamos de la misma manera, con la misma táctica que teníamos.
+
+616
+00:45:52,512 --> 00:45:55,606
+El primer partido que arranca con línea de cinco y doble cambio en el entretiempo.
+
+617
+00:45:55,746 --> 00:45:59,234
+Sí, arrancamos así, después el segundo partido y el tercero...
+
+618
+00:46:01,379 --> 00:46:07,015
+Siento una pequeña pincha chiquitito en el isquio abajo.
+
+619
+00:46:08,098 --> 00:46:10,448
+pero muy chiquitito pero bueno yo lo primero que pensé es
+
+620
+00:46:12,148 --> 00:46:18,384
+paro porque si sigo me voy a romper más y si ya directamente no se acabó el mundial
+
+621
+00:46:19,025 --> 00:46:23,804
+Entonces paré y le dije, tenía un desgarrito muy chico que...
+
+622
+00:46:24,547 --> 00:46:30,676
+son 15 o 20 días pero bueno lo vamos a tratar de meter hasta que pueda volver en cuarto o en semi
+
+623
+00:46:31,960 --> 00:46:35,793
+y bueno y ahí fue que le metimos pero yo la verdad que ese mundial
+
+624
+00:46:38,421 --> 00:46:39,303
+Joshan en el CD
+
+625
+00:46:42,529 --> 00:46:48,076
+Venía de una molestia en la arroyilla todo el año.
+
+626
+00:46:48,580 --> 00:46:49,355
+pon encima en el CT
+
+627
+00:46:51,072 --> 00:46:51,994
+No puedes parar, ¿viste?
+
+628
+00:46:52,074 --> 00:46:56,765
+O sea, es cada tres días y si paras una semana te perdés tres partidos, ¿viste?
+
+629
+00:46:56,825 --> 00:46:57,466
+O sea, era...
+
+630
+00:46:58,528 --> 00:47:02,977
+muy complicado y yo tuve en el verano pasado
+
+631
+00:47:03,578 --> 00:47:06,472
+O sea, la temporada pasada tuvo una lesión en la pretemporada.
+
+632
+00:47:09,100 --> 00:47:11,925
+una... en la rodilla, no sé cómo le dicen,
+
+633
+00:47:12,205 --> 00:47:15,309
+un edema tenía en la parte de atrás de la rodilla
+
+634
+00:47:19,277 --> 00:47:25,631
+No lo hice pretemporada, directamente fuimos a Hong Kong, a China, después fuimos a Alemania, fuimos a todos lados.
+
+635
+00:47:26,915 --> 00:47:28,380
+y yo no podía entrenar.
+
+636
+00:47:28,400 --> 00:47:30,928
+O sea, entrenaba y se me molestaba la rueda.
+
+637
+00:47:33,836 --> 00:47:37,182
+Entonces dije no, no entreno hasta que esté bien.
+
+638
+00:47:38,966 --> 00:47:43,081
+3 días antes que ya empezara la liga jugamos el primer partido con Newcastle
+
+639
+00:47:44,864 --> 00:47:49,390
+Y entonces viene Manuel Pelerín y me dice, ¿cómo estás?
+
+640
+00:47:50,933 --> 00:47:53,517
+no sé, no entrené ni un día pero me dijo bueno
+
+641
+00:47:54,439 --> 00:47:57,096
+Si puedes entrenar un día antes, yo te pongo.
+
+642
+00:47:59,315 --> 00:48:00,740
+Bueno, viste el igual.
+
+643
+00:48:00,921 --> 00:48:04,555
+Si entrené un día, entrené el viernes, jugaba el sábado, entrené el viernes...
+
+644
+00:48:05,478 --> 00:48:08,031
+Quedó con el equipo y me puso titular.
+
+645
+00:48:10,020 --> 00:48:14,260
+toda la noche en el club, masaje en la rodilla, hasta donde aguante.
+
+646
+00:48:14,944 --> 00:48:18,017
+Y bueno, arrancamos, hice un gol y bueno, y así.
+
+647
+00:48:19,423 --> 00:48:26,079
+terminar el partido, hielo, masaje, todos los días venía y así todo el año, o sea no podía...
+
+648
+00:48:26,861 --> 00:48:30,346
+era increíble y bueno y así no podía parar
+
+649
+00:48:31,308 --> 00:48:34,054
+Y bueno, ya también llegando a los últimos partidos.
+
+650
+00:48:35,416 --> 00:48:37,020
+decía bueno voy a parar porque está el mundial
+
+651
+00:48:38,964 --> 00:48:42,498
+pero era imposible, entonces después tuvimos unos 20 días
+
+652
+00:48:43,764 --> 00:48:46,275
+que yo esos 20 días por ahí
+
+653
+00:48:47,981 --> 00:48:53,995
+Quizás tendría que haber seguido por ahí con la rutina porque
+
+654
+00:48:55,297 --> 00:49:00,084
+cuando para esos 20 días te mata después bueno ya en ese momento
+
+655
+00:49:00,644 --> 00:49:05,649
+uno no se da cuenta pero después con el tiempo uno se da cuenta que que parar tantos días
+
+656
+00:49:06,451 --> 00:49:08,177
+más cuando venís jugando cada tres o cuatro días.
+
+657
+00:49:11,007 --> 00:49:15,018
+no agarras el ritmo y el cuerpo te empieza a pasar factura.
+
+658
+00:49:16,221 --> 00:49:23,057
+Y esos 20 días por ahí yo tenía que haber seguido la rutina de tratamiento, de entrenamiento, de rodilla, fuerza, lo que sea.
+
+659
+00:49:24,839 --> 00:49:27,582
+Y yo por ahí, por...
+
+660
+00:49:29,184 --> 00:49:33,138
+también ellos para los oficios del Citi, o sea, toda la gente ciencia.
+
+661
+00:49:34,448 --> 00:49:40,567
+tomate unos días que capaz que eso hace que esté tranquilo, digamos que se relaje la rodilla.
+
+662
+00:49:41,109 --> 00:49:46,446
+que está todo el día metiéndole y después vas probando bueno y probé tal pero
+
+663
+00:49:47,148 --> 00:49:52,255
+Cuando volvimos, jugamos un partido amistoso en La Plata, ante el Mundial.
+
+664
+00:49:52,595 --> 00:49:57,220
+No me acuerdo contra qué país, pero jugamos y yo entré en el segundo tiempo.
+
+665
+00:49:58,462 --> 00:50:02,111
+y todavía seguía un poquito, pero después bueno...
+
+666
+00:50:03,434 --> 00:50:05,439
+Traté de meterle y bueno...
+
+667
+00:50:08,604 --> 00:50:09,147
+La verdad que...
+
+668
+00:50:12,583 --> 00:50:16,508
+que no es fácil porque uno, viste, no sabes qué hacer si decirle
+
+669
+00:50:18,451 --> 00:50:21,979
+estoy o no estoy, o ayudo.
+
+670
+00:50:23,182 --> 00:50:28,996
+era muy complicado y yo sabía que Sabela tenía mucha confianza en mí, pero Sabela confiaba.
+
+671
+00:50:31,887 --> 00:50:32,610
+bastante
+
+672
+00:50:34,117 --> 00:50:37,390
+en mí y bueno obviamente traté... De hecho te pones en la semi y en la final.
+
+673
+00:50:37,993 --> 00:50:40,943
+Exacto, y yo cuando pongo la semi lo primero que...
+
+674
+00:50:42,529 --> 00:50:46,054
+Yo estaba desgarrado y encima era en el alargue.
+
+675
+00:50:47,296 --> 00:50:48,659
+Yo dije, no, me rompo todo.
+
+676
+00:50:48,679 --> 00:50:50,622
+Claro, porque yo no entrené, no había hecho ni fútbol ni nada.
+
+677
+00:50:54,750 --> 00:50:57,377
+Y cuando me dice Sergio, dale que va a entrar, dije, bueno.
+
+678
+00:50:58,078 --> 00:51:00,927
+Y yo dije, bueno, no sé, por lo menos todo patía el penal.
+
+679
+00:51:01,127 --> 00:51:03,815
+Aguantar lo que sea, si no alguna me paré, ¿viste?
+
+680
+00:51:03,835 --> 00:51:04,638
+Cuando pensaste.
+
+681
+00:51:05,019 --> 00:51:09,028
+alguna me queda pero entré con esa con ese miedo de
+
+682
+00:51:09,810 --> 00:51:15,035
+No sé si hacer un pique, porque no había entrado ni bien en calor, nada, nada.
+
+683
+00:51:16,656 --> 00:51:17,397
+Pero dije, bueno, ya está.
+
+684
+00:51:17,457 --> 00:51:20,020
+En un momento pensé, ya está, si me tengo que romper, me rompo, pero...
+
+685
+00:51:21,061 --> 00:51:26,968
+Pero estábamos empatando, entonces decía, bueno, si vamos a penales y pasamos hasta la final, viste, es como que todo se veía...
+
+686
+00:51:27,610 --> 00:51:31,768
+y bueno, y así y sí, jugué un rato, jugué los...
+
+687
+00:51:32,874 --> 00:51:34,202
+No sé si habrá sido 25 o 27 minutos, no sé.
+
+688
+00:51:36,857 --> 00:51:38,240
+pues entré ahí nomás en el alargue.
+
+689
+00:51:38,260 --> 00:51:40,786
+No sé si entré de entrada o si entré apenas empezó el alargue.
+
+690
+00:51:40,886 --> 00:51:42,730
+Creo que apenas empezó el alargue.
+
+691
+00:51:43,853 --> 00:51:48,042
+en la final la verdad que bastante bien me sentí
+
+692
+00:51:48,924 --> 00:51:52,754
+de que pensé que iba a estar
+
+693
+00:51:53,877 --> 00:51:55,661
+Porque contra Blanda era el primero.
+
+694
+00:51:55,881 --> 00:51:57,985
+No hizo nada prácticamente.
+
+695
+00:51:58,226 --> 00:51:59,629
+Solo pateó el penal, pero valió.
+
+696
+00:52:00,330 --> 00:52:01,093
+Esa secuencia es buenísima.
+
+697
+00:52:05,410 --> 00:52:09,539
+porque yo ya sabía dónde iba a tirar, que era donde no tiré.
+
+698
+00:52:12,351 --> 00:52:15,417
+ibas a abrir el pie y pegarle el borde interno al lado izquierdo.
+
+699
+00:52:15,517 --> 00:52:16,839
+O sea, ¿qué pasa?
+
+700
+00:52:16,859 --> 00:52:18,021
+Que el arquero
+
+701
+00:52:20,126 --> 00:52:24,354
+Sí, pero el arquero que suplente era el de Newcastle.
+
+702
+00:52:24,855 --> 00:52:27,180
+que había entrado para trabajar con Costa Rica.
+
+703
+00:52:27,220 --> 00:52:29,245
+Pero él, yo lo vi charlando
+
+704
+00:52:30,367 --> 00:52:33,812
+Entonces yo digo, uy, ya le está diciendo dónde yo tiro.
+
+705
+00:52:33,832 --> 00:52:36,215
+Digo, la puta madre, aparte...
+
+706
+00:52:38,318 --> 00:52:40,482
+Casi todo, digamos, en la premia.
+
+707
+00:52:41,183 --> 00:52:43,728
+Yo iba tirando, no sé, por el sitio y yo llevaba 30 penales.
+
+708
+00:52:44,269 --> 00:52:46,659
+y de los 30, 16, 17 había tirado para ese lado.
+
+709
+00:52:49,330 --> 00:52:52,846
+Entonces era como mi favorito, mi palo favorito.
+
+710
+00:52:54,032 --> 00:52:54,997
+le está diciendo donde yo tiro
+
+711
+00:52:57,671 --> 00:53:02,876
+Entonces yo dije listo, yo no voy a tirar ahí, voy a tirar al otro lado porque él va a pensar que...
+
+712
+00:53:03,757 --> 00:53:07,323
+todo es una secuencia pero después cuando arrancan los penales
+
+713
+00:53:07,924 --> 00:53:09,267
+Yo digo, no, no la voy a tirar ahí.
+
+714
+00:53:09,287 --> 00:53:13,635
+La voy a tirar en el mismo lugar porque él se va a pensar que yo la voy a cambiar toda.
+
+715
+00:53:14,657 --> 00:53:14,978
+¿Viste?
+
+716
+00:53:14,998 --> 00:53:20,251
+Y el corazón me iba... iban pasando los penales y cuando me tocó a mí yo iba caminando y ya ya...
+
+717
+00:53:20,472 --> 00:53:23,343
+decía que iba a tirar ahí, iba a tirar ahí que si tiraba ahí...
+
+718
+00:53:24,165 --> 00:53:28,929
+se tiró para el otro lado porque yo después donde tiré él se tiró, casi me la saca.
+
+719
+00:53:28,969 --> 00:53:30,751
+La cruzás y él casi la saca.
+
+720
+00:53:30,831 --> 00:53:33,946
+Sí, fue abajo, pasa que él se tiró para ver si iba a media altura.
+
+721
+00:53:36,435 --> 00:53:41,222
+y nada bueno, llegando ahí no sé por qué se me pasó la cabeza
+
+722
+00:53:42,563 --> 00:53:43,706
+No, no voy a tirar ahí.
+
+723
+00:53:44,147 --> 00:53:45,570
+O sea, y...
+
+724
+00:53:46,754 --> 00:53:50,371
+Y esas dudas, por eso también no partí tan esquinado, porque...
+
+725
+00:53:51,215 --> 00:53:54,704
+cuando estás muy claro que vas a tirar ese penal hasta el palo
+
+726
+00:53:57,106 --> 00:54:02,212
+va muy muy bien va esquinado va pateado bien cuando tienes duda
+
+727
+00:54:04,430 --> 00:54:06,541
+no va a patear tan bien, pero puede entrar.
+
+728
+00:54:06,561 --> 00:54:06,702
+Claro.
+
+729
+00:54:07,526 --> 00:54:08,109
+Y bueno.
+
+730
+00:54:08,853 --> 00:54:12,387
+cuando pateo cruzado lo primero que yo pensaba era cruzado abajo fuerte
+
+731
+00:54:13,149 --> 00:54:18,403
+Da igual, yo lo que intentaba es no meterla tan esquinada porque como tenía duda...
+
+732
+00:54:19,949 --> 00:54:21,334
+uno falta y me peguen el palo, ¿viste?
+
+733
+00:54:24,164 --> 00:54:26,588
+Pues yo pensando que él se iba a tirar para el otro lado, a todo esto.
+
+734
+00:54:27,169 --> 00:54:29,733
+Cuando veo que él se tira para ese lado, casi me la saca.
+
+735
+00:54:30,834 --> 00:54:34,804
+No sé, yo creo que ahí tendría que haber visto si me agarró una ritmia, pero...
+
+736
+00:54:35,867 --> 00:54:40,954
+pero no no me iba el corazón a mil pero bueno son cosas que pasan los penales que
+
+737
+00:54:41,535 --> 00:54:44,806
+que bueno, después uno va aprendiendo que no hay que dudar, ¿viste?
+
+738
+00:54:44,947 --> 00:54:45,368
+Si vos dudás...
+
+739
+00:54:46,271 --> 00:54:51,782
+Y después cuando llegó Pep, también cuando íbamos a tanda de penales o cuando íbamos a bater un penal,
+
+740
+00:54:52,683 --> 00:54:53,904
+Y nos decía, no duden.
+
+741
+00:54:53,944 --> 00:54:55,847
+Y yo decía, es que no hay que dudar.
+
+742
+00:54:56,307 --> 00:54:56,587
+Y decía...
+
+743
+00:54:57,188 --> 00:54:59,454
+Picala, picala, no cambies.
+
+744
+00:54:59,835 --> 00:55:01,619
+Cruzala, cruzala, abierta, abierta.
+
+745
+00:55:02,481 --> 00:55:05,770
+No sé, querías ser rabona, rabona, pero no cambie tu idea.
+
+746
+00:55:06,191 --> 00:55:07,294
+Porque claro, cuando empezás a...
+
+747
+00:55:08,618 --> 00:55:10,484
+a ver dónde va y esto y lo otro.
+
+748
+00:55:10,525 --> 00:55:10,846
+Chao.
+
+749
+00:55:11,267 --> 00:55:11,909
+Patías mal 100%.
+
+750
+00:55:14,451 --> 00:55:17,703
+Cuando llega Pep, todos los nueves con Pep presionan.
+
+751
+00:55:18,746 --> 00:55:21,036
+Y vos no te has distinguido en tu carrera por presionar.
+
+752
+00:55:22,441 --> 00:55:28,014
+Sin embargo, Pep terminó aceptando tus condiciones y vos terminaste también aceptando algunas cosas de Pep.
+
+753
+00:55:28,655 --> 00:55:33,090
+cómo fue la relación y cómo se fue construyendo porque hoy él habla de vos con...
+
+754
+00:55:34,194 --> 00:55:36,443
+mucho orgullo y con mucha alegría.
+
+755
+00:55:37,568 --> 00:55:41,218
+y le diste mucho al sitio durante los años que compartiste con Pep.
+
+756
+00:55:41,880 --> 00:55:45,985
+Pero ¿fue una relación que fluyó de entrada o costó un poquito?
+
+757
+00:55:46,764 --> 00:55:51,592
+No, al principio muy bien y después, bueno, fue...
+
+758
+00:55:52,955 --> 00:55:55,564
+empezamos a tener bastante ahí...
+
+759
+00:55:57,189 --> 00:55:58,413
+charlas en la presión.
+
+760
+00:56:02,327 --> 00:56:08,524
+Y bueno, a mí me volvía loco con el tema de la presión, entonces claro, llegaba un momento que a mí también me sacaba.
+
+761
+00:56:09,728 --> 00:56:12,378
+y empezamos a tener un poquito de tensión los dos
+
+762
+00:56:14,985 --> 00:56:17,970
+y después hay un partido que jugamos contra...
+
+763
+00:56:20,175 --> 00:56:24,710
+Stock City, yo hago dos goles y después en la conferencia
+
+764
+00:56:26,998 --> 00:56:30,247
+No es que me tiro como un...
+
+765
+00:56:31,891 --> 00:56:35,918
+un palo fuerte pero tiro como algo para
+
+766
+00:56:36,900 --> 00:56:40,173
+que fue que Sergio Agüero no me...
+
+767
+00:56:42,962 --> 00:56:48,029
+me gusta que haga goles pero como que dijo como que necesitaba que
+
+768
+00:56:48,591 --> 00:56:49,930
+yo trabaje más para el equipo.
+
+769
+00:56:52,155 --> 00:56:57,215
+Y ahí empezó un poco la tensión y yo el otro día fui y hablé con él.
+
+770
+00:56:57,818 --> 00:57:03,198
+y le dije que por qué había dicho eso bueno me lo había dicho bueno y ahí fue todo un tema
+
+771
+00:57:03,660 --> 00:57:07,574
+que bueno no se dio cuenta y bueno pido disculpas pero
+
+772
+00:57:08,176 --> 00:57:12,067
+pero ahí empezó un poco y después nada
+
+773
+00:57:14,033 --> 00:57:20,248
+Partido a partido fuimos tratando de ver cómo yo podía presionar.
+
+774
+00:57:21,230 --> 00:57:25,957
+lo que pasa es que él me hacía hacer tres presiones
+
+775
+00:57:26,498 --> 00:57:31,871
+que yo no estaba acostumbrado y yo en mi cabeza decía, me sacaste energía para atacar después.
+
+776
+00:57:33,936 --> 00:57:39,130
+yo quería guardarme para poder atacar entonces yo hacía la primera presión si salían jugando era
+
+777
+00:57:40,034 --> 00:57:41,691
+Salir al arquero.
+
+778
+00:57:43,253 --> 00:57:46,868
+después si el arquero jugaba con el defensa, salir al defensa.
+
+779
+00:57:47,811 --> 00:57:53,141
+y si el defensa volvía a jugar con el arquero tenía que volver para el medio y muchas veces que te agarran un equipo que...
+
+780
+00:57:53,962 --> 00:57:56,896
+el arquero se le da la defensa, vos por ahí
+
+781
+00:57:57,739 --> 00:58:01,487
+es lo que me decía es tapar el arquero para que no vuelva pero qué pasa que por ahí
+
+782
+00:58:02,208 --> 00:58:05,616
+el defensa se le da al medio campista y al medio campista de primer toque se le da al arquero
+
+783
+00:58:06,337 --> 00:58:09,627
+entonces vos ya tenés que volver de nuevo para el medio
+
+784
+00:58:10,188 --> 00:58:13,485
+y el arquero la tiene por ahí muchas veces y queda con la pilota.
+
+785
+00:58:14,048 --> 00:58:17,481
+y era otra vez a arrancar y el arquero podía hacer...
+
+786
+00:58:18,204 --> 00:58:21,424
+otra vez la lateral izquierdo o el izquierdo
+
+787
+00:58:21,906 --> 00:58:25,574
+de repente cuando yo iba a presionar se le daba rápido el arquero, entonces volví... entonces...
+
+788
+00:58:26,717 --> 00:58:30,370
+Me costaba un montón porque yo era para allá, para acá, para allá, para allá.
+
+789
+00:58:30,390 --> 00:58:31,213
+Además, todo piques.
+
+790
+00:58:31,615 --> 00:58:33,740
+No quería que yo vaya al trote, quería que yo vaya a las chop.
+
+791
+00:58:38,273 --> 00:58:39,880
+y no podía, te juro.
+
+792
+00:58:41,165 --> 00:58:45,216
+Decía la puta madre, después agarraba el pelote y se me caía, agarraba el pelote y...
+
+793
+00:58:46,218 --> 00:58:48,080
+Se pasaba por abajo y yo decía, la puta madre.
+
+794
+00:58:48,481 --> 00:58:51,644
+Hasta que en un momento, algunas veces en el partido decía, bueno, ya está, presión así, así y así ya.
+
+795
+00:58:52,706 --> 00:58:54,818
+Yo me quedé así, hago esto y ya está.
+
+796
+00:58:55,040 --> 00:58:56,146
+No decía que se vaya a la mierda, pero...
+
+797
+00:58:56,649 --> 00:59:00,927
+pero pensaba que quería atacar, también quería hacer goles.
+
+798
+00:59:01,971 --> 00:59:07,900
+Y así hasta que, bueno, después él trae en ese invierno trae a Gabriel Jesús.
+
+799
+00:59:09,521 --> 00:59:13,506
+Y ahí él empezó a cambiarme, a rotarme.
+
+800
+00:59:14,509 --> 00:59:16,599
+y después Gabriel y Jesús empezó a jugar titular.
+
+801
+00:59:17,924 --> 00:59:20,593
+Y bueno, yo ya ahí, ya mi cabeza, decidito, ya está.
+
+802
+00:59:20,854 --> 00:59:23,823
+Yo ya tengo que rajar acá porque no voy a jugar más.
+
+803
+00:59:24,405 --> 00:59:30,379
+Y después Gabriel Jesús se jode el quinto tamerciano.
+
+804
+00:59:31,582 --> 00:59:32,584
+creo que contra el
+
+805
+00:59:36,115 --> 00:59:37,897
+el Bormus, se lesiona en los 30 minutos
+
+806
+00:59:42,402 --> 00:59:46,864
+Y ahí entro yo y a él le dan como tres meses, cuatro meses, se perdió la temporada.
+
+807
+00:59:48,111 --> 00:59:50,464
+Y yo ahí dije, soy el único delantero.
+
+808
+00:59:51,328 --> 00:59:57,858
+tengo que jugar y ahí empecé yo a jugar y empecé a hacer goles, goles, goles y terminé con 30 y pico
+
+809
+00:59:57,898 --> 00:59:58,499
+y pepe frente a eso?
+
+810
+00:59:58,559 --> 00:59:59,059
+no me dijo nada
+
+811
+01:00:03,705 --> 01:00:05,809
+Ahí no dirigíamos la palabra, era normal.
+
+812
+01:00:06,010 --> 01:00:06,550
+¿No hablabas?
+
+813
+01:00:06,931 --> 01:00:09,235
+No, no, charla normal, hola, buen día, tal.
+
+814
+01:00:10,116 --> 01:00:12,879
+Pero no te pidió volver a presionar, a hacer esas tres presiones?
+
+815
+01:00:12,899 --> 01:00:15,581
+Sí, sí, no me decía tal las presiones, pero...
+
+816
+01:00:16,242 --> 01:00:19,289
+pero me fue un poco... yo creo que me fue acomodando él.
+
+817
+01:00:19,550 --> 01:00:22,016
+Y él fue entendiendo a mí cómo voy a hacer.
+
+818
+01:00:22,296 --> 01:00:22,737
+Y después...
+
+819
+01:00:23,380 --> 01:00:27,115
+de ahí no es que uno piensa por ahí después sea
+
+820
+01:00:28,401 --> 01:00:34,358
+Yo por ahí creía que él no me quería, pero en realidad él era el técnico y uno piensa hoy
+
+821
+01:00:35,120 --> 01:00:38,594
+que no es que no me quería, no le estaba funcionando como él quería.
+
+822
+01:00:39,557 --> 01:00:40,598
+y había que respetarlo.
+
+823
+01:00:40,638 --> 01:00:43,462
+Hoy los jugadores piensan y dicen, no me quiere.
+
+824
+01:00:43,522 --> 01:00:44,523
+No, no es que no te quiere.
+
+825
+01:00:44,863 --> 01:00:45,864
+Se toma todo muy personal.
+
+826
+01:00:46,445 --> 01:00:50,172
+claro yo por ahí en ese momento pensaba eso pero después me di cuenta
+
+827
+01:00:51,053 --> 01:00:53,999
+que no era así y después empecé a llevar muy bien.
+
+828
+01:00:54,680 --> 01:00:59,451
+Y después con él ya me decía, muchas veces me decía, quedate acá.
+
+829
+01:00:59,912 --> 01:01:02,744
+Con esta central no quiero que juegue esta central.
+
+830
+01:01:04,289 --> 01:01:05,233
+Quédate pegadito a él.
+
+831
+01:01:05,434 --> 01:01:07,061
+Lo único que te pido es pegadito y yo me quedo ahí.
+
+832
+01:01:07,643 --> 01:01:12,149
+Y me dice después, claro, él ya empezó a entender que cuando ataquemos, ganamos el partido.
+
+833
+01:01:12,871 --> 01:01:16,389
+Y así empezamos y después ahí empezamos a tener muy buena relación.
+
+834
+01:01:17,293 --> 01:01:20,766
+Pero bueno, sirvió que al principio estemos ahí los dos.
+
+835
+01:01:22,132 --> 01:01:26,531
+No de bronca, yo no sentía que él me tenía bronca, sino que...
+
+836
+01:01:27,274 --> 01:01:30,623
+que hoy pienso, en ese momento él buscaba que...
+
+837
+01:01:33,052 --> 01:01:35,828
+al no presionar le jodía todo el
+
+838
+01:01:36,189 --> 01:01:39,481
+el esquema que él quería hacer, toda la presión que él necesitaba hacerla
+
+839
+01:01:40,123 --> 01:01:45,113
+Si yo no lo hacía bien, cagaba todo, que era lo que estaba haciendo, estaba cagando todas las presiones.
+
+840
+01:01:46,196 --> 01:01:49,529
+Y bueno, yo creo que, imagínate, se agarra una escalentura después.
+
+841
+01:01:49,951 --> 01:01:54,728
+porque yo presionaba para cualquier lado, a veces tenía que cerrar el medio, que yo sabía que tenía que cerrar el medio, pero...
+
+842
+01:01:55,731 --> 01:01:59,322
+de colgado, no cerraba y me miraba y decía, Sergio...
+
+843
+01:02:00,265 --> 01:02:02,328
+Y yo empecé a decir, ¿qué querés que haga?
+
+844
+01:02:02,568 --> 01:02:05,772
+Pero bueno, así hasta que bueno, fui aprendiendo y...
+
+845
+01:02:06,974 --> 01:02:09,640
+La verdad es que para mí PE es muy bueno.
+
+846
+01:02:14,054 --> 01:02:15,866
+en todo lo que hace y al final uno...
+
+847
+01:02:16,872 --> 01:02:21,869
+Si presta atención lo que él quiere hacer, termina...
+
+848
+01:02:23,676 --> 01:02:24,659
+es muy difícil
+
+849
+01:02:27,450 --> 01:02:30,999
+que un equipo le gana a pep de la misma manera porque no
+
+850
+01:02:31,661 --> 01:02:34,253
+Es imposible, lo tiene todo muy estudiado.
+
+851
+01:02:35,578 --> 01:02:40,694
+Y ya sabe el rival lo que va a hacer, sabe enseguida, apenas empieza el partido.
+
+852
+01:02:41,837 --> 01:02:46,770
+te ponía una posición y te decía cuando empiece el partido yo les voy a hacer una seña a ver si es
+
+853
+01:02:48,034 --> 01:02:50,519
+él ya tenía todo mentalizado que podía llegar a pasar.
+
+854
+01:02:53,365 --> 01:02:57,454
+Y nada, empezaba el partido, Topay decía, Sergio, ahora vete para allá.
+
+855
+01:02:57,494 --> 01:02:58,336
+Sergio, ahora ponete acá.
+
+856
+01:02:59,058 --> 01:03:04,021
+Sabía todo cuando ellos iban haciendo algún movimiento, pero es muy bueno.
+
+857
+01:03:04,241 --> 01:03:08,071
+De lo entrenado que yo tuve, el mejor.
+
+858
+01:03:08,091 --> 01:03:08,452
+Mejoro.
+
+859
+01:03:08,512 --> 01:03:09,414
+Sí, cien por cien.
+
+860
+01:03:10,619 --> 01:03:12,267
+Después con otros tuve más por ahí.
+
+861
+01:03:13,892 --> 01:03:19,726
+más charla que no quiere decir son malos pero tenían diferentes tácticas por ejemplo
+
+862
+01:03:20,548 --> 01:03:23,302
+Mancini era más defensivo.
+
+863
+01:03:24,828 --> 01:03:27,880
+y por ahí íbamos ganando un a cero y sacaba lo delantero.
+
+864
+01:03:28,863 --> 01:03:30,566
+Pero bueno, era su método de juego.
+
+865
+01:03:30,626 --> 01:03:33,430
+Entonces, terminamos saliendo campeón de la Premier.
+
+866
+01:03:34,651 --> 01:03:38,158
+y después vino Pellegrini que era diferente, que era más...
+
+867
+01:03:38,720 --> 01:03:44,994
+tener más en el medio, más juego y nada, compera.
+
+868
+01:03:45,976 --> 01:03:51,043
+lo loco es que él no renuncia o sea era el mismo esquema siempre
+
+869
+01:03:51,764 --> 01:03:57,079
+y siempre hacía lo mismo movimiento o si ellos hacían tal movimiento él lo cambiaba pero
+
+870
+01:03:57,761 --> 01:03:59,933
+no cambiaba, o sea, él moría con la suya.
+
+871
+01:04:01,601 --> 01:04:05,009
+Quizás otros entrenadores lo que tienen es que van cambiando.
+
+872
+01:04:05,871 --> 01:04:07,375
+Él muere con la idea de él.
+
+873
+01:04:08,498 --> 01:04:08,959
+Y ya está.
+
+874
+01:04:09,620 --> 01:04:13,851
+Quiero ir al 9320, ese agüero de Martin Taylor.
+
+875
+01:04:14,031 --> 01:04:16,481
+¿Sabías que me regaló... ahora cuando yo fui me regaló el...
+
+876
+01:04:20,696 --> 01:04:21,377
+¿Cómo se dice?
+
+877
+01:04:21,397 --> 01:04:25,564
+Cuando ellos, antes del partido, toman la libreta, toman las notas...
+
+878
+01:04:26,445 --> 01:04:27,308
+Me regaló todas las notas.
+
+879
+01:04:27,328 --> 01:04:27,850
+Genio, genio.
+
+880
+01:04:28,512 --> 01:04:30,820
+No entendí un... Nada, Pokémon, imagínate.
+
+881
+01:04:31,723 --> 01:04:34,731
+Tenía todo escrito ahí en inglés encima de todo chiquitito.
+
+882
+01:04:36,136 --> 01:04:36,598
+Los números.
+
+883
+01:04:36,618 --> 01:04:38,888
+Creo que viene a algún lado la libreta.
+
+884
+01:04:38,908 --> 01:04:39,852
+Creo que yo lo posteé.
+
+885
+01:04:41,519 --> 01:04:44,630
+Me lo regaló y yo dije, ah, mira, y él me explicó.
+
+886
+01:04:45,292 --> 01:04:47,801
+que nosotros, claro, yo, todo esto yo no sé, ¿viste?
+
+887
+01:04:48,744 --> 01:04:54,129
+que lo que hace un relator ante un partido, no sé, hoy por ahí ya se porque bueno.
+
+888
+01:04:55,293 --> 01:04:58,891
+Estoy más metido en todo esto, pero claro, y tenía...
+
+889
+01:04:59,212 --> 01:05:02,025
+Todo anotado, claro, tenía anotado que...
+
+890
+01:05:03,771 --> 01:05:07,360
+que claro, después uno piensa que loco, al final...
+
+891
+01:05:08,102 --> 01:05:09,931
+Está estudiando.
+
+892
+01:05:11,619 --> 01:05:15,545
+Hay que tener una clase porque tenés que tener todos los nombres.
+
+893
+01:05:16,266 --> 01:05:17,729
+¿Cuántos partidos por ahí?
+
+894
+01:05:18,730 --> 01:05:20,373
+¿Cuándo fue el último gol?
+
+895
+01:05:21,014 --> 01:05:22,277
+¿Cuándo fue la última amarilla?
+
+896
+01:05:22,940 --> 01:05:26,200
+o este el último partido hizo tal cosa o sea todo ahí detallado
+
+897
+01:05:26,320 --> 01:05:27,182
+Es increíble.
+
+898
+01:05:27,242 --> 01:05:29,405
+Hoy con el teléfono tenés más herramientas.
+
+899
+01:05:29,425 --> 01:05:30,067
+Tienes más herramientas.
+
+900
+01:05:30,087 --> 01:05:31,108
+Pero está hablando del 2012, 12 años atrás.
+
+901
+01:05:32,331 --> 01:05:34,703
+Me imagino antes que se gastaban 50 páginas.
+
+902
+01:05:36,069 --> 01:05:41,582
+Bueno yo tengo una agenda en la que anoto las formaciones, alguna cosa más, pero tengo muchas cosas en el teléfono.
+
+903
+01:05:42,304 --> 01:05:42,987
+Claro, claro, claro.
+
+904
+01:05:43,007 --> 01:05:47,121
+Claro, porque hoy puedes ver en el teléfono por ahí, puedes ver el equipo.
+
+905
+01:05:47,321 --> 01:05:47,641
+Sí, el equipo.
+
+906
+01:05:47,762 --> 01:05:51,086
+Y lo otro por ahí algunas cosas del jugador.
+
+907
+01:05:51,226 --> 01:05:55,531
+incluso las estadísticas en vivo, digamos cuántos pases diste bien, cuántos mal
+
+908
+01:05:55,831 --> 01:05:58,996
+Bueno, esto es para la gente que piensa que es fácil.
+
+909
+01:05:59,016 --> 01:05:59,356
+No es fácil.
+
+910
+01:06:02,481 --> 01:06:03,704
+Y no es fácil meter goles tampoco.
+
+911
+01:06:03,724 --> 01:06:04,305
+No, tampoco.
+
+912
+01:06:04,626 --> 01:06:05,868
+Quiero ir a ese, güey.
+
+913
+01:06:06,549 --> 01:06:11,656
+Hay algo que me vuelve loco cada vez que veo esa jugada, es ese segundo de pausa que te tomas antes de patear.
+
+914
+01:06:13,223 --> 01:06:17,594
+93-20 el título, on the line, como dicen en Inglaterra, en Estados Unidos.
+
+915
+01:06:18,597 --> 01:06:21,449
+y vos te tomás ese segundo para patear
+
+916
+01:06:21,971 --> 01:06:25,623
+Hay un momento en el que tenés el tipo y decís, no, no, un segundito más y después rematar.
+
+917
+01:06:26,024 --> 01:06:30,458
+Eso es hábito, eso es automático, tiene que ver con tu manera de jugar.
+
+918
+01:06:32,304 --> 01:06:35,699
+y no automático
+
+919
+01:06:37,003 --> 01:06:38,046
+No, automático no.
+
+920
+01:06:38,527 --> 01:06:40,812
+Es natural porque...
+
+921
+01:06:42,316 --> 01:06:45,874
+si hubiese pensado digamos que
+
+922
+01:06:47,776 --> 01:06:52,295
+o yo pensaba que ya estaba terminando, que por dentro sabía que estaba terminando,
+
+923
+01:06:53,058 --> 01:06:57,708
+pero lo que hice fue todo natural porque si no yo hubiese pateado antes.
+
+924
+01:06:59,011 --> 01:07:01,719
+Entonces lo que yo hice fue...
+
+925
+01:07:04,347 --> 01:07:07,240
+En ese momento yo sabía que el defensa
+
+926
+01:07:09,368 --> 01:07:13,738
+iba a llegar tarde, yo ya sabía que iba a llegar primero, pero en mi cabeza fue...
+
+927
+01:07:15,410 --> 01:07:19,277
+Si la toco un poquito para adelante, me va a pisar y es penal.
+
+928
+01:07:21,797 --> 01:07:26,669
+O si pateo puede ser que patee incómodo o mal, o trabemos entre los dos.
+
+929
+01:07:28,412 --> 01:07:33,338
+que llegamos justo los dos, pero yo sabía que punteándola un poquito para adelante
+
+930
+01:07:34,761 --> 01:07:35,322
+Me hace penal.
+
+931
+01:07:35,342 --> 01:07:37,105
+O sea, mi cabeza era penal.
+
+932
+01:07:37,526 --> 01:07:38,127
+Pero ¿qué pasa?
+
+933
+01:07:38,147 --> 01:07:38,688
+Cuando yo la...
+
+934
+01:07:39,128 --> 01:07:43,597
+toco un poquito delante, él me toca el tobillo, apenas, pero fue muy...
+
+935
+01:07:44,559 --> 01:07:47,289
+me agarró muy suave y ahí cuando me queda para patear
+
+936
+01:07:50,667 --> 01:07:51,617
+mi idea era cruzarla.
+
+937
+01:07:53,972 --> 01:07:56,422
+pero se ve que al querer cruzarla
+
+938
+01:07:57,682 --> 01:08:03,522
+Me pasó mucho, he hecho muchos goles queriendo cruzarla, porque por mirar el arco...
+
+939
+01:08:03,943 --> 01:08:07,372
+de reojo, la pelota se me va un poco para adelante entonces
+
+940
+01:08:07,873 --> 01:08:13,312
+ya me queda más incómoda y cuando pateo va siempre al primer palo porque
+
+941
+01:08:14,796 --> 01:08:19,509
+Yo estoy pensando en dónde está el arco, de reojo voy viendo el arco.
+
+942
+01:08:20,192 --> 01:08:23,328
+y bueno, y me sale el primer palo que yo no quería tirarle ahí
+
+943
+01:08:24,070 --> 01:08:26,533
+Quería tirar al segundo paso, pero bueno, fue gol.
+
+944
+01:08:30,018 --> 01:08:33,503
+Son cosas que es natural, es natural que
+
+945
+01:08:34,545 --> 01:08:37,318
+también pensé que no tuve ninguna clara.
+
+946
+01:08:38,041 --> 01:08:43,115
+Digo voy a bajar a recibir la pelota que no había bajado en todo el partido entonces
+
+947
+01:08:44,881 --> 01:08:47,130
+No sé, fue todo como muy...
+
+948
+01:08:48,716 --> 01:08:52,325
+muy extraño, o capaz tenía que ser así, bueno fue así.
+
+949
+01:08:53,047 --> 01:08:56,777
+pero bajé, me la da Deshon, que...
+
+950
+01:08:57,719 --> 01:09:00,705
+que encima estábamos todos en el área.
+
+951
+01:09:02,690 --> 01:09:04,534
+El medio era para afuera y centro.
+
+952
+01:09:08,402 --> 01:09:11,010
+Todo era pelota aérea.
+
+953
+01:09:12,353 --> 01:09:17,148
+y no sé por qué se me ocurrió bajar y dije bueno bajo y yo le había dicho a Balotelli antes
+
+954
+01:09:17,690 --> 01:09:21,722
+Quédate cerca mío, a ver si yo te la puedo dar y hacemos una pared.
+
+955
+01:09:22,445 --> 01:09:26,364
+pues habla bastante bien español y me dice, sí, sí, sí, sí, todo sí.
+
+956
+01:09:27,389 --> 01:09:31,801
+Y bueno, cuando se lo hice, lo bueno es que yo ya lo había dicho antes, porque...
+
+957
+01:09:32,463 --> 01:09:36,878
+Si yo no le hubiese dicho eso, también a veces es bueno poder hablar.
+
+958
+01:09:37,199 --> 01:09:40,433
+en la cancha porque si yo no hubiese dicho nada capaz que Mario al sual dársela
+
+959
+01:09:40,815 --> 01:09:44,431
+el caballo de Mario lo aguanta y juega para afuera o lo aguanta y quiere patear
+
+960
+01:09:45,194 --> 01:09:48,589
+Entonces, como yo le dije, hacemos una pared que yo te la doy y me la devuelves.
+
+961
+01:09:49,714 --> 01:09:52,666
+él eso inconscientemente habrá pensado, dijo él.
+
+962
+01:09:53,007 --> 01:09:54,148
+Si me la da, yo se la voy a dar.
+
+963
+01:09:54,308 --> 01:09:55,229
+Y así fue.
+
+964
+01:09:55,290 --> 01:09:58,433
+Todo salió muy... digamos...
+
+965
+01:10:00,036 --> 01:10:05,509
+muy extraño todo, pero al final fue bueno para todos.
+
+966
+01:10:06,732 --> 01:10:11,641
+sí que es todo natural, uno cuando piensa en definir siempre le digo
+
+967
+01:10:12,703 --> 01:10:17,290
+también hablo bastante con mi hijo, con Benjal, y digo, vos en el área no...
+
+968
+01:10:18,753 --> 01:10:21,040
+No puedes pensar más de un segundo y medio.
+
+969
+01:10:21,260 --> 01:10:21,822
+No pienses.
+
+970
+01:10:22,605 --> 01:10:23,126
+¿Y cómo?
+
+971
+01:10:23,568 --> 01:10:24,170
+No pienses.
+
+972
+01:10:25,133 --> 01:10:29,084
+Imagínate que el arco está atrás tuyo y cuando estás enfrente del arco
+
+973
+01:10:30,790 --> 01:10:35,025
+rápido, un segundo, imaginate dónde la tiene que tirar porque no hay tiempo en el área.
+
+974
+01:10:36,169 --> 01:10:38,214
+y es un toque o dos toques
+
+975
+01:10:39,798 --> 01:10:42,812
+después afuera cuando venís mano a mano tenés tiempo para pensar si le querés
+
+976
+01:10:43,534 --> 01:10:46,178
+la embetear, le quiere enganchar para afuera.
+
+977
+01:10:47,620 --> 01:10:53,635
+para adentro, lo que vos quieras, ahí tenés un poquito más de segundo para pensar o cuando vas mano a mano con el arquero tenés
+
+978
+01:10:54,076 --> 01:11:00,573
+también segundos para pensar, pero cuando hay tanto alboroteo en el área, no tenés tanto para pensar, entonces
+
+979
+01:11:01,678 --> 01:11:04,653
+Patía como puedas, centro, un toque.
+
+980
+01:11:05,317 --> 01:11:06,341
+o parar y patear.
+
+981
+01:11:06,381 --> 01:11:09,414
+No hay tiempo porque yo veo y los chicos los voy a ver a jugar y...
+
+982
+01:11:10,157 --> 01:11:14,497
+y la paran, viste, y a ver qué... No, no, en el área no hay tiempo.
+
+983
+01:11:14,898 --> 01:11:19,828
+y uno por experiencia así se va dando cuenta y yo lo trato de decir a él para que
+
+984
+01:11:20,569 --> 01:11:26,902
+para que se meta en la cabeza que un delantero no tiene tanto tiempo para pensar.
+
+985
+01:11:27,242 --> 01:11:28,669
+¿Te gusta que Benja sea futbolista?
+
+986
+01:11:29,665 --> 01:11:34,480
+sí sí pero bueno estoy ahora le estoy bueno hablamos bastante
+
+987
+01:11:34,921 --> 01:11:38,366
+Ya está grande, va a cumplir 15 años y sí.
+
+988
+01:11:38,966 --> 01:11:42,594
+Obvio que me gusta ser futbolista, pero yo soy de esos de que...
+
+989
+01:11:44,420 --> 01:11:46,606
+Quiero hacerlo todo en muy serio porque...
+
+990
+01:11:47,971 --> 01:11:52,308
+Yo le digo, en mi época, cuando yo arranqué
+
+991
+01:11:53,273 --> 01:11:54,601
+Yo a los 14 años dejé de estudiar.
+
+992
+01:11:56,707 --> 01:12:03,143
+y yo dejé de estudiar porque mi viejo me agarró y me dijo
+
+993
+01:12:04,205 --> 01:12:05,767
+¿estudias o vas a jugar al fútbol?
+
+994
+01:12:05,947 --> 01:12:09,131
+Y lo primero que me dijo fue fútbol y mi hijo me dijo, no vas a faltar.
+
+995
+01:12:09,812 --> 01:12:14,224
+a ningún entrenamiento, por más que llueva, caiga trueno, lo que sea.
+
+996
+01:12:15,106 --> 01:12:18,112
+sos el único que va a entrenar, si hay uno, entrená.
+
+997
+01:12:18,132 --> 01:12:18,793
+Y así fue.
+
+998
+01:12:20,357 --> 01:12:23,717
+Yo empecé a entrenar, entrenar, entrenar y no faltaba nunca.
+
+999
+01:12:24,380 --> 01:12:29,034
+y bueno y así llegué además después uno puede tener talento pero
+
+1000
+01:12:29,776 --> 01:12:33,305
+Hay muchos jugadores que, por tener buen talento,
+
+1001
+01:12:34,107 --> 01:12:38,234
+por ahí faltan algunos entrenamientos y empiezan a...
+
+1002
+01:12:38,796 --> 01:12:41,383
+a relajarse y bueno terminan no llegando.
+
+1003
+01:12:43,228 --> 01:12:48,341
+Bueno, esa era su cabeza de mi viejo, entonces yo lo que le digo a él es que tiene la oportunidad
+
+1004
+01:12:48,984 --> 01:12:51,421
+de estudiar.
+
+1005
+01:12:53,700 --> 01:12:59,093
+que lo que yo le digo es que aproveche a full el fútbol porque...
+
+1006
+01:12:59,715 --> 01:13:04,133
+Si él va porque tiene ganas, a mí te puede pasar, voy porque...
+
+1007
+01:13:04,634 --> 01:13:06,939
+Mi viejo jugaba a la pelota y mi abuelo también.
+
+1008
+01:13:07,560 --> 01:13:09,524
+Y yo también quedo... No, yo también no.
+
+1009
+01:13:09,705 --> 01:13:11,268
+No es mi abuelo, mi viejo, nada.
+
+1010
+01:13:11,609 --> 01:13:15,405
+Si vas, es porque te da más al fútbol, porque te da más entrenar.
+
+1011
+01:13:16,007 --> 01:13:19,155
+y porque querés llegar, o sea, me entiendes lo que dices, que querés llegar, si no...
+
+1012
+01:13:20,578 --> 01:13:22,722
+No pierdas el tiempo, puedes estudiar también.
+
+1013
+01:13:23,956 --> 01:13:25,121
+No, no, quiero jugar, listo.
+
+1014
+01:13:25,141 --> 01:13:26,466
+Si vos querés jugar, yo te acompaño.
+
+1015
+01:13:27,089 --> 01:13:29,358
+Y bueno, ahí estamos, pero...
+
+1016
+01:13:29,800 --> 01:13:32,532
+Pero obviamente que para ahí mucha gente dice, eh, pero no, no.
+
+1017
+01:13:33,455 --> 01:13:34,757
+¿Lo estás obligando?
+
+1018
+01:13:34,877 --> 01:13:35,599
+No, no estoy obligado.
+
+1019
+01:13:35,619 --> 01:13:37,002
+Quiero que se lo tome serio.
+
+1020
+01:13:37,583 --> 01:13:39,406
+Al final, el fútbol no es fácil.
+
+1021
+01:13:40,108 --> 01:13:44,298
+y yo lo que no quiero es que por ahí dentro de unos años
+
+1022
+01:13:45,626 --> 01:13:50,924
+me diga, bueno, ya no quiero jugar más y me dejaste de estudiar, ¿entendés?
+
+1023
+01:13:50,944 --> 01:13:51,607
+Entonces...
+
+1024
+01:13:52,308 --> 01:13:53,650
+o pensalo antes.
+
+1025
+01:13:53,690 --> 01:13:56,273
+Entonces, el que quieres luchar desde hoy es pensar bien lo que quieres hacer.
+
+1026
+01:13:57,418 --> 01:14:00,393
+Sé que después, obviamente, no tiene problema para...
+
+1027
+01:14:00,934 --> 01:14:06,802
+para poder estudiar lo que sea pero se va a perder unos años digamos
+
+1028
+01:14:07,222 --> 01:14:09,747
+de estudios que quizás yo en ese momento no lo podía.
+
+1029
+01:14:09,787 --> 01:14:11,250
+Yo empecé a aprender
+
+1030
+01:14:12,532 --> 01:14:16,864
+cosas según los viajes o con gente grande.
+
+1031
+01:14:18,006 --> 01:14:22,831
+inglés no sabían nada y el que tiene la oportunidad son cosas que por ahí
+
+1032
+01:14:23,632 --> 01:14:26,436
+uno lo que vive de chico lo quiere tratar de que el hijo
+
+1033
+01:14:27,578 --> 01:14:32,549
+progrese, que esté un poco mejor de lo que yo estaba, que él está, pero hay cosas que todavía
+
+1034
+01:14:33,072 --> 01:14:36,289
+se puede mejorar en todo sentido.
+
+1035
+01:14:37,168 --> 01:14:43,924
+Nombrabas a su abuelo, pero su abuelo fue Diego Maradona, no cualquier abuelo que jugaba a la pelota.
+
+1036
+01:14:44,586 --> 01:14:44,726
+ehh...
+
+1037
+01:14:45,683 --> 01:14:47,345
+Sí, ya sé, obviamente.
+
+1038
+01:14:47,365 --> 01:14:51,868
+Pero bueno, la verdad es que él bastante bien lo lleva.
+
+1039
+01:14:54,518 --> 01:14:57,269
+y sabe bastante bien que, digamos,
+
+1040
+01:14:58,032 --> 01:15:02,138
+A veces no se da cuenta, por ejemplo el otro día quería ir a un lugar
+
+1041
+01:15:03,300 --> 01:15:05,485
+que había como 700 personas.
+
+1042
+01:15:07,108 --> 01:15:08,492
+como un camping y tal.
+
+1043
+01:15:08,512 --> 01:15:10,236
+Yo le dije, anda, divertiste.
+
+1044
+01:15:10,717 --> 01:15:13,043
+Puedes decir lo que sí la gente te conoce.
+
+1045
+01:15:14,106 --> 01:15:17,520
+entonces ahora después no diga que como porque ha pasado que
+
+1046
+01:15:18,605 --> 01:15:21,335
+La pasé mal porque quería estar acá.
+
+1047
+01:15:23,101 --> 01:15:28,848
+Venía, me rompía las pelotas, qué foto, qué video, qué midito, qué video... Y bueno, eso te va a pasar, digo...
+
+1048
+01:15:29,450 --> 01:15:34,068
+Yo andaba y disfrutaba, pero si vos pensás que hay 700 personas, 700 personas capaz que...
+
+1049
+01:15:34,770 --> 01:15:39,165
+Encima, acá en Argentina, capaz que 100 van a estar alrededor tuyo.
+
+1050
+01:15:39,847 --> 01:15:42,308
+pidiéndote fotos o queriendo hacer videos.
+
+1051
+01:15:43,715 --> 01:15:45,837
+tanta gente hay, y bueno, sí.
+
+1052
+01:15:46,277 --> 01:15:49,940
+Bueno, no, entonces me quedo en mi casa, en la pileta.
+
+1053
+01:15:50,560 --> 01:15:56,100
+Lo que vos quieras, claro, pero bueno, ya tiene que jugar con eso ahora que...
+
+1054
+01:15:56,903 --> 01:16:01,113
+que le está pasando, que va a algunos lados y bueno, nada, es...
+
+1055
+01:16:03,291 --> 01:16:08,424
+la ley esta y de que yo soy conocido, de que su abuelo, de que la familia, todo.
+
+1056
+01:16:09,468 --> 01:16:11,558
+Pero de a poco lo va entendiendo.
+
+1057
+01:16:13,386 --> 01:16:14,490
+no se da cuenta de esas cosas.
+
+1058
+01:16:14,531 --> 01:16:17,160
+A mí me pasaba cuando yo iba de chico al cine
+
+1059
+01:16:17,783 --> 01:16:21,017
+me gusta ir al cine y con mis amigos y después comíamos pizza
+
+1060
+01:16:22,121 --> 01:16:24,588
+Y a los 16 años yo estaba en el mente y seguía haciendo lo mismo.
+
+1061
+01:16:25,089 --> 01:16:28,459
+Pero ya empezaron los hinchas, unos hinchas del rojo, otros hinchas, ¿qué?
+
+1062
+01:16:29,461 --> 01:16:33,069
+Empezaron a pedir fotos y todo, pero después...
+
+1063
+01:16:33,551 --> 01:16:36,201
+cadera más, más, más, y ya llegó un momento en el que le dije, che, chico...
+
+1064
+01:16:37,486 --> 01:16:40,757
+Vemos un cine en casa, era imposible y así.
+
+1065
+01:16:41,559 --> 01:16:44,485
+a mi me pasa eso, pero bueno a él le está pasando ahora un poquito antes
+
+1066
+01:16:45,368 --> 01:16:48,241
+pero lo estaba bastante bien llevando.
+
+1067
+01:16:49,084 --> 01:16:51,956
+y aparte es re educado.
+
+1068
+01:16:53,823 --> 01:16:56,576
+¿Tuviste una relación con Diego profesional?
+
+1069
+01:16:57,058 --> 01:17:00,554
+fue entrenador tuyo en el primer mundial de mayores que jugaste en 2010 incluso
+
+1070
+01:17:01,117 --> 01:17:04,772
+ya en los olímpicos, él estaba ahí más como un embajador del deporte.
+
+1071
+01:17:06,399 --> 01:17:11,372
+Es el papá de Janina, el abuelo de Benja.
+
+1072
+01:17:13,168 --> 01:17:17,480
+¿Cómo fue tu relación con él y cómo te enteraste de su muerte y cómo te impactó?
+
+1073
+01:17:18,903 --> 01:17:22,490
+bueno él no con el hecho me lleva muy bien
+
+1074
+01:17:23,271 --> 01:17:27,903
+no se metía para nada en la relación ni nada.
+
+1075
+01:17:28,624 --> 01:17:33,250
+Y eso que Visteguil decía, no, ojo, los estudios de las millonarias van a pasar mal.
+
+1076
+01:17:33,630 --> 01:17:35,173
+No, no, no.
+
+1077
+01:17:35,213 --> 01:17:35,754
+Bien, bien.
+
+1078
+01:17:36,295 --> 01:17:39,761
+Bien si fumaba Habano en mi casa y me he tirado todo el...
+
+1079
+01:17:40,582 --> 01:17:41,824
+Toda la ceniza en el piso.
+
+1080
+01:17:41,864 --> 01:17:42,604
+Yo no decía nada.
+
+1081
+01:17:46,550 --> 01:17:51,582
+cuando tenía a Diego era un cago de risa, siempre estaba todo el día bromeando.
+
+1082
+01:17:52,884 --> 01:17:56,149
+pero siempre me lleve muy bien con él, no lo veía mucho
+
+1083
+01:17:56,790 --> 01:18:03,526
+Las pocas veces que lo vi fueron acá en Argentina cuando venía la temporada que ya había vacaciones.
+
+1084
+01:18:04,551 --> 01:18:08,149
+Y después iba muy poco a Europa, habrá ido dos o tres veces, pero...
+
+1085
+01:18:08,570 --> 01:18:10,695
+Se quedan en el hotel, venía muy poca casa.
+
+1086
+01:18:13,140 --> 01:18:17,173
+y cuando me enteré de la muerte fue en un partido de Champions, creo que fue...
+
+1087
+01:18:18,055 --> 01:18:23,752
+No sé, jugamos en Ucrania creo que estábamos jugando nosotros y bueno ahí me enteré.
+
+1088
+01:18:24,113 --> 01:18:24,253
+Va!
+
+1089
+01:18:25,695 --> 01:18:30,200
+Entré por las redes y lo primero que hice fue si
+
+1090
+01:18:31,041 --> 01:18:35,478
+Para chequear le pregunté a la mamá de Benja si era verdad y me dijo sí.
+
+1091
+01:18:38,029 --> 01:18:39,674
+y lo primero que hice fue escribir La avenja.
+
+1092
+01:18:41,539 --> 01:18:42,340
+Digo, ¿dónde estás?
+
+1093
+01:18:42,601 --> 01:18:43,863
+Y ahí me dijo, no, estoy en casa.
+
+1094
+01:18:44,804 --> 01:18:45,966
+Y bueno, ahí fue que
+
+1095
+01:18:47,228 --> 01:18:50,515
+Le dije, bueno, entonces yo no sabía si... Claro, si le sabías.
+
+1096
+01:18:50,655 --> 01:18:53,608
+O sea, yo estaba a ver... Porque, bueno, Benja...
+
+1097
+01:18:54,350 --> 01:18:58,176
+Con él se llevaba muy bien, se divertía mucho.
+
+1098
+01:19:01,403 --> 01:19:04,053
+por ser Diego, pero yo lo veía más.
+
+1099
+01:19:04,755 --> 01:19:08,591
+además de ser Diego pero digo mi hijo como su abuelo
+
+1100
+01:19:09,975 --> 01:19:12,918
+No sabía, quería saber que quería estar con él, ¿viste?
+
+1101
+01:19:15,481 --> 01:19:19,411
+Y no, estoy acá, estoy en la compu, tenía libre, mi mamá se fue.
+
+1102
+01:19:20,333 --> 01:19:22,117
+Claro, ya era que la madre se había ido, pero...
+
+1103
+01:19:23,041 --> 01:19:24,366
+pero bueno nada trate de
+
+1104
+01:19:26,554 --> 01:19:30,842
+Nosotros encima teníamos que entrar en calor, después yo ya tenía que dejar el teléfono y...
+
+1105
+01:19:31,884 --> 01:19:36,994
+y bueno dije bueno ven cualquier cosa me escribís o yo le había pasado un contacto de
+
+1106
+01:19:38,018 --> 01:19:40,249
+Manel Estiarte, que es el que está con nosotros.
+
+1107
+01:19:41,997 --> 01:19:45,025
+cualquier cosa escribíle a él y después...
+
+1108
+01:19:48,878 --> 01:19:50,044
+pero sí fue muy
+
+1109
+01:19:51,914 --> 01:19:55,263
+O sea, es como que no lo creía.
+
+1110
+01:20:00,205 --> 01:20:02,072
+iban pasando y decían, es mentira.
+
+1111
+01:20:03,316 --> 01:20:05,163
+Pero bueno, la verdad que fue...
+
+1112
+01:20:06,587 --> 01:20:12,079
+un shock para todos y obviamente para mí que justamente estábamos llegando a la cancha
+
+1113
+01:20:13,563 --> 01:20:16,669
+No me acuerdo qué partido era, pero bajando el...
+
+1114
+01:20:17,291 --> 01:20:21,187
+5 minutos antes de bajar del micro ahí me entero
+
+1115
+01:20:23,335 --> 01:20:25,641
+y nada bueno la verdad que después en ese momento
+
+1116
+01:20:27,747 --> 01:20:31,838
+le ayudé mucho a la mamá de Benja,
+
+1117
+01:20:32,941 --> 01:20:34,387
+convenja porque bueno
+
+1118
+01:20:37,018 --> 01:20:40,291
+tratar de allá, tratar de ayudarle que venga este...
+
+1119
+01:20:40,793 --> 01:20:44,344
+para ir con mi familia, para que esté más tranquilo, etcétera, pero bueno, nada.
+
+1120
+01:20:45,788 --> 01:20:50,170
+A veces de allá mucho no se puede hacer, pero bueno, lo intenté hacer lo mejor.
+
+1121
+01:20:51,335 --> 01:20:52,360
+y sobre todo Benja que...
+
+1122
+01:20:54,388 --> 01:20:57,720
+que él estaba pasando bastante mal.
+
+1123
+01:20:58,042 --> 01:20:59,326
+Yo me daba cuenta porque él...
+
+1124
+01:21:00,430 --> 01:21:06,001
+también pareció a mí que no le gusta mostrar sus emociones.
+
+1125
+01:21:07,043 --> 01:21:11,332
+sensibilidad, pero me daba cuenta y hasta que un momento después...
+
+1126
+01:21:12,517 --> 01:21:14,667
+Después creo que pasaron cuatro o cinco días.
+
+1127
+01:21:15,450 --> 01:21:20,963
+que lo de Diego y ahí, en un momento de hablando, se puso a llorar, viste, después.
+
+1128
+01:21:22,607 --> 01:21:24,532
+Pero bueno, fue muy duro.
+
+1129
+01:21:29,246 --> 01:21:31,655
+Tuviste que tomar muchas decisiones en tu carrera.
+
+1130
+01:21:31,956 --> 01:21:33,422
+Arrancaste en Independiente.
+
+1131
+01:21:35,228 --> 01:21:39,837
+con una infancia que por supuesto tuvo sus condicionamientos para vos y forjó tu personalidad
+
+1132
+01:21:40,618 --> 01:21:46,659
+después a la hora de elegir el primer destino europeo, Atlético de Madrid, después la carrera se cuenta sola, Manchester City...
+
+1133
+01:21:47,501 --> 01:21:52,567
+en el medio de la selección, ¿cuál crees que fue tu mayor apuesta deportiva?
+
+1134
+01:21:53,047 --> 01:21:58,113
+una elección que vos dijiste acá me parece que no sé si pongo en juego mi futuro pero
+
+1135
+01:21:58,894 --> 01:22:03,742
+pero sí, mirando para atrás termina siendo muy importante para entender cómo fue tu carrera, Sergio.
+
+1136
+01:22:07,696 --> 01:22:12,745
+Fue muy rápido mi carrera.
+
+1137
+01:22:13,207 --> 01:22:16,803
+pero creo que la apuesta más importante
+
+1138
+01:22:18,789 --> 01:22:23,537
+que tomé fue en irme al City.
+
+1139
+01:22:24,700 --> 01:22:25,410
+Sí, porque...
+
+1140
+01:22:27,594 --> 01:22:33,185
+Yo estaba en Atlético de Madrid, que aún así estaba muy bien, estaba muy cómodo.
+
+1141
+01:22:35,273 --> 01:22:38,770
+Me trataban muy bien, no tenía problemas para nada.
+
+1142
+01:22:39,713 --> 01:22:45,807
+pero sentía que tenía que buscar otra cosa.
+
+1143
+01:22:46,889 --> 01:22:48,652
+para para progresar
+
+1144
+01:22:50,635 --> 01:22:55,158
+Yo mismo, yo pensaba en ese momento, cuando deje de jugar...
+
+1145
+01:22:55,819 --> 01:23:00,009
+cómo quería que me reconozcan mis hijos y la gente.
+
+1146
+01:23:00,511 --> 01:23:03,687
+Yo era ganar títulos.
+
+1147
+01:23:04,631 --> 01:23:11,126
+ganar títulos y que al club le vaya bien, entonces lo primero que pensé era
+
+1148
+01:23:12,591 --> 01:23:13,353
+en el atlético.
+
+1149
+01:23:16,385 --> 01:23:17,850
+Real Madrid y Barça ganaban todos.
+
+1150
+01:23:18,252 --> 01:23:19,777
+O sea, y...
+
+1151
+01:23:20,700 --> 01:23:26,955
+Yo tuve la oportunidad, me había llegado una oferta hacía un año antes del Atlético del Chelsea.
+
+1152
+01:23:28,780 --> 01:23:33,913
+un año y medio antes y el club dijo que no, yo también estaba tranquilo
+
+1153
+01:23:34,434 --> 01:23:39,290
+La idea no era moverme porque veía que también el club estaba haciendo un esfuerzo.
+
+1154
+01:23:39,932 --> 01:23:42,346
+para estar en Champions y...
+
+1155
+01:23:44,096 --> 01:23:48,850
+para ganar la Champions, pero por lo menos para clasificarte en Champions y llegar hasta donde...
+
+1156
+01:23:50,635 --> 01:23:51,097
+Lleguemos.
+
+1157
+01:23:52,360 --> 01:23:57,272
+Y ya después cuando pasó ese año y medio ahí fue mi cabeza, es decir,
+
+1158
+01:23:57,973 --> 01:24:00,298
+Yo cumplía 23 y dije tengo que...
+
+1159
+01:24:04,628 --> 01:24:07,756
+que buscar otra alternativa de ganar títulos.
+
+1160
+01:24:09,639 --> 01:24:15,045
+Y en ese momento estaba casi casi todo arreglado con la juventud.
+
+1161
+01:24:17,382 --> 01:24:20,191
+y de repente aparece el City.
+
+1162
+01:24:21,074 --> 01:24:25,907
+que lo que me gustó del sitio es que primero yo quería jugar en la Premier
+
+1163
+01:24:27,250 --> 01:24:32,782
+siempre me gustó y bueno, todo el mundo sabe que a mí me gustaba
+
+1164
+01:24:33,504 --> 01:24:38,158
+Liverpool, pero no porque soy hincha de Liverpool, pero me gusta Liverpool porque juega Owen, Michael Owen
+
+1165
+01:24:38,439 --> 01:24:40,564
+Es que un día lo vi y... ¿Lo dijiste?
+
+1166
+01:24:40,644 --> 01:24:41,346
+No, pues él sabía.
+
+1167
+01:24:41,747 --> 01:24:45,235
+Sabía que yo lo había dicho y me abrazó todo y nos quedamos de risa.
+
+1168
+01:24:45,857 --> 01:24:47,603
+Le dije, no estoy contento cuando hiciste el gol.
+
+1169
+01:24:47,624 --> 01:24:49,511
+Estaba el gol que le hice en el Mundial, el 98.
+
+1170
+01:24:50,736 --> 01:24:54,329
+Yo me acuerdo porque era chiquito ahí y... Al golazo que hizo.
+
+1171
+01:24:54,710 --> 01:24:59,443
+Pero ya de ahí yo ya... Creo que ahí ese Mundial cuando él hace gol, como que...
+
+1172
+01:25:00,406 --> 01:25:04,683
+vi de él dónde jugaba y ahí fue que... porque
+
+1173
+01:25:05,385 --> 01:25:10,549
+Yo me refería a que él era chiquitito, el libro voltó rojo, yo estaba independiente.
+
+1174
+01:25:11,610 --> 01:25:17,164
+Me empezó a gustar él y me identificaba más como él jugaba, que era chiquitito, rapidito, así.
+
+1175
+01:25:18,388 --> 01:25:23,063
+y bueno nada entonces cuando
+
+1176
+01:25:24,588 --> 01:25:27,814
+Cuando llega el City, que yo estaba acá en la Copa América del 2011,
+
+1177
+01:25:29,378 --> 01:25:30,141
+en Argentina
+
+1178
+01:25:32,710 --> 01:25:37,455
+Le dije a mi repre que si lo puedo arreglar mucho mejor.
+
+1179
+01:25:38,056 --> 01:25:43,897
+porque prefiero ir ahí y aparte estaba Tevez, estaba Zabaleta
+
+1180
+01:25:45,245 --> 01:25:47,096
+y... y que...
+
+1181
+01:25:48,483 --> 01:25:51,694
+No, ahí, digamos, depende si Mancini quiere que vaya.
+
+1182
+01:25:52,035 --> 01:25:54,042
+Mejor no, no, Mancini quiere que venga, listo, ya da.
+
+1183
+01:25:54,664 --> 01:25:57,376
+y ahí fue y arreglamos todo y me fui.
+
+1184
+01:25:58,019 --> 01:26:03,919
+pero el sitio ahí había ganado solo la F-Cup en 2011 justo antes de que vos vayas.
+
+1185
+01:26:04,119 --> 01:26:04,580
+Sí, 2000... Sí, 2010, creo, ¿no?
+
+1186
+01:26:08,545 --> 01:26:12,174
+Era un club que iba a progresar de a poco
+
+1187
+01:26:15,060 --> 01:26:15,561
+ganaban todo y...
+
+1188
+01:26:19,807 --> 01:26:23,298
+Y bueno, nada, fui con el... cuando...
+
+1189
+01:26:24,241 --> 01:26:27,370
+Vi el equipo que está en Champions y me dijeron...
+
+1190
+01:26:27,892 --> 01:26:32,764
+que yo hable con la gente del club, que hay mucha gente que habla español.
+
+1191
+01:26:33,967 --> 01:26:38,664
+que manejan el club y me decían, claro, esa era su idea cuando yo llegué.
+
+1192
+01:26:40,392 --> 01:26:41,773
+a tres o cuatro años ganar la premia.
+
+1193
+01:26:43,641 --> 01:26:46,472
+Entonces ganar una Premier era una locura.
+
+1194
+01:26:48,921 --> 01:26:50,205
+y ganamos el primer año.
+
+1195
+01:26:54,859 --> 01:26:57,852
+Empezó a traer más refuerzo y fue creciendo a poco.
+
+1196
+01:26:58,394 --> 01:27:04,384
+y fuimos ganando la Premier, después el siguiente año ganamos la Copa.
+
+1197
+01:27:04,945 --> 01:27:08,476
+el siguiente año después volvimos a ganar la Premier, después otra vez.
+
+1198
+01:27:08,858 --> 01:27:12,929
+la Copa, la Supercopa y así la Premier y después vino...
+
+1199
+01:27:13,450 --> 01:27:16,718
+Peppino Pellerini, la Premier, después Premier, Premier, Premier...
+
+1200
+01:27:18,121 --> 01:27:23,091
+y la verdad que fue una apuesta que me podía haber salido mal.
+
+1201
+01:27:23,993 --> 01:27:26,917
+Pero yo sentía que... que...
+
+1202
+01:27:28,019 --> 01:27:32,936
+Yo me imaginaba que ganando por ahí una premia o dos, ya para mí era...
+
+1203
+01:27:34,200 --> 01:27:36,207
+Era histórico, ¿no?
+
+1204
+01:27:36,629 --> 01:27:38,978
+Pero bueno, terminé ganando bastantes títulos.
+
+1205
+01:27:40,242 --> 01:27:44,670
+que bueno por eso digo estoy muy muy contento pero fue una apuesta muy
+
+1206
+01:27:46,873 --> 01:27:52,061
+muy difícil porque también estaba la juventud atrás y era...
+
+1207
+01:27:53,585 --> 01:27:54,930
+nada, también
+
+1208
+01:27:57,037 --> 01:28:02,650
+Uno pensaba, ¿sabes que la Juve también pelea todos los años títulos?
+
+1209
+01:28:04,273 --> 01:28:07,399
+Era una apuesta bastante jodida, pero me tiró más porque
+
+1210
+01:28:11,004 --> 01:28:15,167
+porque era la Premier y sentía que jugando en la Premier
+
+1211
+01:28:16,690 --> 01:28:20,740
+me iba a dar un salto más a mí de nivel que
+
+1212
+01:28:21,503 --> 01:28:23,099
+que por ahí otras ligas no lo tiene.
+
+1213
+01:28:24,176 --> 01:28:29,068
+Streaming es una especie de terapia para vos también, además de un contenido que mucha gente de ahí valora.
+
+1214
+01:28:32,338 --> 01:28:35,592
+Para mí sí, porque es más, a veces haces...
+
+1215
+01:28:36,776 --> 01:28:41,300
+yo hago muy pocas horas, pero hago por ahí dos horas, dos horas y media.
+
+1216
+01:28:43,703 --> 01:28:45,812
+y termino yo a casa como cansado.
+
+1217
+01:28:47,198 --> 01:28:51,669
+Ahora, ahora, viste que después de esta charla, no querés dormir, viste, una siesta.
+
+1218
+01:28:51,929 --> 01:28:55,389
+Me pasa que a veces, si no me sigo en casa dos horas, estoy muerto.
+
+1219
+01:28:55,549 --> 01:28:56,473
+No, no, no.
+
+1220
+01:28:56,574 --> 01:28:58,421
+Bueno, yo... y mucha gente dice, ¿en serio?
+
+1221
+01:28:58,442 --> 01:28:59,687
+Sí, porque...
+
+1222
+01:29:01,413 --> 01:29:03,981
+charlás todo lo que no charlaste por ahí en una semana.
+
+1223
+01:29:04,061 --> 01:29:06,909
+O sea, estás pa pa pa hablando con la gente.
+
+1224
+01:29:08,434 --> 01:29:11,125
+Y sí, yo creo que es una especie
+
+1225
+01:29:12,389 --> 01:29:16,336
+de terapia que ayuda porque
+
+1226
+01:29:18,709 --> 01:29:24,299
+A veces cuando estás, nada, puesta de, yo me pasó, estaba en mal humor o...
+
+1227
+01:29:25,281 --> 01:29:28,145
+No tenía nada, prendí el stream y me cambiaba totalmente.
+
+1228
+01:29:28,746 --> 01:29:29,689
+O sea, increíble.
+
+1229
+01:29:30,231 --> 01:29:32,337
+Hacía stream, boludeaba un rato, bromeaba.
+
+1230
+01:29:34,283 --> 01:29:38,757
+Y mi novia a veces me decía, tú estuviste con cara de culo.
+
+1231
+01:29:40,022 --> 01:29:42,753
+Todo el día y haces stream y te estás cagando de risa.
+
+1232
+01:29:43,657 --> 01:29:44,018
+Y yo le digo...
+
+1233
+01:29:44,741 --> 01:29:47,651
+No sé qué me pasó, pero bueno, qué sé yo, ¿viste?
+
+1234
+01:29:47,711 --> 01:29:48,072
+Es como...
+
+1235
+01:29:49,155 --> 01:29:54,929
+Pero me lo decía bien como un poco de nada, pero no de que nosotros estamos ayer, yo estaba con un mambo mío.
+
+1236
+01:29:56,011 --> 01:29:57,515
+porque yo arranqué en el sitio.
+
+1237
+01:29:59,819 --> 01:30:03,668
+A veces venía, no sé, enojado el entreno, que estaba cansado y tal.
+
+1238
+01:30:04,631 --> 01:30:07,666
+y veía ahí el monitor y la computadora y dije, chata, me voy a jugar.
+
+1239
+01:30:08,389 --> 01:30:12,162
+o jugaba los videojuegos y me distraía, pero claro, era...
+
+1240
+01:30:14,630 --> 01:30:17,702
+Para mí hacer el stream era como...
+
+1241
+01:30:19,705 --> 01:30:22,988
+un alivio en sentirme que la gente
+
+1242
+01:30:23,830 --> 01:30:26,160
+interactuar ahí, que la gente te va preguntando cosas.
+
+1243
+01:30:27,004 --> 01:30:31,915
+Y yo para mí sí es, no es terapia 100%, pero te va sacando un poco...
+
+1244
+01:30:32,818 --> 01:30:35,837
+de ese mal humor que por ahí venía del día.
+
+1245
+01:30:36,420 --> 01:30:40,171
+¿Y no te pasa al revés que quizás dentro del stream te pones de mal humor?
+
+1246
+01:30:40,593 --> 01:30:42,498
+No, me pongo de mal humor cuando juego.
+
+1247
+01:30:43,460 --> 01:30:43,761
+Si perdés.
+
+1248
+01:30:44,063 --> 01:30:46,114
+Si estoy jugando los jueguitos, sí.
+
+1249
+01:30:47,099 --> 01:30:53,685
+Por eso dejé algunos juegos, ahora solo a veces charlo y veo algunos videos, pero... No, ahora no, pero... Te ponía mal humor perder en los juegos.
+
+1250
+01:30:53,985 --> 01:30:54,426
+Sí, sí.
+
+1251
+01:30:54,587 --> 01:30:55,830
+Dejé el FIFA, por ejemplo.
+
+1252
+01:30:55,850 --> 01:30:59,860
+Yo jugaba al FIFA y dejé porque rompí mucho yostis.
+
+1253
+01:31:01,083 --> 01:31:01,444
+Sí, sí.
+
+1254
+01:31:02,126 --> 01:31:06,279
+Un día tiré un yosti afuera por la ventana en Manchester y quedó ahí.
+
+1255
+01:31:07,222 --> 01:31:08,447
+Quedó como 10 días en el rol.
+
+1256
+01:31:08,468 --> 01:31:10,215
+Tenías la ventana abierta y le tiraste.
+
+1257
+01:31:11,801 --> 01:31:13,382
+Ah no, abrí, abrí la ventana y lo tiré.
+
+1258
+01:31:14,143 --> 01:31:16,485
+Pero nada que ver, después pienso, ¿qué tiene que ver el yostio?
+
+1259
+01:31:16,505 --> 01:31:17,046
+Aparte ese yostio...
+
+1260
+01:31:17,486 --> 01:31:19,471
+y rompió 80 raquetas jugando al tenis, no debería reír.
+
+1261
+01:31:21,175 --> 01:31:26,488
+Pero te juro que la gente lo va a entender que está en los videojuegos, pero...
+
+1262
+01:31:27,170 --> 01:31:29,978
+El FIFA es una porquería, ¿sabes?
+
+1263
+01:31:30,540 --> 01:31:33,509
+O sea, es muy lindo, pero es una porquería, te calienta mal.
+
+1264
+01:31:33,649 --> 01:31:34,673
+Pero aparte porque...
+
+1265
+01:31:36,363 --> 01:31:40,206
+Vos jugás solo y claro, todo depende de vos.
+
+1266
+01:31:40,486 --> 01:31:40,786
+Claro.
+
+1267
+01:31:40,986 --> 01:31:42,688
+Vamos a decir el tenis, el golf, ¿viste?
+
+1268
+01:31:44,273 --> 01:31:46,524
+Depende de vos que juegues bien.
+
+1269
+01:31:47,890 --> 01:31:51,418
+Claro, pero vos estás jugando contra otro online y también juegas bien.
+
+1270
+01:31:51,679 --> 01:31:53,182
+El rival también juega.
+
+1271
+01:31:53,763 --> 01:31:59,784
+Y bueno, claro, y te gana y vos pensás, pero este muerto me ganó, viste, en la cabeza.
+
+1272
+01:32:00,787 --> 01:32:01,629
+¿Qué malo que sos?
+
+1273
+01:32:01,649 --> 01:32:02,110
+Pero me ganó.
+
+1274
+01:32:02,671 --> 01:32:05,238
+Y eso creo que más te calienta.
+
+1275
+01:32:05,378 --> 01:32:07,202
+Por ejemplo, hay otros juegos...
+
+1276
+01:32:07,984 --> 01:32:11,010
+que son en equipo y bueno, ya en equipo...
+
+1277
+01:32:11,972 --> 01:32:14,238
+Puedes decir, si el otro era más malo, ¿entendés?
+
+1278
+01:32:15,902 --> 01:32:17,867
+Es culpa del otro, que no me ayudó.
+
+1279
+01:32:18,569 --> 01:32:21,937
+En este caso con Juan solo, al no le echarle no puede echar la culpa a nadie.
+
+1280
+01:32:22,800 --> 01:32:25,955
+pero sí dejé y nada pero me
+
+1281
+01:32:26,075 --> 01:32:29,628
+Ahora me divierto bastante, me cago de risa con la gente.
+
+1282
+01:32:30,530 --> 01:32:34,760
+Pero bueno, ya tenemos ahí una comunicación con la gente.
+
+1283
+01:32:35,622 --> 01:32:40,422
+que cada vez que prendo ya enseguida empiezan a tirar fruta.
+
+1284
+01:32:41,044 --> 01:32:44,629
+metiste gran hermano, política, siempre te gusta
+
+1285
+01:32:46,973 --> 01:32:48,719
+Opino, pero ¿por qué?
+
+1286
+01:32:50,385 --> 01:32:54,210
+que está mal opinar, si hay mil boludos que opinan cualquier cosa y nadie le dice nada.
+
+1287
+01:32:56,113 --> 01:32:59,357
+Sí, es verdad, hay uno que opina como cualquier cosa y yo...
+
+1288
+01:33:00,599 --> 01:33:03,910
+Yo opino, digamos, de lo que veo.
+
+1289
+01:33:04,030 --> 01:33:07,000
+Obviamente ahora, el otro día, opiné de Gran Hermano, pero porque...
+
+1290
+01:33:07,742 --> 01:33:11,755
+Fue por... me metí, digamos, al pedo en vez de preguntarle a...
+
+1291
+01:33:12,840 --> 01:33:15,133
+A mi amigo, digamos.
+
+1292
+01:33:15,876 --> 01:33:21,514
+Porque claro, mi mejor amigo es el hermano, pero yo lo conozco de chico, pero yo me llevo muy bien con su hermano.
+
+1293
+01:33:21,936 --> 01:33:27,732
+que es mi mejor amigo y con él compartimos un montón de cosas, viajes, pero...
+
+1294
+01:33:29,436 --> 01:33:34,148
+Yo me imaginé cómo estaría él, pero en vez de preguntarle si puedo decir esto, me la mandé.
+
+1295
+01:33:35,854 --> 01:33:37,802
+y bueno y después él me dijo no porque
+
+1296
+01:33:39,368 --> 01:33:42,865
+Al pedo, porque dijiste eso, pero bueno... ¿Te acabó al pedo?
+
+1297
+01:33:43,387 --> 01:33:44,710
+No, pero me dijo como que no...
+
+1298
+01:33:48,499 --> 01:33:50,322
+que por ahí le tenía que haber preguntado.
+
+1299
+01:33:51,244 --> 01:33:52,767
+Y le dije, sí, la verdad me la mandé.
+
+1300
+01:33:52,807 --> 01:33:53,829
+Le digo, perdón, Brian.
+
+1301
+01:33:53,849 --> 01:33:54,871
+Le digo, bueno, ahora...
+
+1302
+01:33:55,432 --> 01:33:58,204
+Ahora tengo que hacer stream y le pido disculpas.
+
+1303
+01:33:58,987 --> 01:34:04,167
+Después, haz lo que vos quieras, ya es un problema tuyo, decisión tuya, pero...
+
+1304
+01:34:04,748 --> 01:34:07,452
+Pero nada, ahí me pasó por meterme en donde no tenía que meterme.
+
+1305
+01:34:08,093 --> 01:34:10,756
+Pero si era otro, por ejemplo, voy a haber dicho, ¿qué he dicho?
+
+1306
+01:34:11,739 --> 01:34:13,628
+afuera de Alan o afuera de... no sé...
+
+1307
+01:34:14,813 --> 01:34:17,056
+porque no sé quién más estaba ahí.
+
+1308
+01:34:17,317 --> 01:34:19,880
+Pues yo no veo, pero me entero porque mis amigos...
+
+1309
+01:34:20,521 --> 01:34:24,993
+Hablamos y bueno, iban pasando cosas y yo, che, viste esto y...
+
+1310
+01:34:25,655 --> 01:34:29,231
+y bueno nada, me pareció como que decir eso
+
+1311
+01:34:30,114 --> 01:34:34,710
+Era como amigo, me imaginé que a él le estaba mal, pero bueno, no sé cómo estaría él.
+
+1312
+01:34:35,353 --> 01:34:37,844
+Yo tenía que haberle preguntado, che, ¿qué onda?
+
+1313
+01:34:37,864 --> 01:34:38,647
+¿Cómo está?
+
+1314
+01:34:39,069 --> 01:34:39,552
+Yo me la mandé.
+
+1315
+01:34:40,214 --> 01:34:41,557
+Como también cuando digo política.
+
+1316
+01:34:41,577 --> 01:34:42,178
+Pero siempre te interesó?
+
+1317
+01:34:44,823 --> 01:34:49,513
+no a mí no no no no no no me interesa tampoco
+
+1318
+01:34:50,115 --> 01:34:53,166
+Lo que me molesta por ahí son cosas que...
+
+1319
+01:34:54,490 --> 01:34:57,740
+que no me cuadran, digamos.
+
+1320
+01:34:58,262 --> 01:35:02,389
+que por ejemplo que siempre remarco por el tema de...
+
+1321
+01:35:03,391 --> 01:35:06,602
+del impuesto al patrimonio
+
+1322
+01:35:07,164 --> 01:35:10,602
+Yo creo que no solo Argentina, hay en muchos países que me parece...
+
+1323
+01:35:12,065 --> 01:35:14,656
+muchos pueden decir, sí, bueno, pero es para ayudar a lo que...
+
+1324
+01:35:17,321 --> 01:35:22,074
+Si vos me decís que es para algo, que vos decís que ayuda, bien, pero el país no.
+
+1325
+01:35:23,278 --> 01:35:27,293
+o los países que cobran eso, no están digamos como tienen que estar.
+
+1326
+01:35:27,916 --> 01:35:30,991
+y yo lo que me molesta es que vos lo que vos ganaste
+
+1327
+01:35:32,512 --> 01:35:35,389
+Ya pagaste impuesto, entonces ¿por qué te tienes que seguir sacando?
+
+1328
+01:35:36,735 --> 01:35:38,401
+vos si no tenés laburo, te lo siguen sacando.
+
+1329
+01:35:39,224 --> 01:35:39,807
+Eso me parece que...
+
+1330
+01:35:40,670 --> 01:35:44,423
+para mí me parece está mal y en muchos países lo tienen y está mal.
+
+1331
+01:35:45,406 --> 01:35:47,633
+Estados Unidos no lo tiene, por ejemplo.
+
+1332
+01:35:50,140 --> 01:35:51,441
+¿Cobra mucho impuesto la ganancia?
+
+1333
+01:35:51,481 --> 01:35:51,661
+Sí.
+
+1334
+01:35:51,861 --> 01:35:56,005
+Bueno, cobra más la ganancia porque si vos tenés laburo es porque te está yendo bien.
+
+1335
+01:35:56,566 --> 01:36:02,037
+Y con ese impuesto yo creo que sí, te diría, bueno, es para que mejore el país, etcétera.
+
+1336
+01:36:02,979 --> 01:36:07,184
+Si ves cosas que no funcionan, entonces te molesta porque yo viví en la villa.
+
+1337
+01:36:08,466 --> 01:36:10,132
+y a nosotros en la villa nadie te ayuda.
+
+1338
+01:36:11,197 --> 01:36:11,578
+Nos usan.
+
+1339
+01:36:12,421 --> 01:36:13,885
+En el libro lo contás mucho.
+
+1340
+01:36:15,589 --> 01:36:17,353
+Lo que pasa es que la gente piensa...
+
+1341
+01:36:19,110 --> 01:36:21,884
+Hay mucha gente que cuando opina no estuvo en una villa.
+
+1342
+01:36:22,849 --> 01:36:24,956
+y estar en una villa bien principal...
+
+1343
+01:36:26,762 --> 01:36:29,939
+Estar en una villa, nosotros, por ejemplo, cuando yo estaba ahí, mi familia...
+
+1344
+01:36:30,976 --> 01:36:33,549
+Estábamos bien, estábamos contentos.
+
+1345
+01:36:34,895 --> 01:36:41,010
+Adentro de la villa teníamos nuestro supermercado, nuestra carnicería, la verdulería.
+
+1346
+01:36:42,534 --> 01:36:44,719
+que todo era un precio de villa.
+
+1347
+01:36:46,023 --> 01:36:49,792
+Obviamente, si vas de Daville y vas a Palermo, vale siete veces más.
+
+1348
+01:36:52,398 --> 01:36:58,677
+Vos vivís, o sea, estás ahí viviendo bien, tranquilo, porque
+
+1349
+01:36:59,319 --> 01:37:00,828
+es tu manera donde vos estás rodeado.
+
+1350
+01:37:02,383 --> 01:37:05,715
+Pero nadie piensa cómo estamos nosotros ahí.
+
+1351
+01:37:07,499 --> 01:37:09,721
+el que viene avisa la realidad que tiene suerte
+
+1352
+01:37:13,215 --> 01:37:16,271
+o ser futbolista o tener un conocido que
+
+1353
+01:37:17,196 --> 01:37:22,042
+que te dé una mano para que labures en tal lugar, pero aún así no puedes laburar porque...
+
+1354
+01:37:22,543 --> 01:37:27,928
+porque en la empresa si te dicen dónde vivís y decís si vivís en la villa no te lo toman, entonces tenés que...
+
+1355
+01:37:28,810 --> 01:37:31,498
+pasarle una dirección de un amigo tuyo que no vive en la villa.
+
+1356
+01:37:32,722 --> 01:37:35,490
+Es todo un tema que no es de ahora.
+
+1357
+01:37:39,382 --> 01:37:45,564
+desde que tenía cinco o seis años, que vivía hasta los 14 años y siempre es igual.
+
+1358
+01:37:46,968 --> 01:37:52,179
+Y yo he hablado con gente que también tengo contacto en los barrios y sigue igual.
+
+1359
+01:37:53,323 --> 01:37:55,875
+Entonces, si vamos a decir que bueno...
+
+1360
+01:37:56,397 --> 01:38:00,888
+te sacan algo para ayudar, te la compro, pero...
+
+1361
+01:38:03,175 --> 01:38:04,760
+Veo que la cosa no es así.
+
+1362
+01:38:07,307 --> 01:38:09,854
+te da bronca por muchas cosas.
+
+1363
+01:38:11,257 --> 01:38:15,384
+y no me interesa digamos, yo opino de algo que
+
+1364
+01:38:15,966 --> 01:38:18,939
+Yo gané y digo, ¿por qué me lo querés sacar?
+
+1365
+01:38:19,742 --> 01:38:25,771
+O sea, porque gané un montón de guita afuera tengo que venir acá y toda esta guita te la tengo que dar a vos porque...
+
+1366
+01:38:26,733 --> 01:38:31,941
+o se te antoja, si vos me decís, bueno, para eso voy yo, voy yo a los barrios y...
+
+1367
+01:38:32,502 --> 01:38:33,304
+y voy ayudando.
+
+1368
+01:38:33,344 --> 01:38:35,690
+He ayudado a un montón de fundaciones.
+
+1369
+01:38:36,713 --> 01:38:41,389
+que no me hace falta ni decirlo porque no me gusta decir qué hago.
+
+1370
+01:38:42,031 --> 01:38:45,190
+Lo hago porque lo siento y no tengo por qué decirle a quién ayudo.
+
+1371
+01:38:45,834 --> 01:38:49,186
+pero tampoco que me tomen de boludo.
+
+1372
+01:38:51,344 --> 01:38:56,496
+Vamos terminando, quiero preguntarte dos cosas antes de cerrar.
+
+1373
+01:38:58,338 --> 01:39:00,650
+entre el Mundial
+
+1374
+01:39:02,357 --> 01:39:03,961
+2014 y la Copa América 2021 estuvo Rusia 2018.
+
+1375
+01:39:06,346 --> 01:39:10,150
+Le tocó hacer el primer y último gol de la selección contra Islandia y contra Francia, el 4-3.
+
+1376
+01:39:12,052 --> 01:39:17,138
+fue un quilombo, fue una exageración, fue un malentendido.
+
+1377
+01:39:17,639 --> 01:39:19,026
+¿Cómo definís vos Rusia 2018?
+
+1378
+01:39:24,136 --> 01:39:28,269
+Si querés la seo más corta, sí, fue un kilómetro.
+
+1379
+01:39:29,373 --> 01:39:29,854
+¿Fue un quilombo?
+
+1380
+01:39:29,874 --> 01:39:30,797
+Se termina ahí, listo.
+
+1381
+01:39:33,105 --> 01:39:36,834
+Si no, ya todos saben que pasó en un día de 2018 y era todo un quilombo.
+
+1382
+01:39:40,684 --> 01:39:44,157
+pero no no es
+
+1383
+01:39:46,900 --> 01:39:52,454
+Es difícil porque uno quiere en Argentina ganar.
+
+1384
+01:39:54,098 --> 01:39:57,649
+pero la realidad es que está muy complicado todo en Rusia
+
+1385
+01:39:58,371 --> 01:40:01,435
+y la realidad que fue todo
+
+1386
+01:40:02,577 --> 01:40:06,087
+todo un quilombo en todo sentido.
+
+1387
+01:40:09,335 --> 01:40:14,287
+A pesar de que hice el gol, estoy muy contento, muy feliz, porque hacer goles mundiales no es fácil.
+
+1388
+01:40:15,229 --> 01:40:19,674
+pero sí que fue todo un buen quilombito.
+
+1389
+01:40:20,696 --> 01:40:23,827
+¿Armó el quilombo ahí o ya habían llegado en quilombados?
+
+1390
+01:40:24,508 --> 01:40:27,641
+Mirá, yo no... No, para mí...
+
+1391
+01:40:31,823 --> 01:40:33,746
+Por lo que yo recuerdo, creo que ya fue ahí.
+
+1392
+01:40:36,030 --> 01:40:39,787
+Sí, fue antes, pero por decirte, una semana y media antes.
+
+1393
+01:40:40,951 --> 01:40:44,758
+porque ya todo venía con un problema, ya se veía que...
+
+1394
+01:40:46,802 --> 01:40:50,201
+que iba a ser todo un tema de ese Mundial.
+
+1395
+01:40:50,944 --> 01:40:52,672
+porque me acuerdo que salió algo también
+
+1396
+01:40:54,661 --> 01:40:56,606
+en contra, ya una semana antes,
+
+1397
+01:40:58,472 --> 01:41:01,765
+En la AFA hay una de las...
+
+1398
+01:41:03,629 --> 01:41:08,275
+que trabajaba en la AFA, haciéndole un problema a San Paolo, y ya empezamos ahí con...
+
+1399
+01:41:08,816 --> 01:41:11,372
+Ya ahí empezó todo un tema.
+
+1400
+01:41:12,579 --> 01:41:16,152
+Y bueno, dicho eso fue todo un tema.
+
+1401
+01:41:16,553 --> 01:41:18,400
+Yo después, bueno, no jugué, pero jugué.
+
+1402
+01:41:19,022 --> 01:41:20,106
+Jugaste, saliste.
+
+1403
+01:41:20,186 --> 01:41:23,157
+Jugué, salí, volví a entrar, pero bueno, nada.
+
+1404
+01:41:24,702 --> 01:41:31,220
+Ya sabe lo que pienso el entrenador.
+
+1405
+01:41:31,380 --> 01:41:32,724
+Hablaste con él?
+
+1406
+01:41:32,784 --> 01:41:37,096
+No, no hablé, pero sabe bien que... No, en el Mundial sí, pero no...
+
+1407
+01:41:38,439 --> 01:41:41,787
+No tengo más nada que decir, me pareció... Entiendo perfecto.
+
+1408
+01:41:41,807 --> 01:41:44,533
+Ahora, más allá del quilombo con el entrenador...
+
+1409
+01:41:45,214 --> 01:41:46,458
+El grupo dice, tenemos un quilombo.
+
+1410
+01:41:47,241 --> 01:41:48,464
+¿Cómo lo arreglamos?
+
+1411
+01:41:48,484 --> 01:41:49,708
+No lo puedes arreglar ahí.
+
+1412
+01:41:50,530 --> 01:41:51,172
+No hay ninguna chance.
+
+1413
+01:41:51,573 --> 01:41:55,081
+¿Qué vas a hacer?
+
+1414
+01:41:55,121 --> 01:41:56,003
+¿Qué hacemos?
+
+1415
+01:41:56,023 --> 01:41:56,744
+¿Cambiar jugadores?
+
+1416
+01:41:57,587 --> 01:41:58,892
+No puedes.
+
+1417
+01:41:59,132 --> 01:42:01,380
+Tan los jugadores cambian entrenador, no puedes.
+
+1418
+01:42:03,169 --> 01:42:04,601
+Nada, es...
+
+1419
+01:42:06,969 --> 01:42:09,280
+esperar que dé la alineación y jugar.
+
+1420
+01:42:10,727 --> 01:42:15,366
+a lo que uno sabe y bueno, sin comunicación.
+
+1421
+01:42:16,190 --> 01:42:21,209
+sin ideas, sin nada y bueno es a lo que nosotros sabemos y
+
+1422
+01:42:22,353 --> 01:42:23,715
+y ordenándonos dentro de la cancha.
+
+1423
+01:42:24,035 --> 01:42:26,778
+Ese era el Mundial de nosotros.
+
+1424
+01:42:27,840 --> 01:42:29,791
+Estamos dos a uno arriba contra Francia.
+
+1425
+01:42:30,569 --> 01:42:31,191
+en octavos.
+
+1426
+01:42:31,732 --> 01:42:33,838
+Si la última jugada quizás empatás 4 a 4.
+
+1427
+01:42:37,649 --> 01:42:41,683
+capaz que pasando, si pasamos a Francia,
+
+1428
+01:42:43,322 --> 01:42:48,879
+pareía que quedas afuera en el accidente porque pues ya estaba destinado que ese mundial... No había forma de que saliera bien.
+
+1429
+01:42:49,660 --> 01:42:51,324
+Era imposible, era imposible.
+
+1430
+01:42:51,986 --> 01:42:55,694
+Fijate que cuando perdió con Francia, las caras de nosotros
+
+1431
+01:42:56,856 --> 01:43:01,520
+si hay imágenes que por ahí en otros mundiales, en los otros mundiales
+
+1432
+01:43:04,931 --> 01:43:06,394
+Se notaba una tristeza.
+
+1433
+01:43:06,474 --> 01:43:10,665
+Y vos fíjate en las cámaras de todos los jugadores.
+
+1434
+01:43:14,425 --> 01:43:18,091
+Era como cara de que esto iba a pasar.
+
+1435
+01:43:21,087 --> 01:43:25,348
+caliente, pero no, no... Es como que vos pensás que iba a pasar.
+
+1436
+01:43:25,749 --> 01:43:26,791
+Un poco de alivio también.
+
+1437
+01:43:27,472 --> 01:43:30,456
+Se terminó más allá de la bronca que significa quedarte fuera del Mundial.
+
+1438
+01:43:31,877 --> 01:43:35,050
+Sí, se terminó todo y ahí era que la AFA...
+
+1439
+01:43:38,322 --> 01:43:43,439
+empiece a encaminar desde ahí en adelante para el siguiente Mundial.
+
+1440
+01:43:43,900 --> 01:43:44,721
+de la mejor manera.
+
+1441
+01:43:45,542 --> 01:43:46,202
+¿Qué fue lo que pasó?
+
+1442
+01:43:46,222 --> 01:43:46,943
+Por suerte muchos...
+
+1443
+01:43:51,480 --> 01:43:53,664
+Nadie sabía cómo iba a ser Scaloni.
+
+1444
+01:43:54,565 --> 01:43:59,354
+Pero la verdad es que se fue adaptando muy bien, cero experiencia.
+
+1445
+01:44:00,396 --> 01:44:03,842
+Tenía muy claro el objetivo de él.
+
+1446
+01:44:04,103 --> 01:44:04,524
+Muy claro.
+
+1447
+01:44:04,985 --> 01:44:09,183
+Sí, pero el estar ahí no es lo mismo, o ser segundo o ser tercero, porque él era...
+
+1448
+01:44:09,986 --> 01:44:12,249
+Si quieres llamarlo tercero, está BKZS.
+
+1449
+01:44:14,553 --> 01:44:17,925
+Y no es lo mismo porque Leo ya era más...
+
+1450
+01:44:18,547 --> 01:44:22,480
+se metía a jugar con nosotros, jodía con nosotros, si jugaba a las cartas...
+
+1451
+01:44:23,061 --> 01:44:26,625
+era otra cosa y cuando le dan
+
+1452
+01:44:28,887 --> 01:44:33,113
+el poder del ser de té, obviamente que
+
+1453
+01:44:34,949 --> 01:44:37,335
+estábamos viendo a ver cómo él nos iba a llevar, pero...
+
+1454
+01:44:39,383 --> 01:44:43,736
+nada, se puso serio, que nosotros teníamos ahí a escalón y...
+
+1455
+01:44:44,719 --> 01:44:48,028
+que está todo el tiempo jodiendo con nosotros, pero bueno, bien, el entrenador se puso serio.
+
+1456
+01:44:48,730 --> 01:44:53,050
+Se puso ahí el traje de trabajo y dijo esto voy a hacer y se acabó.
+
+1457
+01:44:54,094 --> 01:44:58,387
+y bueno y a respetar lo que él lo que él dijo pero nada
+
+1458
+01:45:00,474 --> 01:45:04,128
+La verdad que no lo digo solo yo, me lo dicen muchos.
+
+1459
+01:45:04,389 --> 01:45:08,415
+muchos jugadores que ese mundial en Rusia la verdad que fue no
+
+1460
+01:45:12,819 --> 01:45:16,214
+Era un milagro si paseábamos en el final o a la final.
+
+1461
+01:45:17,278 --> 01:45:17,819
+No te rías.
+
+1462
+01:45:20,085 --> 01:45:23,453
+Que sea careta o que sea honesto.
+
+1463
+01:45:23,955 --> 01:45:25,079
+Hay que considerar.
+
+1464
+01:45:25,119 --> 01:45:26,143
+Si no, bueno, soy carete.
+
+1465
+01:45:26,163 --> 01:45:28,532
+Si no, estamos muy bien y, bueno, mala suerte.
+
+1466
+01:45:29,375 --> 01:45:32,242
+No, estamos para el culo y ya está.
+
+1467
+01:45:34,007 --> 01:45:34,829
+La última pregunta.
+
+1468
+01:45:36,279 --> 01:45:38,470
+¿Tiene alguna imagen que yo tengo de tu carrera que es...?
+
+1469
+01:45:39,571 --> 01:45:45,782
+estás por entrar en ese Independiente 0-San Lorenzo 1 y te abraza el cabezón Bulleri y te da las últimas indicaciones.
+
+1470
+01:45:47,637 --> 01:45:48,245
+te propongo que
+
+1471
+01:45:49,335 --> 01:45:51,077
+A modo de cierre, imaginemos esto.
+
+1472
+01:45:51,998 --> 01:45:53,921
+No está el cabezán dando te indicaciones.
+
+1473
+01:45:54,362 --> 01:45:55,022
+Estás vos ahora.
+
+1474
+01:45:55,603 --> 01:45:59,957
+a los 35 años hablando con Sergio de apenas 15.
+
+1475
+01:46:00,800 --> 01:46:01,201
+¿Qué le decís?
+
+1476
+01:46:02,310 --> 01:46:07,038
+vos este cún a ese Sergio que está por entrar en ese independiente San Lorenzo.
+
+1477
+01:46:10,727 --> 01:46:13,155
+Y bueno, yo le diría que...
+
+1478
+01:46:14,801 --> 01:46:17,706
+que juegue tranquilo que es divertite
+
+1479
+01:46:21,761 --> 01:46:25,272
+estás acá porque te lo merecés, porque estás en condiciones, pero...
+
+1480
+01:46:26,336 --> 01:46:28,786
+Entra y haz lo que venías haciendo.
+
+1481
+01:46:28,967 --> 01:46:30,333
+Disfruta del partido.
+
+1482
+01:46:31,656 --> 01:46:32,938
+No, no, no.
+
+1483
+01:46:32,998 --> 01:46:34,080
+Yo creo que...
+
+1484
+01:46:35,242 --> 01:46:40,074
+también las palabras de Oscar fueron dos o tres que quizás
+
+1485
+01:46:41,637 --> 01:46:46,064
+o pensar si sí, no puede decirle más cosas porque...
+
+1486
+01:46:49,004 --> 01:46:52,309
+Tenía 15 años, o cualquier chico que va a adultar con 15 años, o 16 también.
+
+1487
+01:46:55,074 --> 01:46:58,244
+No le puedes meter muchas dudas.
+
+1488
+01:47:00,030 --> 01:47:05,333
+No muchas dudas, sino llenarle cosas porque se empieza a dudar y es su deber.
+
+1489
+01:47:05,333 --> 01:47:09,539
+Y en la vida, vos cuando hablás con ese Sergio, ya sabes todo.
+
+1490
+01:47:10,120 --> 01:47:12,009
+Sabes todo lo que él va a vivir en esos 20 años.
+
+1491
+01:47:14,005 --> 01:47:14,688
+¿Qué le dirías?
+
+1492
+01:47:14,849 --> 01:47:16,576
+Como preparándole el terreno.
+
+1493
+01:47:16,616 --> 01:47:17,159
+Che, mira.
+
+1494
+01:47:19,759 --> 01:47:20,907
+Eh... eh...
+
+1495
+01:47:23,085 --> 01:47:24,050
+La verdad que sí, le diría que...
+
+1496
+01:47:26,482 --> 01:47:31,916
+que de todo en el entrenamiento, de todos los partidos.
+
+1497
+01:47:33,479 --> 01:47:36,588
+y que sobre todo sea buen compañero.
+
+1498
+01:47:38,392 --> 01:47:40,235
+que eso no
+
+1499
+01:47:42,440 --> 01:47:47,514
+Eso te va a quedar para siempre, que ex compañeros te sigan escribiendo.
+
+1500
+01:47:48,940 --> 01:47:49,644
+y que
+
+1501
+01:47:51,681 --> 01:47:55,613
+y que los malos momentos sigan...
+
+1502
+01:47:57,578 --> 01:48:00,262
+siga confiando en su talento, en su
+
+1503
+01:48:02,705 --> 01:48:04,572
+en su juego que siempre hizo y
+
+1504
+01:48:06,961 --> 01:48:08,746
+y nada porque va a haber momentos que
+
+1505
+01:48:12,217 --> 01:48:18,002
+Va a haber malos días y ahí es donde tiene que sacar la fuerza para seguir adelante.
+
+1506
+01:48:19,985 --> 01:48:21,908
+y seguir creyendo que
+
+1507
+01:48:25,195 --> 01:48:27,181
+que vas a conseguir el objetivo que querés.
+
+1508
+01:48:29,369 --> 01:48:34,728
+triunfar y que la gente y tu familia y todo el mundo te reconozca por...
+
+1509
+01:48:35,571 --> 01:48:39,023
+por lo que hiciste en todos esos 20 años.
+
+1510
+01:48:40,608 --> 01:48:46,363
+que le meta, creo que eso es lo más importante y yo creo que
+
+1511
+01:48:49,653 --> 01:48:56,069
+que a la larga siendo disciplinado y ser respetuoso con
+
+1512
+01:48:56,750 --> 01:49:00,656
+con los compañeros y entrenadores a la larga todo creo que...
+
+1513
+01:49:01,297 --> 01:49:04,569
+terminás teniendo tu recompensa.
+
+1514
+01:49:05,411 --> 01:49:06,254
+Misión cumplida, ¿no?
+
+1515
+01:49:06,274 --> 01:49:07,458
+Exacto, misión cumplida.
+
+1516
+01:49:08,257 --> 01:49:09,249
+Gracias papá, un placer.
+
+1517
+01:49:09,310 --> 01:49:09,633
+De nada.
+
+1518
+01:49:14,180 --> 01:49:15,084
+Así terminamos.
+
+1519
+01:49:15,827 --> 01:49:16,390
+Gran final.
+
