@@ -7,7 +7,7 @@ que nunca imaginé que iba a vivir todo lo que...
 lo que viví, que iba a tener la carrera que tuve.
 
 3
-00:00:09,430 --> 00:00:11,342
+00:00:09,450 --> 00:00:11,362
 Nunca lo pensé ni lo imaginé.
 
 4
@@ -15,7 +15,7 @@ Nunca lo pensé ni lo imaginé.
 Siempre... Mi único objetivo y mi sueño era ser...
 
 5
-00:00:15,286 --> 00:00:17,905
+00:00:15,306 --> 00:00:17,925
 Era ser profesional, era jugar al fútbol.
 
 6
@@ -23,203 +23,203 @@ Era ser profesional, era jugar al fútbol.
 que cuando pasan las cosas es porque tiene que ser así, porque tiene que pasar de esa manera.
 
 7
-00:00:25,782 --> 00:00:26,726
-Hola, soy Zane Lowe.
+00:00:25,782 --> 00:00:26,742
+Hi, I'm Zane Lowe. 
 
 8
-00:00:26,948 --> 00:00:32,333
-He pasado una gran parte de mi vida sentado con algunos de los mejores artistas de todo el tiempo hablando de su música y su arte.
+00:00:27,042 --> 00:00:28,042
+I've spent a large part of my.
 
 9
-00:00:32,313 --> 00:00:37,699
-pero no puedo tener este tipo de conversaciones en el mundo del deporte profesional, pero soy un fan.
+00:00:28,042 --> 00:00:32,242
+Life sitting with some of the greatest artists of all time, talking about their music and their art. 
 
 10
-00:00:37,679 --> 00:00:41,225
-Soy un abogado y espectador, como todos ustedes que están viendo.
+00:00:32,583 --> 00:00:36,893
+But I don't often get to have these kind of conversations in the world of professional sports. 
 
 11
-00:00:41,245 --> 00:00:43,099
-Me encanta el arte del deporte.
+00:00:36,959 --> 00:00:37,719
+But I am a fan. 
 
 12
-00:00:43,079 --> 00:00:47,301
-y no hay artista más grande en el mundo del fútbol que Leo Messi.
+00:00:37,875 --> 00:00:40,955
+I am a supporter and a spectator like all of you watching. 
 
 13
-00:00:47,281 --> 00:00:53,393
-Fast forward to a rare and golden opportunity to sit opposite The Goat to talk about his journey.
+00:00:41,265 --> 00:00:47,105
+I love the art of sports and there is no greater artist in the world of football than Leo Messi. 
 
 14
-00:00:53,373 --> 00:00:55,605
-su vida hoy y su futuro.
+00:00:47,417 --> 00:00:51,457
+Fast forward to a rare and golden opportunity to sit opposite the goat.
 
 15
-00:00:56,188 --> 00:00:59,063
-Eres la única persona que he entrevistado que es temprano.
+00:00:51,872 --> 00:00:55,792
+To talk about his journey, his life today and his future. 
 
 16
-00:01:00,916 --> 00:01:02,042
-Lionel Messi, es un placer conocerte.
+00:00:56,188 --> 00:00:58,508
+You're the only person I've ever interviewed who's early. 
 
 17
-00:01:02,062 --> 00:01:05,058
-Nos has invitado al sistema nervioso central de este estadio.
+00:01:00,916 --> 00:01:02,042
+Lionel Messi, it's great to meet you. 
 
 18
-00:01:05,138 --> 00:01:06,505
-Este es un cuarto.
+00:01:02,062 --> 00:01:05,058
+You've invited us into the central nervous system of the stadium. 
 
 19
-00:01:06,485 --> 00:01:09,446
-No puedo pasar tiempo aquí.
+00:01:05,138 --> 00:01:06,505
+This is a locker room. 
 
 20
-00:01:09,587 --> 00:01:11,078
-Casi todo el mundo que ve esto no lo hace.
+00:01:06,505 --> 00:01:09,466
+You know, I don't get to spend any time in here. 
 
 21
-00:01:11,058 --> 00:01:15,634
-¿Cómo describes la experiencia de una caja para aquellos que no pueden pasar tiempo en ella?
+00:01:09,587 --> 00:01:11,078
+Almost everybody watching this doesn't either. 
 
 22
+00:01:11,078 --> 00:01:15,654
+How would you describe the experience of a locker room for those who don't get to spend time in it.
+
+23
 00:01:15,918 --> 00:01:20,511
 Bueno, creo que este es un lugar muy importante para nosotros.
 
-23
-00:01:20,491 --> 00:01:27,497
+24
+00:01:20,511 --> 00:01:27,517
 Se suele decir que acá adentro pasan muchas cosas que lo ideal siempre es que queden...
 
-24
-00:01:27,477 --> 00:01:34,483
+25
+00:01:27,517 --> 00:01:34,523
 acá adentro, tanto lo bueno como lo malo, que muchas veces pasan cosas también.
 
-25
-00:01:34,463 --> 00:01:40,305
+26
+00:01:34,523 --> 00:01:40,365
 Creo que un buen vestuario es fundamental para conseguir grandes objetivos.
 
-26
-00:01:40,285 --> 00:01:45,975
+27
+00:01:40,365 --> 00:01:46,055
 Y bueno, nosotros pasamos mucho tiempo tanto en el vestuario
 
-27
-00:01:45,955 --> 00:01:52,759
+28
+00:01:46,055 --> 00:01:52,859
 en el entrenamiento, el día a día, como el día de partido, muchas horas, pasan muchas cosas.
 
-28
-00:01:52,739 --> 00:01:59,121
+29
+00:01:52,859 --> 00:01:59,241
 Y creo que ahí es donde vamos generando ese grupo, esa cercanía, esas amistades que se dan.
 
-29
-00:01:59,101 --> 00:02:03,289
+30
+00:01:59,241 --> 00:02:03,429
 Y bueno, es un lugar importante para nosotros.
 
-30
-00:02:03,573 --> 00:02:07,367
-Este es un lugar donde los Juegos pueden ser ganados y perdidos, en particular en la mitad del tiempo.
-
 31
-00:02:07,387 --> 00:02:10,478
-¿Puedes imaginar un momento o una experiencia durante toda tu carrera en el que estés?
+00:02:03,573 --> 00:02:07,367
+How would you describe the experience of a locker room for those who don't get to spend time in it.
 
 32
-00:02:10,458 --> 00:02:15,388
-Lo que sucedió en la caja a la mitad del tiempo cambió la carrera del juego.
+00:02:07,387 --> 00:02:10,478
+Can you think of a moment or an experience throughout your career with that 
 
 33
+00:02:10,478 --> 00:02:15,408
+was very much the case, that what occurred in the locker room at half time really changed the course of the game.
+
+34
 00:02:16,094 --> 00:02:23,100
 No, bueno, es difícil saber si en un medio tiempo, muchas veces, saber si vas a ganar o perder el...
 
-34
-00:02:23,080 --> 00:02:29,226
+35
+00:02:23,100 --> 00:02:29,246
 El partido, el fútbol, pasan muchísimas cosas en un segundo, puede cambiar todo.
 
-35
-00:02:29,206 --> 00:02:36,094
+36
+00:02:29,246 --> 00:02:36,134
 Todo un partido con un gol, una expulsión o una jugada.
 
-36
-00:02:36,074 --> 00:02:43,080
+37
+00:02:36,134 --> 00:02:43,140
 Lo que sea, así que, bueno, el tren tiempo para intentar de corregir cosas de que...
 
-37
-00:02:43,060 --> 00:02:48,632
+38
+00:02:43,140 --> 00:02:48,712
 que están pasando en el partido o que por ahí, dentro de la cancha...
 
-38
-00:02:48,612 --> 00:02:55,382
+39
+00:02:48,712 --> 00:02:55,482
 Es difícil porque es difícil comunicarte, hay gente, no te escuchas o el técnico ve otras cosas que vos no ves.
 
-39
-00:02:55,362 --> 00:02:56,996
+40
+00:02:55,482 --> 00:02:57,116
 desde adentro.
 
-40
-00:02:57,016 --> 00:02:59,719
+41
+00:02:57,116 --> 00:02:59,819
 No tengo un recuerdo muy especial, pero creo que son...
 
-41
-00:02:59,699 --> 00:03:06,013
+42
+00:02:59,819 --> 00:03:06,133
 Son importantes los momentos de medio tiempo tanto para cambiar un partido como para...
 
-42
-00:03:05,993 --> 00:03:10,198
+43
+00:03:06,133 --> 00:03:10,338
 para terminar de finir un encuentro, pero...
 
-43
-00:03:10,178 --> 00:03:16,240
+44
+00:03:10,338 --> 00:03:16,400
 pero la verdad que es difícil saber si se va a ganar o perder un partido en un primer tiempo porque...
 
-44
-00:03:16,220 --> 00:03:21,623
+45
+00:03:16,400 --> 00:03:21,803
 De un momento a otro, el fútbol es muy cambiante.
 
-45
-00:03:21,755 --> 00:03:25,194
-Como decía, es un ambiente tan único para mí.
-
 46
-00:03:25,214 --> 00:03:28,592
-Soy fanático del juego y, obviamente, de la forma en que lo juegas.
+00:03:21,803 --> 00:03:25,242
+Now I was saying, this is such a unique environment for me to be in. 
 
 47
-00:03:28,572 --> 00:03:31,286
-Pero vivo en la música.
+00:03:25,242 --> 00:03:30,752
+I'm a fan of the game and obviously of the way that you play it, but I live in music. 
 
 48
-00:03:31,367 --> 00:03:35,106
-La música es a la que he dedicado toda mi vida.
+00:03:30,977 --> 00:03:34,697
+Music is what it's been my life really addicted to and committed to. 
 
 49
-00:03:35,086 --> 00:03:39,983
-Me gustaría saber cuál ha sido tu relación con la música durante tu vida.
+00:03:35,106 --> 00:03:40,003
+So I'd love to know what your relationship has been with music throughout your life.
 
 50
 00:03:40,537 --> 00:03:47,121
 Bueno, de hecho donde estamos se suele escuchar mucha música en el día a día o lo antes de...
 
 51
-00:03:47,101 --> 00:03:51,660
+00:03:47,121 --> 00:03:51,680
 de los partidos o después de los partidos también.
 
 52
-00:03:51,640 --> 00:03:55,407
+00:03:51,680 --> 00:03:55,447
 El ambiente del fútbol y del vestuario conviven continuamente.
 
 53
-00:03:55,387 --> 00:04:01,077
+00:03:55,447 --> 00:04:01,137
 con la música, algunos escuchan su música individual antes de los partidos, en los viajes.
 
 54
-00:04:01,057 --> 00:04:05,785
+00:04:01,137 --> 00:04:05,865
 pero mucho tiempo también en general, la música para todo.
 
 55
-00:04:05,765 --> 00:04:11,117
+00:04:05,865 --> 00:04:11,217
 Siempre tuve esa manía también de...
 
 56
-00:04:11,097 --> 00:04:15,855
+00:04:11,217 --> 00:04:15,975
 de ir escuchando música a los partidos, de escuchar música antes de los partidos.
 
 57
@@ -231,59 +231,59 @@ Creo que...
 que durante toda mi carrera siempre siempre fue de esa manera y que en el fútbol y la música
 
 59
-00:04:26,403 --> 00:04:30,523
+00:04:26,423 --> 00:04:30,543
 conviven mucho en estos momentos y en estos lugares.
 
 60
 00:04:31,381 --> 00:04:38,387
-Hay muchas canciones maravillosas que te referen en términos de ser un icono o el gato.
+You know, there's a lot of great songs now that reference you in terms of being an icon or the goat
 
 61
-00:04:38,367 --> 00:04:42,977
-es alguien que deberías aspirar a lograr como Messi o ser más como Messi.
+00:04:38,387 --> 00:04:42,997
+ as somebody that you should aspire to achieve, like messy or be more like messy. 
 
 62
-00:04:42,957 --> 00:04:47,753
-¿Cómo te sientes cuando escuchas a tu nombre referido en canciones y a las personas que te referen en esos momentos?
+00:04:42,997 --> 00:04:47,793
+How do you feel when you hear your name referenced in songs and people referring to you in those moments when.
 
 63
-00:04:47,733 --> 00:04:52,393
+00:04:47,793 --> 00:04:52,453
 Bueno, me siento muy halagado, obviamente, por...
 
 64
-00:04:52,373 --> 00:04:55,988
+00:04:52,453 --> 00:04:56,068
 por aparecer en una letra o...
 
 65
-00:04:55,968 --> 00:04:59,852
+00:04:56,068 --> 00:04:59,952
 o incluso mis hijos.
 
 66
-00:04:59,832 --> 00:05:04,037
+00:05:00,790 --> 00:05:04,157
 lo disfruta, se sorprende de...
 
 67
-00:05:04,017 --> 00:05:07,547
+00:05:04,157 --> 00:05:07,687
 de escuchar mi nombre en algún tema.
 
 68
-00:05:07,527 --> 00:05:12,778
+00:05:07,687 --> 00:05:12,938
 La verdad que es lindo poder ser parte de la música desde ese...
 
 69
-00:05:12,758 --> 00:05:16,643
+00:05:12,938 --> 00:05:16,823
 de ese lado, que me tengan en cuenta en muchas de...
 
 70
-00:05:16,623 --> 00:05:23,629
+00:05:16,823 --> 00:05:23,829
 de la letra, porque hay muchos artistas de los cuales me han nombrado en sus canciones y la verdad que...
 
 71
-00:05:23,609 --> 00:05:30,362
+00:05:23,829 --> 00:05:30,582
 Para mí es algo muy emocionante y estoy agradecido a todo lo que...
 
 72
-00:05:30,342 --> 00:05:34,935
+00:05:30,582 --> 00:05:35,175
 Lo que le hicieron, porque sé que en todas las letras...
 
 73
@@ -291,878 +291,866 @@ Lo que le hicieron, porque sé que en todas las letras...
 me nombran con mucho cariño y siempre alegándome desde algún...
 
 74
-00:05:39,961 --> 00:05:43,491
+00:05:39,981 --> 00:05:43,511
 desde algún lado y la verdad que nada, que...
 
 75
-00:05:43,471 --> 00:05:49,988
+00:05:43,511 --> 00:05:50,028
 agradecido y lo disfruto junto a mis hijos, a mi familia.
 
 76
-00:05:49,968 --> 00:05:52,907
-¿Es eso cuando te sientes como un padre cool?
+00:05:50,028 --> 00:05:51,980
+Is that when you feel like you like a cool dad?
 
 77
 00:05:54,271 --> 00:05:57,902
 La verdad que... que no.
 
 78
-00:05:57,882 --> 00:06:04,888
+00:05:57,902 --> 00:06:04,908
 lo mío es dentro de la calle, cuando me salen las cosas y...
 
 79
-00:06:04,868 --> 00:06:11,267
+00:06:04,908 --> 00:06:11,307
 y tuvimos la oportunidad de festejar algún título, ya sea grupal o individual.
 
 80
-00:06:11,247 --> 00:06:16,380
+00:06:11,307 --> 00:06:16,440
 y poder disfrutarlo con ellos, creo que es el momento más...
 
 81
-00:06:16,360 --> 00:06:22,405
+00:06:16,440 --> 00:06:22,485
 más especial para mí, para ellos, porque hago lo que amo y poder...
 
 82
-00:06:22,385 --> 00:06:29,391
+00:06:22,485 --> 00:06:29,491
 poder conseguir logro en este deporte y poder disfrutarlo con ellos, para mí es lo más grande.
 
 83
-00:06:29,371 --> 00:06:32,901
-Tu viejo hijo está llegando a la edad.
+00:06:30,083 --> 00:06:33,021
+You know, your eldest son is nearing the age 
 
 84
-00:06:32,881 --> 00:06:36,917
-que tú eras cuando saliste de casa y fuiste a Barcelona.
+00:06:33,021 --> 00:06:37,057
+that you were when you left home and went to Barcelona. 
 
 85
-00:06:36,897 --> 00:06:40,967
-Yo sé que cuando mis niños alcanzaron una cierta...
+00:06:38,040 --> 00:06:42,000
+I know when my kids reached a certain point in their lives, 
 
 86
-00:06:40,947 --> 00:06:43,582
-en sus vidas, cuando mi vida cambió a su edad.
+00:06:42,000 --> 00:06:46,580
+when my life changed at their age, and it really made me think about my life in a different way. 
 
 87
-00:06:43,643 --> 00:06:45,574
-Y realmente me hizo pensar en mi vida.
+00:06:47,363 --> 00:06:52,663
+What advice would you have given yourself at that age now looking back?
 
 88
-00:06:45,638 --> 00:06:46,341
-en un modo diferente.
-
-89
-00:06:46,361 --> 00:06:52,628
-¿Qué consejo te hubieras dado a esa edad, ahora que miras atrás?
-
-90
 00:06:53,688 --> 00:06:55,881
 Difícil, ¿eh?
 
-91
+89
 00:06:57,289 --> 00:06:59,884
 La verdad que yo veo ya...
 
-92
-00:06:59,864 --> 00:07:06,313
+90
+00:06:59,884 --> 00:07:06,333
 a mis hijos, a Tiago, que está a punto de cumplir 12 años en un día.
 
-93
-00:07:06,293 --> 00:07:10,718
+91
+00:07:06,333 --> 00:07:10,758
 y pensar que yo con esa edad me fui...
 
-94
-00:07:10,698 --> 00:07:14,312
+92
+00:07:10,758 --> 00:07:14,372
 a Barcelona, si bien me fui con toda...
 
-95
-00:07:14,292 --> 00:07:20,151
+93
+00:07:14,372 --> 00:07:20,231
 de mi familia y tenía el respaldo de ellos, la verdad que se me hace difícil hoy.
 
-96
+94
 00:07:21,025 --> 00:07:25,281
 pensar que Tiago pueda pasar por una situación de...
 
-97
-00:07:25,261 --> 00:07:30,732
+95
+00:07:25,281 --> 00:07:30,752
 de esa, incluso ahora tiene un torneo de fútbol donde tiene que viajar por...
 
-98
-00:07:30,712 --> 00:07:36,199
+96
+00:07:30,752 --> 00:07:36,239
 por 15 o 20 días y ya no cuesta.
 
-99
+97
 00:07:37,968 --> 00:07:44,974
 La verdad es que, no sé, tendría que estar en ese momento y vivirlo realmente para...
 
-100
-00:07:44,954 --> 00:07:50,188
+98
+00:07:44,974 --> 00:07:50,208
 para ver cómo reaccionaría o qué pensaría.
 
+99
+00:07:51,282 --> 00:07:56,958
+Lo único que puedo decir es que para mí fue un cambio muy... muy duro, difícil, 
+
+100
+00:07:56,958 --> 00:08:01,498
+ pero al mismo tiempo era lo que quería, me iba con mi familia.
+
 101
-00:07:51,282 --> 00:07:55,740
-Lo único que puedo decir es que para mí fue un cambio muy...
-
-102
-00:07:55,720 --> 00:08:01,478
-muy duro, difícil, pero al mismo tiempo era lo que quería, me iba con mi familia.
-
-103
-00:08:01,458 --> 00:08:05,595
+00:08:01,498 --> 00:08:05,635
 estaba convencido de lo que quería.
 
-104
-00:08:05,575 --> 00:08:12,582
+102
+00:08:06,560 --> 00:08:12,642
 Y bueno, siempre pensé que era mi sueño e hice todo lo posible para intentar.
 
-105
-00:08:12,562 --> 00:08:14,269
+103
+00:08:13,350 --> 00:08:14,349
 conseguirlo.
 
-106
+104
 00:08:15,599 --> 00:08:22,302
 gracias a mi familia, obviamente, que me acompañó y estuvo pegado siempre a mí.
 
-107
-00:08:22,282 --> 00:08:28,630
-Pero la verdad, no sabría decirte qué consejo le...
+105
+00:08:22,950 --> 00:08:29,295
+Pero la verdad, no sabría decirte qué consejo le... le daría. 
 
-108
-00:08:28,610 --> 00:08:29,255
-le daría.
-
-109
-00:08:29,275 --> 00:08:34,114
+106
+00:08:29,295 --> 00:08:34,134
 Tendría que vivirlo realmente, aunque espero no tener que hacerlo.
 
+107
+00:08:35,370 --> 00:08:40,916
+If I asked you to think of a typical day in Rosario, Argentina, when you were young, just learning the game
+
+108
+00:08:40,916 --> 00:08:45,941
+ before you moved to Barcelona and this incredible journey unfolded. 
+
+109
+00:08:45,941 --> 00:08:47,637
+What would that day have been?
+
 110
-00:08:35,292 --> 00:08:40,459
-Si te pido que piensas de un día típico en Rosario, Argentina, cuando eras joven, solo aprendiendo el juego.
-
-111
-00:08:40,439 --> 00:08:44,762
-antes de ir a Barcelona en esta increíble aventura.
-
-112
-00:08:44,742 --> 00:08:47,597
-¿Qué habría sido ese día?
-
-113
 00:08:48,640 --> 00:08:54,060
 Bueno, yo iba al colegio a la...
 
-114
+111
 00:08:54,698 --> 00:09:01,603
 Primero la primaria iba en la tarde, o gran parte de la primaria iba en la tarde, o sea que por la mañana...
 
-115
-00:09:01,583 --> 00:09:08,590
+112
+00:09:01,603 --> 00:09:08,610
 dormía hasta tarde, me levantaba, comía y ya iba al colegio y cuando volvía...
 
-116
-00:09:08,570 --> 00:09:15,576
+113
+00:09:08,610 --> 00:09:15,616
 Cuando volvía, salía a la calle, pasaba mucho tiempo afuera, era otra época de...
 
-117
-00:09:15,556 --> 00:09:20,773
+114
+00:09:15,616 --> 00:09:20,833
 Era otra época, en Argentina también vivíamos con mis amigos del barrio.
 
-118
-00:09:20,753 --> 00:09:27,456
+115
+00:09:20,833 --> 00:09:27,536
 en la calle, vamos de un lado para otro, jugamos a la pelota o a lo que sea.
 
-119
-00:09:27,436 --> 00:09:34,442
+116
+00:09:27,536 --> 00:09:34,542
 Estábamos hasta tarde afuera, hoy es más complicado, mucha inseguridad, es muy difícil.
 
-120
-00:09:34,422 --> 00:09:40,365
+117
+00:09:34,542 --> 00:09:40,485
 que los chicos puedan hacer eso tanto en Argentina como en cualquier parte del mundo.
 
-121
-00:09:40,345 --> 00:09:44,938
+118
+00:09:40,485 --> 00:09:45,078
 Pero la verdad es que disfruté muchísimo mi...
 
-122
-00:09:44,918 --> 00:09:51,925
+119
+00:09:45,078 --> 00:09:52,085
 Mi infancia, ya te digo, pasaba mucho tiempo fuera de mi casa con muchos amigos.
 
-123
-00:09:51,905 --> 00:09:57,983
+120
+00:09:52,085 --> 00:09:58,163
 Y cuando fui a Barcelona, la verdad que fue un cambio duro porque no...
 
-124
-00:09:57,963 --> 00:10:03,062
+121
+00:09:58,163 --> 00:10:03,262
 No encontré todo eso que tenía en mi día a día, era muy...
 
-125
-00:10:03,042 --> 00:10:05,543
+122
+00:10:03,262 --> 00:10:05,763
 muy diferente a lo que estaba acostumbrado.
 
+123
+00:10:05,763 --> 00:10:11,875
+As the No. 10, as the link player, you get to participate in a lot of different movement on the field. 
+
+124
+00:10:11,875 --> 00:10:14,324
+How do you see the game when you're on the field? 
+
+125
+00:10:14,407 --> 00:10:17,478
+People say that you're able to see ahead of the game itself.
+
 126
-00:10:05,725 --> 00:10:11,837
-Como el número 10, como jugador de link, puedes participar en un montón de movimientos diferentes en el campo.
+00:10:17,478 --> 00:10:18,823
+ Do you identify with that statement?
 
 127
-00:10:11,817 --> 00:10:14,266
-¿Cómo ves el juego cuando estás en el campo?
-
-128
-00:10:14,407 --> 00:10:17,478
-La gente dice que puedes ver al frente del juego.
-
-129
-00:10:17,498 --> 00:10:18,823
-¿Lo identificas con ese statement?
-
-130
-00:10:18,803 --> 00:10:25,557
+00:10:19,220 --> 00:10:25,577
 La verdad es que fue cambiando mucho mi estilo de juego durante toda mi carrera.
 
-131
-00:10:25,537 --> 00:10:29,826
+128
+00:10:25,577 --> 00:10:29,866
 Empecé en mi inicio jugando por afuera, después jugué...
 
-132
-00:10:29,806 --> 00:10:34,872
+129
+00:10:29,866 --> 00:10:34,932
 más adentro, he pasado por momentos donde jugaba con mucha libertad y me movía por...
 
-133
-00:10:34,852 --> 00:10:38,787
+130
+00:10:34,932 --> 00:10:38,867
 por donde, entre comillas, quería.
 
-134
-00:10:38,767 --> 00:10:43,866
+131
+00:10:38,867 --> 00:10:43,966
 No sé, siempre estoy intentando degenerar los espacios tanto...
 
-135
-00:10:43,846 --> 00:10:47,950
+132
+00:10:43,966 --> 00:10:48,070
 para mí, como para mi compañero, para intentar de...
 
-136
-00:10:47,930 --> 00:10:52,219
+133
+00:10:48,324 --> 00:10:52,359
 de ser efectivo, de resolver, ya sea con un pase, con un gol.
 
-137
-00:10:52,199 --> 00:10:54,439
+134
+00:10:52,359 --> 00:10:54,599
 No sé, crecí de esa manera.
 
-138
-00:10:54,479 --> 00:10:56,235
+135
+00:10:54,599 --> 00:10:56,355
 Mi único objetivo siempre fue...
 
-139
-00:10:56,215 --> 00:11:00,336
+136
+00:10:56,355 --> 00:11:00,476
 Intentar llegar al otro lado con hacer el gol.
 
-140
-00:11:00,316 --> 00:11:04,403
-Y nada, intentar de...
+137
+00:11:01,500 --> 00:11:03,580
+ intentar de...
 
-141
-00:11:04,383 --> 00:11:10,917
+138
+00:11:04,563 --> 00:11:11,097
 de moverme y de estar bien posicionado a la hora de atacar para aprovechar.
 
-142
-00:11:10,897 --> 00:11:15,023
+139
+00:11:11,097 --> 00:11:15,223
 para aprovechar los momentos.
 
-143
-00:11:15,063 --> 00:11:17,076
+140
+00:11:15,223 --> 00:11:17,236
 No puedo prever nada.
 
-144
-00:11:17,056 --> 00:11:22,442
+141
+00:11:17,236 --> 00:11:22,622
 pero sí ver un poco el juego, por dónde está pasando y por dónde puede más...
 
+142
+00:11:22,622 --> 00:11:29,169
+hacer daño, por dónde no pueden llegar a hacer daño, Es lo que lo que intento, lo que intento. 
+
+143
+00:11:30,169 --> 00:11:32,089
+Ver lo más rápido que que pueda.
+
+144
+00:11:32,640 --> 00:11:40,975
+Visualize the game, though not necessarily to try to impact or influence the game in advance, but do you imagine the game before you run onto the field.
+
 145
-00:11:22,422 --> 00:11:26,914
-hacer daño, por dónde no pueden llegar a hacer daño, es lo que intento...
-
-146
-00:11:26,894 --> 00:11:33,748
-¿Visualizas el juego?
-
-147
-00:11:33,728 --> 00:11:40,735
-No necesariamente para intentar impactar o influenciar el juego en avance, pero, ¿te imaginas el juego antes de irte al campo?
-
-148
-00:11:40,715 --> 00:11:47,569
+00:11:41,300 --> 00:11:47,829
 No, pero sí que imagino lo que me gustaría que pase.
 
-149
-00:11:47,549 --> 00:11:52,733
+146
+00:11:47,829 --> 00:11:53,013
 O imagino alguna jugada, alguna parte de...
 
-150
-00:11:52,713 --> 00:11:56,243
+147
+00:11:53,013 --> 00:11:56,543
 del partido que puedan llegar a darse.
 
-151
-00:11:56,223 --> 00:12:01,407
+148
+00:11:56,543 --> 00:12:01,727
 Después, como te decía antes, en un partido pasan muchísimas cosas, a veces se da, a veces...
 
-152
-00:12:01,387 --> 00:12:07,228
+149
+00:12:01,727 --> 00:12:07,568
 A veces no, pero intento visualizar el partido en mi cabeza.
 
-153
-00:12:07,208 --> 00:12:11,869
+150
+00:12:07,568 --> 00:12:12,229
 de generar mi jugada o pensar lo que pueda llegar a...
 
-154
-00:12:11,849 --> 00:12:16,476
+151
+00:12:12,229 --> 00:12:16,856
 a pasarla para después hacerlo dentro de la cancha.
 
-155
-00:12:16,456 --> 00:12:21,066
+152
+00:12:16,856 --> 00:12:21,466
 la realidad que muchas veces no ocurre lo que uno...
 
-156
-00:12:21,046 --> 00:12:27,107
+153
+00:12:21,466 --> 00:12:27,527
 lo que uno imagina, lo que uno piensa, pero a mí me hace bien y está bueno para prepararme antes de los partidos.
 
-157
-00:12:27,475 --> 00:12:34,262
+154
+00:12:27,527 --> 00:12:34,314
 Tantos objetivos, tantos trofeos, tantos logros para que podamos concentrarnos en el tiempo que tenemos aquí en términos de tu tiempo en Europa.
 
-158
-00:12:34,242 --> 00:12:40,287
+155
+00:12:34,314 --> 00:12:40,359
 Pero antes de hablar de MLS, me gustaría saber, en tus propias palabras, dos años después, qué te pareció ese tiempo.
 
-159
+156
 00:12:40,688 --> 00:12:46,969
 Bueno, creo que fue una etapa espectacular que nunca imaginé.
 
-160
+157
 00:12:47,540 --> 00:12:52,757
 que iba a vivir todo lo que viví, que iba a tener la carrera que tuve.
 
-161
+158
 00:12:53,210 --> 00:12:55,038
 Nunca lo pensé ni lo imaginé.
 
-162
+159
 00:12:55,058 --> 00:12:59,760
 Siempre mi único objetivo en mi sueño era ser.
 
-163
-00:12:59,740 --> 00:13:03,388
+160
+00:12:59,760 --> 00:13:03,408
 Era ser profesional, era jugar al fútbol desde muy chiquito.
 
-164
+161
 00:13:03,824 --> 00:13:07,894
 que me gustó la pelota, que me gustó jugar.
 
-165
-00:13:07,874 --> 00:13:12,298
+162
+00:13:07,894 --> 00:13:12,318
 Me encanta el juego, el competir y ganar.
 
-166
-00:13:12,278 --> 00:13:17,698
+163
+00:13:12,318 --> 00:13:17,738
 Y bueno, la verdad que soy un agradecido a Dios por todo lo que me regaló, lo que conseguí.
 
-167
-00:13:17,678 --> 00:13:23,115
+164
+00:13:17,738 --> 00:13:23,175
 Tuve la gran suerte de conseguir todo en el fútbol.
 
-168
-00:13:23,095 --> 00:13:27,182
+165
+00:13:23,175 --> 00:13:27,262
 Grupal, de equipo, de selección, de individual.
 
-169
-00:13:27,162 --> 00:13:30,793
+166
+00:13:27,262 --> 00:13:30,893
 Ni yo le hubiese pedido tanto de...
 
-170
-00:13:30,773 --> 00:13:35,755
+167
+00:13:30,893 --> 00:13:35,875
 De todo esto, la verdad es que la vida me regaló.
 
-171
+168
 00:13:36,663 --> 00:13:41,104
 Me regaló todo y nada, simplemente soy una...
 
-172
-00:13:41,084 --> 00:13:46,774
+169
+00:13:41,104 --> 00:13:46,794
 un agradecido de la carrera que tuve y de la vida que me tocó.
 
-173
+170
 00:13:47,429 --> 00:13:52,056
-¿Qué te ha emocionado más venir a Miami y unirse a Miami?
+What excited you the most about coming to Miami and joining into Miami? 
 
-174
+171
 00:13:52,070 --> 00:13:58,367
 Bueno, la verdad que siempre tuve en mi cabeza poder jugar en la MLS y creo que...
 
-175
-00:13:58,347 --> 00:14:04,645
+172
+00:13:58,367 --> 00:14:04,665
 más de una vez lo dije, era...
 
-176
-00:14:04,625 --> 00:14:08,644
+173
+00:14:04,665 --> 00:14:08,684
 Era algo que me llamaba la atención y que tenía ganas.
 
-177
-00:14:08,624 --> 00:14:15,630
+174
+00:14:08,684 --> 00:14:15,690
 Y venir al Inter de Miami fue una oportunidad y por cómo se dio todo en mis últimos años.
 
-178
-00:14:15,610 --> 00:14:22,195
+175
+00:14:16,250 --> 00:14:22,275
 mis últimos años en París, y bien...
 
-179
-00:14:22,175 --> 00:14:28,624
+176
+00:14:22,275 --> 00:14:28,724
 Si bien fue una decisión la cual la tuve que tomar sobre la marcha porque me tuve que ir de...
 
-180
-00:14:28,604 --> 00:14:33,855
+177
+00:14:28,724 --> 00:14:33,975
 de Barcelona fueron dos años donde
 
-181
-00:14:33,835 --> 00:14:40,842
+178
+00:14:33,975 --> 00:14:40,982
 donde no lo disfruté, donde no estuve feliz en el día a día con los entrenamientos, con los partidos.
 
-182
-00:14:40,822 --> 00:14:43,997
+179
+00:14:40,982 --> 00:14:44,157
 porque me costó muchísimo adaptarme a todo eso.
 
-183
+180
 00:14:44,399 --> 00:14:49,347
 Y bueno, me llamó la intención.
 
-184
-00:14:49,327 --> 00:14:52,857
+181
+00:14:49,347 --> 00:14:52,877
 Venir al Inter porque era un club donde estaba...
 
-185
-00:14:52,837 --> 00:14:59,168
+182
+00:14:53,750 --> 00:14:59,208
 en crecimiento, donde era muy nuevo, donde llevaba muy pocos años de vida.
 
-186
-00:14:59,148 --> 00:15:05,597
+183
+00:14:59,208 --> 00:15:05,657
 y me gustó la idea de venir y poder ayudar a que el club sea
 
-187
-00:15:05,577 --> 00:15:11,082
+184
+00:15:05,657 --> 00:15:11,162
 sea más grande y también sabía que era una ciudad donde
 
-188
-00:15:11,062 --> 00:15:14,963
+185
+00:15:11,162 --> 00:15:15,063
 donde mi familia y yo íbamos a estar bien porque si bien la...
 
-189
-00:15:14,943 --> 00:15:18,473
+186
+00:15:15,063 --> 00:15:18,593
 La conocía poquito porque había venido pocas veces.
 
-190
-00:15:18,453 --> 00:15:22,692
+187
+00:15:18,593 --> 00:15:22,832
 sabía lo que era porque tenía amigos y familiares que...
 
-191
-00:15:22,672 --> 00:15:26,235
+188
+00:15:22,832 --> 00:15:26,395
 que visitaban y visitaban mucho la...
 
-192
-00:15:26,553 --> 00:15:33,475
+189
+00:15:26,553 --> 00:15:34,449
 la ciudad y bueno, pensé que era el momento y nada más, arrepiento todo.
 
-193
-00:15:33,455 --> 00:15:39,111
-¿Cómo has describido el estilo de juego en MLS?
+190
+00:15:34,830 --> 00:15:40,872
+How have you described the style of play in MLS to your friends who also play?
 
-194
-00:15:39,091 --> 00:15:40,832
-a tus amigos que también juegan.
-
-195
+191
 00:15:41,015 --> 00:15:46,367
 Bueno, creo que es un juego donde es muy dinámico.
 
-196
-00:15:46,347 --> 00:15:50,198
+192
+00:15:46,367 --> 00:15:50,218
 muy físico, donde hay mucha gente...
 
-197
-00:15:50,178 --> 00:15:55,783
+193
+00:15:50,218 --> 00:15:55,823
 jóvenes que físicamente son fuertes.
 
-198
-00:15:55,763 --> 00:15:59,462
+194
+00:15:55,823 --> 00:15:59,522
 que todos los equipos quieren...
 
-199
-00:15:59,442 --> 00:16:02,877
+195
+00:15:59,522 --> 00:16:02,957
 Quieren hacer gol y juegan al ataque.
 
-200
+196
 00:16:03,239 --> 00:16:05,790
 Se hace muchos partidos.
 
-201
-00:16:05,770 --> 00:16:12,051
+197
+00:16:05,790 --> 00:16:12,071
 de ida y vuelta, un poco relacionado con el país que estamos y con lo deporte.
 
-202
-00:16:12,031 --> 00:16:17,873
+198
+00:16:12,071 --> 00:16:17,913
 que están acostumbrados a ver, donde suele haber mucho show, mucho...
 
-203
-00:16:17,853 --> 00:16:22,058
+199
+00:16:17,913 --> 00:16:22,118
 Muchos puntos, muchas jugadas de ataque.
 
-204
-00:16:22,038 --> 00:16:26,732
+200
+00:16:22,118 --> 00:16:26,812
 Una liga donde creció mucho y sigue...
 
-205
-00:16:26,712 --> 00:16:31,002
+201
+00:16:26,812 --> 00:16:31,102
 sigue creciendo y ojalá no pare.
 
-206
-00:16:30,982 --> 00:16:37,228
+202
+00:16:31,102 --> 00:16:37,348
 que los clubes vean lo que pasó con el Inter de Miami y puedan...
 
-207
-00:16:37,208 --> 00:16:43,101
+203
+00:16:37,348 --> 00:16:43,241
 puedan seguir queriendo crecer como club y queriendo ayudar a que la Liga sea
 
-208
-00:16:43,081 --> 00:16:46,763
+204
+00:16:43,241 --> 00:16:46,923
 sea aún más grande, más importante.
 
-209
-00:16:46,743 --> 00:16:52,973
+205
+00:16:46,923 --> 00:16:53,153
 Y creo que la oportunidad de que la MLS de...
 
-210
-00:16:52,953 --> 00:16:56,064
+206
+00:16:53,153 --> 00:16:56,264
 De un cambio hacia el mundo y siga creciendo con la liga.
 
-211
+207
 00:16:56,466 --> 00:16:59,858
-Hablaste de un equipo joven y ser parte de algo, de construir algo.
+Talked about joining a young team and being a part of something to build something. 
+
+208
+00:16:59,858 --> 00:17:03,250
+Now that you've played a season and a bit,
+
+209
+00:17:03,250 --> 00:17:10,010
+ what is the goal do you think, medium and long term goal for club like into Miami of the MLS now that you're part.
+
+210
+00:17:11,643 --> 00:17:18,009
+Bueno, yo creo que que el equipo que tenemos hoy por hoy está construido para intentar de de conseguir campeonato 
+
+211
+00:17:18,009 --> 00:17:19,989
+y en esa línea estamos.
 
 212
-00:16:59,838 --> 00:17:06,793
-Ahora que has jugado una temporada, ¿cuál es tu objetivo?
-
-213
-00:17:06,773 --> 00:17:11,603
-para un club como Into Miami, con el MLS, ahora que estás parte de ello.
-
-214
-00:17:11,583 --> 00:17:16,615
-que el equipo que tenemos hoy por hoy está construido para intentar conseguir...
-
-215
-00:17:16,595 --> 00:17:19,909
-Campeonato y en esa línea estamos.
-
-216
-00:17:19,929 --> 00:17:23,483
+00:17:19,989 --> 00:17:23,543
 Creo que es una buena adaptación de los chicos.
 
-217
-00:17:23,463 --> 00:17:29,119
+213
+00:17:23,543 --> 00:17:29,199
 que llegaron con los chicos jóvenes que tenía el club, el equipo.
 
-218
-00:17:29,099 --> 00:17:31,677
+214
+00:17:29,199 --> 00:17:31,777
 Y creo que el objetivo tiene que seguir siendo eso, ¿no?
 
-219
-00:17:31,697 --> 00:17:35,363
+215
+00:17:31,777 --> 00:17:35,443
 Intentar de conseguir título, seguir que...
 
-220
-00:17:35,343 --> 00:17:39,953
+216
+00:17:35,443 --> 00:17:40,053
 ayudando a que el club siga creciendo y a que chicos de...
 
-221
-00:17:39,933 --> 00:17:44,543
+217
+00:17:40,053 --> 00:17:44,663
 de abajo, del kruten, a la oportunidad de seguir.
 
-222
-00:17:44,523 --> 00:17:49,538
+218
+00:17:44,663 --> 00:17:49,678
 de seguir apareciendo, de seguir jugando en el Inter, de poder jugar en la M...
 
-223
-00:17:49,518 --> 00:17:54,263
+219
+00:17:49,678 --> 00:17:54,423
 y poder darle la oportunidad de...
 
-224
-00:17:54,243 --> 00:17:57,857
+220
+00:17:54,423 --> 00:17:58,037
 Hay gente que también tiene sus sueños y pelea para...
 
-225
-00:17:57,837 --> 00:18:01,892
+221
+00:17:58,037 --> 00:18:02,092
 para eso, pero creo que ese es el camino, ¿no?
 
-226
+222
 00:18:02,414 --> 00:18:04,843
 Ir para arriba después de donde...
 
-227
-00:18:04,823 --> 00:18:09,535
+223
+00:18:04,843 --> 00:18:09,555
 de dónde arrancamos y de dónde estamos hoy y seguir creciendo mucho más.
 
+224
+00:18:09,555 --> 00:18:15,110
+How has being included to host and also participate and compete in the FIFA Club World Cup. 
+
+225
+00:18:15,110 --> 00:18:20,884
+How important is that to the long term building of MLS as an international league?
+
+226
+00:18:21,682 --> 00:18:26,583
+Bueno, creo que es algo... importantísimo, 
+
+227
+00:18:26,583 --> 00:18:29,417
+ sobre todo, para el club poder participar.
+
 228
-00:18:09,515 --> 00:18:15,070
-¿Cómo ha sido ser incluido como miembro y participar y competir en la FIFA Club World Cup?
-
-229
-00:18:15,050 --> 00:18:20,824
-¿Cómo importante es eso para la construcción a largo plazo de MLS como liga internacional?
-
-230
-00:18:21,682 --> 00:18:25,330
-Bueno, creo que es algo...
-
-231
-00:18:25,310 --> 00:18:29,397
-importantísimo, sobre todo, para el club poder participar.
-
-232
-00:18:29,377 --> 00:18:33,058
+00:18:29,417 --> 00:18:33,098
 en el Premier Mundial de clubes que se va a hacer acá en...
 
-233
-00:18:33,038 --> 00:18:38,796
+229
+00:18:33,098 --> 00:18:38,856
 en el país y poder estar y que la MLS tenga...
 
-234
-00:18:38,776 --> 00:18:43,065
+230
+00:18:38,856 --> 00:18:43,145
 Tenga dos equipos, creo que es algo grandioso.
 
-235
-00:18:43,045 --> 00:18:48,432
+231
+00:18:43,145 --> 00:18:48,532
 Como dije antes, creo que todo lo que está pasando es una oportunidad para que la MLS siga...
 
-236
-00:18:48,412 --> 00:18:53,730
+232
+00:18:48,532 --> 00:18:53,850
 Siga creciendo como fútbol, como liga y...
 
-237
-00:18:53,710 --> 00:18:57,426
+233
+00:18:53,850 --> 00:18:57,566
 y que otros jugadores tengan la oportunidad de
 
-238
-00:18:57,406 --> 00:19:01,864
+234
+00:18:57,566 --> 00:19:02,024
 de venir y seguir creciendo, creo que...
 
-239
-00:19:01,844 --> 00:19:07,551
+235
+00:19:02,024 --> 00:19:07,731
 que el fútbol es diferente a todos los deportes que están acostumbrados a ver.
 
-240
-00:19:07,531 --> 00:19:14,537
+236
+00:19:07,731 --> 00:19:14,737
 en Estados Unidos y creo que se debería manejar de diferente manera.
 
-241
-00:19:14,517 --> 00:19:18,891
+237
+00:19:14,737 --> 00:19:19,111
 porque es otro deporte y creo que es la oportunidad para...
 
-242
-00:19:18,871 --> 00:19:25,877
+238
+00:19:19,111 --> 00:19:26,117
 para cambiar el chip, para hacer el cambio y que la IMS siga en su crecimiento.
 
+239
+00:19:26,950 --> 00:19:32,820
+You're known for showing great character on the field, but also great character off the field. 
+
+240
+00:19:33,492 --> 00:19:35,782
+You've achieved enormous success. 
+
+241
+00:19:36,570 --> 00:19:38,930
+And with success often comes pressure. 
+
+242
+00:19:38,930 --> 00:19:42,410
+And pressure can lead to challenges for people. 
+
 243
-00:19:25,857 --> 00:19:32,560
-Tú eres conocido por mostrar un gran personaje en el campo, pero también un gran personaje fuera del campo.
+00:19:42,768 --> 00:19:46,738
+And yet you seem to have a great balance between what you love to do
 
 244
-00:19:32,540 --> 00:19:35,749
-Has logrado un gran éxito.
+00:19:46,738 --> 00:19:49,407
+ and who you love to share it with your family, 
 
 245
-00:19:36,488 --> 00:19:40,980
-Y con éxito viene la presión, y la presión puede llevar a...
+00:19:49,499 --> 00:19:52,917
+this humility that you show, what is the foundation of that? 
 
 246
-00:19:40,960 --> 00:19:46,718
-y aún así, parece que tienes un gran equilibrio entre lo que te gusta hacer y lo que no.
+00:19:52,998 --> 00:19:55,189
+Where does humility start for you?
 
 247
-00:19:46,698 --> 00:19:49,367
-y a quien le gustaría compartirlo con su familia.
-
-248
-00:19:49,499 --> 00:19:52,917
-Esta humildad que muestras, ¿cuál es la fundación de eso?
-
-249
-00:19:52,998 --> 00:19:55,189
-¿Dónde empieza esta humildad para ti?
-
-250
 00:19:55,827 --> 00:20:01,011
 Bueno, de mi casa, de mi familia, lo que me inculcaron.
 
-251
-00:20:00,991 --> 00:20:06,732
+248
+00:20:01,011 --> 00:20:06,752
 mi padre de muy chico, lo...
 
-252
-00:20:06,712 --> 00:20:10,630
+249
+00:20:06,752 --> 00:20:10,670
 los valores y los valores que después seguir.
 
-253
-00:20:10,610 --> 00:20:15,051
+250
+00:20:10,670 --> 00:20:15,111
 fomentando y creciendo con ello en el Barcelona.
 
-254
-00:20:15,031 --> 00:20:18,561
+251
+00:20:15,111 --> 00:20:18,641
 Como hablábamos antes, desde muy chico yo crecí en...
 
-255
-00:20:18,541 --> 00:20:23,691
+252
+00:20:18,641 --> 00:20:23,791
 En España pasé la gran parte de mi vida
 
-256
-00:20:23,671 --> 00:20:27,572
+253
+00:20:23,791 --> 00:20:27,692
 Ahí, en el club, en el Barcelona, creo que...
 
-257
+254
 00:20:29,290 --> 00:20:33,478
 que los valores que me enseñaron de chico, tanto en mi casa como...
 
-258
-00:20:33,458 --> 00:20:39,807
+255
+00:20:33,478 --> 00:20:39,827
 como en el club, en el Barcelona, fueron lo que me hicieron crecer como persona, ser lo que soy hoy.
 
-259
-00:20:39,787 --> 00:20:44,346
+256
+00:20:39,827 --> 00:20:44,386
 y lo que intento inculcar a mis hijos.
 
-260
-00:20:44,326 --> 00:20:47,856
+257
+00:20:44,386 --> 00:20:47,916
 en mi casa también, junto a mi mujer.
 
-261
-00:20:47,836 --> 00:20:51,289
+258
+00:20:47,916 --> 00:20:51,369
 ¿Qué sucede en el campo o en la calle, ganar o perder?
 
-262
-00:20:51,309 --> 00:20:54,741
+259
+00:20:51,369 --> 00:20:54,801
 Cuando regresas, ¿quién eres cuando caminas por la puerta del frente?
 
-263
+260
 00:20:54,873 --> 00:21:01,626
 Bueno, la verdad que siempre soy yo mismo y más allá de la...
 
-264
-00:21:01,606 --> 00:21:05,760
+261
+00:21:01,626 --> 00:21:05,780
 de la repercusión que pueda llegar a tener mi...
 
-265
-00:21:05,740 --> 00:21:10,165
+262
+00:21:05,780 --> 00:21:10,205
 mis actos, mi manera de ser, creo que es la mejor manera siempre de...
 
-266
-00:21:10,145 --> 00:21:15,063
+263
+00:21:10,205 --> 00:21:15,123
 de que vi yo fue ser uno mismo.
 
-267
+264
 00:21:15,445 --> 00:21:17,151
 Y, obviamente, cuando entro
 
-268
-00:21:17,131 --> 00:21:21,268
+265
+00:21:18,590 --> 00:21:21,288
 a mi casa, con mi familia.
 
-269
-00:21:21,248 --> 00:21:25,943
+266
+00:21:21,288 --> 00:21:25,983
 un papá normal, un marido normal, como hace cualquiera.
 
-270
-00:21:25,923 --> 00:21:30,162
+267
+00:21:25,983 --> 00:21:30,222
 con las obligaciones que tiene uno como...
 
-271
-00:21:30,142 --> 00:21:35,983
+268
+00:21:30,222 --> 00:21:36,063
 como padre, como parido, como cualquiera y ser una persona normal.
 
-272
-00:21:35,963 --> 00:21:40,253
+269
+00:21:36,063 --> 00:21:40,353
 como lo soy más allá de todo lo que...
 
-273
-00:21:40,233 --> 00:21:45,214
+270
+00:21:40,353 --> 00:21:45,334
 lo que me pasa o la fama o el reconocimiento que pueda tener.
 
-274
-00:21:45,194 --> 00:21:50,850
+271
+00:21:45,334 --> 00:21:50,990
 Afuera, dentro de mi casa, soy una persona muy normal, como...
 
-275
-00:21:50,830 --> 00:21:57,837
+272
+00:21:50,990 --> 00:21:57,997
 como cualquiera, la que reta a sus hijos, la que pone límites, la que juega con ellos, la que comparte con ellos.
 
-276
-00:21:57,817 --> 00:22:02,882
+273
+00:21:57,997 --> 00:22:03,062
 con eso, con mi mujer y una vida muy normal también.
 
-277
-00:22:03,048 --> 00:22:06,966
+274
+00:22:03,062 --> 00:22:06,980
 ¿Cómo se siente hoy sobre el futuro como jugador?
 
-278
+275
 00:22:07,334 --> 00:22:10,534
 Bueno, la verdad es que me siento muy bien hoy por hoy.
 
-279
+276
 00:22:10,555 --> 00:22:12,990
 Estoy disfrutando de...
 
-280
-00:22:12,970 --> 00:22:19,437
+277
+00:22:12,990 --> 00:22:19,457
 de dónde estoy, de lo que hago, del día a día, del entrenamiento, de los partidos, de mis amigos, de mi familia.
 
-281
-00:22:19,417 --> 00:22:21,589
+278
+00:22:19,457 --> 00:22:21,629
 Disfruto cuando voy a Argentina.
 
-282
+279
 00:22:21,971 --> 00:22:24,685
 Disfruto mucho más quizás que cuando era...
 
-283
-00:22:24,665 --> 00:22:31,165
+280
+00:22:24,685 --> 00:22:31,185
 Cuando era joven y no me he dado cuenta de muchas cosas, disfruto más lo pequeño.
 
-284
-00:22:31,145 --> 00:22:37,375
+281
+00:22:31,185 --> 00:22:37,415
 de detalle que por ahí no le daba importancia, y la verdad que me siento feliz.
 
-285
-00:22:37,355 --> 00:22:41,965
+282
+00:22:37,415 --> 00:22:42,025
 Y viviendo el día a día, nunca fui de...
 
-286
-00:22:41,945 --> 00:22:45,593
+283
+00:22:42,025 --> 00:22:45,673
 de pensar en el futuro, sino...
 
-287
-00:22:45,573 --> 00:22:52,545
+284
+00:22:45,673 --> 00:22:52,645
 Vivir el día a día y yo creo que cuando pasan las cosas es porque tiene que ser así, porque tiene que pasar.
 
-288
-00:22:52,525 --> 00:22:57,112
+285
+00:22:52,645 --> 00:22:57,232
 y pasar de esa manera y no me adelanto a nada.
 
-289
-00:22:57,153 --> 00:22:58,722
+286
+00:22:57,232 --> 00:22:58,801
 Simplemente...
 
-290
-00:22:58,702 --> 00:23:03,078
-Una cosa más.
+287
+00:22:59,477 --> 00:23:02,258
+Disfrutar y vivir lo que lo que me pasa hoy.
 
-291
-00:23:03,098 --> 00:23:05,708
-¿Posible?
+288
+00:23:02,620 --> 00:23:03,603
+One more thing.
 
-292
-00:23:05,688 --> 00:23:06,485
-jajajaja
+289
+00:23:04,450 --> 00:23:05,787
+Poss ball?
 
