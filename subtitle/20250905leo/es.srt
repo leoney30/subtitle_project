@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,212 --> 00:00:03,391
 Leo, 20 años jugando por eliminatorias, toda una vida.
 
@@ -27,7 +27,7 @@ Pero siempre es una alegría jugar en Argentina, delante de nuestra gente.
 Y más obviamente después de ganar.
 
 8
-00:00:29,780 --> 00:00:31,824
+00:00:29,780 --> 00:00:32,699
 Hace muchos años que venimos.
 
 9
@@ -39,7 +39,7 @@ disfrutando partido tras partido.
 Bueno, muy feliz, muy feliz
 
 11
-00:00:41,298 --> 00:00:45,424
+00:00:41,298 --> 00:00:46,605
 Cuando entraste con tus hijos también, cuando terminó el himno, ¿qué se te pasó por la cabeza?
 
 12
@@ -75,7 +75,7 @@ Y bueno, mi sueño era tenerlo acá también en mi país con mi gente.
 Durante muchos años hablaron.
 
 20
-00:01:11,313 --> 00:01:13,941
+00:01:11,313 --> 00:01:15,566
 muchas cosas pero me quedo con todo lo bueno que hicimos.
 
 21
@@ -83,7 +83,7 @@ muchas cosas pero me quedo con todo lo bueno que hicimos.
 con el grupo que lo intentó, que no consiguió.
 
 22
-00:01:19,737 --> 00:01:24,287
+00:01:19,737 --> 00:01:25,312
 consagrarse y bueno, después se me dio a mí y a uno más de la camada anterior.
 
 23
@@ -103,130 +103,118 @@ Lo dijiste por lógica de calendario.
 Lo mismo que dije en su momento, no creo que juegue el otro Mundial, por edad lo más lógico es que...
 
 27
-00:01:38,024 --> 00:01:44,129
-Pero bueno, ya estamos ahí, estoy ilusionado con Ana, pero como dije, siempre voy.
+00:01:38,024 --> 00:01:47,514
+Pero bueno, ya estamos ahí, estoy ilusionado con Ana, pero como dije, siempre voy. día a día. 
 
 28
-00:01:44,711 --> 00:01:46,864
-día a día.
-
-29
 00:01:48,232 --> 00:01:52,296
 partió otros partidos, este año tuvimos muchísimos partidos, muchas seguidillas, uno tras otro.
 
+29
+00:01:52,716 --> 00:01:55,575
+Ahora vengo de... De estar para uno día y... 
+
 30
-00:01:52,316 --> 00:01:53,377
-Ahora vengo de...
-
-31
-00:01:54,129 --> 00:01:55,300
-De estar para uno día y...
-
-32
 00:01:57,671 --> 00:02:00,851
 Volví, volví a ressentir y ahora por suerte puedo.
 
-33
+31
 00:02:01,494 --> 00:02:05,945
 Pude jugar tres partidos seguidos y es eso, ir día a día.
 
-34
+32
 00:02:07,729 --> 00:02:12,658
 sintiendo sensaciones y nada, lo que sí está claro que hoy era...
 
-35
+33
 00:02:13,741 --> 00:02:16,894
 el último por los puntos acá y ahora el mar, como vemos hasta ahora.
 
-36
+34
 00:02:18,339 --> 00:02:24,127
 día a día intentando sentirme bien y sobre todo
 
-37
+35
 00:02:25,611 --> 00:02:30,026
 ser sincero conmigo mismo, cuando yo me siento bien disfruto y si no...
 
-38
+36
 00:02:30,668 --> 00:02:35,678
 Si no estoy bien, la verdad que la paso mal, prefiero no estar, así que nada, iremos viendo.
 
-39
+37
 00:02:35,958 --> 00:02:39,148
 Eso quiere decir que no tenés una decisión tomada todavía con respecto al próximo mundial.
 
-40
+38
 00:02:39,569 --> 00:02:41,733
 No, tampoco es lo que vengo diciendo, ¿no?
 
-41
+39
 00:02:41,773 --> 00:02:42,955
 Es partido tras partido.
 
-42
+40
 00:02:43,676 --> 00:02:46,284
 ¿Por qué estábamos más cerca, a las nueve de la noche, si es ahí nomás?
 
-43
+41
 00:02:47,086 --> 00:02:51,701
 a esta altura, nueve meses, como pasa muy rápido, al mismo tiempo es un montón, ¿no?
 
-44
+42
 00:02:52,142 --> 00:02:53,627
 Pero nada, nosotros terminamos...
 
-45
+43
 00:02:54,129 --> 00:02:57,806
 en la temporada ahora a fin de año y después me toca hacer una pretemporada.
 
-46
-00:02:58,727 --> 00:03:03,600
-Me van a quedar seis meses y bueno, veré cómo me iré sentiendo y espero hacer una buena...
+44
+00:02:58,727 --> 00:03:05,123
+Me van a quedar seis meses y bueno, veré cómo me iré sentiendo y espero hacer una buena... pretemporada. 
 
-47
-00:03:04,562 --> 00:03:05,123
-pretemporada.
-
-48
-00:03:05,143 --> 00:03:09,790
+45
+00:03:05,143 --> 00:03:09,965
 A terminar bien este campeonato en la MLS, ojalá jugamos con el primer objetivo de ser.
 
-49
+46
 00:03:10,411 --> 00:03:12,675
 de ser campeones y después prepararnos.
 
-50
-00:03:12,695 --> 00:03:13,396
+47
+00:03:12,695 --> 00:03:14,221
 Perdón, voy para atrás.
 
-51
+48
 00:03:14,658 --> 00:03:18,146
 ¿Vos sabéis que la gente no está preparada para que deciden vender la camiseta argentina vos?
 
-52
+49
 00:03:18,628 --> 00:03:20,716
 ¿Crees que estás preparado para que ese momento llegue?
 
-53
+50
 00:03:20,937 --> 00:03:21,901
 No, obviamente que...
 
-54
+51
 00:03:22,703 --> 00:03:27,351
 que no, y un poco pasaba por eso también cuando salí hoy a la cancha, obviamente.
 
-55
+52
 00:03:28,342 --> 00:03:33,716
 que no es algo que me guste, que quiero, ni que estoy esperando, pero como dije recién, no.
 
-56
+53
 00:03:34,976 --> 00:03:41,782
 va pasando el tiempo, ya son muchos años y bueno a veces me siento bien, a veces no tan bien, así que depende mucho de eso.
 
-57
+54
 00:03:42,146 --> 00:03:42,651
 Gracias, Leo.
 
-58
+55
 00:03:42,732 --> 00:03:43,156
 Muchas gracias.
 
