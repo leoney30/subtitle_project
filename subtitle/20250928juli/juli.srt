@@ -23,15 +23,15 @@ Bienvenido amigo.
 Muchas gracias.
 
 7
-00:00:15,326 --> 00:00:16,967
+00:00:15,326 --> 00:00:17,917
 Yo pensé que eras mi hermano esto.
 
 8
-00:00:18,170 --> 00:00:19,718
+00:00:19,626 --> 00:00:21,174
 Escúchame 15 días, amigo, me quedo.
 
 9
-00:00:19,798 --> 00:00:20,080
+00:00:21,174 --> 00:00:22,231
 ¿Estás bien?
 
 10
@@ -47,19 +47,19 @@ Sí, sí, aparte de paso... Pero o sea, te dejo con el desachor incluido.
 ¿Cómo anda el hombre?
 
 13
-00:00:28,514 --> 00:00:29,436
+00:00:28,514 --> 00:00:31,379
 El que metió tres ayer.
 
 14
-00:00:31,379 --> 00:00:31,940
+00:00:31,379 --> 00:00:32,240
 Se me abrió el arco.
 
 15
-00:00:31,960 --> 00:00:32,660
+00:00:33,085 --> 00:00:34,260
 Si, te confundiste ayer.
 
 16
-00:00:32,680 --> 00:00:33,681
+00:00:36,780 --> 00:00:39,006
 Tenía el arco un poco cerrado.
 
 17
@@ -2667,7 +2667,7 @@ A parte lo hacen cantar a los nuevos.
 Sí, el debut es que vas y va uno así, se siente y está en tu lugar.
 
 668
-00:29:38,469 --> 00:29:39,011
+00:29:38,469 --> 00:29:40,361
 Yo soy el pibito.
 
 669
@@ -2727,2174 +2727,2138 @@ Eso es lo que pasa.
 ¿Y vos cuántos años?
 
 683
-00:30:22,388 --> 00:30:22,368
-15.
-
-684
 00:30:22,548 --> 00:30:23,370
 Y le gané al último.
 
-685
+684
 00:30:24,573 --> 00:30:25,696
 Uno, me fui con esa.
 
-686
+685
 00:30:26,277 --> 00:30:31,164
 Y en el bondi lo mismo con el tema de los lugares en la selección.
 
-687
+686
 00:30:32,346 --> 00:30:34,208
 ¿Con más jerarquía atrás hacia adelante?
 
-688
+687
 00:30:36,310 --> 00:30:38,018
 Cada uno, donde quiera.
 
-689
+688
 00:30:38,038 --> 00:30:38,801
 ¿Vos bien atrás?
 
-690
+689
 00:30:40,502 --> 00:30:42,248
 Depende del colectivo que sea.
 
-691
+690
 00:30:48,247 --> 00:30:52,078
 A veces, cuando son los grandes de dos pisos, voy adelante.
 
-692
+691
 00:30:53,120 --> 00:30:57,627
 y cuando son unos que vamos todos juntos, en los torneos casi siempre es uno.
 
-693
+692
 00:30:58,208 --> 00:30:59,810
 Sí, el que va un poco más atrás.
 
-694
+693
 00:30:59,970 --> 00:31:00,291
 El de 2-2-2
 
-695
+694
 00:31:01,794 --> 00:31:07,389
 y más adelante los entrenadores, después arrancan oficios y cosas, después jerarquía.
 
-696
+695
 00:31:08,845 --> 00:31:13,752
 Y es jerarquía, no me digas que no, porque sí, y el doble te gusta ir arriba mirando la ruta.
 
-697
+696
 00:31:14,673 --> 00:31:15,476
 Si, voy a ir uno de los primeros.
 
-698
+697
 00:31:15,516 --> 00:31:18,507
 Haciéndote el enamorado, mirando la ruta, mirando perfume de mujeres.
 
-699
+698
 00:31:18,588 --> 00:31:19,471
 Vamos, no nos mates.
 
-700
+699
 00:31:20,334 --> 00:31:21,396
 ¿Con quién te sentás siempre ahí?
 
-701
+700
 00:31:21,957 --> 00:31:22,558
 ¿Con Enzo también?
 
-702
+701
 00:31:23,680 --> 00:31:24,722
 ¿Es el próximo invitado o no?
 
-703
+702
 00:31:26,445 --> 00:31:27,148
 Sí, que está en Londres.
 
-704
+703
 00:31:27,168 --> 00:31:27,709
 No lo conozco.
 
-705
+704
 00:31:31,059 --> 00:31:32,921
 No conozco, pero sí, sin duda.
 
-706
+705
 00:31:33,482 --> 00:31:35,224
 Se lo voy a hacer a Enzo y le voy a preguntar lo mismo.
 
-707
+706
 00:31:39,524 --> 00:31:40,106
 Está todo mojado.
 
-708
+707
 00:31:40,126 --> 00:31:41,810
 ¿Cómo lo metes en la casa y qué onda?
 
-709
+708
 00:31:44,076 --> 00:31:46,702
 Ahora nos quedan a pedo a él y a mí si entramos.
 
-710
+709
 00:31:48,727 --> 00:31:49,530
 ¿Y eso cómo te trae?
 
-711
+710
 00:31:49,570 --> 00:31:52,962
 Lo de... Lo de... Vamos, vamos por ahí.
 
-712
+711
 00:31:53,003 --> 00:31:53,384
 Lo de...
 
-713
+712
 00:31:55,170 --> 00:31:55,892
 que van a ser papás.
 
-714
+713
 00:31:56,213 --> 00:31:57,256
 ¿Te asusta o no?
 
-715
+714
 00:31:57,918 --> 00:31:58,821
 ¿Estás nervioso?
 
-716
+715
 00:31:59,743 --> 00:32:04,323
 Estoy tranquilo, pero sí que algunas cosas... ¿Te querés sentar ahí?
 
-717
+716
 00:32:04,343 --> 00:32:05,106
 ¿Querés que nos sentemos ahí?
 
-718
+717
 00:32:05,427 --> 00:32:07,230
 Bueno, pero hay que entrar por ahí.
 
-719
+718
 00:32:07,691 --> 00:32:08,031
 ¿El qué?
 
-720
+719
 00:32:09,554 --> 00:32:11,958
 Sí que hay... tranquilo, pero sí que hay algunas cosas que...
 
-721
+720
 00:32:13,878 --> 00:32:16,321
 que te dan un poco de miedo porque es algo nuevo.
 
-722
+721
 00:32:19,745 --> 00:32:24,624
 Te dan el título de papá, pero después de tener que ejercerlo como...
 
-723
+722
 00:32:25,528 --> 00:32:28,644
 Como un toro, como un toro, no arrugues.
 
-724
+723
 00:32:29,348 --> 00:32:32,104
 Lo agarras así, el día que te lo dan no vas a poder entender nada amigo.
 
-725
+724
 00:32:32,808 --> 00:32:34,532
 Vas a decir ¿qué hago con esta persona acá?
 
-726
+725
 00:32:34,552 --> 00:32:38,040
 Cierra la puerta de tu casa y estás con Amadeo así diciendo ¿y ahora?
 
-727
+726
 00:32:39,125 --> 00:32:40,210
 Así que te da tu vieja cerca.
 
-728
+727
 00:32:40,732 --> 00:32:40,993
 Sí.
 
-729
+728
 00:32:41,777 --> 00:32:42,319
 Así que eso.
 
-730
+729
 00:32:43,203 --> 00:32:45,051
 Pero eso te da un poco de miedo?
 
-731
+730
 00:32:45,594 --> 00:32:47,642
 Sentes como se puede cambiar algo en lo deportivo o no?
 
-732
+731
 00:32:48,265 --> 00:32:48,927
 No, no.
 
-733
+732
 00:32:48,987 --> 00:32:49,990
 Te de mucha ayuda igual.
 
-734
+733
 00:32:50,010 --> 00:32:50,451
 No, la crianza.
 
-735
+734
 00:32:52,659 --> 00:32:54,225
 ¿Cómo te imaginas, qué padre puede ser?
 
-736
+735
 00:32:56,875 --> 00:32:58,057
 ¿Cuándo sí, cuándo no?
 
-737
+736
 00:32:58,157 --> 00:32:58,598
 ¿Qué es cosa así?
 
-738
+737
 00:32:58,638 --> 00:33:01,083
 Pero bueno, creo que un poco se va dando.
 
-739
+738
 00:33:01,103 --> 00:33:02,265
 Pero vos sos muy joven, amigo.
 
-740
+739
 00:33:03,408 --> 00:33:03,929
 Soy joven.
 
-741
+740
 00:33:04,410 --> 00:33:05,291
 ¿Qué, 29 pulgadas, eh?
 
-742
+741
 00:33:07,432 --> 00:33:08,096
 Son 29... ¡29 toritos!
 
-743
+742
 00:33:11,394 --> 00:33:15,002
 Escucha, no te quiero ensuciar esto porque mira como se sacan los zapatos.
 
-744
+743
 00:33:18,088 --> 00:33:19,490
 ¿Te da miedo eso entonces?
 
-745
+744
 00:33:21,412 --> 00:33:22,012
 ¿No está sucio?
 
-746
+745
 00:33:22,032 --> 00:33:24,335
 Sí, esas cosas, pero estoy tranquilo también.
 
-747
+746
 00:33:25,317 --> 00:33:26,802
 Emi sí es un poco más ansiosa, capaz.
 
-748
+747
 00:33:27,464 --> 00:33:31,117
 Que falta poco, el parto y todas esas cosas, pero...
 
-749
+748
 00:33:32,567 --> 00:33:33,289
 Vas a dormir poco.
 
-750
+749
 00:33:34,773 --> 00:33:35,635
 O los días de partido.
 
-751
+750
 00:33:35,796 --> 00:33:38,624
 Te recomiendo algo que no escuché porque no escuché.
 
-752
+751
 00:33:39,508 --> 00:33:41,152
 Otro cuarto.
 
-753
+752
 00:33:41,894 --> 00:33:42,977
 Hasta mañana, chica.
 
-754
+753
 00:33:43,137 --> 00:33:45,864
 Y jugamos el otro día para que sigue.
 
-755
+754
 00:33:47,383 --> 00:33:48,105
 Vos tenés que dormir.
 
-756
+755
 00:33:49,309 --> 00:33:50,273
 Después sí, si después...
 
-757
+756
 00:33:52,700 --> 00:33:55,043
 El rol del padre al principio es como... No hace nada, ¿no?
 
-758
+757
 00:33:55,063 --> 00:33:57,427
 Sí va a hacer, sí le tiene que dar la tita a vos.
 
-759
+758
 00:33:57,988 --> 00:33:58,970
 Pero ellas quieren que estés así.
 
-760
+759
 00:33:59,090 --> 00:34:00,914
 A vos, a vos te sacan.
 
-761
+760
 00:34:00,994 --> 00:34:02,618
 Ni te acerques que es un desastre.
 
-762
+761
 00:34:02,998 --> 00:34:03,520
 Ah, mira cómo...
 
-763
+762
 00:34:05,210 --> 00:34:07,453
 Bill dice que yo no estuve directamente.
 
-764
+763
 00:34:07,513 --> 00:34:08,954
 Es mentira, es una farsa.
 
-765
+764
 00:34:10,093 --> 00:34:12,215
 Pero explícame esto.
 
-766
+765
 00:34:12,275 --> 00:34:14,577
 Te gustan los equipos, los grupos.
 
-767
+766
 00:34:14,637 --> 00:34:15,098
 Está bien.
 
-768
+767
 00:34:16,738 --> 00:34:21,252
 Yo duermo ahora toda la noche y vos dormís durante el día.
 
-769
+768
 00:34:22,158 --> 00:34:25,510
 Yo no tengo nada que hacer a las tres de la mañana cuando te caigas la tita.
 
-770
+769
 00:34:25,550 --> 00:34:26,312
 ¿Qué crees que está así?
 
-771
+770
 00:34:26,653 --> 00:34:28,156
 Hay que repartirse las tareas.
 
-772
+771
 00:34:28,517 --> 00:34:29,619
 Exactamente.
 
-773
+772
 00:34:29,699 --> 00:34:30,962
 Y para ser más eficientes.
 
-774
+773
 00:34:31,243 --> 00:34:31,926
 Exacto.
 
-775
+774
 00:34:32,026 --> 00:34:33,734
 De a poquito lo vas entendiendo.
 
-776
+775
 00:34:36,784 --> 00:34:38,385
 Igual sí, hay que ayudar.
 
-777
+776
 00:34:39,266 --> 00:34:41,868
 No es el fútbol, no es la pelotita y listo.
 
-778
+777
 00:34:43,691 --> 00:34:45,676
 ¿Tienes chef ahora?
 
-779
+778
 00:34:45,956 --> 00:34:47,159
 Eso no te tiene que preocupar.
 
-780
+779
 00:34:48,422 --> 00:34:51,289
 No te he ido a probar ni la comida, ni... bueno, está tu vieja.
 
-781
+780
 00:34:51,831 --> 00:34:52,873
 O sea, ¿querés salir un día?
 
-782
+781
 00:34:53,053 --> 00:34:53,374
 ¿Salís?
 
-783
+782
 00:34:55,377 --> 00:34:56,137
 Sí, con Nemi.
 
-784
+783
 00:34:56,998 --> 00:35:00,522
 Sí, poco, porque no le gusta tanto salir a él.
 
-785
+784
 00:35:01,063 --> 00:35:01,845
 ¿Te rompe mucho?
 
-786
+785
 00:35:02,046 --> 00:35:04,653
 O sea, no es por eso, sé que no, pero la gente...
 
-787
+786
 00:35:06,037 --> 00:35:07,723
 Más o menos, un poco, pero normal.
 
-788
+787
 00:35:07,763 --> 00:35:08,848
 Si vamos a cenar, no pasa nada.
 
-789
+788
 00:35:10,313 --> 00:35:14,166
 Cuando fuimos a Formentera la gente te paraba, a vos no te molesta.
 
-790
+789
 00:35:14,981 --> 00:35:17,727
 Pero por ahí, en el momento que está más tranquilo...
 
-791
+790
 00:35:18,548 --> 00:35:19,171
 Sí, normal.
 
-792
+791
 00:35:19,211 --> 00:35:22,487
 Quiere que está tranquilo, pasa desapercibido.
 
-793
+792
 00:35:23,752 --> 00:35:29,352
 Y sí, pero mientras sean unos cuantos no pasa nada, que tampoco sean de tanto.
 
-794
+793
 00:35:29,974 --> 00:35:30,796
 No, no, no.
 
-795
+794
 00:35:31,637 --> 00:35:32,278
 Sí, me imagino.
 
-796
+795
 00:35:32,298 --> 00:35:34,081
 Pero hay veces que tenés ganas de estar más tranqui.
 
-797
+796
 00:35:34,782 --> 00:35:37,085
 Nos gusta estar bastante acá en casa.
 
-798
+797
 00:35:38,969 --> 00:35:41,676
 Pero nada, sí salimos de ese escenario.
 
-799
+798
 00:35:42,315 --> 00:35:46,229
 ¿Qué extrañas antes de que vos seas conocido?
 
-800
+799
 00:35:47,072 --> 00:35:47,674
 ¿Qué extrañas?
 
-801
+800
 00:35:48,116 --> 00:35:49,845
 ¿Te gustaba ir al cine?
 
-802
+801
 00:35:50,086 --> 00:35:50,529
 No, no iba mucho.
 
-803
+802
 00:35:51,875 --> 00:35:56,540
 pero eso de andar en la calle o salir por ahí o estar con mis amigos.
 
-804
+803
 00:35:57,401 --> 00:35:58,742
 Poder hacer cualquier cosa.
 
-805
+804
 00:35:59,383 --> 00:36:01,506
 No cualquier cosa, pero... Entiendo.
 
-806
+805
 00:36:03,159 --> 00:36:05,106
 Salía un boliche, ponele, no ahora.
 
-807
+806
 00:36:05,126 --> 00:36:06,812
 Pero vos estás repitiendo la pregunta de Momo.
 
-808
+807
 00:36:07,876 --> 00:36:08,177
 ¿De quién?
 
-809
+808
 00:36:09,673 --> 00:36:12,567
 ¿De Momo dije la misma?
 
-810
+809
 00:36:12,607 --> 00:36:13,653
 Pero me intrigaba, boludo.
 
-811
+810
 00:36:14,677 --> 00:36:17,302
 Una vez que estoy hablando en serio de esto me interrumpes.
 
-812
+811
 00:36:17,323 --> 00:36:18,405
 Está despedido.
 
-813
+812
 00:36:20,088 --> 00:36:21,470
 Está despedido, está despedido.
 
-814
+813
 00:36:25,518 --> 00:36:26,885
 Ah, eso, ese capa...
 
-815
+814
 00:36:29,195 --> 00:36:32,179
 No sé, nos pasó en las últimas ocasiones que estuvimos...
 
-816
+815
 00:36:34,081 --> 00:36:39,066
 No me conocía nadie y no había mucha gente, estábamos en la playa.
 
-817
+816
 00:36:39,947 --> 00:36:43,236
 Y yo corrí, asaltaba, me tiraba como un boludo por cualquier lado.
 
-818
+817
 00:36:44,760 --> 00:36:47,303
 y nadie me veía ni nadie me decía nada.
 
-819
+818
 00:36:47,344 --> 00:36:48,505
 Emilia se quedaba de risa.
 
-820
+819
 00:36:50,368 --> 00:36:53,779
 disfrutar y también tener ese momento de hacer cualquier cosa y que nadie...
 
-821
+820
 00:36:54,320 --> 00:36:56,444
 Nadie me va a estar mirando ni juzgando.
 
-822
+821
 00:36:56,484 --> 00:36:59,009
 Había unos viejos que te preguntaban qué hacías.
 
-823
+822
 00:36:59,750 --> 00:37:03,115
 Sí, bueno, ahí preguntan qué hacen acá, están de luna de miel.
 
-824
+823
 00:37:04,897 --> 00:37:06,883
 Les parecía raro que éramos jóvenes y estábamos ahí.
 
-825
+824
 00:37:10,122 --> 00:37:10,443
 Sí, sí, sí.
 
-826
+825
 00:37:10,583 --> 00:37:11,686
 Era que nos dedicábamos.
 
-827
+826
 00:37:11,706 --> 00:37:14,253
 ¿Lo inventaste o le dijiste que jugaba al fútbol?
 
-828
+827
 00:37:14,274 --> 00:37:15,717
 No, le dije que jugaba al fútbol.
 
-829
+828
 00:37:16,019 --> 00:37:16,964
 Y no entendía nada.
 
-830
+829
 00:37:17,004 --> 00:37:18,553
 Soccer, ¿lo dijiste?
 
-831
+830
 00:37:20,020 --> 00:37:24,126
 Hablando de soccer, tengo una sorpresa para darte.
 
-832
+831
 00:37:26,249 --> 00:37:26,770
 Voy al Mundial.
 
-833
+832
 00:37:27,690 --> 00:37:28,442
 ¿Mal, me da miedo?
 
-834
+833
 00:37:30,290 --> 00:37:31,133
 Bueno.
 
-835
+834
 00:37:31,153 --> 00:37:34,241
 ¿Va a hinchar a Argentina o a quién?
 
-836
+835
 00:37:36,262 --> 00:37:36,906
 ¿Y aquí mancha?
 
-837
+836
 00:37:36,926 --> 00:37:38,917
 Ah, porque eso es medio inglés ya.
 
-838
+837
 00:37:39,762 --> 00:37:42,045
 ¿Qué está diciéndote flaco?
 
-839
+838
 00:37:42,625 --> 00:37:44,608
 ¿De quién me hablas?
 
-840
+839
 00:37:45,188 --> 00:37:46,270
 Banco todas las lecciones.
 
-841
+840
 00:37:46,750 --> 00:37:48,173
 Quiero con el bombo, con la bandera, con todo.
 
-842
+841
 00:37:53,924 --> 00:37:54,265
 Bien.
 
-843
+842
 00:37:54,485 --> 00:37:55,047
 Sí, sí, sí.
 
-844
+843
 00:37:55,067 --> 00:37:55,588
 No escapó.
 
-845
+844
 00:37:55,608 --> 00:37:55,868
 No escapó.
 
-846
+845
 00:37:58,816 --> 00:38:01,635
 Son los capos, mis amigos del Tower Sport.
 
-847
+846
 00:38:02,781 --> 00:38:06,979
 me llevan al Mundial, te voy a ir a ver, ojalá que bueno.
 
-848
+847
 00:38:07,241 --> 00:38:09,496
 que sea lo mejor para todos los argentinos, siempre.
 
-849
+848
 00:38:11,153 --> 00:38:13,844
 Trae buenas vibras.
 
-850
+849
 00:38:14,106 --> 00:38:15,029
 Ya ganaste todo.
 
-851
+850
 00:38:17,117 --> 00:38:18,719
 No importa, no importa, hay que seguir.
 
-852
+851
 00:38:18,739 --> 00:38:19,599
 Con la Devi no fue bien.
 
-853
+852
 00:38:19,880 --> 00:38:20,680
 Con la Devi no fue bien.
 
-854
+853
 00:38:20,700 --> 00:38:21,161
 ¿Qué más querís?
 
-855
+854
 00:38:21,301 --> 00:38:21,681
 Hay que seguir.
 
-856
+855
 00:38:21,701 --> 00:38:22,702
 Con los Puma no fue bien.
 
-857
+856
 00:38:23,022 --> 00:38:23,523
 Hay que seguir.
 
-858
+857
 00:38:24,466 --> 00:38:25,229
 Fue terrible.
 
-859
+858
 00:38:25,430 --> 00:38:26,394
 Una y para afuera.
 
-860
+859
 00:38:26,534 --> 00:38:27,177
 Demostrarte esa...
 
-861
+860
 00:38:28,843 --> 00:38:30,448
 De momento enfoca esa cámara.
 
-862
+861
 00:38:30,468 --> 00:38:30,588
 ¿Qué?
 
-863
+862
 00:38:30,649 --> 00:38:32,313
 Esa cámara no, ese monitor.
 
-864
+863
 00:38:35,503 --> 00:38:37,551
 Sí, me lo regalaron para el cumpleaños, pero sí.
 
-865
+864
 00:38:38,194 --> 00:38:39,921
 Mira, un partido de fútbol ahí...
 
-866
+865
 00:38:40,815 --> 00:38:43,101
 de la Champions y otra de la Copa Libertadores, ponele.
 
-867
+866
 00:38:44,183 --> 00:38:45,186
 Acá la Libertadores.
 
-868
+867
 00:38:45,206 --> 00:38:45,527
 Simultáneo.
 
-869
+868
 00:38:46,429 --> 00:38:47,954
 Miro uno de rugby y uno de fútbol.
 
-870
+869
 00:38:48,075 --> 00:38:48,476
 ¿Uno de?
 
-871
+870
 00:38:48,616 --> 00:38:49,600
 De rugby y uno de fútbol.
 
-872
+871
 00:38:49,620 --> 00:38:50,764
 ¿Seguís mirando de rugby ahora?
 
-873
+872
 00:38:51,025 --> 00:38:52,410
 No era que mirabas por mí nomás.
 
-874
+873
 00:38:53,475 --> 00:38:55,406
 Claro, con los de Facebook...
 
-875
+874
 00:38:57,356 --> 00:38:58,199
 Quedó ahí el monitor.
 
-876
+875
 00:38:58,460 --> 00:38:59,544
 Quedó ahí, quedó ahí.
 
-877
+876
 00:38:59,584 --> 00:39:00,146
 Tiene polvo.
 
-878
+877
 00:39:00,788 --> 00:39:03,234
 Tu camiseta que me regalaste.
 
-879
+878
 00:39:03,254 --> 00:39:03,695
 ¿La tenés ahí?
 
-880
+879
 00:39:07,382 --> 00:39:08,023
 ¿La tenés o no?
 
-881
+880
 00:39:08,183 --> 00:39:10,267
 Ahora me la vas a mostrar ahí.
 
-882
+881
 00:39:10,327 --> 00:39:12,370
 Todas las camisetas que regalo las uso.
 
-883
+882
 00:39:13,511 --> 00:39:17,136
 Porque no existen las camisetas de los Pumas.
 
-884
+883
 00:39:17,758 --> 00:39:21,435
 tienen acá la fecha, el estadio.
 
-885
+884
 00:39:22,598 --> 00:39:24,041
 ¿El rival?
 
-886
+885
 00:39:24,301 --> 00:39:27,086
 El rival, acá el número mi nombre y el número de caps.
 
-887
+886
 00:39:28,067 --> 00:39:30,451
 Es partido que uno tiene y de espuma.
 
-888
+887
 00:39:31,573 --> 00:39:32,375
 Es imposible.
 
-889
+888
 00:39:32,760 --> 00:39:33,261
 ¿Cuánto partió?
 
-890
-00:39:33,281 --> 00:39:33,261
-110.
-
-891
+889
 00:39:33,301 --> 00:39:34,343
 Ya me pasó Pablo Matera.
 
-892
+890
 00:39:37,088 --> 00:39:39,474
 No sé, esas estadísticas no me las ves.
 
-893
+891
 00:39:42,841 --> 00:39:44,103
 ¿Por qué me haces esta hija?
 
-894
+892
 00:39:45,224 --> 00:39:46,446
 ¿Por qué me haces esa hija?
 
-895
+893
 00:39:46,466 --> 00:39:46,686
 ¿Vos?
 
-896
+894
 00:39:46,706 --> 00:39:47,547
 A ver, decime, ¿cuánto?
 
-897
+895
 00:39:48,069 --> 00:39:50,117
 Y yo tengo 400 partidos.
 
-898
+896
 00:39:52,345 --> 00:39:52,545
 ¿Qué hacés?
 
-899
+897
 00:39:52,565 --> 00:39:53,626
 Te digo que lo siento para ti.
 
-900
+898
 00:39:53,807 --> 00:39:54,327
 ¿Cuánto tenés?
 
-901
+899
 00:39:54,968 --> 00:39:55,428
 No, no sé.
 
-902
+900
 00:39:55,488 --> 00:39:56,209
 Más o menos, igual.
 
-903
+901
 00:39:56,269 --> 00:39:56,810
 No tengo ni idea.
 
-904
+902
 00:39:57,927 --> 00:39:58,890
 ¿Sabés de estadísticas?
 
-905
+903
 00:39:59,110 --> 00:40:00,855
 No, soy malísimo.
 
-906
+904
 00:40:01,898 --> 00:40:02,239
 Muy malo.
 
-907
+905
 00:40:02,588 --> 00:40:05,216
 Me la puedo ver ahora y me la olvido en los dos minutos.
 
-908
+906
 00:40:08,045 --> 00:40:12,381
 Quiero que muestres tu despacho, que es gracioso.
 
-909
+907
 00:40:13,469 --> 00:40:16,101
 Bueno, el despacho estaba ocupado
 
-910
+908
 00:40:19,333 --> 00:40:22,616
 no pudimos entrar, pero me trajo acá a la sala de juegos.
 
-911
+909
 00:40:23,518 --> 00:40:28,987
 que después te voy a jugar algo para demostrarte mi jerarquía sobre vos.
 
-912
+910
 00:40:30,229 --> 00:40:36,714
 que puede ganar copas, copas del mundo, trofeos, hat-tricks... Y a mí no.
 
-913
+911
 00:40:37,215 --> 00:40:39,982
 Bueno, llegó la sección...
 
-914
+912
 00:40:40,965 --> 00:40:46,677
 que lo hice en TikTok de nuestros amigos de Taquenos, que le voy a hacer un par de preguntas.
 
-915
+913
 00:40:47,659 --> 00:40:49,944
 que son preguntas picantes.
 
-916
+914
 00:40:50,806 --> 00:40:52,109
 Y acá tenemos un picante.
 
-917
+915
 00:40:53,355 --> 00:40:54,937
 No muestres la marca porque no nos pago de la marca.
 
-918
+916
 00:40:55,397 --> 00:40:57,059
 Una marca picante.
 
-919
+917
 00:40:57,719 --> 00:41:00,002
 La próxima vez... Pero lo dieron lo detaquen ese picante.
 
-920
+918
 00:41:00,746 --> 00:41:01,654
 y es la que más chiste
 
-921
+919
 00:41:05,038 --> 00:41:07,300
 Ahora la salsa picante es rara.
 
-922
+920
 00:41:07,340 --> 00:41:07,801
 Hacen todo.
 
-923
+921
 00:41:13,466 --> 00:41:18,073
 Si no queréis responder alguna, que lo abro.
 
-924
+922
 00:41:20,289 --> 00:41:20,912
 Te sirvo ahí.
 
-925
+923
 00:41:21,133 --> 00:41:22,177
 La tapita, sí.
 
-926
+924
 00:41:22,398 --> 00:41:23,965
 La voy a probar.
 
-927
+925
 00:41:26,656 --> 00:41:27,718
 Un asco, ¿cómo la probás?
 
-928
+926
 00:41:27,738 --> 00:41:28,580
 Con dedo, ¿no?
 
-929
+927
 00:41:28,640 --> 00:41:29,983
 No, no, un asco.
 
-930
+928
 00:41:30,003 --> 00:41:31,386
 Con dedo, total, ese dedo me ganó.
 
-931
+929
 00:41:31,968 --> 00:41:34,056
 O sea, explicáte ideas a ustedes morcillas.
 
-932
+930
 00:41:34,076 --> 00:41:34,960
 ¿Vos trae la soña a ver?
 
-933
+931
 00:41:35,000 --> 00:41:35,201
 No, no.
 
-934
+932
 00:41:37,108 --> 00:41:37,832
 Mostrar eso ya.
 
-935
+933
 00:41:38,013 --> 00:41:39,982
 Eso te iba a decir, el tema de la unidad.
 
-936
+934
 00:41:40,705 --> 00:41:44,655
 Se me rompió en un gimnasio, no es que me las como, un chico dijo que se las comía como él.
 
-937
+935
 00:41:45,137 --> 00:41:47,985
 No, las tengo bien, pero no me las como más, o sí.
 
-938
+936
 00:41:48,566 --> 00:41:49,850
 Pero esta se me rompió, se me cayó.
 
-939
+937
 00:41:49,870 --> 00:41:50,712
 Está tuerta.
 
-940
+938
 00:41:51,755 --> 00:41:52,417
 ¿Te gustan mis manos?
 
-941
+939
 00:41:54,944 --> 00:41:57,211
 Entonces, tenemos la cosa, vamos con la primera pregunta.
 
-942
+940
 00:41:57,835 --> 00:41:59,421
 Julian Álvarez.
 
-943
+941
 00:42:02,371 --> 00:42:05,481
 la primera pregunta es la siguiente
 
-944
+942
 00:42:09,198 --> 00:42:11,803
 Me cago el día, me cago el día ¿Cómo estoy?
 
-945
-00:42:18,171 --> 00:42:22,515
+943
+00:42:20,671 --> 00:42:22,515
 Esto ya lo hablamos, decímelo rápido.
 
-946
+944
 00:42:22,755 --> 00:42:24,917
 Me interesa mucho el mundo de la comida.
 
-947
+945
 00:42:25,559 --> 00:42:26,020
 ¿Qué come?
 
-948
+946
 00:42:26,040 --> 00:42:26,542
 ¿Tiene chef?
 
-949
+947
 00:42:28,869 --> 00:42:30,093
 ¿Cómo se defiende cocinando?
 
-950
+948
 00:42:30,575 --> 00:42:32,126
 Si tiene que darse un gustito ¿qué elige?
 
-951
+949
 00:42:33,852 --> 00:42:37,524
 Ahora este año tenemos Chef, antes no teníamos.
 
-952
+950
 00:42:40,052 --> 00:42:45,630
 Cocinar sé, me gustaba, ahora un poco no, sí sé, enseñé a Emilia a cocinar.
 
-953
+951
 00:42:46,412 --> 00:42:47,414
 Tampoco es marutana.
 
-954
+952
 00:42:47,574 --> 00:42:49,797
 Bueno, pero... ¿Sabes lo que era?
 
-955
+953
 00:42:51,620 --> 00:42:54,489
 Bueno, eh... Llamamos, si vos me vas a retar, vos.
 
-956
+954
 00:42:54,509 --> 00:42:56,936
 Si vos me permitís, o no sé, Murgués, a helado.
 
-957
+955
 00:42:57,878 --> 00:43:03,563
 hamburguesa o helado, como cuando fuimos a comer en forma entera que te he hecho unos lindos gustos.
 
-958
+956
 00:43:03,603 --> 00:43:04,484
 Bueno, siente.
 
-959
+957
 00:43:05,788 --> 00:43:06,570
 Siente pregunta.
 
-960
+958
 00:43:07,032 --> 00:43:10,062
 Pregunta si extrañás jugar en River.
 
-961
+959
 00:43:11,975 --> 00:43:14,470
 Eh... extraña, sí hay cosas que...
 
-962
+960
 00:43:15,153 --> 00:43:20,161
 del pasado que uno siempre le gustaría o la recuerda con mucho cariño, mucho amor.
 
-963
+961
 00:43:20,602 --> 00:43:23,762
 Son momentos que disfruten mucho y algunas cosas obviamente sí.
 
-964
+962
 00:43:24,385 --> 00:43:25,827
 Igual lo seguís todo el tiempo, River.
 
-965
+963
 00:43:26,107 --> 00:43:27,368
 O sea, ayer te acostaste.
 
-966
+964
 00:43:27,709 --> 00:43:30,432
 Llegaste tu partido, te acostaste a las 5 de la mañana por ver River.
 
-967
+965
 00:43:30,572 --> 00:43:35,809
 Y normalmente después de los partidos me cuesta un poco dormir, así que aproveché.
 
-968
-00:43:36,712 --> 00:43:39,676
+966
+00:43:39,662 --> 00:43:42,626
 ¿Toman algo antes de los partidos?
 
-969
+967
 00:43:42,980 --> 00:43:45,463
 No sé, algo para un pre-work, una cafeína, algo.
 
-970
+968
 00:43:45,563 --> 00:43:46,284
 Energizante, eso no.
 
-971
+969
 00:43:46,344 --> 00:43:46,924
 Algunos sí.
 
-972
+970
 00:43:50,207 --> 00:43:53,230
 La adrenalina y todo eso te queda.
 
-973
+971
 00:43:53,250 --> 00:43:55,752
 Igual metiste 3 goles y si estabas ahí no lo podías entender.
 
-974
+972
 00:43:56,553 --> 00:44:01,557
 Sí, aparte jugamos a las nueve y cuarto, llegué a casa a las dos y media o una.
 
-975
+973
 00:44:03,320 --> 00:44:04,826
 Sí, me quedé mal con esto, estoy muy mal.
 
-976
+974
 00:44:04,846 --> 00:44:06,050
 No, no, estaba viendo nomás.
 
-977
+975
 00:44:06,130 --> 00:44:07,375
 Se te habían parado unos perros.
 
-978
+976
 00:44:08,372 --> 00:44:13,433
 ¿Qué fue lo más raro que te pasó con un fan?
 
-979
+977
 00:44:13,995 --> 00:44:15,679
 Dice una chica, Agustina.
 
-980
+978
 00:44:15,799 --> 00:44:16,781
 Ah, no dije quiénes son.
 
-981
+979
 00:44:17,162 --> 00:44:17,603
 No importa.
 
-982
+980
 00:44:18,064 --> 00:44:19,570
 Lo vamos a poner.
 
-983
+981
 00:44:19,771 --> 00:44:21,016
 Perdón, que me molesta siempre.
 
-984
+982
 00:44:24,856 --> 00:44:25,600
 Se me tiene de fan.
 
-985
+983
 00:44:25,842 --> 00:44:26,867
 Me cago en toda la onda.
 
-986
+984
 00:44:29,634 --> 00:44:34,730
 Yo creo que la gente que le he firmado y se ha tatuado esas cosas.
 
-987
+985
 00:44:35,572 --> 00:44:37,197
 Si no lo puedes responderte tomás esto.
 
-988
+986
 00:44:37,217 --> 00:44:41,167
 No, ya te lo recuerdo y se hizo un tatuaje mío en una persona.
 
-989
+987
 00:44:42,231 --> 00:44:43,275
 La otra vez fue en vivo.
 
-990
+988
 00:44:43,416 --> 00:44:45,545
 El año pasado fuimos a ver...
 
-991
+989
 00:44:46,087 --> 00:44:52,693
 Al Club Argentino hay mis hermanos y un chico que era tatuador me hizo firmarte y se lo tatúo ahí en el momento.
 
-992
+990
 00:44:53,814 --> 00:44:54,634
 Ahí se le atascó.
 
-993
+991
 00:44:54,654 --> 00:44:56,576
 Lo mal que le quedó, amigo.
 
-994
+992
 00:44:56,816 --> 00:44:58,978
 Choy se la firmaría mal y él se lo da por medio.
 
-995
+993
 00:45:01,079 --> 00:45:02,022
 Pobre, ubicaste la vía, rey.
 
-996
+994
 00:45:02,102 --> 00:45:03,667
 Al otro día se levantó y dijo que no debía ser eso.
 
-997
+995
 00:45:03,687 --> 00:45:04,048
 Bueno, la elección.
 
-998
+996
 00:45:06,495 --> 00:45:07,176
 Bueno, eso se lideró.
 
-999
+997
 00:45:11,420 --> 00:45:17,365
 Esta es una, no es picante todavía, pero dice not.
 
-1000
+998
 00:45:18,007 --> 00:45:21,623
 Geront, que me dijo que lo pronuncie bien, me dijo en el TikTok.
 
-1001
+999
 00:45:22,546 --> 00:45:25,132
 ¿Conocés tus memes sobre la bestia de Calchín?
 
-1002
+1000
 00:45:25,513 --> 00:45:26,535
 ¿Te da vergüenza?
 
-1003
+1001
 00:45:27,377 --> 00:45:28,319
 ajena o te reís.
 
-1004
+1002
 00:45:28,359 --> 00:45:29,521
 No voy a leer lo que me puso.
 
-1005
+1003
 00:45:29,541 --> 00:45:30,042
 Te han cringe.
 
-1006
+1004
 00:45:30,062 --> 00:45:31,023
 Pero yo no digo esa palabra.
 
-1007
+1005
 00:45:31,223 --> 00:45:32,285
 ¿Por qué no decís esa palabra?
 
-1008
+1006
 00:45:32,345 --> 00:45:32,926
 Porque la odio.
 
-1009
+1007
 00:45:33,487 --> 00:45:35,233
 No, no, me da vergüenza ajenas.
 
-1010
+1008
 00:45:37,500 --> 00:45:40,483
 El dice Perú ese genie y no pone, pero vos tenés que poner lo que pregunta la gente.
 
-1011
+1009
 00:45:40,563 --> 00:45:41,104
 Bueno, Cringe.
 
-1012
+1010
 00:45:42,166 --> 00:45:42,888
 No, no.
 
-1013
+1011
 00:45:42,928 --> 00:45:43,449
 ¿Que reís?
 
-1014
+1012
 00:45:43,730 --> 00:45:44,513
 Si.
 
-1015
+1013
 00:45:44,693 --> 00:45:45,134
 Da lo mismo.
 
-1016
+1014
 00:45:45,295 --> 00:45:47,923
 Si, me divierto, pero nada público.
 
-1017
+1015
 00:45:48,784 --> 00:45:52,083
 Mis amigos me lo han mandado, se ríen de eso.
 
-1018
+1016
 00:45:52,505 --> 00:45:54,647
 Porque te sentís medio toro, porque te haces medio toro.
 
-1019
+1017
 00:45:54,687 --> 00:45:55,808
 Te pones mi cuerpo.
 
-1020
+1018
 00:45:58,770 --> 00:46:02,634
 Y después la última pregunta, esta.
 
-1021
+1019
 00:46:06,839 --> 00:46:11,347
 Quien la hizo, no tenemos quien la hizo, me mandaste solamente la pregunta.
 
-1022
+1020
 00:46:14,652 --> 00:46:17,095
 Si tuvieses que elegir un entrenador en toda tu carrera.
 
-1023
+1021
 00:46:18,854 --> 00:46:20,057
 Puede tomar picante también, ¿eh?
 
-1024
+1022
 00:46:20,198 --> 00:46:20,519
 Obvio.
 
-1025
+1023
 00:46:21,281 --> 00:46:21,983
 Por ese lado.
 
-1026
+1024
 00:46:22,745 --> 00:46:25,532
 ¿Quién sería el mejor entrenador de tu carrera hasta ahora?
 
-1027
+1025
 00:46:26,866 --> 00:46:27,331
 Y me manda... ¿B?
 
-1028
+1026
 00:46:30,487 --> 00:46:31,649
 Te vas a tener que tomar picante.
 
-1029
+1027
 00:46:32,130 --> 00:46:33,032
 Sí, no me puedo.
 
-1030
+1028
 00:46:33,753 --> 00:46:35,517
 ¡Te vas a tener que tomar picante!
 
-1031
+1029
 00:46:37,261 --> 00:46:38,370
 Uy a ver, a ver, a ver.
 
-1032
+1030
 00:46:39,474 --> 00:46:40,599
 Te voy a perdonar.
 
-1033
+1031
 00:46:40,619 --> 00:46:41,182
 No, no, no perdones.
 
-1034
+1032
 00:46:41,222 --> 00:46:43,030
 No como vos aquichabés con el té mía de whisky.
 
-1035
+1033
 00:46:43,994 --> 00:46:44,316
 ¡Sacudí!
 
-1036
+1034
 00:46:48,438 --> 00:46:49,299
 No, porque él tiene que jugar.
 
-1037
+1035
 00:46:49,319 --> 00:46:50,940
 Vamos a hacer una cosa.
 
-1038
+1036
 00:46:52,082 --> 00:46:52,842
 Vos mitad y yo mitad.
 
-1039
+1037
 00:46:54,004 --> 00:46:57,596
 Igual hice la mitad ¿Te hace mal el picante?
 
-1040
+1038
 00:46:58,157 --> 00:46:59,919
 Yo no lo probé, no sé ni cómo es.
 
-1041
+1039
 00:46:59,939 --> 00:47:00,479
 Puede ser catastrófico.
 
-1042
+1040
 00:47:04,382 --> 00:47:05,563
 No es muy picante, yo lo probé.
 
-1043
+1041
 00:47:06,584 --> 00:47:08,646
 Con el dedo, hasta está tomando el dedo también.
 
-1044
+1042
 00:47:10,308 --> 00:47:12,033
 No, si querés podemos esperar, lo hace en cuota.
 
-1045
+1043
 00:47:15,907 --> 00:47:17,049
 No sé lo picante que hizo.
 
-1046
+1044
 00:47:17,069 --> 00:47:20,235
 Tráeme agua, boludo.
 
-1047
+1045
 00:47:21,824 --> 00:47:23,627
 No, el agua es peor, el agua es peor.
 
-1048
+1046
 00:47:23,647 --> 00:47:24,949
 Ralo, dale, camarógrafo.
 
-1049
+1047
 00:47:25,671 --> 00:47:26,191
 Uy, para, para.
 
-1050
+1048
 00:47:26,211 --> 00:47:26,372
 Bueno.
 
-1051
+1049
 00:47:29,315 --> 00:47:31,438
 Ahora, vamos a hacer una cosa.
 
-1052
+1050
 00:47:31,459 --> 00:47:32,160
 Vamos a tomar esto.
 
-1053
+1051
 00:47:32,180 --> 00:47:32,681
 ¿Querés agua?
 
-1054
+1052
 00:47:35,285 --> 00:47:36,507
 Y el agua es peor amigo.
 
-1055
+1053
 00:47:36,527 --> 00:47:37,308
 Ahora cortamos.
 
-1056
+1054
 00:47:37,328 --> 00:47:39,130
 Le estamos matando al amigo.
 
-1057
+1055
 00:47:40,893 --> 00:47:42,623
 Vamos a cortar esto.
 
-1058
+1056
 00:47:43,542 --> 00:47:46,408
 vamos a jugar vamos a jugar uno largo
 
-1059
+1057
 00:47:48,813 --> 00:47:49,894
 Vamos a jugar unos gardos.
 
-1060
+1058
 00:47:50,594 --> 00:47:52,676
 Si pierdo, el que pierde se toma otro.
 
-1061
+1059
 00:47:52,816 --> 00:47:53,597
 Listo.
 
-1062
+1060
 00:47:53,637 --> 00:47:54,317
 Si pierdo me muero.
 
-1063
+1061
 00:47:55,879 --> 00:47:57,727
 Chau, chau, chau.
 
-1064
+1062
 00:47:58,189 --> 00:47:59,695
 En vez de 300 zunas, que llegas 150 o 151, no sé cómo es.
 
-1065
+1063
 00:48:01,482 --> 00:48:02,104
 Sí, bueno, 150.
 
-1066
+1064
 00:48:02,144 --> 00:48:02,164
 O 149.
 
-1067
-00:48:02,204 --> 00:48:02,324
-Dale.
-
-1068
-00:48:02,344 --> 00:48:02,324
-150?
-
-1069
+1065
 00:48:02,384 --> 00:48:03,287
 Arranca haciendo trampas, ya.
 
-1070
-00:48:03,327 --> 00:48:04,690
+1066
+00:48:03,981 --> 00:48:05,344
 No, no, pero... ¿Empezás vos?
 
-1071
-00:48:04,710 --> 00:48:04,730
-Sí.
-
-1072
+1067
 00:48:08,318 --> 00:48:08,980
 ¿Cuánto tardas al 300?
 
-1073
+1068
 00:48:15,115 --> 00:48:16,760
 al video, le pegas al video y te tenés que ir.
 
-1074
+1069
 00:48:17,182 --> 00:48:18,807
 Para, le pegas al video y te tomás un chupito.
 
-1075
+1070
 00:48:20,232 --> 00:48:20,996
 Uy a ver toro.
 
-1076
+1071
 00:48:21,016 --> 00:48:22,060
 Te mando salud cricocho.
 
-1077
+1072
 00:48:27,093 --> 00:48:27,496
 Te sigo acá, eh.
 
-1078
+1073
 00:48:28,963 --> 00:48:30,830
 ¿Sabés que me mandó una empresa para coso?
 
-1079
+1074
 00:48:30,890 --> 00:48:31,814
 Y dije no, me están matando.
 
-1080
+1075
 00:48:34,744 --> 00:48:36,106
 Una empresa para ser un... Qué mal tiré.
 
-1081
+1076
 00:48:39,475 --> 00:48:40,156
 ¿Te puedes correr?
 
-1082
+1077
 00:48:40,256 --> 00:48:41,819
 Ahí dismarca, boludo, allá arriba.
 
-1083
+1078
 00:48:41,839 --> 00:48:42,379
 Sí, allá arriba.
 
-1084
+1079
 00:48:45,180 --> 00:48:45,642
 ¡Ahí está!
 
-1085
+1080
 00:48:46,507 --> 00:48:46,708
 ¡Ahí!
 
-1086
+1081
 00:48:46,889 --> 00:48:48,739
 Mirá este chabón, la suerte que tiene.
 
-1087
+1082
 00:48:50,062 --> 00:48:51,805
 ¡Ah, no está mal para empezar! 221
 
-1088
+1083
 00:48:53,648 --> 00:48:53,949
 Estamos, dale.
 
-1089
+1084
 00:48:53,969 --> 00:48:56,398
 Tenés que esperar a que te filme también, porque si no es difícil.
 
-1090
+1085
 00:48:56,439 --> 00:48:58,225
 Pero acá, boludo, eso te marca.
 
-1091
+1086
 00:48:58,807 --> 00:48:59,229
 Dale vos, Julián.
 
-1092
+1087
 00:49:02,737 --> 00:49:03,259
 El siguiente.
 
-1093
+1088
 00:49:03,459 --> 00:49:05,505
 Player 2, allá arriba, ¿ves?
 
-1094
+1089
 00:49:05,967 --> 00:49:06,769
 ¿Cómo venís con el inglés?
 
-1095
+1090
 00:49:06,789 --> 00:49:07,090
 ¿Mejor?
 
-1096
+1091
 00:49:07,692 --> 00:49:08,153
 Mejor ni hablar.
 
-1097
+1092
 00:49:11,949 --> 00:49:12,952
 No puedo nunca.
 
-1098
+1093
 00:49:13,393 --> 00:49:16,159
 Es como el que invitaba, viste, que tenía la play en la casa, que era pésimo.
 
-1099
+1094
 00:49:16,820 --> 00:49:18,805
 Es pésimo, es pésimo.
 
-1100
+1095
 00:49:18,845 --> 00:49:19,687
 Hay que calentar.
 
-1101
+1096
 00:49:19,947 --> 00:49:20,509
 Es pésimo.
 
-1102
+1097
 00:49:20,529 --> 00:49:20,889
 Voy, dale.
 
-1103
+1098
 00:49:24,030 --> 00:49:26,795
 Espera, eh.
 
-1104
+1099
 00:49:26,815 --> 00:49:28,818
 Me parece que… Uy, lejito.
 
-1105
+1100
 00:49:30,476 --> 00:49:33,283
 Me parece que a... a trepando eh, bueno.
 
-1106
+1101
 00:49:34,583 --> 00:49:34,984
 ¡No!
 
-1107
+1102
 00:49:35,546 --> 00:49:36,247
 Bueno, dale.
 
-1108
+1103
 00:49:36,287 --> 00:49:36,648
 A 300, dale.
 
-1109
+1104
 00:49:39,780 --> 00:49:40,301
 A ver si podés.
 
-1110
+1105
 00:49:40,461 --> 00:49:40,721
 Lo malo.
 
-1111
+1106
 00:49:40,741 --> 00:49:41,141
 Lo malo que sos.
 
-1112
+1107
 00:49:41,202 --> 00:49:42,042
 Le pega cualquier número.
 
-1113
+1108
 00:49:42,122 --> 00:49:44,385
 ¿Viste quién es que atarra durante el tiempo?
 
-1114
+1109
 00:49:47,268 --> 00:49:48,010
 No pise a línea.
 
-1115
+1110
 00:49:50,033 --> 00:49:50,855
 ¡No!
 
-1116
+1111
 00:49:50,935 --> 00:49:51,496
 ¡Se afiló!
 
-1117
+1112
 00:49:52,398 --> 00:49:52,859
 ¡Se afiló!
 
-1118
+1113
 00:49:55,194 --> 00:49:56,898
 Que malísimo.
 
-1119
+1114
 00:49:56,918 --> 00:49:57,741
 Lejito.
 
-1120
+1115
 00:49:57,761 --> 00:49:58,723
 Dale.
 
-1121
+1116
 00:50:00,809 --> 00:50:01,973
 Toma, está re caliente.
 
-1122
+1117
 00:50:14,888 --> 00:50:15,710
 ¡Qué desastre!
 
-1123
+1118
 00:50:15,731 --> 00:50:17,014
 ¿Cómo dejé pasar eso?
 
-1124
+1119
 00:50:17,375 --> 00:50:18,078
 ¿Huea bien, Iván?
 
-1125
+1120
 00:50:18,138 --> 00:50:19,121
 No, ninguna.
 
-1126
+1121
 00:50:19,141 --> 00:50:19,763
 ¿Vos sabés jugar?
 
-1127
+1122
 00:50:19,783 --> 00:50:19,803
 Sí.
 
-1128
+1123
 00:50:21,245 --> 00:50:25,249
 Esto, esto, esto es como Juan GMA, siempre que me cae de acá.
 
-1129
+1124
 00:50:25,329 --> 00:50:26,350
 Esto es lo que más.
 
-1130
+1125
 00:50:26,450 --> 00:50:27,331
 Por tres, veinte por tres.
 
-1131
+1126
 00:50:28,613 --> 00:50:29,737
 ¿Y cómo va entonces ahí?
 
-1132
+1127
 00:50:31,662 --> 00:50:32,986
 ahí arriba 148 y Julián va 247 muy malo
 
-1133
+1128
 00:50:38,857 --> 00:50:40,261
 No, malo, pero triple uno.
 
-1134
+1129
 00:50:41,124 --> 00:50:41,786
 ¿Entendés, Juan G?
 
-1135
+1130
 00:50:43,740 --> 00:50:45,503
 No puedo filmar y entender al mismo tiempo yo.
 
-1136
+1131
 00:50:45,803 --> 00:50:46,744
 Da, lo ves a hablar.
 
-1137
+1132
 00:50:49,586 --> 00:50:51,450
 No está mal, pero venía acá atrás, mira.
 
-1138
+1133
 00:50:51,670 --> 00:50:52,151
 ¿Cómo venís?
 
-1139
+1134
 00:50:53,294 --> 00:50:57,445
 Yo le voy a apuntar, como Julián, siempre le apuntamos al triple 20.
 
-1140
+1135
 00:50:57,766 --> 00:50:58,067
 Como ahí.
 
-1141
+1136
 00:51:02,266 --> 00:51:02,406
 ¡Ay!
 
-1142
+1137
 00:51:03,168 --> 00:51:04,430
 ¡Como ahí!
 
-1143
+1138
 00:51:04,490 --> 00:51:05,592
 ¡Ay, lo agrandado que estoy!
 
-1144
+1139
 00:51:06,234 --> 00:51:08,586
 lo grande de Vinton Julián Álvarez.
 
-1145
+1140
 00:51:10,542 --> 00:51:10,962
 Huya!
 
-1146
+1141
 00:51:11,383 --> 00:51:11,603
 Está ahí eh!
 
-1147
+1142
 00:51:11,703 --> 00:51:13,404
 El picante va a estar... Ah pero eh!
 
-1148
+1143
 00:51:13,424 --> 00:51:13,765
 Te dije!
 
-1149
+1144
 00:51:19,353 --> 00:51:21,199
 Sigo a perder.
 
-1150
+1145
 00:51:22,162 --> 00:51:22,703
 Sigo a perder.
 
-1151
+1146
 00:51:26,501 --> 00:51:26,902
 ¿Cuánto?
 
-1152
-00:51:26,922 --> 00:51:26,902
-¿25?
-
-1153
+1147
 00:51:26,942 --> 00:51:29,545
 Le pegué al medio, ¿qué querés?
 
-1154
+1148
 00:51:29,745 --> 00:51:31,006
 No sé qué le hago, pero... ¿Y te lo cobró?
 
-1155
+1149
 00:51:31,988 --> 00:51:33,658
 La máquina está arregladita.
 
-1156
+1150
 00:51:37,379 --> 00:51:37,961
 No, que mal.
 
-1157
+1151
 00:51:38,082 --> 00:51:38,543
 Dale, Bustín.
 
-1158
+1152
 00:51:38,864 --> 00:51:39,246
 Al triple 20.
 
-1159
+1153
 00:51:39,346 --> 00:51:39,406
 No, 39.
 
-1160
-00:51:43,416 --> 00:51:43,877
+1154
+00:51:43,416 --> 00:51:43,616
 ¿12?
 
-1161
+1155
 00:51:43,616 --> 00:51:43,877
 Voy 27.
 
-1162
+1156
 00:51:43,917 --> 00:51:45,220
 Tira a cualquier lado.
 
-1163
+1157
 00:51:45,240 --> 00:51:46,103
 Dale, dale, dale.
 
-1164
+1158
 00:51:46,123 --> 00:51:46,584
 Que faltan 27 sería.
 
-1165
+1159
 00:51:48,530 --> 00:51:51,340
 Y claro, todavía el camarógrafo le costó.
 
-1166
+1160
 00:51:51,661 --> 00:51:52,143
 No, no, no.
 
-1167
+1161
 00:51:52,384 --> 00:51:52,926
 Pero decís voy 27.
 
-1168
+1162
 00:51:53,949 --> 00:51:57,372
 Primero dijiste que ibas a ciento y pico, ahora puedo decir que ibas a 27.
 
-1169
+1163
 00:51:58,153 --> 00:51:58,793
 Sí, porque bajó.
 
-1170
+1164
 00:51:58,813 --> 00:51:59,114
 Juli está a 145.
 
-1171
+1165
 00:52:06,202 --> 00:52:06,763
 Sabéis que sí.
 
-1172
+1166
 00:52:07,745 --> 00:52:08,987
 No, no, gente, yo tengo que ganar ahora.
 
-1173
+1167
 00:52:09,007 --> 00:52:11,311
 Entonces, para, tengo que ir al 20 y al 7 yo.
 
-1174
+1168
 00:52:12,854 --> 00:52:15,743
 27, porque me quedan cosas, ¿entendés, camarógrafo?
 
-1175
+1169
 00:52:16,125 --> 00:52:17,469
 Sí, te pasa si no.
 
-1176
+1170
 00:52:17,630 --> 00:52:19,174
 Julián, esto es para vos.
 
-1177
+1171
 00:52:21,460 --> 00:52:21,641
 Y ahora 24.
 
-1178
+1172
 00:52:21,681 --> 00:52:22,382
 ¿Tengo que ir al 20?
 
-1179
+1173
 00:52:22,422 --> 00:52:22,462
 Ay, 18.
 
-1180
+1174
 00:52:22,503 --> 00:52:24,948
 ¡Tengo que ir al 6!
 
-1181
+1175
 00:52:27,137 --> 00:52:28,225
 Tengo que ir al 6 y gano.
 
-1182
+1176
 00:52:28,587 --> 00:52:30,299
 Y ahí está el 6 para vos.
 
-1183
+1177
 00:52:31,083 --> 00:52:33,356
 este es el hacktrik a ver si ganas el primero
 
-1184
+1178
 00:52:47,094 --> 00:52:47,938
 ¡Un orto!
 
-1185
+1179
 00:52:48,300 --> 00:52:48,662
 Virgen, ahí tenés.
 
-1186
+1180
 00:52:52,259 --> 00:52:55,013
 Con Dardos no, tres goles y todo, pero con Dardos no.
 
-1187
+1181
 00:52:56,078 --> 00:52:57,620
 en casa no bueno bueno amigos
 
-1188
+1182
 00:52:59,763 --> 00:53:01,927
 Pero no te dejas jugar a vos para ver si llegás o no llegás.
 
-1189
+1183
 00:53:01,987 --> 00:53:02,307
 No llega.
 
-1190
+1184
 00:53:03,910 --> 00:53:04,631
 ¿Querés juego uno más?
 
-1191
+1185
 00:53:04,872 --> 00:53:06,014
 ¿Portamos y te juego uno más?
 
-1192
+1186
 00:53:06,034 --> 00:53:09,139
 No, no, tenés que tomar el... Al último tenés que tomar y chao.
 
-1193
+1187
 00:53:09,800 --> 00:53:10,001
 Vamos.
 
-1194
+1188
 00:53:11,319 --> 00:53:11,901
 Pero voy a preparar.
 
-1195
+1189
 00:53:11,961 --> 00:53:16,335
 Lo que pasa es que... Ahí se va a preparar.
 
-1196
+1190
 00:53:16,876 --> 00:53:17,538
 Estás preparado o no?
 
-1197
+1191
 00:53:19,926 --> 00:53:20,193
 Vamos.
 
-1198
+1192
 00:53:24,012 --> 00:53:24,795
 ¿Estamos listos o no?
 
-1199
+1193
 00:53:24,935 --> 00:53:26,480
 ¿Muy lleno o más?
 
-1200
+1194
 00:53:28,627 --> 00:53:31,452
 Este tiene más que el anterior, hijo de puta.
 
-1201
+1195
 00:53:31,472 --> 00:53:32,975
 Yo lo voy a probar un poquito.
 
-1202
+1196
 00:53:32,995 --> 00:53:33,917
 Te volviste luego.
 
-1203
+1197
 00:53:33,937 --> 00:53:34,839
 Yo lo prometo y lo voy a probar.
 
-1204
+1198
 00:53:44,210 --> 00:53:48,890
 Bueno amigos, ahora nos vamos a ir para la casa.
 
-1205
+1199
 00:53:49,858 --> 00:53:51,001
 De los... Hay quien lo reventa.
 
-1206
+1200
 00:53:51,021 --> 00:53:52,404
 Vamos a ir a la casa.
 
-1207
+1201
 00:53:52,444 --> 00:53:53,848
 Hay quien te buscó el clásico el sábado.
 
-1208
+1202
 00:53:53,928 --> 00:53:55,773
 Lo vamos a romper, lo vamos a romper.
 
-1209
+1203
 00:53:55,973 --> 00:53:58,220
 ¿Vamos a ir a la casa de los papás de Julián?
 
-1210
+1204
 00:53:58,300 --> 00:53:58,882
 ¿Nos están esperando ahí?
 
-1211
+1205
 00:54:01,907 --> 00:54:03,251
 Gracias, gracias amigo.
 
-1212
+1206
 00:54:04,375 --> 00:54:05,499
 Aquí estamos, con Julián.
 
-1213
-00:54:06,181 --> 00:54:06,783
-¡Vamos!
-
-1214
+1207
 00:54:07,244 --> 00:54:07,866
 Hat-trick ayer.
 
-1215
+1208
 00:54:08,579 --> 00:54:09,361
 Y él, Sago también.
 
-1216
+1209
 00:54:09,722 --> 00:54:12,670
 Escúchame, vamos a ver a tu familia.
 
-1217
+1210
 00:54:12,690 --> 00:54:13,332
 Vamos para allá.
 
-1218
+1211
 00:54:13,593 --> 00:54:14,215
 Gracias por todo.
 
-1219
+1212
 00:54:14,335 --> 00:54:14,876
 No, gracias a vos.
 
-1220
-00:54:15,578 --> 00:54:15,899
-¡Vamos!
-
-1221
+1213
 00:54:23,702 --> 00:54:25,043
 No quería aparecer, pero aparece, sí, ¿no?
 
-1222
-00:54:25,063 --> 00:54:25,264
-¿Qué dijo?
-
-1223
+1214
 00:54:29,268 --> 00:54:30,211
 A ver, golpiame.
 
-1224
+1215
 00:54:30,231 --> 00:54:34,602
 No me acordas de eso, pero tú... ¡Respétame, boludo!
 
-1225
+1216
 00:54:36,019 --> 00:54:37,226
 Ahora sé que lo voy a editar.
 
