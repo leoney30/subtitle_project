@@ -37,7 +37,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         # 添加生成的图片文件
-        git add bilibili_github_style.png
+        git add code/bili_stats/bili_headmap.png
         # 提交更改，如果图片没有变化则忽略错误
         git commit -m "Auto-update Bilibili stats chart [skip ci]" || echo "No changes to commit"
         git push
