@@ -136,7 +136,7 @@ def generate_heatmap(data_list):
     bars = ax_bar.barh(yearly_labels, yearly_hours, color='#74ACDF', height=0.6)
 
     # 设置柱状图样式
-    ax_bar.set_title("Total Duration by Year (Hours)", fontsize=16, fontweight='bold', pad=15)
+    ax_bar.set_title("Total Duration by Year", fontsize=16, fontweight='bold', pad=15)
     ax_bar.set_xlabel("", fontsize=12)
     ax_bar.invert_yaxis() # 关键：反转Y轴，让列表第一个（也就是最新年份）显示在最上面
 
