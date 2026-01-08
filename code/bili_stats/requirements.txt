@@ -2,3 +2,4 @@ pandas
 matplotlib
 calplot
 bilibili-api-python
+httpx
