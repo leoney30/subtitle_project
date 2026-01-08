@@ -3,9 +3,11 @@ import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
 import calplot
-from bilibili_api import user, sync
+from bilibili_api import user, sync, settings
 
 # ================= 配置区域 =================
+settings.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+# ======================================================
 BASE_DIR = "code/bili_stats"
 TARGET_UID = 492498900
 START_YEAR = datetime.datetime(2023, 2, 1)
@@ -69,7 +71,7 @@ async def fetch_data():
             })
 
         page += 1
-        await asyncio.sleep(0.2)
+        await asyncio.sleep(2)
 
     return data_list
 
