@@ -1,0 +1,43 @@
+name: Update Bilibili Chart
+
+on:
+  # 1. 定时触发
+  schedule:
+    - cron: '0 18 18 1,7 *'
+  # 2. 手动触发：允许你在 Actions 页面手动点击按钮测试运行
+  workflow_dispatch:
+
+# 赋予 Action 写入仓库内容的权限，以便将生成的图片推送回仓库
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r code/bili_stats/requirements.txt
+
+    - name: Run script
+      run: python code/bili_stats/bili_heatmap.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        # 添加生成的图片文件
+        git add bilibili_github_style.png
+        # 提交更改，如果图片没有变化则忽略错误
+        git commit -m "Auto-update Bilibili stats chart [skip ci]" || echo "No changes to commit"
+        git push
