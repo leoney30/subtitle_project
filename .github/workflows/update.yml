@@ -1,4 +1,4 @@
-name: Update Bilibili Chart
+name: 更新B站统计
 
 on:
   # 1. 定时触发
