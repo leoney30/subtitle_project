@@ -34,7 +34,7 @@ def format_duration(seconds):
 
 async def fetch_data():
     """从 B站 API 获取数据"""
-    print(f"Fetching data for UID: {TARGET_UID}...")
+    print(f"Fetching data for UID...")
     u = user.User(TARGET_UID)
 
     start_dt = START_YEAR
