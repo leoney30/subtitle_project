@@ -3,7 +3,7 @@ import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
 import calplot
-from bilibili_api import user, sync, settings
+from bilibili_api import user, sync
 
 # ================= 配置区域 =================
 settings.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
