@@ -1,1 +1,1 @@
-!(code/bili_stats/bili_headmap.png)
+![](code/bili_stats/bili_headmap.png)
