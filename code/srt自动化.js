@@ -6,7 +6,7 @@ let index = 0;
 // SRT文件地址
 const SRT_FILE_NAME = '20250903sca发布会/sca发布会.srt';
 // const SRT_FILE_URL = `https://raw.githubusercontent.com/leoney30/Subtitle_project/main/subtitle/${SRT_FILE_NAME}/${SRT_FILE_NAME}.srt`;
-const SRT_FILE_URL = `https://raw.githubusercontent.com/leoney30/Subtitle_project/main/subtitle/${SRT_FILE_NAME}`;
+const SRT_FILE_URL = `https://raw.githubusercontent.com/leoney30/subtitle_project/main/subtitle/${SRT_FILE_NAME}`;
 // const SRT_FILE_URL = `https://raw.githubusercontent.com/leoney30/Subtitle_project/main/test57.srt`;
 
 
