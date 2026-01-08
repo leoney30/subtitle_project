@@ -3,11 +3,14 @@ import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
 import calplot
-from bilibili_api import user, sync, settings
+from bilibili_api import user, sync
+from bilibili_api.utils.network import HEADERS
 
+
+HEADERS["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+# ================================================
 # ================= 配置区域 =================
-settings.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-# ======================================================
+
 BASE_DIR = "code/bili_stats"
 TARGET_UID = 492498900
 START_YEAR = datetime.datetime(2023, 2, 1)
