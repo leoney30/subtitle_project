@@ -1,3 +1,12 @@
+"""
+项目名称：SRT 字幕切分与 HTML 导出工具
+核心逻辑：
+1. 自动读取 SRT 文件并按双换行符分割字幕块。
+2. 每 50 个字幕块作为一个分片（Chunk），并确保最后一片不短于 30 个序号。
+3. 生成一个名为 output.html 的网页，左侧提供快速复制按钮，右侧显示字幕内容。
+"""
+
+
 import os
 import webbrowser
 from tkinter import Tk
