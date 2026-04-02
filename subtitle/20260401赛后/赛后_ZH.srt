@@ -1,562 +1,312 @@
 1
 00:00:00,031 --> 00:00:02,416
-告诉我你的感受，首先你好吗？
-Tell me your feelings, how are you, first of all?
-Contame las sensaciones, ¿cómo estás vos primero que nada?
+告诉我你的感受 首先你感觉如何
 
 2
 00:00:03,638 --> 00:00:04,402
-你感觉如何？
-How did you feel?
-¿Cómo te sentiste?
+你感觉怎么样
 
 3
 00:00:04,623 --> 00:00:07,738
-而且这场友谊赛的感觉可能和上一场不一样吧？
-And the feeling of this friendly match could be different from the previous one, right?
-Y la sensación de este partido amistoso capaz distinta a la anterior, ¿no?
+这场友谊赛的感觉可能和上一场不同吧
 
 4
-00:00:08,565 --> 00:00:10,312
-事实是，结果比前一天更好。
-The truth is that it turned out better than the other day.
-La verdad es que salió mejor que el otro día.
+00:00:08,565 --> 00:00:11,962
+表现得比那天要好
 
 5
 00:00:12,759 --> 00:00:17,782
-但是，嘿，在足球界，有时我们的球队也会经历糟糕的一天。
-But hey, in football sometimes we can also have a bad day, the team.
-Pero bueno, el fútbol a veces también podemos tener un mal día, el equipo.
+足球比赛中 球队有时也会有状态不佳的时候
 
 6
-00:00:18,683 --> 00:00:20,709
-他每次都会回应，所以就没有再继续下去了。
-He always responded, so it doesn't go any further.
-Siempre respondió, así que no pasa más allá.
+00:00:18,683 --> 00:00:22,093
+球队总是能给出回应 所以没关系
 
 7
 00:00:22,093 --> 00:00:26,858
-从一场不太好的比赛，前几天和今天球队表现更好，所以非常高兴。
-from a not so good game, the other day and today when the team did better, so very happy.
-de un partido no tan bueno, el del otro día y hoy que el equipo lo hizo mejor, así que muy contentos.
+从上一场不太理想的比赛 到今天表现得更好 我们非常开心
 
 8
 00:00:27,543 --> 00:00:33,769
-贾洛尼刚刚谈到了你，谈到了给阿根廷队带来如此多欢乐的球员，他说……
-Jaloni just spoke about you, about the players who brought so much joy to the Argentine team saying that...
-Habló Jaloni recién de ustedes, de los jugadores que le dieron tantas alegrías a la selección argentina diciendo que...
+斯卡洛尼 刚才谈到了你们 谈到了给阿根廷队带来这么多欢乐的球员们
 
 9
 00:00:34,630 --> 00:00:37,215
-显然我会指望他们，他们的水平很高。
-Obviously I was going to count on them and they were at a great level.
-obviamente iba a contar con ellos y estaban en un gran nivel.
+显然他会依靠这些处于高水平的球员
 
 10
 00:00:38,057 --> 00:00:40,863
-我想象他一直在和他们说话，一直看到他们。
-I imagine he talks to them all the time, sees them all the time.
-Me imagino que les habla todo el tiempo, los ve todo el tiempo.
+我想他一直在和你们交流 关注着你们
 
 11
 00:00:41,809 --> 00:00:42,938
-它对你说什么，你好吗？
-What does it say to you, how are you?
-¿Qué te dice, cómo estás vos?
+他对你说了什么 你感觉如何
 
 12
 00:00:43,820 --> 00:00:47,851
-我们知道，要为阿根廷国家队效力，你必须……
-We know that to play for the Argentine national team you have to be in...
-Nosotros sabemos que para jugar en la selección argentina hay que estar en...
+我们知道 要在阿根廷队踢球 必须处于
 
 13
 00:00:48,433 --> 00:00:52,182
-处于高水平，或者总是在轮到你的时候做出回应。
-at a high level or always respond when it's your turn.
-en un gran nivel o responder siempre cuando te toque.
+高水平 或者在需要你的时候总是能给出回应
 
 14
 00:00:53,003 --> 00:00:58,289
-这就是这个想法，每当轮到我们球队比赛或者我们给予
-That is the idea, that whenever it is our team's turn to play or we give
-Esa es la idea, que siempre que nos toque jugar el equipo o nosotros demos
+我们的想法是 无论何时轮到我们出场 球队和我们都要
 
 15
 00:00:59,273 --> 00:01:03,725
-遵循教练对我们的要求，遵循球衣对我们的要求，好吧，我认为我们活着。
-with what the coach asks of us, with what the shirt asks of us, and well, I think we live.
-con lo que nos pide el entrenador, con lo que nos pide la camiseta, y bueno, creo que vivimos.
+达到教练的要求 达到这件球衣的要求 我认为我们做到了
 
 16
 00:01:04,949 --> 00:01:06,498
-我们所做的几件作品。
-several works that we do.
-varias obras de que lo hacemos.
+多次证明了这一点
 
 17
-00:01:06,880 --> 00:01:07,585
-你已经演示过了。
-You already demonstrated it.
-Ya lo demostraste.
+00:01:06,880 --> 00:01:08,510
+你已经证明了
 
 18
 00:01:08,831 --> 00:01:12,819
-显然你总是和困难的人在一起，但是从这一窝中
-that obviously you are always with the difficult ones, but from this litter
-que obviamente con las difíciles estás siempre, pero de esta camada
+显然在困难时刻你总是在场 但在这一代球员中
 
 19
 00:01:13,301 --> 00:01:15,627
-很多人也这么做了，奥塔门迪，好吧，利奥，更不用说了。
-Many did too, Otamendi, well, Leo, not to mention.
-muchos lo hicieron también, Otamendi, bueno, Leo ni hablar.
+很多人也做到了 Otamendi 更不用说还有Leo
 
 20
 00:01:16,610 --> 00:01:20,553
-今天他们两人可能是在这个国家打了最后一场比赛，他们整个星期都在谈论这件事。
-Today the two of them possibly played their last game here in the country and they talked about it all week.
-Hoy ellos dos posiblemente jugaron su último partido acá en el país y se habló de eso toda la semana.
+今天他们两人可能是在阿根廷本土踢的最后一场比赛 这一周都在讨论这件事
 
 21
 00:01:20,593 --> 00:01:23,296
-特别是他们的预览怎么样？
-How was that preview with them, especially?
-¿Cómo fue esa previa con ellos, sobre todo?
+尤其是和他们在一起的赛前准备是怎样的
 
 22
 00:01:24,137 --> 00:01:28,749
-好吧，正如我常说的，尝试享受它们，事实是它们都是......
-Well, as I always say, trying to enjoy them, the truth is that they are both...
-Bueno, como siempre digo, tratando de disfrutarlos, la verdad que los dos son...
+正如我一直说的 试着享受和他们在一起的时光 他们两人是
 
 23
 00:01:30,308 --> 00:01:35,499
-他们是这支球队的领导者，我们这些回来的人试图追随他们。
-They are the leaders of this team, those of us who come back try to follow them.
-Son los referentes de este equipo, los que venimos atrás tratamos de seguirlo.
+这支球队的领袖 我们这些后辈试着追随他们
 
 24
-00:01:37,643 --> 00:01:39,445
-总是走同一条线，来到...
-Always with the same line, with coming to...
-Siempre con la misma línea, con venir a...
+00:01:37,643 --> 00:01:41,820
+始终保持一致 来到这里
 
 25
 00:01:42,309 --> 00:01:44,893
-踢足球，捍卫什么
-to play football, to defend what
-a jugar al fútbol, a defender lo que
+踢足球 捍卫
 
 26
 00:01:45,995 --> 00:01:49,453
-什么代表了阿根廷，什么就代表了我们国家的足球。
-what represents Argentina, what football is for our country.
-lo que representa a Argentina, lo que es el fútbol para nuestro país.
+阿根廷所代表的 以及足球对我们国家的意义
 
 27
 00:01:51,460 --> 00:01:54,469
-最重要的是，还要解释一下并确保人们理解
-and above all that, also explain it and make sure people understand
-y sobre todo eso, explicarle también y que la gente entienda
+最重要的是 也要向人们解释清楚 让他们明白
 
 28
 00:01:56,393 --> 00:02:01,159
-因为有时我们的国家不是多次团结起来
-because well in the end sometimes we are a country that, instead of uniting many times
-porque bueno al final a veces somos un país que en cambio de unirse muchas veces
+因为有时候我们这个国家不仅没有团结起来
 
 29
 00:02:02,200 --> 00:02:07,610
-破坏或引起争议，并明确我们是足球运动员。
-destroy or generate controversy and make it clear that we are soccer players.
-destruye o genera polémicas y que quede claro que nosotros somos jugadores de fútbol.
+反而在搞破坏或制造争议 我想明确一点 我们只是足球运动员
 
 30
 00:02:08,392 --> 00:02:09,557
-我们来踢足球。
-and we come to play football.
-y venimos a jugar al fútbol.
+我们是来踢球的
 
 31
 00:02:09,737 --> 00:02:11,323
-我们不搞政治。
-We don't do politics.
-Nosotros no hacemos política.
+我们不参与政治
 
 32
 00:02:12,005 --> 00:02:16,453
-我们不明白那些地方。
-We don't understand those places.
-Nosotros no entendemos esos lugares.
+我们不了解那些领域
 
 33
 00:02:19,099 --> 00:02:23,996
-必须这样做的人，恕我直言，是政客们。
-The ones who have to do it, pardon the redundancy, are the politicians.
-quienes tienen que hacerlo justamente valga la redundancia son los políticos.
+应该处理这些事的人是政治家
 
 34
 00:02:24,518 --> 00:02:26,806
-我们是足球运动员，我们喜欢被评判。
-We are soccer players, we like to be judged.
-Nosotros somos jugadores de fútbol, nos gusta que nos juzguen.
+我们是足球运动员 我们喜欢被评判
 
 35
 00:02:27,727 --> 00:02:30,858
-对于我们在球场上所做的事情，就是这样。
-for what we do on the court and it is simply that.
-por lo que hacemos dentro de una cancha y es simplemente eso.
+基于我们在场上的表现 仅此而已
 
 36
 00:02:30,878 --> 00:02:33,066
-我想我们总是会尝试...
-I think we're always going to try to...
-Creo que siempre vamos a tratar de...
+我认为我们将始终努力
 
 37
 00:02:33,387 --> 00:02:39,843
-在我们奋力争取的地方捍卫阿根廷国家队球衣。
-to defend the Argentine National Team shirt in the place that we fought so hard to have.
-de defender la camiseta de la Selección Argentina en el lugar que luchamos tanto por tener.
+在我们努力争取到的位置上 捍卫阿根廷队的球衣
 
 38
 00:02:40,404 --> 00:02:47,070
-在球场上防守他们，这句话有点回到参考文献提出的主题，我们来踢足球
-defend them on a field and that is the line that returning a little to the topic that the references bring up, we come to play football
-defenderlos dentro de una cancha y esa es la línea que volviendo un poco al tema que bajan los referentes nosotros venimos a jugar al fútbol
+在场上捍卫它 这是核心球员传递给我们的精神 我们是来踢球的
 
 39
 00:02:47,512 --> 00:02:49,801
-并保卫我们知道如何做某事的国家。
-and to defend the country where we know how to do what a field is.
-y a defender el país donde sabemos hacer lo que es una cancha.
+在我们熟悉的球场上捍卫这个国家
 
 40
 00:02:50,137 --> 00:02:53,200
-您对最近几天的消息感到惊讶吗？
-Were you surprised by any news that came out in recent days?
-¿Se sorprendieron algunas noticias que salieron estos últimos días?
+你们对最近几天出现的一些新闻感到惊讶吗
 
 41
 00:02:53,220 --> 00:02:56,382
-我不是在谈论什么特别的事情，我只是说清楚。
-I'm not talking about anything in particular, I'm just saying to be clear.
-No hablo de nada en particular, solo digo que quede claro.
+我不针对任何具体的事 只是想把话说清楚
 
 42
 00:02:57,443 --> 00:03:01,209
-有时最好不要误导，而是告知，所以在我看来……
-and it is good sometimes not to misinform but to inform, so it seems to me that...
-y es bueno a veces no desinformar sino informar, entonces me parece que...
+有时候不去误导而是如实报道是件好事 我认为
 
 43
 00:03:02,290 --> 00:03:06,689
-世界杯到来还有两个月，我们要做的就是团结起来。
-that when a World Cup comes, there are two months left, what we have to do is unite.
-que cuando viene un mundial, quedan dos meses, lo que tenemos que hacer es unirnos.
+当世界杯即将来临 只剩两个月时 我们需要的是团结
 
 44
 00:03:08,258 --> 00:03:13,332
-当我们赢的时候，我们就赢得了一切，而当我们输的时候，他们就失去了明显的百分比。
-When we win, we win everything and when we lose they lose the clear percentages.
-Cuando ganamos, ganamos todo y cuando perdemos pierden los porcentajes tan claros.
+赢的时候大家一起赢 输的时候责任划分就很明确
 
 45
 00:03:13,552 --> 00:03:17,744
-我们是对球场上发生的事情负有最大责任的人，无论是好还是坏。
-We are the ones most responsible for what happens on the court, for the good and the bad.
-a nosotros somos los mayores responsables de lo que pase dentro de una cancha, para lo bueno y para lo malo.
+我们是对场上发生的一切负主要责任的人 无论是好是坏
 
 46
 00:03:18,406 --> 00:03:21,154
-但我们确实赢得了世界杯。
-but surely we won the World Cup.
-pero seguramente que nosotros ganamos la Copa del Mundo.
+但我们确实赢得了世界杯
 
 47
 00:03:21,896 --> 00:03:28,066
-因为我们缺乏的推动力不是人民给予的，所以现在他们正试图拆除所建造的一切。
-because the push we lacked was not given by the people, so now they are trying to dismantle everything that was built.
-porque el empujón que nos faltó no lo dio la gente, entonces que ahora intenten desunir todo lo que se construyó.
+因为球迷们给了我们最后的推力 现在如果有人试图拆散已经建立好的一切
 
 48
 00:03:28,768 --> 00:03:33,519
-这对我来说似乎不公平，在我看来，这是一个起点，从那里我们必须前进而不是后退。
-It doesn't seem fair to me, it seems to me that it is a starting point and from there we have to go forward and not go back.
-No me parece justo, me parece que es un punto de partida y de ahí hay que ir para adelante y no retroceder.
+我觉得这不公平 这是一个新的起点 我们应该向前看而不是退步
 
 49
 00:03:34,241 --> 00:03:38,970
-我再说一遍，我们是足球运动员，我们努力在俱乐部中做到最好。
-And I say it again, we are soccer players who try to do the best in our club.
-Y lo vuelvo a decir, nosotros somos jugadores de fútbol que intentamos hacer lo mejor en nuestro club.
+我再说一遍 我们是足球运动员 我们在俱乐部竭尽全力
 
 50
 00:03:39,311 --> 00:03:43,312
-被征召入阿根廷国家队并在场上捍卫阿根廷国家队球衣。
-to be called up to the Argentine national team and defend the Argentine national team shirt on the field.
-para ser convocada a la selección argentina y defender la camiseta de la selección argentina adentro de la cancha.
+为了能入选阿根廷队并在场上捍卫这件球衣
 
 51
 00:03:43,432 --> 00:03:46,523
-他们闭门谈论这件事，我想这是一个困扰他们的话题，我的意思是......
-They talked about it behind closed doors, I imagine it was a topic that bothered them, I mean...
-Lo hablaron esos puertas adentro, imagino que fue un tema que les jodió, digo...
+你们内部聊过这些吗 我想这肯定让你们很烦
 
 52
 00:03:47,706 --> 00:03:50,208
-如果你和这样的人合影，如果你做了这样那样的事。
-If you took a photo with such, if you did such and such.
-si te sacaste foto con tal, si hiciste tal cosa.
+比如和谁拍了照 或者做了什么事
 
 53
 00:03:50,508 --> 00:03:52,950
-我告诉你，我不会特别谈论任何事情。
-I'm telling you, I'm not going into anything in particular.
-Ya te digo, no entro en nada en particular.
+正如我所说 我不针对任何具体的事
 
 54
 00:03:54,732 --> 00:03:58,447
-我这么说，显然我们什么都聊，因为我们是朋友。
-I say it and obviously we talk everything because we are friends.
-Lo digo y obviamente que nosotros hablamos todo porque somos amigos.
+我们当然会聊所有事情 因为我们是朋友
 
 55
-00:04:00,011 --> 00:04:03,698
-但好吧，这是会出现的事情，我认为最好在开始之前说出来
-but well this is something that comes up and I think it's good to say it before it starts
-pero bueno esto es algo que me surge y me parece está bueno decirlo antes que empiece
+00:04:00,011 --> 00:04:05,582
+我觉得在世界杯开始前把这些话说出来很有必要
 
 56
-00:04:04,659 --> 00:04:05,582
-世界杯。
-the World Cup.
-la Copa del Mundo.
+00:04:07,528 --> 00:04:09,935
+就是要传达出 比以往任何时候都更需要
 
 57
-00:04:07,528 --> 00:04:09,935
-生成这个，即比以往更多
-Generate this, that is, more than ever
-Generar esto, es decir, que más que nunca
+00:04:11,072 --> 00:04:18,103
+赢球不容易 卫冕更难 如果想守住我们的成就 整个国家必须团结一致
 
 58
-00:04:11,072 --> 00:04:17,362
-获胜并不容易，两次获胜更加困难，所以如果我们想捍卫我们所取得的成就，我们所有人都必须在那里，绝对是整个国家。
- -  - 
-一起。
-It is not easy to win, winning twice is even more difficult, so if we want to defend what we achieved we all have to be there, absolutely the entire country.
-no es fácil ganar, ganar dos veces es más difícil todavía, entonces si queremos defender lo que logramos tenemos que estar todos, absolutamente todo el país.
+00:04:18,464 --> 00:04:19,688
+不能有人在后面批评
 
 59
-00:04:17,822 --> 00:04:18,103
-不可能有人批评他们。
-Together.
-Juntas.
+00:04:21,212 --> 00:04:23,454
+在阿根廷队取得进球你有什么感觉
+
+60
+00:04:23,474 --> 00:04:26,838
+而且还是在你出道的球场 在你成长的地方
 
 61
-00:04:21,212 --> 00:04:23,454
-您对于在阿根廷国家队进球有何感想？
-How do you feel about scoring your goal in the Argentine national team?
-¿Qué sentís vos en hacer tu gol en la selección argentina?
+00:04:28,393 --> 00:04:33,561
+我刚才说了 这对我个人和我的家庭来说都是巨大的自豪
 
 62
-00:04:23,474 --> 00:04:26,838
-正是在你出道的球场上，他见证了你的成长。
-Nothing more and nothing less than on the field where you debuted, where he saw you grow.
-Nada más y nada menos que en la cancha donde debutaste, donde te vio crecer.
+00:04:34,347 --> 00:04:35,095
+能在场上贡献时间
 
 63
-00:04:28,393 --> 00:04:33,561
-我只是在那里说过，这对我和我的整个家庭来说是一个巨大的骄傲。
-I just said it there, it is a huge source of pride for me and my entire family.
-Lo dije ahí recién, es un orgullo enorme para mí y para toda mi familia.
+00:04:36,092 --> 00:04:40,422
+为国家队效力是我从小到大的梦想 尤其是在这里
 
 64
-00:04:34,347 --> 00:04:35,095
-添加分钟数...
-add minutes with...
-sumar minutos con...
+00:04:41,143 --> 00:04:44,992
+这里是我的家 我要再次感谢热烈欢迎我的人们
 
 65
-00:04:36,092 --> 00:04:40,422
-加入国家队，这是你从小就梦想的事情，而且，在这里比……
-with the national team, it is what you dreamed of since you were a child and well, more here than...
-con la selección, es lo que vos soñaste desde chico y bueno, más acá que...
+00:04:45,582 --> 00:04:47,400
+关于尼科·帕斯，新一代球员的表现是…
 
 66
-00:04:41,143 --> 00:04:44,992
-这是我的家，再次感谢热情欢迎我的人们。
-which is my home and thank again the people who welcomed me very well.
-que es mi casa y agradecerle otra vez a la gente que me recibió muy bien.
+00:04:48,960 --> 00:04:53,171
+Nico 很出色 但这球是 Leo 发起的
 
 67
-00:04:48,960 --> 00:04:52,028
-尼科是明星，但这部戏是利奥开始的。
-Nico is a star, but the play was started by Leo.
-Nico es un crack, pero la jugada la inició Leo.
+00:04:53,171 --> 00:04:56,369
+给 Nico 传了一个不可思议的球
 
 68
-00:04:53,171 --> 00:04:55,144
-他为尼科送出一记令人难以置信的传球。
-He makes an incredible pass for Nico.
-mete un pase increíble para Nico.
+00:04:57,005 --> 00:04:59,952
+然后 Nico 回传 我很幸运地进球了
 
 69
-00:04:57,005 --> 00:04:59,952
-他打了一个回球，幸运的是最终进球了。
-and he puts a back cue and luckily it ended in a goal.
-y mete un taco atrás y por suerte termino en gol.
+00:05:01,055 --> 00:05:07,407
+我觉得进球是次要的 我很高兴能来到这里 与这群不可思议的队友一起训练
 
 70
-00:05:01,055 --> 00:05:07,407
-我认为这是次要的，我很高兴来到这里，与这支令人难以置信的球队一起训练。
-I think it is secondary, I am very happy to come here, to train with this group that is incredible.
-Yo creo que es secundario, estoy muy contento por venir acá, por entrenar con este grupo que es increíble.
+00:05:08,431 --> 00:05:11,689
+无论在什么位置 我都想在场上贡献力量
 
 71
-00:05:08,431 --> 00:05:11,689
-添加分钟并从轮到我的地方添加。
-add the minute and add from where it's my turn.
-sumar el minuto y sumar de donde me toque.
+00:05:12,111 --> 00:05:15,236
+帕尼切利的受伤是个沉重的打击
 
 72
-00:05:12,111 --> 00:05:15,236
-我想这是一个沉重的打击，因为乔科的教训，他是你的队友。
-It's a hard blow, I imagine, because of Joaco's lesson, he's your teammate.
-Es un golpe duro, imagino, por la lección de Joaco, es compañero tuyo.
+00:05:15,918 --> 00:05:19,249
+在斯特拉斯堡你们每天都在一起
 
 73
-00:05:15,918 --> 00:05:19,249
-在斯特拉堡竞技队，你们每天都住在一起。
-At Racing de Strabourg, you live together every day.
-en el Racing de Estraburgo, convivís todos los días.
+00:05:19,891 --> 00:05:23,264
+在国家队又是队友，我想这个进球也有一部分是献给他的吧？
 
 74
-00:05:19,891 --> 00:05:23,264
-别阻止他在国家队当队友，我想这个进球对他来说也是有点。
-Don't stop him as a teammate in the national team, I imagine that the goal is also a bit for him.
-No detenerlo de compañero en la selección, me imagino que también un poco el gol es para él.
+00:05:24,634 --> 00:05:26,943
+是的 我们把进球献给他 也献给我的女儿
 
 75
-00:05:24,634 --> 00:05:26,943
-是的，是的，我们也把它献给他，献给我的女儿。
-Yes, yes, we dedicate it to him too, to my daughter.
-Sí, sí, se lo dedicamos a él también, a mi hija.
+00:05:28,468 --> 00:05:33,646
+正如我之前说的 我们经历的这一切非常艰难
 
 76
-00:05:28,468 --> 00:05:33,646
-正如我之前所说，我们必须经历的事情非常艰难。
-And as I said before, what we had to live through is very hard.
-y como dije antes, es muy duro lo que nos tocó vivir.
+00:05:34,250 --> 00:05:35,381
+当时我就在他身边
 
 77
-00:05:34,250 --> 00:05:35,381
-那时，我是下一个。
-At that time, I was next.
-en ese momento, yo estaba al lado.
+00:05:37,422 --> 00:05:42,598
+这让我们所有人都很难受 没人该遭遇这种事 这太不幸了
 
 78
-00:05:37,422 --> 00:05:42,598
-这让我们所有人都非常难过，没有人应得的，这是一种耻辱。
-and it left us all very bad, no one deserves it, it is a disgrace.
-y nos dejó muy mal a todos, no se lo merece nadie, es una desgracia.
-
-79
 00:05:43,824 --> 00:05:49,656
-现在，在他需要的一切方面密切支持他，并陪伴他康复。
-and now support him closely there in everything he needs and accompany him in recovery.
-y ahora apoyarlo desde cerca ahí en todo lo que necesite y acompañarlo en la recuperación.
-
-80
-00:05:49,876 --> 00:05:51,560
-告诉我一些关于国家队告别赛的事情吧。
-Tell me something about the farewell of the National Team.
-Decime algo de la despedida de la Selección.
-
-81
-00:05:52,121 --> 00:05:53,384
-难以置信，听我说。
- -  - 
-极好的。
-Incredible, listen to me.
-Increíble, escúchame.
-
-82
-00:05:53,584 --> 00:05:54,205
-告诉我你能告诉我什么。
-Incredible.
-Increíble.
-
-83
-00:05:56,282 --> 00:05:57,345
-你看到他甚至进球了。
-Tell me what you can tell me.
-Deme si qué me podés decir.
-
-84
-00:05:57,586 --> 00:05:58,850
-看看我宝宝的衬衫。
-You saw that he even scored a goal.
-Viste que hasta hizo un gol.
-
-85
-00:05:58,990 --> 00:06:00,274
-她选择了它。
-Look at my baby's shirt.
-Mira la remera de mi bebé.
-
-86
-00:06:01,217 --> 00:06:01,859
-谢谢，兄弟。
-She chose it.
-Se la eligió ella.
-
-87
-00:06:03,859 --> 00:06:04,400
-是的，事实是这是一场非常有趣的比赛，进展得很好。
-Thanks, brother.
-Gracias, hermano.
-
-88
-00:06:04,420 --> 00:06:07,587
-我还没能转换，但下次我确定......
-Yes, the truth is that it was a quite entertaining match, it happened very well.
-Sí, la verdad que fue un partido bastante entretenido, le pasó muy bien.
-
-89
-00:06:07,988 --> 00:06:10,294
-世界已经准备好全力以赴。
-I haven't been able to convert, but next time I'm sure...
-No he podido convertir, pero para la próxima estoy seguro...
-
-90
-00:06:10,454 --> 00:06:12,460
-有歌曲选角，你看到了吗？
-The world is more than ready to give it its all.
-El mundo está más que listo para darlo todo.
-
-91
-00:06:12,500 --> 00:06:13,503
-为了世界杯。
-There is song casting, did you see?
-Hay casting de canciones, ¿viste?
-
-92
-00:06:14,124 --> 00:06:14,726
-我现在会投票给你吗？
-for the World Cup.
-para el Mundial.
-
-93
-00:06:14,746 --> 00:06:15,427
-是的，我考虑过，但是嘿，让我们看看。
-Would I vote for you now?
-¿Votaría tuya ya?
-
-94
-00:06:15,447 --> 00:06:17,892
-上帝保佑，如果我想出一些好东西，我们就会把它推出来。
-Yes, I have thought about it, but hey, let's see.
-Sí, lo he pensado, pero bueno, vamos a ver.
+现在我们要近距离支持他 提供他所需的一切 陪他一起康复
 
